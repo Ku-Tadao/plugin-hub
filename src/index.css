@@ -1,0 +1,6 @@
+/* @import 'tailwindcss'; */
+
+#pengu-hub {
+  /* default RiotClient font */
+  font-family: var(--font-family);
+}

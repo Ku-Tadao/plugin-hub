@@ -1,32 +1,50 @@
-import { defineConfig } from 'vite';
-import solid from 'solid-start/vite';
-import dotenv from 'dotenv';
-import yaml from 'yaml';
+import path from 'path'
+import { defineConfig } from 'vite'
+import solidPlugin from 'vite-plugin-solid'
+import devtools from 'solid-devtools/vite'
+// import tailwindcss from '@tailwindcss/vite'
+import unocssPlugin from '@unocss/vite'
+import yaml from 'yaml'
 
-// @ts-ignore
-import deno from 'solid-start-deno';
-// @ts-ignore
-import node from 'solid-start-node';
-
-export default defineConfig(() => {
-  dotenv.config();
-  return {
-    define: {
-      'process.env.GITHUB_PAT': JSON.stringify(process.env.GITHUB_PAT),
+// https://vitejs.dev/config/
+export default defineConfig({
+  plugins: [
+    devtools(),
+    solidPlugin(),
+    // tailwindcss(),
+    unocssPlugin(),
+    yamlLoader(),
+  ],
+  server: {
+    port: 3000,
+  },
+  build: {
+    target: 'esnext',
+  },
+  resolve: {
+    alias: {
+      '@lib': path.resolve(__dirname, 'src/lib/'),
+      '@pengu': path.resolve(__dirname, 'src/lib/pengu/'),
+      '@components': path.resolve(__dirname, 'src/components/'),
     },
-    plugins: [
-      solid({
-        adapter: process.argv.includes('--deno') ? deno() : node()
-      }),
-      {
-        name: 'yaml-loader',
-        transform(code, id) {
-          if (/\.(yml|yaml)$/i.test(id)) {
-            const content = yaml.parse(code);
-            return `export default ${JSON.stringify(content)}`;
-          }
+  },
+})
+
+/**
+ * Vite plugin to load YAML files
+ * @returns Vite plugin to load YAML files
+ */
+function yamlLoader() {
+  return {
+    name: 'yaml-loader',
+    transform(src: string, id: string) {
+      if (id.endsWith('.yaml') || id.endsWith('.yml')) {
+        const data = yaml.parse(src)
+        return {
+          code: `export default ${JSON.stringify(data)};`,
+          map: null,
         }
       }
-    ],
+    },
   }
-});
+}

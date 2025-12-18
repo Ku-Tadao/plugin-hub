@@ -1,18 +1,31 @@
 {
   "compilerOptions": {
+    // General
+    "jsx": "preserve",
+    "jsxImportSource": "solid-js",
+    "target": "ESNext",
+    // Modules
     "allowSyntheticDefaultImports": true,
     "esModuleInterop": true,
-    "target": "ESNext",
+    "isolatedModules": true,
     "module": "ESNext",
-    "moduleResolution": "node",
-    "jsxImportSource": "solid-js",
-    "jsx": "preserve",
+    "moduleResolution": "bundler",
+    "noEmit": true,
+    // Type Checking & Safety
     "strict": true,
-    "types": ["solid-start/env"],
-    "baseUrl": "./",
+    "types": [
+      "vite/client"
+    ],
     "paths": {
-      "~/*": ["./src/*"],
-      "@plugins": ["./registry/plugins.yml"]
+      "@components/*": [
+        "./src/components/*"
+      ],
+      "@lib/*": [
+        "./src/lib/*"
+      ],
+      "@pengu/*": [
+        "./src/lib/pengu/*"
+      ]
     }
   }
 }
