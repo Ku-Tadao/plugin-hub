@@ -130,6 +130,7 @@ async function normalizePost(kind, post) {
     },
     tags: post.tags,
     discordUrl: post.discordUrl,
+    upvotes: highestReactionCount(post.messages),
     updatedAt: release?.published_at ?? repo?.pushed_at ?? repo?.updated_at ?? post.updatedAt,
     assets: release?.assets?.map((asset) => ({
       name: asset.name ?? "download",
@@ -201,6 +202,11 @@ function compactMessage(message) {
       proxyUrl: attachment.proxy_url,
       width: attachment.width,
       height: attachment.height,
+    })),
+    reactions: (message.reactions ?? []).map((reaction) => ({
+      count: reaction.count ?? 0,
+      name: reaction.emoji?.name,
+      id: reaction.emoji?.id,
     })),
   };
 }
@@ -280,6 +286,16 @@ function isDownloadAttachment(attachment) {
   const filename = attachment.filename?.toLowerCase() ?? "";
   return Boolean(attachment.url)
     && (filename.endsWith(".zip") || filename.endsWith(".js") || filename.endsWith(".css") || filename.endsWith(".json"));
+}
+
+function highestReactionCount(messages) {
+  return messages.reduce((highest, message) => {
+    const messageHighest = (message.reactions ?? []).reduce(
+      (max, reaction) => Math.max(max, Number(reaction.count) || 0),
+      0,
+    );
+    return Math.max(highest, messageHighest);
+  }, 0);
 }
 
 function dedupeById(items) {
