@@ -1,6 +1,6 @@
 name: Pengu Community Store registry
 version: 1
-generatedAt: 2026-05-11T09:38:43.595Z
+generatedAt: 2026-05-11T12:39:41.365Z
 source:
   guildId: "1069483280438673418"
   forums:
@@ -9,6 +9,193 @@ source:
     - kind: themes
       channelId: "1077886317364523072"
 listings:
+  - id: "1460597213301313733"
+    kind: plugins
+    name: Champion Blacklist
+    description: A curated collection of powerful plugins to enhance your League of
+      Legends experience! 🎮✨
+    details: first release of pengu family
+    repo: https://github.com/Yimikami/pengu-plugins
+    releaseUrl: https://github.com/Yimikami/pengu-plugins/releases/tag/PenguFamily_v0.1.0
+    releaseTag: PenguFamily_v0.1.0
+    releaseName: Pengu Family v0.1.0
+    image: https://opengraph.githubassets.com/3c4b8bfeec8ce1752cf2d818e5d8517357b2a3b0fe85818066f6aa344476394a/Yimikami/pengu-plugins
+    author:
+      name: Yimikami
+      avatar: https://avatars.githubusercontent.com/u/39545057?v=4
+      github: Yimikami
+    tags:
+      - Utility
+      - Enhancement
+    discordUrl: https://discord.com/channels/1069483280438673418/1460597213301313733/1460597213301313733
+    upvotes: 6
+    updatedAt: 2026-05-11T10:02:38Z
+    assets:
+      - name: PenguFamily.zip
+        size: 49271833
+        downloadUrl: https://github.com/Yimikami/pengu-plugins/releases/download/PenguFamily_v0.1.0/PenguFamily.zip
+        contentType: application/x-zip-compressed
+    enriched: true
+  - id: "1320554325118025778"
+    kind: plugins
+    name: Custom ARAM Bot Enabler [OUTDATED]
+    description: A curated collection of powerful plugins to enhance your League of
+      Legends experience! 🎮✨
+    details: first release of pengu family
+    repo: https://github.com/Yimikami/pengu-plugins
+    releaseUrl: https://github.com/Yimikami/pengu-plugins/releases/tag/PenguFamily_v0.1.0
+    releaseTag: PenguFamily_v0.1.0
+    releaseName: Pengu Family v0.1.0
+    image: https://opengraph.githubassets.com/pengu/Yimikami/pengu-plugins
+    author:
+      name: Yimikami
+      avatar: https://avatars.githubusercontent.com/u/39545057?v=4
+      github: Yimikami
+    tags:
+      - Utility
+      - Enhancement
+    discordUrl: https://discord.com/channels/1069483280438673418/1320554325118025778/1320554325118025778
+    upvotes: 3
+    updatedAt: 2026-05-11T10:02:38Z
+    assets:
+      - name: PenguFamily.zip
+        size: 49271833
+        downloadUrl: https://github.com/Yimikami/pengu-plugins/releases/download/PenguFamily_v0.1.0/PenguFamily.zip
+        contentType: application/x-zip-compressed
+    enriched: true
+  - id: "1497146237273641040"
+    kind: plugins
+    name: Dodge Game
+    description: A curated collection of powerful plugins to enhance your League of
+      Legends experience! 🎮✨
+    details: first release of pengu family
+    repo: https://github.com/Yimikami/pengu-plugins
+    releaseUrl: https://github.com/Yimikami/pengu-plugins/releases/tag/PenguFamily_v0.1.0
+    releaseTag: PenguFamily_v0.1.0
+    releaseName: Pengu Family v0.1.0
+    image: https://media.discordapp.net/attachments/1497146237273641040/1497146238745972816/image.png?ex=6a02df16&is=6a018d96&hm=d70de63df36d64d5b5ea66b979d12daccf21a9ad6f63ee774f68a0d11f075a4c&
+    author:
+      name: Yimikami
+      avatar: https://avatars.githubusercontent.com/u/39545057?v=4
+      github: Yimikami
+    tags:
+      - Fun
+    discordUrl: https://discord.com/channels/1069483280438673418/1497146237273641040/1497146237273641040
+    upvotes: 12
+    updatedAt: 2026-05-11T10:02:38Z
+    assets:
+      - name: PenguFamily.zip
+        size: 49271833
+        downloadUrl: https://github.com/Yimikami/pengu-plugins/releases/download/PenguFamily_v0.1.0/PenguFamily.zip
+        contentType: application/x-zip-compressed
+    enriched: true
+  - id: "1451596981821771899"
+    kind: plugins
+    name: Force Badge Plugin
+    description: A curated collection of powerful plugins to enhance your League of
+      Legends experience! 🎮✨
+    details: first release of pengu family
+    repo: https://github.com/Yimikami/pengu-plugins
+    releaseUrl: https://github.com/Yimikami/pengu-plugins/releases/tag/PenguFamily_v0.1.0
+    releaseTag: PenguFamily_v0.1.0
+    releaseName: Pengu Family v0.1.0
+    image: https://opengraph.githubassets.com/pengu/Yimikami/pengu-plugins
+    author:
+      name: Yimikami
+      avatar: https://avatars.githubusercontent.com/u/39545057?v=4
+      github: Yimikami
+    tags:
+      - Misc
+    discordUrl: https://discord.com/channels/1069483280438673418/1451596981821771899/1451596981821771899
+    upvotes: 2
+    updatedAt: 2026-05-11T10:02:38Z
+    assets:
+      - name: PenguFamily.zip
+        size: 49271833
+        downloadUrl: https://github.com/Yimikami/pengu-plugins/releases/download/PenguFamily_v0.1.0/PenguFamily.zip
+        contentType: application/x-zip-compressed
+    enriched: true
+  - id: "1411366905247170621"
+    kind: plugins
+    name: Icon Swapper
+    description: A curated collection of powerful plugins to enhance your League of
+      Legends experience! 🎮✨
+    details: first release of pengu family
+    repo: https://github.com/Yimikami/pengu-plugins
+    releaseUrl: https://github.com/Yimikami/pengu-plugins/releases/tag/PenguFamily_v0.1.0
+    releaseTag: PenguFamily_v0.1.0
+    releaseName: Pengu Family v0.1.0
+    image: https://media.discordapp.net/attachments/1411366905247170621/1411743618388983931/image.png?ex=6a02a6f3&is=6a015573&hm=1c867c6e2cc776473ddbe672464bdaf408a72c0be7029ebfa4e17287a1d23d6c&
+    author:
+      name: Yimikami
+      avatar: https://avatars.githubusercontent.com/u/39545057?v=4
+      github: Yimikami
+    tags:
+      - Utility
+      - Misc
+    discordUrl: https://discord.com/channels/1069483280438673418/1411366905247170621/1411366905247170621
+    upvotes: 8
+    updatedAt: 2026-05-11T10:02:38Z
+    assets:
+      - name: PenguFamily.zip
+        size: 49271833
+        downloadUrl: https://github.com/Yimikami/pengu-plugins/releases/download/PenguFamily_v0.1.0/PenguFamily.zip
+        contentType: application/x-zip-compressed
+    enriched: true
+  - id: "1503337548993265687"
+    kind: plugins
+    name: PenguFamily - Virtual Pet in your Client
+    description: A curated collection of powerful plugins to enhance your League of
+      Legends experience! 🎮✨
+    details: first release of pengu family
+    repo: https://github.com/Yimikami/pengu-plugins
+    releaseUrl: https://github.com/Yimikami/pengu-plugins/releases/tag/PenguFamily_v0.1.0
+    releaseTag: PenguFamily_v0.1.0
+    releaseName: Pengu Family v0.1.0
+    image: https://media.discordapp.net/attachments/1503337548993265687/1503337549404311693/tb.png?ex=6a02fbb2&is=6a01aa32&hm=9a28809e15d2a85a29ca83ee181c0138a80647b5da43638b3a7cc127329da034&
+    author:
+      name: Yimikami
+      avatar: https://avatars.githubusercontent.com/u/39545057?v=4
+      github: Yimikami
+    tags:
+      - Misc
+      - Fun
+    discordUrl: https://discord.com/channels/1069483280438673418/1503337548993265687/1503337548993265687
+    upvotes: 2
+    updatedAt: 2026-05-11T10:02:38Z
+    assets:
+      - name: PenguFamily.zip
+        size: 49271833
+        downloadUrl: https://github.com/Yimikami/pengu-plugins/releases/download/PenguFamily_v0.1.0/PenguFamily.zip
+        contentType: application/x-zip-compressed
+    enriched: true
+  - id: "1472183865379389444"
+    kind: plugins
+    name: SoloQ Machine
+    description: A curated collection of powerful plugins to enhance your League of
+      Legends experience! 🎮✨
+    details: first release of pengu family
+    repo: https://github.com/Yimikami/pengu-plugins
+    releaseUrl: https://github.com/Yimikami/pengu-plugins/releases/tag/PenguFamily_v0.1.0
+    releaseTag: PenguFamily_v0.1.0
+    releaseName: Pengu Family v0.1.0
+    image: https://media.discordapp.net/attachments/1472183865379389444/1496249294418612344/0330C317-A78E-416F-AC36-FE6739688A1F.png?ex=6a02e77e&is=6a0195fe&hm=19d9a1155d55e5e6ff7c37129fc9bd726ed35f7f3736eb2809f9d85662dc644b&
+    author:
+      name: Yimikami
+      avatar: https://avatars.githubusercontent.com/u/39545057?v=4
+      github: Yimikami
+    tags:
+      - Utility
+      - Enhancement
+    discordUrl: https://discord.com/channels/1069483280438673418/1472183865379389444/1472183865379389444
+    upvotes: 9
+    updatedAt: 2026-05-11T10:02:38Z
+    assets:
+      - name: PenguFamily.zip
+        size: 49271833
+        downloadUrl: https://github.com/Yimikami/pengu-plugins/releases/download/PenguFamily_v0.1.0/PenguFamily.zip
+        contentType: application/x-zip-compressed
+    enriched: true
   - id: "1503114750542741665"
     kind: plugins
     name: Test Pengu v1.2!!! Background Customizer PluginFS
@@ -38,7 +225,7 @@ listings:
       apply, meta tier list, post-game op.gg. Personal use; not endorsed by Riot
       Games."
     repo: https://github.com/Nicetyone/league-lean
-    image: https://media.discordapp.net/attachments/1500282612084768848/1500282612516917258/01.png?ex=6a026a90&is=6a011910&hm=56bba8a4cdb5b92aa05172155f98b4a6cfd792c5da84f8fb383a294573174a2a&
+    image: https://media.discordapp.net/attachments/1500282612084768848/1500282612516917258/01.png?ex=6a031350&is=6a01c1d0&hm=fac28515d0671451095d15634678a1fca895af47fd16d5791c864793d80b074a&
     author:
       name: Nicetyone
       avatar: https://avatars.githubusercontent.com/u/78967461?v=4
@@ -82,7 +269,7 @@ listings:
       hover tooltip, and your profile page. BNC Button in Lobby as always with
       my plugins. ⚠️ Client-side only — only you can see the change. Other
       players still see your actual equipped banner.
-    image: https://media.discordapp.net/attachments/1499358177052069899/1499358177840467968/4hbdb93.png?ex=6a02595e&is=6a0107de&hm=53c0631664804de653bf92eb92b3b01fca93a195b0114d4c206cdc1e63a377eb&
+    image: https://media.discordapp.net/attachments/1499358177052069899/1499358177840467968/4hbdb93.png?ex=6a03021e&is=6a01b09e&hm=eea457abf8a084429df7795649eae34408c053fb6ff0459f937e7560eccf5601&
     author:
       name: Eris Greyrat
     tags:
@@ -95,7 +282,7 @@ listings:
     assets:
       - name: Banner-Customizer.js
         size: 56598
-        downloadUrl: https://cdn.discordapp.com/attachments/1499358177052069899/1499358178658222220/Banner-Customizer.js?ex=6a02595e&is=6a0107de&hm=531a90904b97bce6206d42db2840aa79dc796edc0f8a9f684eb4021ff4b1d469&
+        downloadUrl: https://cdn.discordapp.com/attachments/1499358177052069899/1499358178658222220/Banner-Customizer.js?ex=6a03021e&is=6a01b09e&hm=0095db5f56b85da64e13936005cc618e861a009a3371292fe62f99c2aed579e6&
         contentType: text/javascript; charset=utf-8
     enriched: true
   - id: "1499090537427243129"
@@ -123,7 +310,7 @@ listings:
     name: OP.GG & U.GG Button Plugin
     description: An custom JavaScript page for Pengu Loader
     repo: https://github.com/GogoChad/opgg-button
-    image: https://media.discordapp.net/attachments/1495203342400360459/1495203439347499059/image.png?ex=6a026537&is=6a0113b7&hm=82447f645b9bd7084c21681aee43191446ea08cb3a372b2142c94a7070f0717b&
+    image: https://media.discordapp.net/attachments/1495203342400360459/1495203439347499059/image.png?ex=6a030df7&is=6a01bc77&hm=c76050b787cab2acb841f788268a2c1e5f9589dd3379d77c00ee77d7c10fb387&
     author:
       name: GogoChad
       avatar: https://avatars.githubusercontent.com/u/133820564?v=4
@@ -200,126 +387,6 @@ listings:
         size: 95273
         downloadUrl: https://github.com/ReformedDoge/Mayhem-Doctor/releases/download/V1.2.0/Mayhem-Doctor-1.2.0.zip
         contentType: application/x-zip-compressed
-    enriched: true
-  - id: "1460597213301313733"
-    kind: plugins
-    name: Champion Blacklist
-    description: A curated collection of powerful plugins to enhance your League of
-      Legends experience! 🎮✨
-    repo: https://github.com/Yimikami/pengu-plugins
-    image: https://opengraph.githubassets.com/3c4b8bfeec8ce1752cf2d818e5d8517357b2a3b0fe85818066f6aa344476394a/Yimikami/pengu-plugins
-    author:
-      name: Yimikami
-      avatar: https://avatars.githubusercontent.com/u/39545057?v=4
-      github: Yimikami
-    tags:
-      - Utility
-      - Enhancement
-    discordUrl: https://discord.com/channels/1069483280438673418/1460597213301313733/1460597213301313733
-    upvotes: 6
-    updatedAt: 2026-04-28T00:42:20Z
-    assets: []
-    enriched: true
-  - id: "1320554325118025778"
-    kind: plugins
-    name: Custom ARAM Bot Enabler [OUTDATED]
-    description: A curated collection of powerful plugins to enhance your League of
-      Legends experience! 🎮✨
-    repo: https://github.com/Yimikami/pengu-plugins
-    image: https://opengraph.githubassets.com/pengu/Yimikami/pengu-plugins
-    author:
-      name: Yimikami
-      avatar: https://avatars.githubusercontent.com/u/39545057?v=4
-      github: Yimikami
-    tags:
-      - Utility
-      - Enhancement
-    discordUrl: https://discord.com/channels/1069483280438673418/1320554325118025778/1320554325118025778
-    upvotes: 3
-    updatedAt: 2026-04-28T00:42:20Z
-    assets: []
-    enriched: true
-  - id: "1497146237273641040"
-    kind: plugins
-    name: Dodge Game
-    description: A curated collection of powerful plugins to enhance your League of
-      Legends experience! 🎮✨
-    repo: https://github.com/Yimikami/pengu-plugins
-    image: https://media.discordapp.net/attachments/1497146237273641040/1497146238745972816/image.png?ex=6a02df16&is=6a018d96&hm=d70de63df36d64d5b5ea66b979d12daccf21a9ad6f63ee774f68a0d11f075a4c&
-    author:
-      name: Yimikami
-      avatar: https://avatars.githubusercontent.com/u/39545057?v=4
-      github: Yimikami
-    tags:
-      - Fun
-    discordUrl: https://discord.com/channels/1069483280438673418/1497146237273641040/1497146237273641040
-    upvotes: 12
-    updatedAt: 2026-04-28T00:42:20Z
-    assets:
-      - name: DodgeGame.zip
-        size: 5724984
-        downloadUrl: https://cdn.discordapp.com/attachments/1497146237273641040/1497148518630948894/DodgeGame.zip?ex=6a02e136&is=6a018fb6&hm=91e229ac489dd1e1a7210a44d1d148d2c58461e7af3790189344087b99323af4&
-        contentType: application/zip
-      - name: DodgeGame.zip
-        size: 5726556
-        downloadUrl: https://cdn.discordapp.com/attachments/1497146237273641040/1498484438705635409/DodgeGame.zip?ex=6a027762&is=6a0125e2&hm=e6398a28ff0958f5e098018cf86f4de2a60872db6301a3a0138cf48153ce610b&
-        contentType: application/zip
-    enriched: true
-  - id: "1451596981821771899"
-    kind: plugins
-    name: Force Badge Plugin
-    description: A curated collection of powerful plugins to enhance your League of
-      Legends experience! 🎮✨
-    repo: https://github.com/Yimikami/pengu-plugins
-    image: https://opengraph.githubassets.com/pengu/Yimikami/pengu-plugins
-    author:
-      name: Yimikami
-      avatar: https://avatars.githubusercontent.com/u/39545057?v=4
-      github: Yimikami
-    tags:
-      - Misc
-    discordUrl: https://discord.com/channels/1069483280438673418/1451596981821771899/1451596981821771899
-    upvotes: 2
-    updatedAt: 2026-04-28T00:42:20Z
-    assets: []
-    enriched: true
-  - id: "1411366905247170621"
-    kind: plugins
-    name: Icon Swapper
-    description: A curated collection of powerful plugins to enhance your League of
-      Legends experience! 🎮✨
-    repo: https://github.com/Yimikami/pengu-plugins
-    image: https://media.discordapp.net/attachments/1411366905247170621/1411743618388983931/image.png?ex=6a02a6f3&is=6a015573&hm=1c867c6e2cc776473ddbe672464bdaf408a72c0be7029ebfa4e17287a1d23d6c&
-    author:
-      name: Yimikami
-      avatar: https://avatars.githubusercontent.com/u/39545057?v=4
-      github: Yimikami
-    tags:
-      - Utility
-      - Misc
-    discordUrl: https://discord.com/channels/1069483280438673418/1411366905247170621/1411366905247170621
-    upvotes: 8
-    updatedAt: 2026-04-28T00:42:20Z
-    assets: []
-    enriched: true
-  - id: "1472183865379389444"
-    kind: plugins
-    name: SoloQ Machine
-    description: A curated collection of powerful plugins to enhance your League of
-      Legends experience! 🎮✨
-    repo: https://github.com/Yimikami/pengu-plugins
-    image: https://media.discordapp.net/attachments/1472183865379389444/1496249294418612344/0330C317-A78E-416F-AC36-FE6739688A1F.png?ex=6a02e77e&is=6a0195fe&hm=19d9a1155d55e5e6ff7c37129fc9bd726ed35f7f3736eb2809f9d85662dc644b&
-    author:
-      name: Yimikami
-      avatar: https://avatars.githubusercontent.com/u/39545057?v=4
-      github: Yimikami
-    tags:
-      - Utility
-      - Enhancement
-    discordUrl: https://discord.com/channels/1069483280438673418/1472183865379389444/1472183865379389444
-    upvotes: 9
-    updatedAt: 2026-04-28T00:42:20Z
-    assets: []
     enriched: true
   - id: "1485799707526828102"
     kind: plugins
@@ -541,7 +608,7 @@ listings:
     releaseUrl: https://github.com/xRize/MusicPlugin/releases/tag/Release2
     releaseTag: Release2
     releaseName: v1.0.1
-    image: https://media.discordapp.net/attachments/1487606021449973850/1487606021831528640/569826409-7f1dae67-6e42-4fb5-ac20-32cbc0166a21.png?ex=6a027111&is=6a011f91&hm=18883053e904183d4f5a2c60b26beb1fb9d3e937695c230ad61eecb51b210dd8&
+    image: https://media.discordapp.net/attachments/1487606021449973850/1487606021831528640/569826409-7f1dae67-6e42-4fb5-ac20-32cbc0166a21.png?ex=6a0319d1&is=6a01c851&hm=b59f1720c4506706a62a84fdd8322093bdc0ce9e9ec4e068e3117485a7c86904&
     author:
       name: xRize
       avatar: https://avatars.githubusercontent.com/u/83946532?v=4
@@ -572,7 +639,7 @@ listings:
     releaseUrl: https://github.com/Ventoba/3DSkinViewer/releases/tag/v1.0
     releaseTag: v1.0
     releaseName: v1.0
-    image: https://media.discordapp.net/attachments/1490663854059950280/1490663854391427183/example2.PNG?ex=6a025c26&is=6a010aa6&hm=dd0d7ef5f1e1863fb809f16f72f8129109562f02f11de6a31635f6dd60be9a41&
+    image: https://media.discordapp.net/attachments/1490663854059950280/1490663854391427183/example2.PNG?ex=6a0304e6&is=6a01b366&hm=fcc92b80785785470e2c22f0287fe0354b91f342d0c9ceaf1a5ceeb90669c44d&
     author:
       name: Ventoba
       avatar: https://avatars.githubusercontent.com/u/96593577?v=4
@@ -606,7 +673,7 @@ listings:
     assets:
       - name: index.js
         size: 4929
-        downloadUrl: https://cdn.discordapp.com/attachments/1462451902028578940/1465476858241093662/index.js?ex=6a025b2e&is=6a0109ae&hm=34831390ce1bdfa68399eaf3b5efa6faa838d0d4da8b4f97294309278fe78d61&
+        downloadUrl: https://cdn.discordapp.com/attachments/1462451902028578940/1465476858241093662/index.js?ex=6a0303ee&is=6a01b26e&hm=d6d8cf0f51a4cce1da418a67f1fc962a70c9df092ee4245ec962a33064e3ccf8&
         contentType: text/javascript; charset=utf-8
     enriched: true
   - id: "1476103367171248180"
@@ -816,7 +883,7 @@ listings:
     releaseUrl: https://github.com/Elaina69/Elaina-theme/releases/tag/v4.4.3
     releaseTag: v4.4.3
     releaseName: ""
-    image: https://media.discordapp.net/attachments/1078464593791307777/1078464594055544942/image.png?ex=6a026bec&is=6a011a6c&hm=8b6b4bb72284e07bf0596f2f7365849489426b7dd6ad2c6305ba4560cf8bb5b8&
+    image: https://media.discordapp.net/attachments/1078464593791307777/1078464594055544942/image.png?ex=6a0314ac&is=6a01c32c&hm=11acba17aa508c7d9fab5a9248be783bcbfd230b3a02259f53ee0096e653a8ea&
     author:
       name: Elaina69
       avatar: https://avatars.githubusercontent.com/u/94338907?v=4
@@ -1113,7 +1180,7 @@ listings:
     kind: plugins
     name: Hide Nonsense
     description: No description provided.
-    image: https://media.discordapp.net/attachments/1395902555095171225/1395906635968286882/image.png?ex=6a0262dc&is=6a01115c&hm=b7bf93fb79bcec95201e614026ac00fc711a78c734142211d7bfc3f3a369991b&
+    image: https://media.discordapp.net/attachments/1395902555095171225/1395906635968286882/image.png?ex=6a030b9c&is=6a01ba1c&hm=60847326bd094211d4bb59683610daefa840ecac87e95cde48daef7a29986eb0&
     author:
       name: 莫嘎 | Mogu
     tags:
@@ -1133,7 +1200,7 @@ listings:
     name: HideChampName
     description: Hides enemy champion names in Champion Select for League of Legends
     repo: https://github.com/Mixiruri/AnonymousEnemies
-    image: https://media.discordapp.net/attachments/1476888210436001904/1476888211044171848/preview.webp?ex=6a025794&is=6a010614&hm=c639b8ad0ca1ff66c6eddf75f7055ae5569c9d9ad7e6f7585cf53696ffbb3250&
+    image: https://media.discordapp.net/attachments/1476888210436001904/1476888211044171848/preview.webp?ex=6a030054&is=6a01aed4&hm=c5348714e1a089fa5c73b8f85693445f78f2b7e12a965378c1377a22aaf69c35&
     author:
       name: Mixiruri
       avatar: https://avatars.githubusercontent.com/u/255986660?v=4
@@ -1213,7 +1280,7 @@ listings:
     releaseUrl: https://github.com/nomi-san/balance-buff-viewer/releases/tag/main
     releaseTag: main
     releaseName: S16 | v26 | 2026
-    image: https://media.discordapp.net/attachments/1127199847901052979/1127199848303693844/image.png?ex=6a02666a&is=6a0114ea&hm=927f27b4df4a24d62183281aad4ad2b972d2af8b9e090b03cc4c50c66285d566&
+    image: https://media.discordapp.net/attachments/1127199847901052979/1127199848303693844/image.png?ex=6a030f2a&is=6a01bdaa&hm=aba0c944980e76cf9f62c566d2299701ed668d0ecb6e6ec84ece8f58e218a82b&
     author:
       name: nomi-san
       avatar: https://avatars.githubusercontent.com/u/38210249?v=4
@@ -1267,7 +1334,7 @@ listings:
     name: Blue Essence Icon Swapper
     description: "Blue Essence Icon Swapper How to use: Click the BE icon to change
       icon. Click the BE icon to select new image/reset to standard."
-    image: https://media.discordapp.net/attachments/1468009747780210791/1468019006991634432/Screenshot_2026-02-02_232517.png?ex=6a02603d&is=6a010ebd&hm=3c240ac8da0c3ae50894ed2e15c0cdcfaf6ad71880d565fc59f62804e2457e39&
+    image: https://media.discordapp.net/attachments/1468009747780210791/1468019006991634432/Screenshot_2026-02-02_232517.png?ex=6a0308fd&is=6a01b77d&hm=0ae34fcfc6648b3471b9dc92a6e4887c7debcab6b8ee2125f50ad5beb9a51469&
     author:
       name: Ilkay
     tags:
@@ -1278,7 +1345,7 @@ listings:
     assets:
       - name: BE-Icon-Swapper.js
         size: 6253
-        downloadUrl: https://cdn.discordapp.com/attachments/1468009747780210791/1468019008229081235/BE-Icon-Swapper.js?ex=6a02603e&is=6a010ebe&hm=efd830d5b46692bb21991505b9836969acaa0bf279038caa151d1f19be529992&
+        downloadUrl: https://cdn.discordapp.com/attachments/1468009747780210791/1468019008229081235/BE-Icon-Swapper.js?ex=6a0308fe&is=6a01b77e&hm=94717a52de930390a639659065ff913e8f91097e6ead7138235bff68053eede7&
         contentType: text/javascript; charset=utf-8
     enriched: true
   - id: "1462077280728780861"
@@ -1347,7 +1414,7 @@ listings:
       from \"plugin request\" section long ago, now i can't find who developed
       it. They will be credited as soon as they reach out"
     repo: https://github.com/asherathegod/penguplugins
-    image: https://media.discordapp.net/attachments/1371799042832597054/1371799043575123978/EbMqICb.png?ex=6a025aaa&is=6a01092a&hm=906599eda1c755a0d4658b0edbd736d7056206d70c5bc6be162a9e27b3f21ac8&
+    image: https://media.discordapp.net/attachments/1371799042832597054/1371799043575123978/EbMqICb.png?ex=6a03036a&is=6a01b1ea&hm=4c6a6b926adc16a3634ea35749bd08b4f81016c2b44aceecd9e4c9e215a1bb7f&
     author:
       name: asherathegod
       avatar: https://avatars.githubusercontent.com/u/68480231?v=4
@@ -1381,7 +1448,7 @@ listings:
     kind: plugins
     name: Old mastery icons
     description: This plugins will change new mastery icons to old version
-    image: https://media.discordapp.net/attachments/1414553304259760148/1414553304523866163/image.png?ex=6a0253ac&is=6a01022c&hm=1a8d0d5d33ea301312bc155ee2a0920c03e952d0e95e8a5c99c12e90c5c2183b&
+    image: https://media.discordapp.net/attachments/1414553304259760148/1414553304523866163/image.png?ex=6a02fc6c&is=6a01aaec&hm=bdcba77d32b5f6a6bebd7b0f0250475d9571326b2c1ed123ab28957409487ebb&
     author:
       name: Elaina
     tags:
@@ -1393,7 +1460,7 @@ listings:
     assets:
       - name: oldMasteryIcons.js
         size: 5500
-        downloadUrl: https://cdn.discordapp.com/attachments/1414553304259760148/1414553545046364240/oldMasteryIcons.js?ex=6a0253e6&is=6a010266&hm=a38729efefcaa7016bda9b34adad35d5044b5d679fac9cb948a55b1ee17b241f&
+        downloadUrl: https://cdn.discordapp.com/attachments/1414553304259760148/1414553545046364240/oldMasteryIcons.js?ex=6a02fca6&is=6a01ab26&hm=ebf1c8028fd4ce397396a13e3330b7eecfb30acec1ca6020fcb41eb01b8b0a8a&
         contentType: application/javascript; charset=utf-8
       - name: oldMasteryIcons.js
         size: 11497
@@ -1416,7 +1483,7 @@ listings:
     releaseUrl: https://github.com/DmitryFisk/pengu-force-custom-lobby/releases/tag/2.2.0
     releaseTag: 2.2.0
     releaseName: 2.2.0
-    image: https://media.discordapp.net/attachments/1322710156173250601/1322710156626104320/image.png?ex=6a026854&is=6a0116d4&hm=0adbdae18e98ab24da69a10b6d0b9b1141785f920cc1c46b72e3114fbb54bc94&
+    image: https://media.discordapp.net/attachments/1322710156173250601/1322710156626104320/image.png?ex=6a031114&is=6a01bf94&hm=46ce205b51e810b2ebab051a2ab1660b74fba53cb3760ea42f4d8b7d692404c3&
     author:
       name: DmitryFisk
       avatar: https://avatars.githubusercontent.com/u/62219971?v=4
@@ -1464,7 +1531,7 @@ listings:
       fetch("/lol-challenges/v1/update-player-preferences/", { method: "POST",
       headers: { "Content-Type": "application/json" }, body: JSON.stringify({
       bannerAccent: "2"}) })'
-    image: https://media.discordapp.net/attachments/1311460393507356802/1311460598969798656/image.png?ex=6a0259dc&is=6a01085c&hm=3112dc27e4ecbad0abf0b00e68f451264ab3d340535371c8ef37764c51558374&
+    image: https://media.discordapp.net/attachments/1311460393507356802/1311460598969798656/image.png?ex=6a03029c&is=6a01b11c&hm=76c6d84a0605b79af9dea9122c2e4cb773e4f4acd322863d1c3ecc7ec3a2af30&
     author:
       name: kebs
     tags:
@@ -1530,30 +1597,6 @@ listings:
         downloadUrl: https://github.com/Elaina69/eog-mass-report/releases/download/v1.1.1/EOGMassReport.js
         contentType: text/javascript
     enriched: true
-  - id: "1372225111020539936"
-    kind: plugins
-    name: Auto claim Pass rewards
-    description: "Like its name, it will claim all your pass rewards every time you
-      in the homepage or end of game Source code: I'm lazy to create a new
-      GitHub repo, so no source code, only single JS file Download: File below"
-    author:
-      name: Elaina
-    tags:
-      - Utility
-      - Enhancement
-    discordUrl: https://discord.com/channels/1069483280438673418/1372225111020539936/1372225111020539936
-    upvotes: 9
-    updatedAt: 2025-08-27T09:29:51.210Z
-    assets:
-      - name: autoClaimPassReward.js
-        size: 4002
-        downloadUrl: https://cdn.discordapp.com/attachments/1372225111020539936/1372508919003480175/autoClaimPassReward.js?ex=6a024cca&is=6a00fb4a&hm=de7aca7ce078adc98107224c726c67fc689f5705699232e891fcdeb84d3ebea6&
-        contentType: application/javascript; charset=utf-8
-      - name: 9zI2LM3.js
-        size: 4005
-        downloadUrl: https://cdn.discordapp.com/attachments/1372225111020539936/1410194593445842984/9zI2LM3.js?ex=6a02f30f&is=6a01a18f&hm=9f66fdbb1a1bddd8e1fc352dbab42b7228944c6c7c63960a31ed1d22a98c488d&
-        contentType: application/javascript; charset=utf-8
-    enriched: true
   - id: "1396060178545119263"
     kind: plugins
     name: Activity Center Toggle [redirect to play screen]
@@ -1573,7 +1616,7 @@ listings:
     assets:
       - name: activity_center_toggle.js
         size: 10156
-        downloadUrl: https://cdn.discordapp.com/attachments/1396060178545119263/1401719798949216316/activity_center_toggle.js?ex=6a0270ca&is=6a011f4a&hm=24cdb77dd021fdcc0fd23ab791bc9e941075dfee6166e4a14cc2e5574a2d500f&
+        downloadUrl: https://cdn.discordapp.com/attachments/1396060178545119263/1401719798949216316/activity_center_toggle.js?ex=6a03198a&is=6a01c80a&hm=b20f85246a6a3ce188cd65bffd240da1e2eb57fe615d4977cc0c2263d565fe59&
         contentType: application/javascript; charset=utf-8
     enriched: true
   - id: "1365312229775511603"
@@ -1667,7 +1710,7 @@ listings:
     releaseUrl: https://github.com/Elaina69/fake-reward-badge/releases/tag/v1.0.0
     releaseTag: v1.0.0
     releaseName: ""
-    image: https://media.discordapp.net/attachments/1316703290775441408/1316703290960121867/image.png?ex=6a024ebf&is=6a00fd3f&hm=eb2d387329ff137c28d1a01f1d0073ab4d48418a4193fa7455436c190488a122&
+    image: https://media.discordapp.net/attachments/1316703290775441408/1316703290960121867/image.png?ex=6a02f77f&is=6a01a5ff&hm=8cb0bc2108fe1f2878142dcaa7b75a42081b51e4501ba9ed2b65b6dedb17b1e1&
     author:
       name: Elaina69
       avatar: https://avatars.githubusercontent.com/u/94338907?v=4
@@ -2060,7 +2103,7 @@ listings:
       on) • Hide Chat Ban Logs if you want to suggest a plugin. use the channel
       <1128961916497317938 and tag me"
     repo: https://github.com/iIlusion/league-loader-plugins
-    image: https://media.discordapp.net/attachments/1077921251445706852/1077921251621879881/8ef86509de0a0f4666ae0369efb72e08e88909104498d597.png?ex=6a026c25&is=6a011aa5&hm=f1ead25951f593806963ae0c78369914f447a804e74ccfcc28ce36212959b65d&
+    image: https://media.discordapp.net/attachments/1077921251445706852/1077921251621879881/8ef86509de0a0f4666ae0369efb72e08e88909104498d597.png?ex=6a0314e5&is=6a01c365&hm=5123ebd48ba9b5f03694588faf52598d6deac955071ae7c7a63282de9dd04d20&
     author:
       name: iIlusion
       avatar: https://avatars.githubusercontent.com/u/49544373?v=4
