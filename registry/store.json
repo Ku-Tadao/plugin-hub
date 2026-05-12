@@ -1,7 +1,7 @@
 {
   "name": "Pengu Community Store registry",
   "version": 1,
-  "generatedAt": "2026-05-12T03:45:18.534Z",
+  "generatedAt": "2026-05-12T06:37:06.154Z",
   "source": {
     "guildId": "1069483280438673418",
     "forums": [
@@ -156,7 +156,7 @@
       "releaseUrl": "https://github.com/Yimikami/pengu-plugins/releases/tag/PenguFamily_v0.1.0",
       "releaseTag": "PenguFamily_v0.1.0",
       "releaseName": "Pengu Family v0.1.0",
-      "image": "https://media.discordapp.net/attachments/1411366905247170621/1411743618388983931/image.png?ex=6a034fb3&is=6a01fe33&hm=3ebb3cd74d0617d2531f6b4334f88c7a58e6b3b17b3144a49f28adf8d0c68916&",
+      "image": "https://media.discordapp.net/attachments/1411366905247170621/1411743618388983931/image.png?ex=6a03f873&is=6a02a6f3&hm=1915cfa2deaa77a34017def071da1a3acb9ce6134cb2dcefd1eacd699e091e1b&",
       "author": {
         "name": "Yimikami",
         "avatar": "https://avatars.githubusercontent.com/u/39545057?v=4",
@@ -353,7 +353,7 @@
       "name": "Spotify Controller - In-game playback controls",
       "description": "A lightweight Spotify controller integrated directly into the League of Legends client using Pengu Loader. This project consists of two parts: a local Node.js authentication server and a client-side plugin.",
       "repo": "https://github.com/GogoChad/spotify-media-player",
-      "image": "https://media.discordapp.net/attachments/1499090537427243129/1499090537792143492/image.png?ex=6a035a5b&is=6a0208db&hm=0868df8fe4c5196befe7541ee3d18c601175dbd03a9dc6c10f6f578d2f48335d&",
+      "image": "https://media.discordapp.net/attachments/1499090537427243129/1499090537792143492/image.png?ex=6a04031b&is=6a02b19b&hm=f3814d17aac89f112d5f7c96b7c9abe25aa494d98aa9a64809c70d72d3838726&",
       "author": {
         "name": "GogoChad",
         "avatar": "https://avatars.githubusercontent.com/u/133820564?v=4",
@@ -654,7 +654,7 @@
       "releaseUrl": "https://github.com/Elaina69/Elaina-theme/releases/tag/v4.4.3",
       "releaseTag": "v4.4.3",
       "releaseName": "",
-      "image": "https://media.discordapp.net/attachments/1373696348284653628/1373696348653617315/fh98jYI.png?ex=6a0352eb&is=6a02016b&hm=fec43d84a584f1f63e0f9941701fe6f127f2d3512c19ac3264bbc2359b84d9f6&",
+      "image": "https://media.discordapp.net/attachments/1373696348284653628/1373696348653617315/fh98jYI.png?ex=6a03fbab&is=6a02aa2b&hm=cf91142f7101ce0090868ab56d126132e47a8c51465a098080bbf6ce37afcdd2&",
       "author": {
         "name": "Elaina69",
         "avatar": "https://avatars.githubusercontent.com/u/94338907?v=4",
@@ -1006,7 +1006,7 @@
         {
           "name": "Hide_Nonsense2.js",
           "size": 8079,
-          "downloadUrl": "https://cdn.discordapp.com/attachments/1395902555095171225/1440040589490917507/Hide_Nonsense2.js?ex=6a036c4f&is=6a021acf&hm=71281cf3ba04728a80213ae5c72075c19ea991308aa6b38d8e76bdb818412440&",
+          "downloadUrl": "https://cdn.discordapp.com/attachments/1395902555095171225/1440040589490917507/Hide_Nonsense2.js?ex=6a04150f&is=6a02c38f&hm=6706a72ec3a28b12ffe23f72e3126e1b67f8a89120bd9a2e3ef3db19b1b25aa5&",
           "contentType": "text/javascript; charset=utf-8"
         }
       ],
@@ -1104,7 +1104,7 @@
     {
       "id": "1109009446023217193",
       "kind": "plugins",
-      "name": "Balaclava Plugins! [11/05/2026]",
+      "name": "Balaclava Plugins! [12/05/2026]",
       "description": "My plugins for Pengu Loader! :)",
       "repo": "https://github.com/controlado/pengu-plugins",
       "image": "https://media.discordapp.net/attachments/1109009446023217193/1110094360390946908/ezgif-2-9ed966a32e.png?ex=6a0373b0&is=6a022230&hm=351a15f03a9aa8cdb25bc28351e0dacd5f1cbe4121ea778e3a235188c84e63fa&",
@@ -1295,13 +1295,13 @@
         {
           "name": "oldMasteryIcons.js",
           "size": 11497,
-          "downloadUrl": "https://cdn.discordapp.com/attachments/1414553304259760148/1414642890965254326/oldMasteryIcons.js?ex=6a034fdc&is=6a01fe5c&hm=264cb67cf3ef2a8709466bffd14c898e09df48f0e23c28b8e9b997957d7ce18a&",
+          "downloadUrl": "https://cdn.discordapp.com/attachments/1414553304259760148/1414642890965254326/oldMasteryIcons.js?ex=6a03f89c&is=6a02a71c&hm=c7ff806c1581125c5465204691a2e515463ae89b9a5eaa8037880efdd3858df9&",
           "contentType": "application/javascript; charset=utf-8"
         },
         {
           "name": "oldMasteryIcons.js",
           "size": 9545,
-          "downloadUrl": "https://cdn.discordapp.com/attachments/1414553304259760148/1414659601575579780/oldMasteryIcons.js?ex=6a035f6c&is=6a020dec&hm=d4eb4248f9fa58db18ee81e3c051c1945dffcac00ee2ee70e8457c938abfa368&",
+          "downloadUrl": "https://cdn.discordapp.com/attachments/1414553304259760148/1414659601575579780/oldMasteryIcons.js?ex=6a04082c&is=6a02b6ac&hm=e175ceca1b066a3c32ea4df7f548e76e613f06bfe9e3bb10eca0de80cc9e7291&",
           "contentType": "application/javascript; charset=utf-8"
         }
       ],
@@ -1544,7 +1544,7 @@
       "releaseUrl": "https://github.com/kyso1/KysoTheme/releases/tag/v2.0",
       "releaseTag": "v2.0",
       "releaseName": "v2.0 (new client configs and new functionalities!",
-      "image": "https://media.discordapp.net/attachments/1240541534663868426/1240541534869262376/image.png?ex=6a036816&is=6a021696&hm=3f2a75fd85eab213f92415003c1023767740dc6172afbc0c3cb757a6b3fc9c46&",
+      "image": "https://media.discordapp.net/attachments/1240541534663868426/1240541534869262376/image.png?ex=6a0410d6&is=6a02bf56&hm=7f8a7bc61f883f6e9c9f130bcc5be7a541d33d85f0ed1c85e161f71f839fa5d3&",
       "author": {
         "name": "kyso1",
         "avatar": "https://avatars.githubusercontent.com/u/128049220?v=4",
@@ -1608,7 +1608,7 @@
       "name": "ScarletRed",
       "description": "ScarletRed theme ( Original from ElainaV3) for Pengu loader",
       "repo": "https://github.com/R3mia/ScarletRed",
-      "image": "https://media.discordapp.net/attachments/1183799859342483476/1183799859707379803/image.png?ex=6a034e08&is=6a01fc88&hm=7872ddd7511ee8953cba506c6eba9910f778671360546609bdc8b3cb3bc2f3da&",
+      "image": "https://media.discordapp.net/attachments/1183799859342483476/1183799859707379803/image.png?ex=6a03f6c8&is=6a02a548&hm=9544ff088cd02be0ebc35306523c384bcbfbde173bec55f70e8c24c5f032e99b&",
       "author": {
         "name": "R3mia",
         "avatar": "https://avatars.githubusercontent.com/u/72246166?v=4",
@@ -1719,7 +1719,7 @@
       "releaseUrl": "https://github.com/nomi-san/ahri-theme/releases/tag/240221",
       "releaseTag": "240221",
       "releaseName": "ahri-theme-240221",
-      "image": "https://media.discordapp.net/attachments/1095736862187991232/1095736862741635283/68747470733a2f2f692e696d6775722e636f6d2f74617a504e484e2e706e67.png?ex=6a034b79&is=6a01f9f9&hm=509766fcc6875a463e69dab5cf1843e031d8e80f7fe723804dfdf2a524bdc16a&",
+      "image": "https://media.discordapp.net/attachments/1095736862187991232/1095736862741635283/68747470733a2f2f692e696d6775722e636f6d2f74617a504e484e2e706e67.png?ex=6a03f439&is=6a02a2b9&hm=e8dbfb28da47e5dd877fc39da79b1c5c8f3f630d1ff622e304a038cc6b7e3260&",
       "author": {
         "name": "nomi-san",
         "avatar": "https://avatars.githubusercontent.com/u/38210249?v=4",
@@ -1813,7 +1813,7 @@
       "releaseUrl": "https://github.com/FreeAtorio/ISAKV1/releases/tag/releaseV1.5.2",
       "releaseTag": "releaseV1.5.2",
       "releaseName": "V1.5.2",
-      "image": "https://media.discordapp.net/attachments/1192514758121885868/1192514759271125153/image.png?ex=6a035e6a&is=6a020cea&hm=f51671aaafbd79480e8f2669587108df9f9bf61c0c1119f23e2e446cbf7dbd72&",
+      "image": "https://media.discordapp.net/attachments/1192514758121885868/1192514759271125153/image.png?ex=6a04072a&is=6a02b5aa&hm=f872ca9fc9de915697ac84e603d01bc8c2ff6fd82c9bea0e11dd9e7f69404ee7&",
       "author": {
         "name": "FreeAtorio",
         "avatar": "https://avatars.githubusercontent.com/u/48484697?v=4",
