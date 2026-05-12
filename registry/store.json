@@ -1,7 +1,7 @@
 {
   "name": "Pengu Community Store registry",
   "version": 1,
-  "generatedAt": "2026-05-12T11:55:03.962Z",
+  "generatedAt": "2026-05-12T14:24:25.075Z",
   "source": {
     "guildId": "1069483280438673418",
     "forums": [
@@ -523,7 +523,7 @@
       "releaseUrl": "https://github.com/xRize/MusicPlugin/releases/tag/Release2",
       "releaseTag": "Release2",
       "releaseName": "v1.0.1",
-      "image": "https://media.discordapp.net/attachments/1487606021449973850/1487606021831528640/569826409-7f1dae67-6e42-4fb5-ac20-32cbc0166a21.png?ex=6a03c291&is=6a027111&hm=cbcea99b95929a22433eaa3fb076dff5e78944c67d02f4ae6f69e86b2cd076eb&",
+      "image": "https://media.discordapp.net/attachments/1487606021449973850/1487606021831528640/569826409-7f1dae67-6e42-4fb5-ac20-32cbc0166a21.png?ex=6a046b51&is=6a0319d1&hm=597b00cddbf9bf32dad65068e30b9c51f48f27b5b06f297b421b600534dbcda6&",
       "author": {
         "name": "xRize",
         "avatar": "https://avatars.githubusercontent.com/u/83946532?v=4",
@@ -934,7 +934,7 @@
       "releaseUrl": "https://github.com/Reynbow/auto-champ-lock/releases/tag/v1.5.2",
       "releaseTag": "v1.5.2",
       "releaseName": "v1.5.2",
-      "image": "https://media.discordapp.net/attachments/1477651306167406592/1477651306364534834/role-pick-ui.png?ex=6a03ccc4&is=6a027b44&hm=3f1a01549a576e991c29d95e29f73385d1e232a9a4067e22cff069d1778f013f&",
+      "image": "https://media.discordapp.net/attachments/1477651306167406592/1477651306364534834/role-pick-ui.png?ex=6a047584&is=6a032404&hm=fd5d23e9bfe099fb0cafa95ff6f5ad5dc3bf3da21489864aec119bff14d07b8b&",
       "author": {
         "name": "Reynbow",
         "avatar": "https://avatars.githubusercontent.com/u/19285509?v=4",
@@ -1128,7 +1128,7 @@
       "kind": "plugins",
       "name": "Full length ARAM music",
       "description": "A plugin to bring back full length ARAM music on champion select",
-      "image": "https://media.discordapp.net/attachments/1469142886330273884/1469142887424983214/channels4_profile.jpg?ex=6a03d3ef&is=6a02826f&hm=b4dbdb1fcca1c8cbec4413e2c88bed502c509e04ea249ea896097ba434bb178e&",
+      "image": "https://media.discordapp.net/attachments/1469142886330273884/1469142887424983214/channels4_profile.jpg?ex=6a047caf&is=6a032b2f&hm=9c5c09263aaab15dddc60b7714b72cb140af6a3989c60354c7908ecb0ad4e629&",
       "author": {
         "name": "Blue Cartoon Cat"
       },
@@ -1176,7 +1176,7 @@
       "releaseUrl": "https://github.com/kyso1/tft-client-theme/releases/tag/v1.0",
       "releaseTag": "v1.0",
       "releaseName": "v1.0",
-      "image": "https://media.discordapp.net/attachments/1462077280728780861/1462077814324068548/nUvdXBx.png?ex=6a03d553&is=6a0283d3&hm=9e6a9a7ee6d6053580d3536f443a8ab34f97b6318f2b7354e63455ed45307d71&",
+      "image": "https://media.discordapp.net/attachments/1462077280728780861/1462077814324068548/nUvdXBx.png?ex=6a047e13&is=6a032c93&hm=e35299b2f3d7938162b4b07576a4b5df10b27d136ae33f4f04fa10596211af4f&",
       "author": {
         "name": "kyso1",
         "avatar": "https://avatars.githubusercontent.com/u/128049220?v=4",
@@ -1206,7 +1206,7 @@
       "kind": "plugins",
       "name": "community pact popup blocker",
       "description": "this plugin blocks the new community pact popup when you first login, now technically you can say \"ive never agreed to it\" so you can therefore be as toxic as you want.",
-      "image": "https://media.discordapp.net/attachments/1458822729414217954/1458822729716469913/image.png?ex=6a03db4a&is=6a0289ca&hm=dbf735e09c6309ec65a22ab38e0d5164312bcc7a0c31e7e7812591269663f0b8&",
+      "image": "https://media.discordapp.net/attachments/1458822729414217954/1458822729716469913/image.png?ex=6a04840a&is=6a03328a&hm=d0bf9c78cca200ff41578acc65964242ce0addd0eeb7d248b2479409a60234a8&",
       "author": {
         "name": "Cat Bot"
       },
@@ -1220,7 +1220,7 @@
         {
           "name": "RiotPactBlocker.js",
           "size": 508,
-          "downloadUrl": "https://cdn.discordapp.com/attachments/1458822729414217954/1458822730198810674/RiotPactBlocker.js?ex=6a03db4a&is=6a0289ca&hm=523f1653d9983c290f384c8e1ae2fda58a0f700b35d49bdd2ddb9479648aa84a&",
+          "downloadUrl": "https://cdn.discordapp.com/attachments/1458822729414217954/1458822730198810674/RiotPactBlocker.js?ex=6a04840a&is=6a03328a&hm=d763152f09b569abaa28016828b8412e0c885bad007a0c772f5a5ade1c4fdfe2&",
           "contentType": "text/javascript; charset=utf-8"
         }
       ],
@@ -1475,7 +1475,7 @@
         {
           "name": "activity_center_toggle.js",
           "size": 10156,
-          "downloadUrl": "https://cdn.discordapp.com/attachments/1396060178545119263/1401719798949216316/activity_center_toggle.js?ex=6a03c24a&is=6a0270ca&hm=e2e5b9b23134957726b5c9c370cf9dd33f23330db0bb7d0631fe2b73b895be84&",
+          "downloadUrl": "https://cdn.discordapp.com/attachments/1396060178545119263/1401719798949216316/activity_center_toggle.js?ex=6a046b0a&is=6a03198a&hm=13809c9351b2e561cb8ec6369d42db4548c81310c3389b63cb78d1f3639fa6ba&",
           "contentType": "application/javascript; charset=utf-8"
         }
       ],
@@ -1487,7 +1487,7 @@
       "name": "Acrylical  theme fork version",
       "description": "custom theme for lick of leg-ends launcher",
       "repo": "https://github.com/watchingfun/league-launcher-theme",
-      "image": "https://media.discordapp.net/attachments/1365312229775511603/1365312230337282048/image.png?ex=6a03cdd9&is=6a027c59&hm=f807e105aaf9bb372a0d3c7c0a2551a96bc0ce9b8fa9f242658ddcf3219fa135&",
+      "image": "https://media.discordapp.net/attachments/1365312229775511603/1365312230337282048/image.png?ex=6a047699&is=6a032519&hm=668548f86bc123b91e38ec73bd465487a26619fb5cf0f572d91abae3e0f008eb&",
       "author": {
         "name": "watchingfun",
         "avatar": "https://avatars.githubusercontent.com/u/22067924?v=4",
@@ -1671,7 +1671,7 @@
       "releaseUrl": "https://github.com/lolpyken/pyken/releases/tag/1",
       "releaseTag": "1",
       "releaseName": "Pyken",
-      "image": "https://media.discordapp.net/attachments/1305881618757582869/1305881619210436649/Screenshot_2024-11-12_071546.png?ex=6a03cec8&is=6a027d48&hm=d826f0cf6d4dce4cad1cd1c61780e2a4989c581031703ac8ee835c71636fbba7&",
+      "image": "https://media.discordapp.net/attachments/1305881618757582869/1305881619210436649/Screenshot_2024-11-12_071546.png?ex=6a047788&is=6a032608&hm=16bb6d82ff794345317bbcbbd273ef3243beae8774aa80ebd112010e06c3d43e&",
       "author": {
         "name": "lolpyken",
         "avatar": "https://avatars.githubusercontent.com/u/34245482?v=4",
@@ -1876,7 +1876,7 @@
       "releaseUrl": "https://github.com/nomi-san/indie-theme/releases/tag/release/lts",
       "releaseTag": "release/lts",
       "releaseName": "indie-theme-lts",
-      "image": "https://media.discordapp.net/attachments/1176518022312247296/1176518022651990097/284592384-6b8b2c3d-1927-467b-99aa-ae1e10f4b69e.png?ex=6a03d70b&is=6a02858b&hm=f7e3f95d8d8e331b43e39aa3ce4dc5266a1224cb579b1d513cca7ee4740a478f&",
+      "image": "https://media.discordapp.net/attachments/1176518022312247296/1176518022651990097/284592384-6b8b2c3d-1927-467b-99aa-ae1e10f4b69e.png?ex=6a047fcb&is=6a032e4b&hm=73c9d8325227e53796ff8845b82d165d8400185a49de8ddb101cfb5ffec65263&",
       "author": {
         "name": "nomi-san",
         "avatar": "https://avatars.githubusercontent.com/u/38210249?v=4",
@@ -1940,7 +1940,7 @@
       "name": "Rem Theme",
       "description": "Plug-ins I made to be used in league-loader",
       "repo": "https://github.com/Lyfhael/league-loader-plugins",
-      "image": "https://media.discordapp.net/attachments/1080303567216332900/1080303567883218995/4MGf2QS.png?ex=6a03d699&is=6a028519&hm=a05119e91995364f834f2c94e2d83d6f491b98c03821da35329b682120efd52b&",
+      "image": "https://media.discordapp.net/attachments/1080303567216332900/1080303567883218995/4MGf2QS.png?ex=6a047f59&is=6a032dd9&hm=73ab78db98016ee271a6c944f4190000d4fed685d8e7d8456319ad92957e4cae&",
       "author": {
         "name": "Lyfhael",
         "avatar": "https://avatars.githubusercontent.com/u/43145883?v=4",
