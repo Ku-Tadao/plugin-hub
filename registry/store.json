@@ -1,7 +1,7 @@
 {
   "name": "Pengu Community Store registry",
   "version": 1,
-  "generatedAt": "2026-05-14T17:19:56.169Z",
+  "generatedAt": "2026-05-14T19:18:14.666Z",
   "source": {
     "guildId": "1069483280438673418",
     "forums": [
@@ -16,24 +16,6 @@
     ]
   },
   "listings": [
-    {
-      "id": "1109009446023217193",
-      "kind": "plugins",
-      "name": "Balaclava Plugins! [13/05/2026]",
-      "description": "No description provided.",
-      "author": {
-        "name": "Community"
-      },
-      "tags": [
-        "Utility",
-        "Enhancement"
-      ],
-      "discordUrl": "https://discord.com/channels/1069483280438673418/1109009446023217193/1109009446023217193",
-      "upvotes": 0,
-      "updatedAt": "2026-05-13T05:43:51.539Z",
-      "assets": [],
-      "enriched": true
-    },
     {
       "id": "1460597213301313733",
       "kind": "plugins",
@@ -829,7 +811,7 @@
       "releaseUrl": "https://github.com/cuongnguyen207/phrolova-theme-lol/releases/tag/Phrolova-theme-lol",
       "releaseTag": "Phrolova-theme-lol",
       "releaseName": "Custome Themes 1.0",
-      "image": "https://media.discordapp.net/attachments/1486800653685620884/1486800654344261813/image.png?ex=6a06c343&is=6a0571c3&hm=c274bed05d341c799b05cabf8687523e3107fc6498920a0e3c6857b1cf2d0c1a&",
+      "image": "https://media.discordapp.net/attachments/1486800653685620884/1486800654344261813/image.png?ex=6a076c03&is=6a061a83&hm=5dfaa3a74c8ddd3f3eaaf3b5bffdf2e5339b9978ed42062efef49042425fb70b&",
       "author": {
         "name": "cuongnguyen207",
         "avatar": "https://avatars.githubusercontent.com/u/213099361?v=4",
@@ -997,7 +979,7 @@
         {
           "name": "Hide_Nonsense2.js",
           "size": 8079,
-          "downloadUrl": "https://cdn.discordapp.com/attachments/1395902555095171225/1440040589490917507/Hide_Nonsense2.js?ex=6a06b80f&is=6a05668f&hm=b431f35eb257635a9537687db12df9126dbf1f27dc54bb03544e907f89940949&",
+          "downloadUrl": "https://cdn.discordapp.com/attachments/1395902555095171225/1440040589490917507/Hide_Nonsense2.js?ex=6a0760cf&is=6a060f4f&hm=f5a08604f04586ddc30cfba12b463773581c258978f252c7112669a952325840&",
           "contentType": "text/javascript; charset=utf-8"
         }
       ],
@@ -1090,6 +1072,28 @@
           "contentType": "text/javascript"
         }
       ],
+      "enriched": true
+    },
+    {
+      "id": "1109009446023217193",
+      "kind": "plugins",
+      "name": "Balaclava Plugins! [13/05/2026]",
+      "description": "My plugins for Pengu Loader! :)",
+      "repo": "https://github.com/controlado/pengu-plugins",
+      "image": "https://media.discordapp.net/attachments/1109009446023217193/1110094360390946908/ezgif-2-9ed966a32e.png?ex=6a076830&is=6a0616b0&hm=5244c6b12277913f9342165f3aa2da1e0d399082f315cdf85c7ebee158d58faf&",
+      "author": {
+        "name": "controlado",
+        "avatar": "https://avatars.githubusercontent.com/u/71716568?v=4",
+        "github": "controlado"
+      },
+      "tags": [
+        "Utility",
+        "Enhancement"
+      ],
+      "discordUrl": "https://discord.com/channels/1069483280438673418/1109009446023217193/1109009446023217193",
+      "upvotes": 10,
+      "updatedAt": "2026-02-06T16:14:02Z",
+      "assets": [],
       "enriched": true
     },
     {
@@ -1544,7 +1548,7 @@
       "releaseUrl": "https://github.com/kyso1/KysoTheme/releases/tag/v2.0",
       "releaseTag": "v2.0",
       "releaseName": "v2.0 (new client configs and new functionalities!",
-      "image": "https://media.discordapp.net/attachments/1240541534663868426/1240541534869262376/image.png?ex=6a06b3d6&is=6a056256&hm=176603427f006181155c56f4713e4a392791e7e069be7ed1c88671fdcde9040b&",
+      "image": "https://media.discordapp.net/attachments/1240541534663868426/1240541534869262376/image.png?ex=6a075c96&is=6a060b16&hm=46b109cee24cb5734cbbd33db4e3ad423bdf868b986974cdb5da329c03b4fe6b&",
       "author": {
         "name": "kyso1",
         "avatar": "https://avatars.githubusercontent.com/u/128049220?v=4",
@@ -1843,7 +1847,7 @@
       "releaseUrl": "https://github.com/oMaikeru/PureBlack-Theme/releases/tag/v0.4",
       "releaseTag": "v0.4",
       "releaseName": "v0.4",
-      "image": "https://media.discordapp.net/attachments/1107021081207914566/1107021081442783242/black-theme.PNG?ex=6a06c5f9&is=6a057479&hm=abca5533cc00ca49e8d9b03fcdce9e2d5579e9a13dac645b8000319e7b24976e&",
+      "image": "https://media.discordapp.net/attachments/1107021081207914566/1107021081442783242/black-theme.PNG?ex=6a076eb9&is=6a061d39&hm=22220d203a71bcfee6fb160b40d9ff5d2a8809d46b9ff636c076cb78da3d6d08&",
       "author": {
         "name": "oMaikeru",
         "avatar": "https://avatars.githubusercontent.com/u/76801149?v=4",
