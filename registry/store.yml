@@ -1,6 +1,6 @@
 name: Pengu Community Store registry
 version: 1
-generatedAt: 2026-05-14T19:18:14.666Z
+generatedAt: 2026-05-14T20:53:20.179Z
 source:
   guildId: "1069483280438673418"
   forums:
@@ -73,7 +73,7 @@ listings:
     releaseUrl: https://github.com/Yimikami/pengu-plugins/releases/tag/PenguFamily_v0.1.0
     releaseTag: PenguFamily_v0.1.0
     releaseName: Pengu Family v0.1.0
-    image: https://media.discordapp.net/attachments/1497146237273641040/1497146238745972816/image.png?ex=6a06d396&is=6a058216&hm=d877617849d34b55214514b06d9f3fea674df751cd655019936a1873c0001ebd&
+    image: https://media.discordapp.net/attachments/1497146237273641040/1497146238745972816/image.png?ex=6a077c56&is=6a062ad6&hm=f9610bb672441877b017ab95595514a1c81d8209e468c266e0a1d2051ebc3c10&
     author:
       name: Yimikami
       avatar: https://avatars.githubusercontent.com/u/39545057?v=4
@@ -179,7 +179,7 @@ listings:
     releaseUrl: https://github.com/Yimikami/pengu-plugins/releases/tag/PenguFamily_v0.1.0
     releaseTag: PenguFamily_v0.1.0
     releaseName: Pengu Family v0.1.0
-    image: https://media.discordapp.net/attachments/1472183865379389444/1496249294418612344/0330C317-A78E-416F-AC36-FE6739688A1F.png?ex=6a06dbfe&is=6a058a7e&hm=4a3805f835643788c776fe5e11b18e329c42dd105781ed20d4862c0e8faa0b05&
+    image: https://media.discordapp.net/attachments/1472183865379389444/1496249294418612344/0330C317-A78E-416F-AC36-FE6739688A1F.png?ex=6a0784be&is=6a06333e&hm=78b8e87c4595da51b86c08b3d736f1e300297224d641119060f52e36bf1460d2&
     author:
       name: Yimikami
       avatar: https://avatars.githubusercontent.com/u/39545057?v=4
@@ -903,7 +903,7 @@ listings:
     assets:
       - name: removecrystal.js
         size: 1126
-        downloadUrl: https://cdn.discordapp.com/attachments/1487535639128965121/1487535639883944108/removecrystal.js?ex=6a06ccc5&is=6a057b45&hm=0ead87a1280cd40ba4791ae2b14e6760b5e7fe09dca19d48f19bb4e75595bd65&
+        downloadUrl: https://cdn.discordapp.com/attachments/1487535639128965121/1487535639883944108/removecrystal.js?ex=6a077585&is=6a062405&hm=da61553c317a7affd8f8ddbe85ede77c3cc32eaf442d3bb17f3fbbec5fc79ac1&
         contentType: text/javascript; charset=utf-8
     enriched: true
   - id: "1476062717579231385"
@@ -930,7 +930,7 @@ listings:
     description: "Unlock all backgrounds easily. Just press the background picker
       button, and you'll be able to choose any skin you like, as if you owned
       them all Source: < Download is below, not the source ⬇️ ⬇️ ⬇️"
-    image: https://media.discordapp.net/attachments/1311415707371700345/1311415707568836809/image.png?ex=6a06cd4d&is=6a057bcd&hm=e3d177f103f59facef818fe15d79d769416343cb3a5dce0448805f310fb7216b&
+    image: https://media.discordapp.net/attachments/1311415707371700345/1311415707568836809/image.png?ex=6a07760d&is=6a06248d&hm=f6b2fe6b824e824a92089cf06c8f7b41807748d00d49a6919992c9ced9804811&
     author:
       name: kebs
     tags:
@@ -943,7 +943,7 @@ listings:
     assets:
       - name: LoLBackgroundUnlocker.js
         size: 6216
-        downloadUrl: https://cdn.discordapp.com/attachments/1311415707371700345/1311415708143583355/LoLBackgroundUnlocker.js?ex=6a06cd4d&is=6a057bcd&hm=7acf6656930b871f4c81f5bef13b5174e61ea596184bdc27240ea7eb0d989e00&
+        downloadUrl: https://cdn.discordapp.com/attachments/1311415707371700345/1311415708143583355/LoLBackgroundUnlocker.js?ex=6a07760d&is=6a06248d&hm=44b3a5dcb3bf26b36b29666b1c89f82ee0e57dbd3e8bbde37b1767544d0da2a2&
         contentType: application/javascript; charset=utf-8
     enriched: true
   - id: "1485931384504848394"
@@ -1086,7 +1086,7 @@ listings:
     description: Animated particle cursor effects for the League of Legends client —
       Penguloader plugin
     repo: https://github.com/nt3y/cursor-pack-penguloader
-    image: https://media.discordapp.net/attachments/1484279090830905394/1484279092202307736/image.png?ex=6a06d160&is=6a057fe0&hm=3e5801d6f71d2574df1fd4341a1d1dde0d04b3268ba3767840f92768fdc027ab&
+    image: https://media.discordapp.net/attachments/1484279090830905394/1484279092202307736/image.png?ex=6a077a20&is=6a0628a0&hm=7eaf86aa1e9fecdf8329d34752d5b76945998674efec9c945eb7702148dde541&
     author:
       name: nt3y
       avatar: https://avatars.githubusercontent.com/u/269317310?v=4
@@ -1202,7 +1202,7 @@ listings:
     releaseUrl: https://github.com/hadixcanimm/taric48/releases/tag/gamelauncher
     releaseTag: gamelauncher
     releaseName: "Taric 48 Game Launcher "
-    image: https://media.discordapp.net/attachments/1469972117306212639/1469972117549486178/image.png?ex=6a06d837&is=6a0586b7&hm=6644feae155f87275abf358b7f3806dfa71e8116f13a6103393615fe8a0d999a&
+    image: https://media.discordapp.net/attachments/1469972117306212639/1469972117549486178/image.png?ex=6a0780f7&is=6a062f77&hm=d0e0bdc718c2be3d00294a9e226cee1469926cd459907ad945100e0583cd61ea&
     author:
       name: hadixcanimm
       avatar: https://avatars.githubusercontent.com/u/114208757?v=4
