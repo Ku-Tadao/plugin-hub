@@ -1,7 +1,7 @@
 {
   "name": "Pengu Community Store registry",
   "version": 1,
-  "generatedAt": "2026-05-15T19:06:58.219Z",
+  "generatedAt": "2026-05-15T20:40:39.763Z",
   "source": {
     "guildId": "1069483280438673418",
     "forums": [
@@ -114,7 +114,7 @@
       "releaseUrl": "https://github.com/Yimikami/pengu-plugins/releases/tag/PenguFamily_v0.1.0",
       "releaseTag": "PenguFamily_v0.1.0",
       "releaseName": "Pengu Family v0.1.0",
-      "image": "https://media.discordapp.net/attachments/1497146237273641040/1497146238745972816/image.png?ex=6a082516&is=6a06d396&hm=939e577456664e0eacda55ec9dcb9ffe6ed0812956f49a2101bb030721e877cd&",
+      "image": "https://media.discordapp.net/attachments/1497146237273641040/1497146238745972816/image.png?ex=6a08cdd6&is=6a077c56&hm=090ed04db0d9eb122f492c6a881b78d696754f44653c4fc3a6e142b8470b4f81&",
       "author": {
         "name": "Yimikami",
         "avatar": "https://avatars.githubusercontent.com/u/39545057?v=4",
@@ -222,7 +222,7 @@
         "Fun"
       ],
       "discordUrl": "https://discord.com/channels/1069483280438673418/1503337548993265687/1503337548993265687",
-      "upvotes": 5,
+      "upvotes": 6,
       "updatedAt": "2026-05-11T10:02:38Z",
       "assets": [
         {
@@ -743,7 +743,7 @@
         {
           "name": "removecrystal.js",
           "size": 1126,
-          "downloadUrl": "https://cdn.discordapp.com/attachments/1487535639128965121/1487535639883944108/removecrystal.js?ex=6a081e45&is=6a06ccc5&hm=22a972eb7e15126ff8ba544cccb73745aca481df0ea016dcf80203cc8cad34e8&",
+          "downloadUrl": "https://cdn.discordapp.com/attachments/1487535639128965121/1487535639883944108/removecrystal.js?ex=6a08c705&is=6a077585&hm=4e303b93566c69234cc2802f6e25ce6d2438622cd5006166a3e7294fb93636fc&",
           "contentType": "text/javascript; charset=utf-8"
         }
       ],
@@ -776,7 +776,7 @@
       "kind": "plugins",
       "name": "LoLBackgroundUnlocker",
       "description": "Unlock all backgrounds easily. Just press the background picker button, and you'll be able to choose any skin you like, as if you owned them all Source: < Download is below, not the source ⬇️ ⬇️ ⬇️",
-      "image": "https://media.discordapp.net/attachments/1311415707371700345/1311415707568836809/image.png?ex=6a081ecd&is=6a06cd4d&hm=e1a165862731936cd704c542a28860dff8bdbbf8407153e4f9a6b0caaf52d6c2&",
+      "image": "https://media.discordapp.net/attachments/1311415707371700345/1311415707568836809/image.png?ex=6a08c78d&is=6a07760d&hm=c03103d423ece924a48ee0b6d8a0554895f5eacc582862c936513bb58d3db075&",
       "author": {
         "name": "kebs"
       },
@@ -792,7 +792,7 @@
         {
           "name": "LoLBackgroundUnlocker.js",
           "size": 6216,
-          "downloadUrl": "https://cdn.discordapp.com/attachments/1311415707371700345/1311415708143583355/LoLBackgroundUnlocker.js?ex=6a081ecd&is=6a06cd4d&hm=3cfdaaff43f0fb7a22fc589a92cb07e05ced40d4e508ce2e0d80f6dc6d4f0141&",
+          "downloadUrl": "https://cdn.discordapp.com/attachments/1311415707371700345/1311415708143583355/LoLBackgroundUnlocker.js?ex=6a08c78d&is=6a07760d&hm=e24b7bd09edc0867777e9c67284952e6d5e0247c4330c91fd78a1dd17f801aca&",
           "contentType": "application/javascript; charset=utf-8"
         }
       ],
@@ -904,7 +904,7 @@
       "name": "CursorPack PenguLoader",
       "description": "Animated particle cursor effects for the League of Legends client — Penguloader plugin",
       "repo": "https://github.com/nt3y/cursor-pack-penguloader",
-      "image": "https://media.discordapp.net/attachments/1484279090830905394/1484279092202307736/image.png?ex=6a0822e0&is=6a06d160&hm=2553ef148ab6b1fc9e47a8090e2bb4cb55345c2b0c4b296059a56704e47a0793&",
+      "image": "https://media.discordapp.net/attachments/1484279090830905394/1484279092202307736/image.png?ex=6a08cba0&is=6a077a20&hm=b0d26edbbd633b5cfc9126cf5e56d756cab6cdf72df1a14030d687d267612067&",
       "author": {
         "name": "nt3y",
         "avatar": "https://avatars.githubusercontent.com/u/269317310?v=4",
@@ -1038,7 +1038,7 @@
       "releaseUrl": "https://github.com/hadixcanimm/taric48/releases/tag/gamelauncher",
       "releaseTag": "gamelauncher",
       "releaseName": "Taric 48 Game Launcher ",
-      "image": "https://media.discordapp.net/attachments/1469972117306212639/1469972117549486178/image.png?ex=6a0829b7&is=6a06d837&hm=a137c3e09e6beeb4bf69eea329cc309610459af00e831bb00ccc31a81b1ce9e5&",
+      "image": "https://media.discordapp.net/attachments/1469972117306212639/1469972117549486178/image.png?ex=6a08d277&is=6a0780f7&hm=e21d701e1adb2adb7eb627968c3cbe33d4a2dffea2ab229e9a506be4a461d1c1&",
       "author": {
         "name": "hadixcanimm",
         "avatar": "https://avatars.githubusercontent.com/u/114208757?v=4",
