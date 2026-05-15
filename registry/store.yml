@@ -1,6 +1,6 @@
 name: Pengu Community Store registry
 version: 1
-generatedAt: 2026-05-15T15:36:49.916Z
+generatedAt: 2026-05-15T17:27:14.919Z
 source:
   guildId: "1069483280438673418"
   forums:
@@ -144,7 +144,7 @@ listings:
     releaseUrl: https://github.com/Yimikami/pengu-plugins/releases/tag/PenguFamily_v0.1.0
     releaseTag: PenguFamily_v0.1.0
     releaseName: Pengu Family v0.1.0
-    image: https://media.discordapp.net/attachments/1411366905247170621/1411743618388983931/image.png?ex=6a07ecf3&is=6a069b73&hm=0c89ade5c198a046a71ede375f39808560dced7b4dcf3f6d849dddee9bf6f556&
+    image: https://media.discordapp.net/attachments/1411366905247170621/1411743618388983931/image.png?ex=6a0895b3&is=6a074433&hm=10a02f4503471809a2505edca1a9f748a161fa884827012ddbc9ed056cd8d770&
     author:
       name: Yimikami
       avatar: https://avatars.githubusercontent.com/u/39545057?v=4
@@ -243,7 +243,7 @@ listings:
       i think was looking the best in the whole rank history! It was made by
       <@1246591176791035946 he helped me doing it for myself so i wanted to give
       him the credits for it + share it with you guys cuz u might wanna use it!
-    image: https://media.discordapp.net/attachments/1414636794124832851/1414636794858700900/oldborders.png?ex=6a07e76e&is=6a0695ee&hm=d81318295d9de1ccf55dc85a3102a4d5ea0c4bf8c9b51e7288306a242516a48c&
+    image: https://media.discordapp.net/attachments/1414636794124832851/1414636794858700900/oldborders.png?ex=6a08902e&is=6a073eae&hm=109de20b9f01306368dce6625285a08e2e5eca14f25905ed6e2494b00b0b8522&
     author:
       name: Samuraj
     tags:
@@ -255,7 +255,7 @@ listings:
     assets:
       - name: s9-ranked-borders.zip
         size: 945105
-        downloadUrl: https://cdn.discordapp.com/attachments/1414636794124832851/1414636795714338886/s9-ranked-borders.zip?ex=6a07e76e&is=6a0695ee&hm=de588608eb0d81fcbf583a352e404729fa5d39bf487877f38f0ce07623a91798&
+        downloadUrl: https://cdn.discordapp.com/attachments/1414636794124832851/1414636795714338886/s9-ranked-borders.zip?ex=6a08902e&is=6a073eae&hm=1cbc90c971c231f545670ba1c8fc6be8ba066e9c27bd51ea3b506a5d56502ca2&
         contentType: application/zip
     enriched: true
   - id: "1499358177052069899"
@@ -290,7 +290,7 @@ listings:
       League of Legends client using Pengu Loader. This project consists of two
       parts: a local Node.js authentication server and a client-side plugin."
     repo: https://github.com/GogoChad/spotify-media-player
-    image: https://media.discordapp.net/attachments/1499090537427243129/1499090537792143492/image.png?ex=6a07f79b&is=6a06a61b&hm=236ec60157acc0872b27207101e74a7616a02ee6019c7c7aef6390e3f6b2b048&
+    image: https://media.discordapp.net/attachments/1499090537427243129/1499090537792143492/image.png?ex=6a08a05b&is=6a074edb&hm=07603bee02e5075e3679dd52dc00a25c593de4ef7d34fdc1c574595998b1b16a&
     author:
       name: GogoChad
       avatar: https://avatars.githubusercontent.com/u/133820564?v=4
@@ -814,7 +814,7 @@ listings:
     releaseUrl: https://github.com/Elaina69/Elaina-theme/releases/tag/v4.4.3
     releaseTag: v4.4.3
     releaseName: ""
-    image: https://media.discordapp.net/attachments/1373696348284653628/1373696348653617315/fh98jYI.png?ex=6a07f02b&is=6a069eab&hm=df93cb3eb1d1da10631d189cb6a8b2b25646bdda4b3c887df3f8bc46425f6723&
+    image: https://media.discordapp.net/attachments/1373696348284653628/1373696348653617315/fh98jYI.png?ex=6a0898eb&is=6a07476b&hm=ab388a1565d6d4ede303c9a00b145bf9f7dc08847acaee3e4f847d008c6a8aa6&
     author:
       name: Elaina69
       avatar: https://avatars.githubusercontent.com/u/94338907?v=4
@@ -1462,11 +1462,11 @@ listings:
         contentType: application/javascript; charset=utf-8
       - name: oldMasteryIcons.js
         size: 11497
-        downloadUrl: https://cdn.discordapp.com/attachments/1414553304259760148/1414642890965254326/oldMasteryIcons.js?ex=6a07ed1c&is=6a069b9c&hm=f1c8b666d75bfffc15630dae0641d468d196312df962264ff92cc1f8178f6088&
+        downloadUrl: https://cdn.discordapp.com/attachments/1414553304259760148/1414642890965254326/oldMasteryIcons.js?ex=6a0895dc&is=6a07445c&hm=a5ba07937fdc6ededa52c45566d6b15eaf5fa97ec522bad02681105c0fd0eeaf&
         contentType: application/javascript; charset=utf-8
       - name: oldMasteryIcons.js
         size: 9545
-        downloadUrl: https://cdn.discordapp.com/attachments/1414553304259760148/1414659601575579780/oldMasteryIcons.js?ex=6a07fcac&is=6a06ab2c&hm=c5faf00d68dba49c43bd48a400991235e640fdf7a560e9d09b254d3f2588e6c7&
+        downloadUrl: https://cdn.discordapp.com/attachments/1414553304259760148/1414659601575579780/oldMasteryIcons.js?ex=6a08a56c&is=6a0753ec&hm=10e1a297c8cc365be26b5911002d3fbd2fb14ed428e6c9c18b4e519fc04e080f&
         contentType: application/javascript; charset=utf-8
     enriched: true
   - id: "1322710156173250601"
@@ -1758,7 +1758,7 @@ listings:
     name: ScarletRed
     description: ScarletRed theme ( Original from ElainaV3) for Pengu loader
     repo: https://github.com/R3mia/ScarletRed
-    image: https://media.discordapp.net/attachments/1183799859342483476/1183799859707379803/image.png?ex=6a07eb48&is=6a0699c8&hm=708a9e1bf4a4cd82bbd50f2224f98f5beb3d4c0c1d86fe5047ebc418e2218d66&
+    image: https://media.discordapp.net/attachments/1183799859342483476/1183799859707379803/image.png?ex=6a089408&is=6a074288&hm=c5d005b4b8b3ac6d555fd980b23ae12e1af7b3c9e23e00458c042c79cf8226af&
     author:
       name: R3mia
       avatar: https://avatars.githubusercontent.com/u/72246166?v=4
@@ -1889,7 +1889,7 @@ listings:
     releaseUrl: https://github.com/nomi-san/ahri-theme/releases/tag/240221
     releaseTag: "240221"
     releaseName: ahri-theme-240221
-    image: https://media.discordapp.net/attachments/1095736862187991232/1095736862741635283/68747470733a2f2f692e696d6775722e636f6d2f74617a504e484e2e706e67.png?ex=6a07e8b9&is=6a069739&hm=beca2a27885e58e7d58a7f79e8aacc722021e217b936a436c495c597fcbf5d9a&
+    image: https://media.discordapp.net/attachments/1095736862187991232/1095736862741635283/68747470733a2f2f692e696d6775722e636f6d2f74617a504e484e2e706e67.png?ex=6a089179&is=6a073ff9&hm=231966ec838e82720f26d8da9816f8a87c6baedc5c8c4e23d13750171690d45b&
     author:
       name: nomi-san
       avatar: https://avatars.githubusercontent.com/u/38210249?v=4
@@ -1985,7 +1985,7 @@ listings:
     releaseUrl: https://github.com/FreeAtorio/ISAKV1/releases/tag/releaseV1.5.2
     releaseTag: releaseV1.5.2
     releaseName: V1.5.2
-    image: https://media.discordapp.net/attachments/1192514758121885868/1192514759271125153/image.png?ex=6a07fbaa&is=6a06aa2a&hm=427b7ea4c7b5b60e3f9ffaf5296382d8444e074b971bff044264eb84cdb47990&
+    image: https://media.discordapp.net/attachments/1192514758121885868/1192514759271125153/image.png?ex=6a08a46a&is=6a0752ea&hm=c46c7fc4a6ab341b0e39272bb5e52eea815bb0b67bdc9f6d2c5d21df32716196&
     author:
       name: FreeAtorio
       avatar: https://avatars.githubusercontent.com/u/48484697?v=4
