@@ -1,6 +1,6 @@
 name: Pengu Community Store registry
 version: 1
-generatedAt: 2026-05-16T20:45:36.404Z
+generatedAt: 2026-05-16T21:49:01.362Z
 source:
   guildId: "1069483280438673418"
   forums:
@@ -970,7 +970,7 @@ listings:
     name: Banner Remover (not unranked needed last season)
     description: I made this plugin so the banner is transparent for seeing the
       background :3
-    image: https://media.discordapp.net/attachments/1485931384504848394/1485931923275776201/C457E65E-4309-49F8-87B7-D302F19ADCDF.png?ex=6a0988f1&is=6a083771&hm=45655e4e6bc13423664f0586e62f475c6780ea06314880a9a454edab9feb6a9f&
+    image: https://media.discordapp.net/attachments/1485931384504848394/1485931923275776201/C457E65E-4309-49F8-87B7-D302F19ADCDF.png?ex=6a0a31b1&is=6a08e031&hm=9ab093ab1f51cbdf63226f92209ef8ff8db5a444736a55b52181d35638327c48&
     author:
       name: Polydragoo
     tags:
@@ -981,7 +981,7 @@ listings:
     assets:
       - name: BannerRemover-LittleRadioo.zip
         size: 1447
-        downloadUrl: https://cdn.discordapp.com/attachments/1485931384504848394/1485931384869621820/BannerRemover-LittleRadioo.zip?ex=6a098871&is=6a0836f1&hm=ccb4fb1408ce5fe52fc5cc189e4368bd8fdb21d9a71058f2a6cc64caeb150899&
+        downloadUrl: https://cdn.discordapp.com/attachments/1485931384504848394/1485931384869621820/BannerRemover-LittleRadioo.zip?ex=6a0a3131&is=6a08dfb1&hm=0a5074f5a4064b18df8007e9e43bb22475cb226307e94fb2e04983f57c0bace9&
         contentType: application/zip
     enriched: true
   - id: "1486800653685620884"
@@ -1086,7 +1086,7 @@ listings:
     description: 🔒 Lock the League of Legends client with a 4-digit PIN — hotkey
       support, iOS-style UI, blur overlay. Penguloader plugin.
     repo: https://github.com/nt3y/LeagueClient-Locker-
-    image: https://media.discordapp.net/attachments/1485026009018273872/1485026009500877094/image.png?ex=6a0988ff&is=6a08377f&hm=de10d7fa69829bad24c1138411f559cd874b5935aefd4f781eb570bb6562dd7b&
+    image: https://media.discordapp.net/attachments/1485026009018273872/1485026009500877094/image.png?ex=6a0a31bf&is=6a08e03f&hm=c4fc8c691f2e42624ac1fd76082559933dc97672951f18eeb55045ff985e16d5&
     author:
       name: nt3y
       avatar: https://avatars.githubusercontent.com/u/269317310?v=4
@@ -1612,11 +1612,11 @@ listings:
     assets:
       - name: autoClaimPassReward.js
         size: 4002
-        downloadUrl: https://cdn.discordapp.com/attachments/1372225111020539936/1372508919003480175/autoClaimPassReward.js?ex=6a098d0a&is=6a083b8a&hm=a1678b8c6acf183715bedc681989e27ad08430d26b35e80d2601df0bdde078db&
+        downloadUrl: https://cdn.discordapp.com/attachments/1372225111020539936/1372508919003480175/autoClaimPassReward.js?ex=6a0a35ca&is=6a08e44a&hm=2057aa38da291a40194fe16f5143c99f8142fd9f29a70c48cd0693d7182fdb9c&
         contentType: application/javascript; charset=utf-8
       - name: 9zI2LM3.js
         size: 4005
-        downloadUrl: https://cdn.discordapp.com/attachments/1372225111020539936/1410194593445842984/9zI2LM3.js?ex=6a098a8f&is=6a08390f&hm=66dc3e6148dff517ad55f6f5633c3d2049d1b4ef81317b88fe5d6dfec1f8d67c&
+        downloadUrl: https://cdn.discordapp.com/attachments/1372225111020539936/1410194593445842984/9zI2LM3.js?ex=6a0a334f&is=6a08e1cf&hm=ee89431d52ad80b0ec7f1e66e870891b32ef0ab0aef87f00fb2518398adfae26&
         contentType: application/javascript; charset=utf-8
     enriched: true
   - id: "1396060178545119263"
@@ -1626,7 +1626,7 @@ listings:
       Activity Center to the Play screen - Removes Navbar button since it
       redirects anyways - Toggle on and off via Client General Interface
       Settings, if you at some point need to use it"
-    image: https://media.discordapp.net/attachments/1396060178545119263/1396060179815989399/image.png?ex=6a09895c&is=6a0837dc&hm=d2b849bd3c2f660b968725af22e05c9d64fe899770fce694b4da268c37f4fa07&
+    image: https://media.discordapp.net/attachments/1396060178545119263/1396060179815989399/image.png?ex=6a0a321c&is=6a08e09c&hm=1876f448f92ba8bfec6427262450e667686020dc945964690b10f1463ec6855f&
     author:
       name: Eris Greyrat
     tags:
@@ -1800,7 +1800,7 @@ listings:
     releaseUrl: https://github.com/PenguLoader/PenguLoader/releases/tag/v1.1.6
     releaseTag: v1.1.6
     releaseName: v1.1.6
-    image: https://media.discordapp.net/attachments/1413095170475560960/1413095170940997642/Untitled.png?ex=6a098bee&is=6a083a6e&hm=9421985c3325e83c795d2f54965cbcc81fbb5af5ce3266bddcba74a172dc7c32&
+    image: https://media.discordapp.net/attachments/1413095170475560960/1413095170940997642/Untitled.png?ex=6a0a34ae&is=6a08e32e&hm=cd930bd0b895dac54f3ae930f41e7d597dca79cea3865c502a04024e4bf23399&
     author:
       name: PenguLoader
       avatar: https://avatars.githubusercontent.com/u/126898920?v=4
@@ -1932,7 +1932,7 @@ listings:
     releaseUrl: https://github.com/Humildeficador/DisableQueues/releases/tag/1.0
     releaseTag: "1.0"
     releaseName: v1.0
-    image: https://media.discordapp.net/attachments/1200544287817994240/1200544288119996557/Screenshot_1.png?ex=6a09823f&is=6a0830bf&hm=3bc5a832d9e981b3aa496db0c5c0b35db40c1953a7328c2514b4ae3dcb77bb09&
+    image: https://media.discordapp.net/attachments/1200544287817994240/1200544288119996557/Screenshot_1.png?ex=6a0a2aff&is=6a08d97f&hm=d676c76d1a3c3690106fb14652c3108d18236468b126dee34b02f8bd76e1ab05&
     author:
       name: Humildeficador
       avatar: https://avatars.githubusercontent.com/u/130767630?v=4
