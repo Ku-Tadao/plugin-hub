@@ -1,6 +1,6 @@
 name: Pengu Community Store registry
 version: 1
-generatedAt: 2026-05-18T15:52:24.045Z
+generatedAt: 2026-05-18T18:00:39.642Z
 source:
   guildId: "1069483280438673418"
   forums:
@@ -9,6 +9,188 @@ source:
     - kind: themes
       channelId: "1077886317364523072"
 listings:
+  - id: "1373696348284653628"
+    kind: themes
+    name: Elaina theme
+    description: Elaina theme for Pengu loader
+    details: "### **Don't know how to install ? Read
+      [this](https://github.com/Elaina69/Elaina-theme/wiki/1.-Installation)**\r
+
+      \r
+
+      - From Pengu 1.2.0 Beta test, theme will use PluginFS to store user's
+      data:\r
+
+      \  - For no PluginFS pengu versions, theme will still use default
+      DataStore\r
+
+      \  - For PluginFS pengu versions, user's data will be stored in
+      ./data/ElainaData/json, old data from DataStore will auto migrate to new
+      ElainaData\r
+
+      \r
+
+      - Added \"Disable theme wallpaper\" option\r
+
+      - Added \"Hide gamemodes\" option\r
+
+      - Added \"Window effect\" option (Only available after enabling \"Disable
+      theme wallpaper\" option)\r
+
+      - Re-designed settings UI\r
+
+      - Sanitized HTML/colors\r
+
+      - Faster sync users icons (for Pengu 1.2.0+)\r
+
+      - Updated custom avatar in TFT and Arena lobby\r
+
+      - Allowed users to copy wallpaper/audio/banner/font files name inside
+      theme settings\r
+
+      - Theme now auto detect wallpaper/audio/banner/font lists (for Pengu
+      1.2.0+)\r
+
+      - The homepage navigation bar will be hidden by default\r
+
+      - No longer forced client restarts when installing themes for the first
+      time or deleting data.\r
+
+      - No longer auto play wallpaper and audio after enable theme's
+      wallpaper/audio\r
+
+      - Removed \"Aram only mode\" plugin\r
+
+      - Removed \"Custom practice lobby\" button\r
+
+      \r
+
+      ### **Sorry, you have to fresh install this version 😭**\r
+
+      After update, you should delete old cache:\r
+
+      1, Open DevTools (Ctrl + Shift + i)\r
+
+      2, Choose \"Network\" tab\r
+
+      3, Tick \"Disable Cache\" checkbox\r
+
+      4, Press Ctrl + Shift +  R to finish the process"
+    repo: https://github.com/Elaina69/Elaina-theme
+    releaseUrl: https://github.com/Elaina69/Elaina-theme/releases/tag/v4.5.0
+    releaseTag: v4.5.0
+    releaseName: ""
+    image: https://media.discordapp.net/attachments/1373696348284653628/1373696348653617315/fh98jYI.png?ex=6a0c8d6b&is=6a0b3beb&hm=f980a00a144fbd52fd6f38392476de72d3bd8b9a2d786dd0c65f70bbaf34255c&
+    author:
+      name: Elaina69
+      avatar: https://avatars.githubusercontent.com/u/94338907?v=4
+      github: Elaina69
+    tags:
+      - Customizable
+      - Animated
+      - Transparent
+      - Anime
+      - Sound
+    discordUrl: https://discord.com/channels/1069483280438673418/1373696348284653628/1373696348284653628
+    upvotes: 13
+    updatedAt: 2026-05-18T17:45:14Z
+    assets:
+      - name: ElainaV4.zip
+        size: 130012348
+        downloadUrl: https://github.com/Elaina69/Elaina-theme/releases/download/v4.5.0/ElainaV4.zip
+        contentType: application/x-zip-compressed
+    enriched: true
+  - id: "1078464593791307777"
+    kind: themes
+    name: ElainaV4
+    description: Elaina theme for Pengu loader
+    details: "### **Don't know how to install ? Read
+      [this](https://github.com/Elaina69/Elaina-theme/wiki/1.-Installation)**\r
+
+      \r
+
+      - From Pengu 1.2.0 Beta test, theme will use PluginFS to store user's
+      data:\r
+
+      \  - For no PluginFS pengu versions, theme will still use default
+      DataStore\r
+
+      \  - For PluginFS pengu versions, user's data will be stored in
+      ./data/ElainaData/json, old data from DataStore will auto migrate to new
+      ElainaData\r
+
+      \r
+
+      - Added \"Disable theme wallpaper\" option\r
+
+      - Added \"Hide gamemodes\" option\r
+
+      - Added \"Window effect\" option (Only available after enabling \"Disable
+      theme wallpaper\" option)\r
+
+      - Re-designed settings UI\r
+
+      - Sanitized HTML/colors\r
+
+      - Faster sync users icons (for Pengu 1.2.0+)\r
+
+      - Updated custom avatar in TFT and Arena lobby\r
+
+      - Allowed users to copy wallpaper/audio/banner/font files name inside
+      theme settings\r
+
+      - Theme now auto detect wallpaper/audio/banner/font lists (for Pengu
+      1.2.0+)\r
+
+      - The homepage navigation bar will be hidden by default\r
+
+      - No longer forced client restarts when installing themes for the first
+      time or deleting data.\r
+
+      - No longer auto play wallpaper and audio after enable theme's
+      wallpaper/audio\r
+
+      - Removed \"Aram only mode\" plugin\r
+
+      - Removed \"Custom practice lobby\" button\r
+
+      \r
+
+      ### **Sorry, you have to fresh install this version 😭**\r
+
+      After update, you should delete old cache:\r
+
+      1, Open DevTools (Ctrl + Shift + i)\r
+
+      2, Choose \"Network\" tab\r
+
+      3, Tick \"Disable Cache\" checkbox\r
+
+      4, Press Ctrl + Shift +  R to finish the process"
+    repo: https://github.com/Elaina69/Elaina-theme
+    releaseUrl: https://github.com/Elaina69/Elaina-theme/releases/tag/v4.5.0
+    releaseTag: v4.5.0
+    releaseName: ""
+    image: https://media.discordapp.net/attachments/1078464593791307777/1078464594055544942/image.png?ex=6a0c4f2c&is=6a0afdac&hm=adbc0a0b1611f7f11d681e5d9cd953ae15446d4ea2d45d4981ed33c23fcbd1dd&
+    author:
+      name: Elaina69
+      avatar: https://avatars.githubusercontent.com/u/94338907?v=4
+      github: Elaina69
+    tags:
+      - Customizable
+      - Animated
+      - Sound
+      - Anime
+      - Transparent
+    discordUrl: https://discord.com/channels/1069483280438673418/1078464593791307777/1078464593791307777
+    upvotes: 60
+    updatedAt: 2026-05-18T17:45:14Z
+    assets:
+      - name: ElainaV4.zip
+        size: 130012348
+        downloadUrl: https://github.com/Elaina69/Elaina-theme/releases/download/v4.5.0/ElainaV4.zip
+        contentType: application/x-zip-compressed
+    enriched: true
   - id: "1504663098244595813"
     kind: themes
     name: 😈Doom Bots 2025 Borders😈
@@ -144,7 +326,7 @@ listings:
     releaseUrl: https://github.com/Yimikami/pengu-plugins/releases/tag/PenguFamily_v0.1.0
     releaseTag: PenguFamily_v0.1.0
     releaseName: Pengu Family v0.1.0
-    image: https://media.discordapp.net/attachments/1411366905247170621/1411743618388983931/image.png?ex=6a0be173&is=6a0a8ff3&hm=2b7b2fa779f5d0aee7a5deb1fb32274be94d1070e01ec22241c9cbb1fb5b6b99&
+    image: https://media.discordapp.net/attachments/1411366905247170621/1411743618388983931/image.png?ex=6a0c8a33&is=6a0b38b3&hm=d5b4f090ceb7faf3fb181cd3e68aa26fb02ae00c71ac0ce313409afc8b1c96a2&
     author:
       name: Yimikami
       avatar: https://avatars.githubusercontent.com/u/39545057?v=4
@@ -290,7 +472,7 @@ listings:
       League of Legends client using Pengu Loader. This project consists of two
       parts: a local Node.js authentication server and a client-side plugin."
     repo: https://github.com/GogoChad/spotify-media-player
-    image: https://media.discordapp.net/attachments/1499090537427243129/1499090537792143492/image.png?ex=6a0bec1b&is=6a0a9a9b&hm=c7c2aed69926acfc7a916e69463b1d92b99a447a167b0580af6ead1ed108cb15&
+    image: https://media.discordapp.net/attachments/1499090537427243129/1499090537792143492/image.png?ex=6a0c94db&is=6a0b435b&hm=3c179067932d5313f29d99075e82821287378765d11ae2271b5227b99b398294&
     author:
       name: GogoChad
       avatar: https://avatars.githubusercontent.com/u/133820564?v=4
@@ -769,140 +951,6 @@ listings:
       - name: blackjack.zip
         size: 28317
         downloadUrl: https://github.com/Mixiruri/BlackJack-Pengu/releases/download/v2.0/blackjack.zip
-        contentType: application/x-zip-compressed
-    enriched: true
-  - id: "1373696348284653628"
-    kind: themes
-    name: Elaina theme
-    description: Elaina theme for Pengu loader
-    details: "### **Don't know how to install ? Read
-      [this](https://github.com/Elaina69/Elaina-theme/wiki/1.-Installation)**\r
-
-      \r
-
-      - Added more Regex to check for user-entered filenames.\r
-
-      - Added custom summoner level\r
-
-      - Increased the time before the Audio Controller hides\r
-
-      - Custom champion icons now work for all champions, and also appear in
-      more places\r
-
-      - Fixed custom icons not appearing correctly on profile tab\r
-
-      - Fixed update message not showing properly\r
-
-      - Removed Dodge Button\r
-
-      \r
-
-      ### **IF you already install previous version (v4.4.2 or v4.4.2-hotfix),
-      download update-file.zip file, extract and replace the current one with
-      it**\r
-
-      After update, you should delete old cache:\r
-
-      1, Open DevTools (Ctrl + Shift + i)\r
-
-      2, Choose \"Network\" tab\r
-
-      3, Tick \"Disable Cache\" checkbox\r
-
-      4, Press Ctrl + Shift +  R to finish the process"
-    repo: https://github.com/Elaina69/Elaina-theme
-    releaseUrl: https://github.com/Elaina69/Elaina-theme/releases/tag/v4.4.3
-    releaseTag: v4.4.3
-    releaseName: ""
-    image: https://media.discordapp.net/attachments/1373696348284653628/1373696348653617315/fh98jYI.png?ex=6a0be4ab&is=6a0a932b&hm=d9e2c80d3d47d33ed76a2464fd78d4580a5f13b56cf93740408c88af3fab2567&
-    author:
-      name: Elaina69
-      avatar: https://avatars.githubusercontent.com/u/94338907?v=4
-      github: Elaina69
-    tags:
-      - Customizable
-      - Animated
-      - Transparent
-      - Anime
-      - Sound
-    discordUrl: https://discord.com/channels/1069483280438673418/1373696348284653628/1373696348284653628
-    upvotes: 13
-    updatedAt: 2026-03-30T03:39:31Z
-    assets:
-      - name: ElainaV4.zip
-        size: 130003820
-        downloadUrl: https://github.com/Elaina69/Elaina-theme/releases/download/v4.4.3/ElainaV4.zip
-        contentType: application/x-zip-compressed
-      - name: update-file.zip
-        size: 95118
-        downloadUrl: https://github.com/Elaina69/Elaina-theme/releases/download/v4.4.3/update-file.zip
-        contentType: application/x-zip-compressed
-    enriched: true
-  - id: "1078464593791307777"
-    kind: themes
-    name: ElainaV4
-    description: Elaina theme for Pengu loader
-    details: "### **Don't know how to install ? Read
-      [this](https://github.com/Elaina69/Elaina-theme/wiki/1.-Installation)**\r
-
-      \r
-
-      - Added more Regex to check for user-entered filenames.\r
-
-      - Added custom summoner level\r
-
-      - Increased the time before the Audio Controller hides\r
-
-      - Custom champion icons now work for all champions, and also appear in
-      more places\r
-
-      - Fixed custom icons not appearing correctly on profile tab\r
-
-      - Fixed update message not showing properly\r
-
-      - Removed Dodge Button\r
-
-      \r
-
-      ### **IF you already install previous version (v4.4.2 or v4.4.2-hotfix),
-      download update-file.zip file, extract and replace the current one with
-      it**\r
-
-      After update, you should delete old cache:\r
-
-      1, Open DevTools (Ctrl + Shift + i)\r
-
-      2, Choose \"Network\" tab\r
-
-      3, Tick \"Disable Cache\" checkbox\r
-
-      4, Press Ctrl + Shift +  R to finish the process"
-    repo: https://github.com/Elaina69/Elaina-theme
-    releaseUrl: https://github.com/Elaina69/Elaina-theme/releases/tag/v4.4.3
-    releaseTag: v4.4.3
-    releaseName: ""
-    image: https://media.discordapp.net/attachments/1078464593791307777/1078464594055544942/image.png?ex=6a0c4f2c&is=6a0afdac&hm=adbc0a0b1611f7f11d681e5d9cd953ae15446d4ea2d45d4981ed33c23fcbd1dd&
-    author:
-      name: Elaina69
-      avatar: https://avatars.githubusercontent.com/u/94338907?v=4
-      github: Elaina69
-    tags:
-      - Customizable
-      - Animated
-      - Sound
-      - Anime
-      - Transparent
-    discordUrl: https://discord.com/channels/1069483280438673418/1078464593791307777/1078464593791307777
-    upvotes: 60
-    updatedAt: 2026-03-30T03:39:31Z
-    assets:
-      - name: ElainaV4.zip
-        size: 130003820
-        downloadUrl: https://github.com/Elaina69/Elaina-theme/releases/download/v4.4.3/ElainaV4.zip
-        contentType: application/x-zip-compressed
-      - name: update-file.zip
-        size: 95118
-        downloadUrl: https://github.com/Elaina69/Elaina-theme/releases/download/v4.4.3/update-file.zip
         contentType: application/x-zip-compressed
     enriched: true
   - id: "1487535639128965121"
@@ -1462,11 +1510,11 @@ listings:
         contentType: application/javascript; charset=utf-8
       - name: oldMasteryIcons.js
         size: 11497
-        downloadUrl: https://cdn.discordapp.com/attachments/1414553304259760148/1414642890965254326/oldMasteryIcons.js?ex=6a0be19c&is=6a0a901c&hm=591fce788f1b88d754a1a34eb8e736838b7063dab7db05995e711f983098331d&
+        downloadUrl: https://cdn.discordapp.com/attachments/1414553304259760148/1414642890965254326/oldMasteryIcons.js?ex=6a0c8a5c&is=6a0b38dc&hm=b0d583d73cb1e15f0526bfd9c27b55692f76b7d5bf4de45380031d90d4534346&
         contentType: application/javascript; charset=utf-8
       - name: oldMasteryIcons.js
         size: 9545
-        downloadUrl: https://cdn.discordapp.com/attachments/1414553304259760148/1414659601575579780/oldMasteryIcons.js?ex=6a0bf12c&is=6a0a9fac&hm=3daa0c2cdf4a4d34974ff0087011b1fee50b4712f1197a70bd8e915f792084f0&
+        downloadUrl: https://cdn.discordapp.com/attachments/1414553304259760148/1414659601575579780/oldMasteryIcons.js?ex=6a0c99ec&is=6a0b486c&hm=7c60347cde8b4c5e60a07308aaeaa24bc2d331d3451437fc5a5d1dd73a3db32a&
         contentType: application/javascript; charset=utf-8
     enriched: true
   - id: "1322710156173250601"
@@ -1683,7 +1731,7 @@ listings:
     releaseUrl: https://github.com/kyso1/KysoTheme/releases/tag/v2.0
     releaseTag: v2.0
     releaseName: v2.0 (new client configs and new functionalities!
-    image: https://media.discordapp.net/attachments/1240541534663868426/1240541534869262376/image.png?ex=6a0bf9d6&is=6a0aa856&hm=b9c5d384ea12e7e6686cfdbe933b81af1e94db726eed3eb1d21e60127ffec7e7&
+    image: https://media.discordapp.net/attachments/1240541534663868426/1240541534869262376/image.png?ex=6a0ca296&is=6a0b5116&hm=f177a83d98fa4c96dda9983de48a8c9a763d76b2a591cd278ff2c7b13c880423&
     author:
       name: kyso1
       avatar: https://avatars.githubusercontent.com/u/128049220?v=4
@@ -1759,7 +1807,7 @@ listings:
     name: ScarletRed
     description: ScarletRed theme ( Original from ElainaV3) for Pengu loader
     repo: https://github.com/R3mia/ScarletRed
-    image: https://media.discordapp.net/attachments/1183799859342483476/1183799859707379803/image.png?ex=6a0bdfc8&is=6a0a8e48&hm=1475ce8106d6453baa68bd84277f448d3cdce04e4af5ea47c90bc23a03d83ddf&
+    image: https://media.discordapp.net/attachments/1183799859342483476/1183799859707379803/image.png?ex=6a0c8888&is=6a0b3708&hm=51fff8b1490f3acf50d8368c94adebe2c085feed390593a31366826f09c22bf1&
     author:
       name: R3mia
       avatar: https://avatars.githubusercontent.com/u/72246166?v=4
@@ -1986,7 +2034,7 @@ listings:
     releaseUrl: https://github.com/FreeAtorio/ISAKV1/releases/tag/releaseV1.5.2
     releaseTag: releaseV1.5.2
     releaseName: V1.5.2
-    image: https://media.discordapp.net/attachments/1192514758121885868/1192514759271125153/image.png?ex=6a0bf02a&is=6a0a9eaa&hm=77b0cd3750f6c4a535f6c4a3b01ef2ad5a7050da291942090bfdc0161d9ea69e&
+    image: https://media.discordapp.net/attachments/1192514758121885868/1192514759271125153/image.png?ex=6a0c98ea&is=6a0b476a&hm=98d0fcea5b9215a5a4257eda8e0086c16eaef55da88c509fdc9f1d71e44c5939&
     author:
       name: FreeAtorio
       avatar: https://avatars.githubusercontent.com/u/48484697?v=4
