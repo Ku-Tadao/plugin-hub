@@ -1,7 +1,7 @@
 {
   "name": "Pengu Community Store registry",
   "version": 1,
-  "generatedAt": "2026-05-23T04:25:17.030Z",
+  "generatedAt": "2026-05-23T07:14:54.410Z",
   "source": {
     "guildId": "1069483280438673418",
     "forums": [
@@ -26,7 +26,7 @@
       "releaseUrl": "https://github.com/kyso1/KysoTheme/releases/tag/v3.0",
       "releaseTag": "v3.0",
       "releaseName": "KysoTheme V3",
-      "image": "https://media.discordapp.net/attachments/1240541534663868426/1240541534869262376/image.png?ex=6a11e896&is=6a109716&hm=7b1b3804ff87bf6cc35e4278a9e4677053020b58e310b1c51cc4dc923dbb5d67&",
+      "image": "https://media.discordapp.net/attachments/1240541534663868426/1240541534869262376/image.png?ex=6a129156&is=6a113fd6&hm=8d00607cd6f34708a8a5604bf63028c938ecfc77d93c746a18bd7aae76b6c5ca&",
       "author": {
         "name": "kyso1",
         "avatar": "https://avatars.githubusercontent.com/u/128049220?v=4",
@@ -409,6 +409,29 @@
       "enriched": true
     },
     {
+      "id": "1357311907492794572",
+      "kind": "themes",
+      "name": "Wallpaper Engine for LoL activityCenter",
+      "description": "Using Wallpaper Engine web wallpaper as activityCenter's background for League of Legends",
+      "repo": "https://github.com/Elaina69/Wallpaper-Engine-for-LoL-activityCenter",
+      "image": "https://opengraph.githubassets.com/pengu/Elaina69/Wallpaper-Engine-for-LoL-activityCenter",
+      "author": {
+        "name": "Elaina69",
+        "avatar": "https://avatars.githubusercontent.com/u/94338907?v=4",
+        "github": "Elaina69"
+      },
+      "tags": [
+        "Customizable",
+        "Animated",
+        "Sound"
+      ],
+      "discordUrl": "https://discord.com/channels/1069483280438673418/1357311907492794572/1357311907492794572",
+      "upvotes": 7,
+      "updatedAt": "2026-05-10T07:15:00Z",
+      "assets": [],
+      "enriched": true
+    },
+    {
       "id": "1500282612084768848",
       "kind": "plugins",
       "name": "league-lean — meta tier list + auto rune/build apply + post-game op.gg, all in one sidebar",
@@ -489,7 +512,7 @@
       "name": "Spotify Controller - In-game playback controls",
       "description": "A lightweight Spotify controller integrated directly into the League of Legends client using Pengu Loader. This project consists of two parts: a local Node.js authentication server and a client-side plugin.",
       "repo": "https://github.com/GogoChad/spotify-media-player",
-      "image": "https://media.discordapp.net/attachments/1499090537427243129/1499090537792143492/image.png?ex=6a11dadb&is=6a10895b&hm=ef48127c6bc9992b5ebf94b69591c440a3446b902f50730b37e20df4556ad5a5&",
+      "image": "https://media.discordapp.net/attachments/1499090537427243129/1499090537792143492/image.png?ex=6a12839b&is=6a11321b&hm=2119bdab03aecb7ee6ad04362894635bd93c7ebd1017d5d64c7e0bb589b8991c&",
       "author": {
         "name": "GogoChad",
         "avatar": "https://avatars.githubusercontent.com/u/133820564?v=4",
@@ -871,7 +894,7 @@
       "releaseUrl": "https://github.com/cuongnguyen207/phrolova-theme-lol/releases/tag/Phrolova-theme-lol",
       "releaseTag": "Phrolova-theme-lol",
       "releaseName": "Custome Themes 1.0",
-      "image": "https://media.discordapp.net/attachments/1486800653685620884/1486800654344261813/image.png?ex=6a11f803&is=6a10a683&hm=b6074ed18c8861f0c3a6e7c1b2f64208724f31b5523433e6fbc2d48cbf4cb37c&",
+      "image": "https://media.discordapp.net/attachments/1486800653685620884/1486800654344261813/image.png?ex=6a12a0c3&is=6a114f43&hm=d9227e18ad5724bc049ab87484dd0071f49f43092cc51dcea11747856efc6915&",
       "author": {
         "name": "cuongnguyen207",
         "avatar": "https://avatars.githubusercontent.com/u/213099361?v=4",
@@ -1039,7 +1062,7 @@
         {
           "name": "Hide_Nonsense2.js",
           "size": 8079,
-          "downloadUrl": "https://cdn.discordapp.com/attachments/1395902555095171225/1440040589490917507/Hide_Nonsense2.js?ex=6a11eccf&is=6a109b4f&hm=b7011a9cf96e5f03e6a7bd8400fde835e85565de07ab93881745f1071cf778c8&",
+          "downloadUrl": "https://cdn.discordapp.com/attachments/1395902555095171225/1440040589490917507/Hide_Nonsense2.js?ex=6a12958f&is=6a11440f&hm=054f45e6bc22f883608e6902b226056e4de1261b7c2bf359f193ddbc1e76710b&",
           "contentType": "text/javascript; charset=utf-8"
         }
       ],
@@ -1140,7 +1163,7 @@
       "name": "Balaclava Plugins! [13/05/2026]",
       "description": "My plugins for Pengu Loader! :)",
       "repo": "https://github.com/controlado/pengu-plugins",
-      "image": "https://media.discordapp.net/attachments/1109009446023217193/1110094360390946908/ezgif-2-9ed966a32e.png?ex=6a11f430&is=6a10a2b0&hm=c955ef18e3d771674af6a477d61d3cdd33fc54276f2faed2c3f29a072b8470d5&",
+      "image": "https://media.discordapp.net/attachments/1109009446023217193/1110094360390946908/ezgif-2-9ed966a32e.png?ex=6a129cf0&is=6a114b70&hm=f6a0b48f57fcdc9762f3b3c26aceda1dcb1b746d3ba67eb25e573fd116b60d22&",
       "author": {
         "name": "controlado",
         "avatar": "https://avatars.githubusercontent.com/u/71716568?v=4",
@@ -1334,7 +1357,7 @@
         {
           "name": "oldMasteryIcons.js",
           "size": 9545,
-          "downloadUrl": "https://cdn.discordapp.com/attachments/1414553304259760148/1414659601575579780/oldMasteryIcons.js?ex=6a11dfec&is=6a108e6c&hm=0dad0c4934d04517f975e3de2c591b42921d2c441712fe36d696f10e948f7f5f&",
+          "downloadUrl": "https://cdn.discordapp.com/attachments/1414553304259760148/1414659601575579780/oldMasteryIcons.js?ex=6a1288ac&is=6a11372c&hm=a1c79f0c2e7c5910a0062864184b61436c244aa9e624539a801fd29d58746dd8&",
           "contentType": "application/javascript; charset=utf-8"
         }
       ],
@@ -1531,40 +1554,6 @@
       "upvotes": 6,
       "updatedAt": "2025-04-25T13:01:18Z",
       "assets": [],
-      "enriched": true
-    },
-    {
-      "id": "1357311907492794572",
-      "kind": "themes",
-      "name": "Wallpaper Engine for LoL activityCenter",
-      "description": "Using Wallpaper Engine web wallpaper as activityCenter's background for League of Legends",
-      "details": "First release",
-      "repo": "https://github.com/Elaina69/Wallpaper-Engine-for-LoL-activityCenter",
-      "releaseUrl": "https://github.com/Elaina69/Wallpaper-Engine-for-LoL-activityCenter/releases/tag/v1.0.0",
-      "releaseTag": "v1.0.0",
-      "releaseName": "",
-      "image": "https://opengraph.githubassets.com/pengu/Elaina69/Wallpaper-Engine-for-LoL-activityCenter",
-      "author": {
-        "name": "Elaina69",
-        "avatar": "https://avatars.githubusercontent.com/u/94338907?v=4",
-        "github": "Elaina69"
-      },
-      "tags": [
-        "Customizable",
-        "Animated",
-        "Sound"
-      ],
-      "discordUrl": "https://discord.com/channels/1069483280438673418/1357311907492794572/1357311907492794572",
-      "upvotes": 7,
-      "updatedAt": "2025-04-03T11:14:16Z",
-      "assets": [
-        {
-          "name": "wallpaperengineactivitycenter.zip",
-          "size": 2724,
-          "downloadUrl": "https://github.com/Elaina69/Wallpaper-Engine-for-LoL-activityCenter/releases/download/v1.0.0/wallpaperengineactivitycenter.zip",
-          "contentType": "application/x-zip-compressed"
-        }
-      ],
       "enriched": true
     },
     {
@@ -1844,7 +1833,7 @@
       "releaseUrl": "https://github.com/FreeAtorio/ISAKV1/releases/tag/releaseV1.5.2",
       "releaseTag": "releaseV1.5.2",
       "releaseName": "V1.5.2",
-      "image": "https://media.discordapp.net/attachments/1192514758121885868/1192514759271125153/image.png?ex=6a11deea&is=6a108d6a&hm=354c3634d4f4279dd0ee847d23114b15afe9cf1d078db8e85532aa3d63bd0f95&",
+      "image": "https://media.discordapp.net/attachments/1192514758121885868/1192514759271125153/image.png?ex=6a1287aa&is=6a11362a&hm=60329671cae37271c465ef5209f6738290eb6168f2e6eba268f61b4c42435d8d&",
       "author": {
         "name": "FreeAtorio",
         "avatar": "https://avatars.githubusercontent.com/u/48484697?v=4",
@@ -1874,7 +1863,7 @@
       "releaseUrl": "https://github.com/oMaikeru/PureBlack-Theme/releases/tag/v0.4",
       "releaseTag": "v0.4",
       "releaseName": "v0.4",
-      "image": "https://media.discordapp.net/attachments/1107021081207914566/1107021081442783242/black-theme.PNG?ex=6a11fab9&is=6a10a939&hm=79a470b7879dd556690b2fda3c9dc67b6072508ed8634d4d708ea73a1dbac419&",
+      "image": "https://media.discordapp.net/attachments/1107021081207914566/1107021081442783242/black-theme.PNG?ex=6a12a379&is=6a1151f9&hm=54707a1a1168316476880daa03988b020e45b3ea458152a97ab11d24e10072e9&",
       "author": {
         "name": "oMaikeru",
         "avatar": "https://avatars.githubusercontent.com/u/76801149?v=4",
