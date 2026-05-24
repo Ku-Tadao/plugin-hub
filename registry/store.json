@@ -1,7 +1,7 @@
 {
   "name": "Pengu Community Store registry",
   "version": 1,
-  "generatedAt": "2026-05-24T18:07:24.807Z",
+  "generatedAt": "2026-05-24T19:47:04.308Z",
   "source": {
     "guildId": "1069483280438673418",
     "forums": [
@@ -781,7 +781,7 @@
         {
           "name": "removecrystal.js",
           "size": 1126,
-          "downloadUrl": "https://cdn.discordapp.com/attachments/1487535639128965121/1487535639883944108/removecrystal.js?ex=6a13fbc5&is=6a12aa45&hm=40766d7e3dc6859bbe0e524307882c110878c5bbb97da313c9b54bf2f548cd0d&",
+          "downloadUrl": "https://cdn.discordapp.com/attachments/1487535639128965121/1487535639883944108/removecrystal.js?ex=6a14a485&is=6a135305&hm=404b27ca38a5a83ceb490a5c97107ccc9fc97b6bc6d55b51c2c778b30bb63911&",
           "contentType": "text/javascript; charset=utf-8"
         }
       ],
@@ -814,7 +814,7 @@
       "kind": "plugins",
       "name": "LoLBackgroundUnlocker",
       "description": "Unlock all backgrounds easily. Just press the background picker button, and you'll be able to choose any skin you like, as if you owned them all Source: < Download is below, not the source ⬇️ ⬇️ ⬇️",
-      "image": "https://media.discordapp.net/attachments/1311415707371700345/1311415707568836809/image.png?ex=6a13fc4d&is=6a12aacd&hm=8a8b40fca9b37ddabdeb159d31782f8a875878c3a85a31e2a88c864e64de79d8&",
+      "image": "https://media.discordapp.net/attachments/1311415707371700345/1311415707568836809/image.png?ex=6a14a50d&is=6a13538d&hm=2f94a60be4f320804e5ca28af1b074946d86294a4652d765aae9cae596214867&",
       "author": {
         "name": "kebs"
       },
@@ -830,7 +830,7 @@
         {
           "name": "LoLBackgroundUnlocker.js",
           "size": 6216,
-          "downloadUrl": "https://cdn.discordapp.com/attachments/1311415707371700345/1311415708143583355/LoLBackgroundUnlocker.js?ex=6a13fc4d&is=6a12aacd&hm=286de10e3c6a7abd6aa86929cb40c1f8bfd3d6e3d54f484b738e1eae22e1dfd3&",
+          "downloadUrl": "https://cdn.discordapp.com/attachments/1311415707371700345/1311415708143583355/LoLBackgroundUnlocker.js?ex=6a14a50d&is=6a13538d&hm=f04094c7432e8624cef7a3173785bd177e97163a8c519fe3083c6618ba1f6432&",
           "contentType": "application/javascript; charset=utf-8"
         }
       ],
@@ -871,7 +871,7 @@
       "releaseUrl": "https://github.com/cuongnguyen207/phrolova-theme-lol/releases/tag/Phrolova-theme-lol",
       "releaseTag": "Phrolova-theme-lol",
       "releaseName": "Custome Themes 1.0",
-      "image": "https://media.discordapp.net/attachments/1486800653685620884/1486800654344261813/image.png?ex=6a13f243&is=6a12a0c3&hm=2693597bb4279138013c829433130141bfdad1923d53e5023c0a50b2a4d7dc82&",
+      "image": "https://media.discordapp.net/attachments/1486800653685620884/1486800654344261813/image.png?ex=6a149b03&is=6a134983&hm=2c1e4bd03fc9d72ab7605c4839f60b0f043bf050d9afcd81e0d174794f971cca&",
       "author": {
         "name": "cuongnguyen207",
         "avatar": "https://avatars.githubusercontent.com/u/213099361?v=4",
@@ -1039,7 +1039,7 @@
         {
           "name": "Hide_Nonsense2.js",
           "size": 8079,
-          "downloadUrl": "https://cdn.discordapp.com/attachments/1395902555095171225/1440040589490917507/Hide_Nonsense2.js?ex=6a13e70f&is=6a12958f&hm=3c83fdf51605fdaa99970b4cdbe59fed0ae3aa2ee9be1c4ee2066f1e3250dc45&",
+          "downloadUrl": "https://cdn.discordapp.com/attachments/1395902555095171225/1440040589490917507/Hide_Nonsense2.js?ex=6a148fcf&is=6a133e4f&hm=97c51d26f8487cd044c8469e9922ce7471b4296cb5e40289f193a91801a9372c&",
           "contentType": "text/javascript; charset=utf-8"
         }
       ],
@@ -1140,7 +1140,7 @@
       "name": "Balaclava Plugins! [13/05/2026]",
       "description": "My plugins for Pengu Loader! :)",
       "repo": "https://github.com/controlado/pengu-plugins",
-      "image": "https://media.discordapp.net/attachments/1109009446023217193/1110094360390946908/ezgif-2-9ed966a32e.png?ex=6a13ee70&is=6a129cf0&hm=53305400c2d8a63f87c33f7c634ebd5a1dab0731f4a06ffef7153a8b9dd15b5c&",
+      "image": "https://media.discordapp.net/attachments/1109009446023217193/1110094360390946908/ezgif-2-9ed966a32e.png?ex=6a149730&is=6a1345b0&hm=1deaeb84e88d7cb336b225b90ac13321c984b915eb0619a3de8797e12a99a933&",
       "author": {
         "name": "controlado",
         "avatar": "https://avatars.githubusercontent.com/u/71716568?v=4",
@@ -1874,7 +1874,7 @@
       "releaseUrl": "https://github.com/oMaikeru/PureBlack-Theme/releases/tag/v0.4",
       "releaseTag": "v0.4",
       "releaseName": "v0.4",
-      "image": "https://media.discordapp.net/attachments/1107021081207914566/1107021081442783242/black-theme.PNG?ex=6a13f4f9&is=6a12a379&hm=2fa0ad1dcd389555af62721cc1050b6f17b89c5a5c988488ca5bbd1ded4b7c47&",
+      "image": "https://media.discordapp.net/attachments/1107021081207914566/1107021081442783242/black-theme.PNG?ex=6a149db9&is=6a134c39&hm=44c8dec088f824ecea22f89130813d2a5f374b406b499c75830422a504385a7c&",
       "author": {
         "name": "oMaikeru",
         "avatar": "https://avatars.githubusercontent.com/u/76801149?v=4",
