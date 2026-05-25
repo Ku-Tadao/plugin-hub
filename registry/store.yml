@@ -1,6 +1,6 @@
 name: Pengu Community Store registry
 version: 1
-generatedAt: 2026-05-25T09:12:03.173Z
+generatedAt: 2026-05-25T12:48:59.341Z
 source:
   guildId: "1069483280438673418"
   forums:
@@ -9,6 +9,154 @@ source:
     - kind: themes
       channelId: "1077886317364523072"
 listings:
+  - id: "1373696348284653628"
+    kind: themes
+    name: Elaina theme
+    description: Elaina theme for Pengu loader
+    details: "### **Don't know how to install ? Read
+      [this](https://github.com/Elaina69/Elaina-theme/wiki/Installation-instruc\
+      tions)**\r
+
+      \r
+
+      - Add Auto accept delay (default: 0 ms)\r
+
+      \r
+
+      - Add theme languague dropdown\r
+
+      \r
+
+      - Add google font option for custom font\r
+
+      \r
+
+      - Fix custom name color bug when using with name spoofer\r
+
+      \r
+
+      - Update css\r
+
+      \r
+
+      - Allows syncing custom icons for people who are not friends of the user\r
+
+      \r
+
+      ### **IF you already install previous version (v4.5.0), download
+      update-file.zip file, extract and replace the current one with it**\r
+
+      After update, you should delete old cache:\r
+
+      1, Open DevTools (Ctrl + Shift + i)\r
+
+      2, Choose \"Network\" tab\r
+
+      3, Tick \"Disable Cache\" checkbox\r
+
+      4, Press Ctrl + Shift +  R to finish the process"
+    repo: https://github.com/Elaina69/Elaina-theme
+    releaseUrl: https://github.com/Elaina69/Elaina-theme/releases/tag/v4.5.1
+    releaseTag: v4.5.1
+    releaseName: ""
+    image: https://media.discordapp.net/attachments/1373696348284653628/1373696348653617315/fh98jYI.png?ex=6a151f2b&is=6a13cdab&hm=5a9ca1be0082fbe3fa2ca57e383f4b5d2b2edb39435a18a3cab3fd33690d2d84&
+    author:
+      name: Elaina69
+      avatar: https://avatars.githubusercontent.com/u/94338907?v=4
+      github: Elaina69
+    tags:
+      - Customizable
+      - Animated
+      - Transparent
+      - Anime
+      - Sound
+    discordUrl: https://discord.com/channels/1069483280438673418/1373696348284653628/1373696348284653628
+    upvotes: 13
+    updatedAt: 2026-05-25T09:33:12Z
+    assets:
+      - name: ElainaV4.zip
+        size: 130018222
+        downloadUrl: https://github.com/Elaina69/Elaina-theme/releases/download/v4.5.1/ElainaV4.zip
+        contentType: application/x-zip-compressed
+      - name: update-file.zip
+        size: 114031
+        downloadUrl: https://github.com/Elaina69/Elaina-theme/releases/download/v4.5.1/update-file.zip
+        contentType: application/x-zip-compressed
+    enriched: true
+  - id: "1078464593791307777"
+    kind: themes
+    name: ElainaV4
+    description: Elaina theme for Pengu loader
+    details: "### **Don't know how to install ? Read
+      [this](https://github.com/Elaina69/Elaina-theme/wiki/Installation-instruc\
+      tions)**\r
+
+      \r
+
+      - Add Auto accept delay (default: 0 ms)\r
+
+      \r
+
+      - Add theme languague dropdown\r
+
+      \r
+
+      - Add google font option for custom font\r
+
+      \r
+
+      - Fix custom name color bug when using with name spoofer\r
+
+      \r
+
+      - Update css\r
+
+      \r
+
+      - Allows syncing custom icons for people who are not friends of the user\r
+
+      \r
+
+      ### **IF you already install previous version (v4.5.0), download
+      update-file.zip file, extract and replace the current one with it**\r
+
+      After update, you should delete old cache:\r
+
+      1, Open DevTools (Ctrl + Shift + i)\r
+
+      2, Choose \"Network\" tab\r
+
+      3, Tick \"Disable Cache\" checkbox\r
+
+      4, Press Ctrl + Shift +  R to finish the process"
+    repo: https://github.com/Elaina69/Elaina-theme
+    releaseUrl: https://github.com/Elaina69/Elaina-theme/releases/tag/v4.5.1
+    releaseTag: v4.5.1
+    releaseName: ""
+    image: https://media.discordapp.net/attachments/1078464593791307777/1078464594055544942/image.png?ex=6a1589ac&is=6a14382c&hm=548d2a7898799a5c0df5f1e4c2c986a16b38948b554f6963fb211a3e282ccdae&
+    author:
+      name: Elaina69
+      avatar: https://avatars.githubusercontent.com/u/94338907?v=4
+      github: Elaina69
+    tags:
+      - Customizable
+      - Animated
+      - Sound
+      - Anime
+      - Transparent
+    discordUrl: https://discord.com/channels/1069483280438673418/1078464593791307777/1078464593791307777
+    upvotes: 60
+    updatedAt: 2026-05-25T09:33:12Z
+    assets:
+      - name: ElainaV4.zip
+        size: 130018222
+        downloadUrl: https://github.com/Elaina69/Elaina-theme/releases/download/v4.5.1/ElainaV4.zip
+        contentType: application/x-zip-compressed
+      - name: update-file.zip
+        size: 114031
+        downloadUrl: https://github.com/Elaina69/Elaina-theme/releases/download/v4.5.1/update-file.zip
+        contentType: application/x-zip-compressed
+    enriched: true
   - id: "1240541534663868426"
     kind: themes
     name: Kyso Clean Theme v2.0
@@ -85,190 +233,6 @@ listings:
     upvotes: 5
     updatedAt: 2026-05-20T06:44:13.075Z
     assets: []
-    enriched: true
-  - id: "1373696348284653628"
-    kind: themes
-    name: Elaina theme
-    description: Elaina theme for Pengu loader
-    details: "### **Don't know how to install ? Read
-      [this](https://github.com/Elaina69/Elaina-theme/wiki/Installation-instruc\
-      tions)**\r
-
-      \r
-
-      - From Pengu 1.2.0 Beta test, theme will use PluginFS to store user's
-      data:\r
-
-      \  - For no PluginFS pengu versions, theme will still use default
-      DataStore\r
-
-      \  - For PluginFS pengu versions, user's data will be stored in
-      ./data/ElainaData/json, old data from DataStore will auto migrate to new
-      ElainaData\r
-
-      \r
-
-      - Added \"Disable theme wallpaper\" option\r
-
-      - Added \"Hide gamemodes\" option\r
-
-      - Added \"Window effect\" option (Only available after enabling \"Disable
-      theme wallpaper\" option)\r
-
-      - Re-designed settings UI\r
-
-      - Sanitized HTML/colors\r
-
-      - Faster sync users icons (for Pengu 1.2.0+)\r
-
-      - Updated custom avatar in TFT and Arena lobby\r
-
-      - Allowed users to copy wallpaper/audio/banner/font files name inside
-      theme settings\r
-
-      - Theme now auto detect wallpaper/audio/banner/font lists (for Pengu
-      1.2.0+)\r
-
-      - The homepage navigation bar will be hidden by default\r
-
-      - No longer forced client restarts when installing themes for the first
-      time or deleting data.\r
-
-      - No longer auto play wallpaper and audio after enable theme's
-      wallpaper/audio\r
-
-      - Removed \"Aram only mode\" plugin\r
-
-      - Removed \"Custom practice lobby\" button\r
-
-      \r
-
-      ### **Sorry, you have to fresh install this version 😭**\r
-
-      After update, you should delete old cache:\r
-
-      1, Open DevTools (Ctrl + Shift + i)\r
-
-      2, Choose \"Network\" tab\r
-
-      3, Tick \"Disable Cache\" checkbox\r
-
-      4, Press Ctrl + Shift +  R to finish the process"
-    repo: https://github.com/Elaina69/Elaina-theme
-    releaseUrl: https://github.com/Elaina69/Elaina-theme/releases/tag/v4.5.0
-    releaseTag: v4.5.0
-    releaseName: ""
-    image: https://media.discordapp.net/attachments/1373696348284653628/1373696348653617315/fh98jYI.png?ex=6a151f2b&is=6a13cdab&hm=5a9ca1be0082fbe3fa2ca57e383f4b5d2b2edb39435a18a3cab3fd33690d2d84&
-    author:
-      name: Elaina69
-      avatar: https://avatars.githubusercontent.com/u/94338907?v=4
-      github: Elaina69
-    tags:
-      - Customizable
-      - Animated
-      - Transparent
-      - Anime
-      - Sound
-    discordUrl: https://discord.com/channels/1069483280438673418/1373696348284653628/1373696348284653628
-    upvotes: 13
-    updatedAt: 2026-05-18T17:45:14Z
-    assets:
-      - name: ElainaV4.zip
-        size: 130012348
-        downloadUrl: https://github.com/Elaina69/Elaina-theme/releases/download/v4.5.0/ElainaV4.zip
-        contentType: application/x-zip-compressed
-    enriched: true
-  - id: "1078464593791307777"
-    kind: themes
-    name: ElainaV4
-    description: Elaina theme for Pengu loader
-    details: "### **Don't know how to install ? Read
-      [this](https://github.com/Elaina69/Elaina-theme/wiki/Installation-instruc\
-      tions)**\r
-
-      \r
-
-      - From Pengu 1.2.0 Beta test, theme will use PluginFS to store user's
-      data:\r
-
-      \  - For no PluginFS pengu versions, theme will still use default
-      DataStore\r
-
-      \  - For PluginFS pengu versions, user's data will be stored in
-      ./data/ElainaData/json, old data from DataStore will auto migrate to new
-      ElainaData\r
-
-      \r
-
-      - Added \"Disable theme wallpaper\" option\r
-
-      - Added \"Hide gamemodes\" option\r
-
-      - Added \"Window effect\" option (Only available after enabling \"Disable
-      theme wallpaper\" option)\r
-
-      - Re-designed settings UI\r
-
-      - Sanitized HTML/colors\r
-
-      - Faster sync users icons (for Pengu 1.2.0+)\r
-
-      - Updated custom avatar in TFT and Arena lobby\r
-
-      - Allowed users to copy wallpaper/audio/banner/font files name inside
-      theme settings\r
-
-      - Theme now auto detect wallpaper/audio/banner/font lists (for Pengu
-      1.2.0+)\r
-
-      - The homepage navigation bar will be hidden by default\r
-
-      - No longer forced client restarts when installing themes for the first
-      time or deleting data.\r
-
-      - No longer auto play wallpaper and audio after enable theme's
-      wallpaper/audio\r
-
-      - Removed \"Aram only mode\" plugin\r
-
-      - Removed \"Custom practice lobby\" button\r
-
-      \r
-
-      ### **Sorry, you have to fresh install this version 😭**\r
-
-      After update, you should delete old cache:\r
-
-      1, Open DevTools (Ctrl + Shift + i)\r
-
-      2, Choose \"Network\" tab\r
-
-      3, Tick \"Disable Cache\" checkbox\r
-
-      4, Press Ctrl + Shift +  R to finish the process"
-    repo: https://github.com/Elaina69/Elaina-theme
-    releaseUrl: https://github.com/Elaina69/Elaina-theme/releases/tag/v4.5.0
-    releaseTag: v4.5.0
-    releaseName: ""
-    image: https://media.discordapp.net/attachments/1078464593791307777/1078464594055544942/image.png?ex=6a14e0ec&is=6a138f6c&hm=690d75eb4589465977ab4b3bb88dde21ad07fb408b4ab60e19ec230b6b9f299a&
-    author:
-      name: Elaina69
-      avatar: https://avatars.githubusercontent.com/u/94338907?v=4
-      github: Elaina69
-    tags:
-      - Customizable
-      - Animated
-      - Sound
-      - Anime
-      - Transparent
-    discordUrl: https://discord.com/channels/1069483280438673418/1078464593791307777/1078464593791307777
-    upvotes: 60
-    updatedAt: 2026-05-18T17:45:14Z
-    assets:
-      - name: ElainaV4.zip
-        size: 130012348
-        downloadUrl: https://github.com/Elaina69/Elaina-theme/releases/download/v4.5.0/ElainaV4.zip
-        contentType: application/x-zip-compressed
     enriched: true
   - id: "1460597213301313733"
     kind: plugins
@@ -413,7 +377,7 @@ listings:
     releaseUrl: https://github.com/Yimikami/pengu-plugins/releases/tag/PenguFamily_v0.1.0
     releaseTag: PenguFamily_v0.1.0
     releaseName: Pengu Family v0.1.0
-    image: https://media.discordapp.net/attachments/1503337548993265687/1503337549404311693/tb.png?ex=6a14c7f2&is=6a137672&hm=fb3a2af81c1f437300f4ef65fbd5d362252baa4319d130b1fa0079dff546238a&
+    image: https://media.discordapp.net/attachments/1503337548993265687/1503337549404311693/tb.png?ex=6a1570b2&is=6a141f32&hm=0b70107ba422c1f683395da4c62c07db0ebfbc91e620e0b6c077e6702e1e9a2f&
     author:
       name: Yimikami
       avatar: https://avatars.githubusercontent.com/u/39545057?v=4
@@ -465,7 +429,7 @@ listings:
       apply, meta tier list, post-game op.gg. Personal use; not endorsed by Riot
       Games."
     repo: https://github.com/Nicetyone/league-lean
-    image: https://media.discordapp.net/attachments/1500282612084768848/1500282612516917258/01.png?ex=6a14df90&is=6a138e10&hm=5a48bddbcf747ce82c1954c81ffbf5f7e2dfc631c7a63fdacf99a3d63256f136&
+    image: https://media.discordapp.net/attachments/1500282612084768848/1500282612516917258/01.png?ex=6a158850&is=6a1436d0&hm=a0af3b5a79d85aa59a1c20723130a57154c8553ae12e455b8015598ff4c2b693&
     author:
       name: Nicetyone
       avatar: https://avatars.githubusercontent.com/u/78967461?v=4
@@ -509,7 +473,7 @@ listings:
       hover tooltip, and your profile page. BNC Button in Lobby as always with
       my plugins. ⚠️ Client-side only — only you can see the change. Other
       players still see your actual equipped banner.
-    image: https://media.discordapp.net/attachments/1499358177052069899/1499358177840467968/4hbdb93.png?ex=6a14ce5e&is=6a137cde&hm=1b48cc6c34caf0f82c7c90c6c4a10597c6b4b12b7e555a815ae24ceb2ce8bd5c&
+    image: https://media.discordapp.net/attachments/1499358177052069899/1499358177840467968/4hbdb93.png?ex=6a15771e&is=6a14259e&hm=7fcfe93ef21fa32a5ca7fc074b03d5d2b29eb877431dcea5fa3fa2fda8622e23&
     author:
       name: Eris Greyrat
     tags:
@@ -522,7 +486,7 @@ listings:
     assets:
       - name: Banner-Customizer.js
         size: 56598
-        downloadUrl: https://cdn.discordapp.com/attachments/1499358177052069899/1499358178658222220/Banner-Customizer.js?ex=6a14ce5e&is=6a137cde&hm=dd22a94e824691e5c3b1f5adb3a8dc09d3f775cec260fbc60cd78d916b0b4267&
+        downloadUrl: https://cdn.discordapp.com/attachments/1499358177052069899/1499358178658222220/Banner-Customizer.js?ex=6a15771e&is=6a14259e&hm=8f38d01adc173293de318db88f35375c888a492a42166a8fb3bafb0849193566&
         contentType: text/javascript; charset=utf-8
     enriched: true
   - id: "1499090537427243129"
@@ -550,7 +514,7 @@ listings:
     name: OP.GG & U.GG Button Plugin
     description: An custom JavaScript page for Pengu Loader
     repo: https://github.com/GogoChad/opgg-button
-    image: https://media.discordapp.net/attachments/1495203342400360459/1495203439347499059/image.png?ex=6a14da37&is=6a1388b7&hm=5a09f6b083a8b70208d8623ceb06cc2ec1a344991875d1260e2acbd0077b3c2e&
+    image: https://media.discordapp.net/attachments/1495203342400360459/1495203439347499059/image.png?ex=6a1582f7&is=6a143177&hm=5bf85a0e19957eec46d046e00bc4fb4b5ce87de45e5ff614982c73f41054ecab&
     author:
       name: GogoChad
       avatar: https://avatars.githubusercontent.com/u/133820564?v=4
@@ -833,7 +797,7 @@ listings:
     releaseUrl: https://github.com/xRize/MusicPlugin/releases/tag/Release2
     releaseTag: Release2
     releaseName: v1.0.1
-    image: https://media.discordapp.net/attachments/1487606021449973850/1487606021831528640/569826409-7f1dae67-6e42-4fb5-ac20-32cbc0166a21.png?ex=6a14e611&is=6a139491&hm=2f02645ea79f50ad755f75c5d5c0477f738794b3033677b6935a804c66a8b6d4&
+    image: https://media.discordapp.net/attachments/1487606021449973850/1487606021831528640/569826409-7f1dae67-6e42-4fb5-ac20-32cbc0166a21.png?ex=6a158ed1&is=6a143d51&hm=bf3017c50f3216d3a963e233f2f91d0386ee47e5abcc6af6e1c7fffbbc705022&
     author:
       name: xRize
       avatar: https://avatars.githubusercontent.com/u/83946532?v=4
@@ -864,7 +828,7 @@ listings:
     releaseUrl: https://github.com/Ventoba/3DSkinViewer/releases/tag/v1.0
     releaseTag: v1.0
     releaseName: v1.0
-    image: https://media.discordapp.net/attachments/1490663854059950280/1490663854391427183/example2.PNG?ex=6a14d126&is=6a137fa6&hm=b4b01ddddf570655f4b3c1f91168b14d2b2d338d921e3c5d771e1cd22bfc7066&
+    image: https://media.discordapp.net/attachments/1490663854059950280/1490663854391427183/example2.PNG?ex=6a1579e6&is=6a142866&hm=566affd277c54f23e6ddb868d759adcc0512ffd6fb48f4d8f1d2d0342c111c98&
     author:
       name: Ventoba
       avatar: https://avatars.githubusercontent.com/u/96593577?v=4
@@ -898,7 +862,7 @@ listings:
     assets:
       - name: index.js
         size: 4929
-        downloadUrl: https://cdn.discordapp.com/attachments/1462451902028578940/1465476858241093662/index.js?ex=6a14d02e&is=6a137eae&hm=17a0daa28d3de45735bf362bf5d5a7035cb381d7f1da60268daa41749a90e45d&
+        downloadUrl: https://cdn.discordapp.com/attachments/1462451902028578940/1465476858241093662/index.js?ex=6a1578ee&is=6a14276e&hm=09074f41cf53ef791ba56bab535fd7ed228003b5f55a1a9d6625ad3158139fad&
         contentType: text/javascript; charset=utf-8
     enriched: true
   - id: "1476103367171248180"
@@ -1063,7 +1027,7 @@ listings:
     name: Banner Remover (not unranked needed last season)
     description: I made this plugin so the banner is transparent for seeing the
       background :3
-    image: https://media.discordapp.net/attachments/1485931384504848394/1485931923275776201/C457E65E-4309-49F8-87B7-D302F19ADCDF.png?ex=6a14bdb1&is=6a136c31&hm=a12b1c3961c7d152d2322ba5d257751b3d4968b1756306b15bb6e8f74dab6eb4&
+    image: https://media.discordapp.net/attachments/1485931384504848394/1485931923275776201/C457E65E-4309-49F8-87B7-D302F19ADCDF.png?ex=6a156671&is=6a1414f1&hm=967b181db940e71186d96422246acd2d2fa4843a77c9c681129a943d0f8587e8&
     author:
       name: Polydragoo
     tags:
@@ -1074,7 +1038,7 @@ listings:
     assets:
       - name: BannerRemover-LittleRadioo.zip
         size: 1447
-        downloadUrl: https://cdn.discordapp.com/attachments/1485931384504848394/1485931384869621820/BannerRemover-LittleRadioo.zip?ex=6a14bd31&is=6a136bb1&hm=fc10954d0d1f776bba8e290b2e7967092fbcf81eb65f9d8bfe2adfadf4007b6f&
+        downloadUrl: https://cdn.discordapp.com/attachments/1485931384504848394/1485931384869621820/BannerRemover-LittleRadioo.zip?ex=6a1565f1&is=6a141471&hm=bc7d3bd3ee744ee4bd5279a5a715619bd0087cb5551dcfe7025195ea0f40dd40&
         contentType: application/zip
     enriched: true
   - id: "1486800653685620884"
@@ -1179,7 +1143,7 @@ listings:
     description: 🔒 Lock the League of Legends client with a 4-digit PIN — hotkey
       support, iOS-style UI, blur overlay. Penguloader plugin.
     repo: https://github.com/nt3y/LeagueClient-Locker-
-    image: https://media.discordapp.net/attachments/1485026009018273872/1485026009500877094/image.png?ex=6a14bdbf&is=6a136c3f&hm=a8a76d0ccda0ec3a1710b441c14fc64ceeb7f5559c6414b9bb4587ea265aea3d&
+    image: https://media.discordapp.net/attachments/1485026009018273872/1485026009500877094/image.png?ex=6a15667f&is=6a1414ff&hm=e937d2d568e2c4ecf385f0405928a00463834c5f515374a2a08a19b9334fc762&
     author:
       name: nt3y
       avatar: https://avatars.githubusercontent.com/u/269317310?v=4
@@ -1271,7 +1235,7 @@ listings:
     kind: plugins
     name: Hide Nonsense
     description: No description provided.
-    image: https://media.discordapp.net/attachments/1395902555095171225/1395906635968286882/image.png?ex=6a14d7dc&is=6a13865c&hm=85c906c958bf60c9615478589276409ea62ec2d7c88882fd8e4cbc083cc60e34&
+    image: https://media.discordapp.net/attachments/1395902555095171225/1395906635968286882/image.png?ex=6a15809c&is=6a142f1c&hm=a4163f823c6569352247134a3dabf4dbfa447f816fb9bbbcf48a7cfa38c9e71a&
     author:
       name: 莫嘎 | Mogu
     tags:
@@ -1291,7 +1255,7 @@ listings:
     name: HideChampName
     description: Hides enemy champion names in Champion Select for League of Legends
     repo: https://github.com/Mixiruri/AnonymousEnemies
-    image: https://media.discordapp.net/attachments/1476888210436001904/1476888211044171848/preview.webp?ex=6a14cc94&is=6a137b14&hm=246934d9c659396be41fa6d964a070042c8f89668bbb403db4af335ce43fa4e7&
+    image: https://media.discordapp.net/attachments/1476888210436001904/1476888211044171848/preview.webp?ex=6a157554&is=6a1423d4&hm=0a47a1753e0af7ee5b7b60268a5696699713283c9230572a59689c8189a08133&
     author:
       name: Mixiruri
       avatar: https://avatars.githubusercontent.com/u/255986660?v=4
@@ -1371,7 +1335,7 @@ listings:
     releaseUrl: https://github.com/nomi-san/balance-buff-viewer/releases/tag/main
     releaseTag: main
     releaseName: S16 | v26 | 2026
-    image: https://media.discordapp.net/attachments/1127199847901052979/1127199848303693844/image.png?ex=6a14db6a&is=6a1389ea&hm=fc2a777b8525e8d1db56b89074dacedb4655157909be50d05c6b982885f521c4&
+    image: https://media.discordapp.net/attachments/1127199847901052979/1127199848303693844/image.png?ex=6a15842a&is=6a1432aa&hm=fc7df438390e698377d6acd22d5c89c185afe8096d5218c45bbb967e3b698696&
     author:
       name: nomi-san
       avatar: https://avatars.githubusercontent.com/u/38210249?v=4
@@ -1425,7 +1389,7 @@ listings:
     name: Blue Essence Icon Swapper
     description: "Blue Essence Icon Swapper How to use: Click the BE icon to change
       icon. Click the BE icon to select new image/reset to standard."
-    image: https://media.discordapp.net/attachments/1468009747780210791/1468019006991634432/Screenshot_2026-02-02_232517.png?ex=6a14d53d&is=6a1383bd&hm=53e628ae308356c06679338001d6bd6936d55ce00810e09807dad9b476cf0a99&
+    image: https://media.discordapp.net/attachments/1468009747780210791/1468019006991634432/Screenshot_2026-02-02_232517.png?ex=6a157dfd&is=6a142c7d&hm=2a4ed990c558386a0da0f9e6a97f6c3af549715832056413c6d8f5754e4ecd7c&
     author:
       name: Ilkay
     tags:
@@ -1436,7 +1400,7 @@ listings:
     assets:
       - name: BE-Icon-Swapper.js
         size: 6253
-        downloadUrl: https://cdn.discordapp.com/attachments/1468009747780210791/1468019008229081235/BE-Icon-Swapper.js?ex=6a14d53e&is=6a1383be&hm=00b099ff97203e0c2c5b520afb0623445c28ef1c163bd06074adc845891abb90&
+        downloadUrl: https://cdn.discordapp.com/attachments/1468009747780210791/1468019008229081235/BE-Icon-Swapper.js?ex=6a157dfe&is=6a142c7e&hm=24049bb82391481cddd9e64627f115ebd4caa79c24c6636b03538679cbea99ee&
         contentType: text/javascript; charset=utf-8
     enriched: true
   - id: "1462077280728780861"
@@ -1505,7 +1469,7 @@ listings:
       from \"plugin request\" section long ago, now i can't find who developed
       it. They will be credited as soon as they reach out"
     repo: https://github.com/asherathegod/penguplugins
-    image: https://media.discordapp.net/attachments/1371799042832597054/1371799043575123978/EbMqICb.png?ex=6a14cfaa&is=6a137e2a&hm=e828a966b85afecbe0f4fd62ce488f6b600147ad4aa45c925e0e51f3f9062519&
+    image: https://media.discordapp.net/attachments/1371799042832597054/1371799043575123978/EbMqICb.png?ex=6a15786a&is=6a1426ea&hm=f307e512313cd130e9a5d8466124cd472cbc8df4829155277b704c06b1049e74&
     author:
       name: asherathegod
       avatar: https://avatars.githubusercontent.com/u/68480231?v=4
@@ -1539,7 +1503,7 @@ listings:
     kind: plugins
     name: Old mastery icons
     description: This plugins will change new mastery icons to old version
-    image: https://media.discordapp.net/attachments/1414553304259760148/1414553304523866163/image.png?ex=6a14c8ac&is=6a13772c&hm=0f70fecc8c10e6caf5b7e740f7e3b7584d2f7d3e8786bcb45d9a901e18c4db84&
+    image: https://media.discordapp.net/attachments/1414553304259760148/1414553304523866163/image.png?ex=6a15716c&is=6a141fec&hm=2103cbd254ee386c918adb71554ae1710a46ef3edf8a81aa44aff84559059c0d&
     author:
       name: Elaina
     tags:
@@ -1551,7 +1515,7 @@ listings:
     assets:
       - name: oldMasteryIcons.js
         size: 5500
-        downloadUrl: https://cdn.discordapp.com/attachments/1414553304259760148/1414553545046364240/oldMasteryIcons.js?ex=6a14c8e6&is=6a137766&hm=de82b6c42701a2e95bc36358f350f96d87f1a3d52bfd31aac9aaae84b88aa5e8&
+        downloadUrl: https://cdn.discordapp.com/attachments/1414553304259760148/1414553545046364240/oldMasteryIcons.js?ex=6a1571a6&is=6a142026&hm=cf3b8a054681d272aaef704ca3b17040441d32950f43f3d1125b899678ae98fe&
         contentType: application/javascript; charset=utf-8
       - name: oldMasteryIcons.js
         size: 11497
@@ -1574,7 +1538,7 @@ listings:
     releaseUrl: https://github.com/DmitryFisk/pengu-force-custom-lobby/releases/tag/2.2.0
     releaseTag: 2.2.0
     releaseName: 2.2.0
-    image: https://media.discordapp.net/attachments/1322710156173250601/1322710156626104320/image.png?ex=6a14dd54&is=6a138bd4&hm=689b27e7c676a3ca162319caedc96b07e363100cce0f5473ca76a3f9ce6e3f17&
+    image: https://media.discordapp.net/attachments/1322710156173250601/1322710156626104320/image.png?ex=6a158614&is=6a143494&hm=76dc6657f0ccca41bcbaf51370390c592628e9509fdcea9b4379e652a907df14&
     author:
       name: DmitryFisk
       avatar: https://avatars.githubusercontent.com/u/62219971?v=4
@@ -1622,7 +1586,7 @@ listings:
       fetch("/lol-challenges/v1/update-player-preferences/", { method: "POST",
       headers: { "Content-Type": "application/json" }, body: JSON.stringify({
       bannerAccent: "2"}) })'
-    image: https://media.discordapp.net/attachments/1311460393507356802/1311460598969798656/image.png?ex=6a14cedc&is=6a137d5c&hm=7a78165ea44c6c22ebb1b2468f049af7c33cf99f864c4f7673dcc1593edb8460&
+    image: https://media.discordapp.net/attachments/1311460393507356802/1311460598969798656/image.png?ex=6a15779c&is=6a14261c&hm=269bfe59f8bc975285c463b07f309f68fd9dd498144420b88bfea756e7f444f6&
     author:
       name: kebs
     tags:
@@ -1695,7 +1659,7 @@ listings:
       Activity Center to the Play screen - Removes Navbar button since it
       redirects anyways - Toggle on and off via Client General Interface
       Settings, if you at some point need to use it"
-    image: https://media.discordapp.net/attachments/1396060178545119263/1396060179815989399/image.png?ex=6a14be1c&is=6a136c9c&hm=b3c05bcf8ea6379e5c81f4b30b70867a53c20e7e16b78214226482cfd9810047&
+    image: https://media.discordapp.net/attachments/1396060178545119263/1396060179815989399/image.png?ex=6a1566dc&is=6a14155c&hm=2dcb3a2cb1165d3ee071898dde00cfd59a6b44b8baefc18d6e2751d2c98e37ef&
     author:
       name: Eris Greyrat
     tags:
@@ -1707,7 +1671,7 @@ listings:
     assets:
       - name: activity_center_toggle.js
         size: 10156
-        downloadUrl: https://cdn.discordapp.com/attachments/1396060178545119263/1401719798949216316/activity_center_toggle.js?ex=6a14e5ca&is=6a13944a&hm=635d3308f81720fb753dcb1abbfba518529e4f85ccaa95a4fb66fdd19efe7b92&
+        downloadUrl: https://cdn.discordapp.com/attachments/1396060178545119263/1401719798949216316/activity_center_toggle.js?ex=6a158e8a&is=6a143d0a&hm=6509ddd0ecf7523f2f3ef0aac06d84e6bc2dbbe2adef2b4be0d7de245a8fd31a&
         contentType: application/javascript; charset=utf-8
     enriched: true
   - id: "1365312229775511603"
@@ -1788,7 +1752,7 @@ listings:
     releaseUrl: https://github.com/Elaina69/fake-reward-badge/releases/tag/v1.0.0
     releaseTag: v1.0.0
     releaseName: ""
-    image: https://media.discordapp.net/attachments/1316703290775441408/1316703290960121867/image.png?ex=6a14c3bf&is=6a13723f&hm=82bc07ac1e125fe511fe5c486d7636ab3f7689de48908c3352fe8e350d75b008&
+    image: https://media.discordapp.net/attachments/1316703290775441408/1316703290960121867/image.png?ex=6a156c7f&is=6a141aff&hm=b8a9a7bd49c8279f7c72b0bb3084b1ce4e5c31a4abfa2a4ec317ab6de3f4120a&
     author:
       name: Elaina69
       avatar: https://avatars.githubusercontent.com/u/94338907?v=4
@@ -1856,7 +1820,7 @@ listings:
     releaseUrl: https://github.com/PenguLoader/PenguLoader/releases/tag/v1.1.6
     releaseTag: v1.1.6
     releaseName: v1.1.6
-    image: https://media.discordapp.net/attachments/1413095170475560960/1413095170940997642/Untitled.png?ex=6a14c0ae&is=6a136f2e&hm=118a48113d355f45fd47c527b3c60a42e40586ff0de88daab6aa2c741e711b4e&
+    image: https://media.discordapp.net/attachments/1413095170475560960/1413095170940997642/Untitled.png?ex=6a15696e&is=6a1417ee&hm=23fb9b65daae480c242bd0d6d85c6e2c00c56c623739d6ef3db36ac443869241&
     author:
       name: PenguLoader
       avatar: https://avatars.githubusercontent.com/u/126898920?v=4
@@ -2181,7 +2145,7 @@ listings:
       on) • Hide Chat Ban Logs if you want to suggest a plugin. use the channel
       <1128961916497317938 and tag me"
     repo: https://github.com/iIlusion/league-loader-plugins
-    image: https://media.discordapp.net/attachments/1077921251445706852/1077921251621879881/8ef86509de0a0f4666ae0369efb72e08e88909104498d597.png?ex=6a14e125&is=6a138fa5&hm=ff7a712cb74b949e54d22bf24f652bfd439b2479041141e46b3c0fb804bc3b9d&
+    image: https://media.discordapp.net/attachments/1077921251445706852/1077921251621879881/8ef86509de0a0f4666ae0369efb72e08e88909104498d597.png?ex=6a1589e5&is=6a143865&hm=b31d944ee0ec9e5375e02753a6122b30f7ee2580d35ff9068afaad14cf84b2e4&
     author:
       name: iIlusion
       avatar: https://avatars.githubusercontent.com/u/49544373?v=4
