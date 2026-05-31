@@ -1,7 +1,7 @@
 {
   "name": "Pengu Community Store registry",
   "version": 1,
-  "generatedAt": "2026-05-31T22:09:08.229Z",
+  "generatedAt": "2026-05-31T23:38:21.453Z",
   "source": {
     "guildId": "1069483280438673418",
     "forums": [
@@ -508,7 +508,7 @@
       "kind": "plugins",
       "name": "Banner Customizer",
       "description": "Plugin that lets you display any banner in your lobby, including ones you don't own. Upload your own custom images or animated WebM files, or pick from any banner in the game. Works in the standard lobby, Arena hover tooltip, and your profile page. BNC Button in Lobby as always with my plugins. ⚠️ Client-side only — only you can see the change. Other players still see your actual equipped banner.",
-      "image": "https://media.discordapp.net/attachments/1499358177052069899/1499358177840467968/4hbdb93.png?ex=6a1d601e&is=6a1c0e9e&hm=53b33ca3d046200cd70c6aba7e2e6b44f779b01af82d232f42a976100f5cb07c&",
+      "image": "https://media.discordapp.net/attachments/1499358177052069899/1499358177840467968/4hbdb93.png?ex=6a1e08de&is=6a1cb75e&hm=e4d79cc2f84a0a57092437bc62e6a55fb55cab7823397a704c236691b4b4cfe9&",
       "author": {
         "name": "Eris Greyrat"
       },
@@ -524,7 +524,7 @@
         {
           "name": "Banner-Customizer.js",
           "size": 56598,
-          "downloadUrl": "https://cdn.discordapp.com/attachments/1499358177052069899/1499358178658222220/Banner-Customizer.js?ex=6a1d601e&is=6a1c0e9e&hm=d9e6671b2001f142d8af632a34f1a0be443171f86554911f6f8f9227ec978f30&",
+          "downloadUrl": "https://cdn.discordapp.com/attachments/1499358177052069899/1499358178658222220/Banner-Customizer.js?ex=6a1e08de&is=6a1cb75e&hm=995b3800dfb9c7af53a8e4ba997c00cca9a266f873d70e1526db3b36cf177671&",
           "contentType": "text/javascript; charset=utf-8"
         }
       ],
@@ -558,7 +558,7 @@
       "name": "OP.GG & U.GG Button Plugin",
       "description": "An custom JavaScript page for Pengu Loader",
       "repo": "https://github.com/GogoChad/opgg-button",
-      "image": "https://media.discordapp.net/attachments/1495203342400360459/1495203439347499059/image.png?ex=6a1d6bf7&is=6a1c1a77&hm=aac6e0d8f064951a274fec1f0a9dc10b811eb633ff3f94738b0eed84a9cb25ab&",
+      "image": "https://media.discordapp.net/attachments/1495203342400360459/1495203439347499059/image.png?ex=6a1e14b7&is=6a1cc337&hm=9c8d9acf7ebc458e67b0dba92d20e7cfa860a3525711bd119204b6d8c8c76d99&",
       "author": {
         "name": "GogoChad",
         "avatar": "https://avatars.githubusercontent.com/u/133820564?v=4",
@@ -691,7 +691,7 @@
       "releaseUrl": "https://github.com/Ventoba/3DSkinViewer/releases/tag/v1.0",
       "releaseTag": "v1.0",
       "releaseName": "v1.0",
-      "image": "https://media.discordapp.net/attachments/1490663854059950280/1490663854391427183/example2.PNG?ex=6a1d62e6&is=6a1c1166&hm=d18157b2bacfe09e77fa6a32ffd367ed096a9f3e4a965ffd09f3925ba9c1974e&",
+      "image": "https://media.discordapp.net/attachments/1490663854059950280/1490663854391427183/example2.PNG?ex=6a1e0ba6&is=6a1cba26&hm=e788fd585cd32cb60e363864e9b2d94de5294c3225b0fa98eba408327d35b6e1&",
       "author": {
         "name": "Ventoba",
         "avatar": "https://avatars.githubusercontent.com/u/96593577?v=4",
@@ -735,7 +735,7 @@
         {
           "name": "index.js",
           "size": 4929,
-          "downloadUrl": "https://cdn.discordapp.com/attachments/1462451902028578940/1465476858241093662/index.js?ex=6a1d61ee&is=6a1c106e&hm=d751fab0e5c22877de28b6b81bc862c188fc9fd73faf0c3caa2636bd22e79bfd&",
+          "downloadUrl": "https://cdn.discordapp.com/attachments/1462451902028578940/1465476858241093662/index.js?ex=6a1e0aae&is=6a1cb92e&hm=6b45a8d1f627102bca671c0c029fc0d23f0f2bd550fb4fac050db2125bfd9862&",
           "contentType": "text/javascript; charset=utf-8"
         }
       ],
@@ -1036,7 +1036,7 @@
       "kind": "plugins",
       "name": "Hide Nonsense",
       "description": "No description provided.",
-      "image": "https://media.discordapp.net/attachments/1395902555095171225/1395906635968286882/image.png?ex=6a1d699c&is=6a1c181c&hm=9744fd75d2a778831f745effec12ac5a4117ae2054c349efa2c8e87b8e800ff3&",
+      "image": "https://media.discordapp.net/attachments/1395902555095171225/1395906635968286882/image.png?ex=6a1e125c&is=6a1cc0dc&hm=f8165b3452ce24d3472c9acc5d720a43a2da76f24e71b4f66351ad22432d1ff0&",
       "author": {
         "name": "莫嘎 | Mogu"
       },
@@ -1063,7 +1063,7 @@
       "name": "HideChampName",
       "description": "Hides enemy champion names in Champion Select for League of Legends",
       "repo": "https://github.com/Mixiruri/AnonymousEnemies",
-      "image": "https://media.discordapp.net/attachments/1476888210436001904/1476888211044171848/preview.webp?ex=6a1d5e54&is=6a1c0cd4&hm=1c1fadcab255a321c5f358accdc444c27b45be0ae9068739d90ac5f8e2a3ab34&",
+      "image": "https://media.discordapp.net/attachments/1476888210436001904/1476888211044171848/preview.webp?ex=6a1e0714&is=6a1cb594&hm=d80fbefb8edbf6e2bc4b0a56712a1d5def38113ad864a1d463e9e23fb82e34e7&",
       "author": {
         "name": "Mixiruri",
         "avatar": "https://avatars.githubusercontent.com/u/255986660?v=4",
@@ -1123,7 +1123,7 @@
       "releaseUrl": "https://github.com/nomi-san/balance-buff-viewer/releases/tag/main",
       "releaseTag": "main",
       "releaseName": "S16 | v26 | 2026",
-      "image": "https://media.discordapp.net/attachments/1127199847901052979/1127199848303693844/image.png?ex=6a1d6d2a&is=6a1c1baa&hm=d444a8dce2c393bd47c2d84425372ef19baff04ce51e1640d65501e87122a853&",
+      "image": "https://media.discordapp.net/attachments/1127199847901052979/1127199848303693844/image.png?ex=6a1e15ea&is=6a1cc46a&hm=88c5c10d7169702846b8cc07e04220feabdf48c60b0e6e7119bc18bb68d11064&",
       "author": {
         "name": "nomi-san",
         "avatar": "https://avatars.githubusercontent.com/u/38210249?v=4",
@@ -1191,7 +1191,7 @@
       "kind": "plugins",
       "name": "Blue Essence Icon Swapper",
       "description": "Blue Essence Icon Swapper How to use: Click the BE icon to change icon. Click the BE icon to select new image/reset to standard.",
-      "image": "https://media.discordapp.net/attachments/1468009747780210791/1468019006991634432/Screenshot_2026-02-02_232517.png?ex=6a1d66fd&is=6a1c157d&hm=90c007cf29b9e510093d70a594274854660f776340cdd4c10e8119a2beac971c&",
+      "image": "https://media.discordapp.net/attachments/1468009747780210791/1468019006991634432/Screenshot_2026-02-02_232517.png?ex=6a1e0fbd&is=6a1cbe3d&hm=c740272bfd382d655858c65338003afdf675dba21c35bf6fc759a0fe5d7d1ac5&",
       "author": {
         "name": "Ilkay"
       },
@@ -1205,7 +1205,7 @@
         {
           "name": "BE-Icon-Swapper.js",
           "size": 6253,
-          "downloadUrl": "https://cdn.discordapp.com/attachments/1468009747780210791/1468019008229081235/BE-Icon-Swapper.js?ex=6a1d66fe&is=6a1c157e&hm=a72c27ba2003ca6450facdf88145c647555d7faf8d6eb84ba7f81d5446f1c065&",
+          "downloadUrl": "https://cdn.discordapp.com/attachments/1468009747780210791/1468019008229081235/BE-Icon-Swapper.js?ex=6a1e0fbe&is=6a1cbe3e&hm=ab0e70c9ff4baee7afe3bbda1e3460bdac4dc06d73b812e9414b8607685efc39&",
           "contentType": "text/javascript; charset=utf-8"
         }
       ],
@@ -1277,7 +1277,7 @@
       "name": "AutoAcceptEnhanced - auto Q acccepter with enhancements",
       "description": "AutoAcceptEnhanced 🚀 An enhanced auto queue accepter with hide \"match found\" dialog function Features: ✅ Auto Accept - Automatically accepts match queues after 9.5 seconds ✅ Hide Dialog - Hides the match found dialog, allowing you to continue using the client (open chests, shop, etc.) while in queue ✅ Clean UI - Minimalist toggle buttons in the lobby ✅ Settings Persistence - Your preferences are saved between sessions Installation: 1. Download autoaccept.js from GitHub 2. Place the file in your Pengu Loader plugins directory 3. Enjoy! You'll see toggle buttons in your lobby Download: 🔗 GitHub: This plugin is based on another developer's auto accept plugin, which wasn't released. I downloaded it from \"plugin request\" section long ago, now i can't find who developed it. They will be credited as soon as they reach out",
       "repo": "https://github.com/asherathegod/penguplugins",
-      "image": "https://media.discordapp.net/attachments/1371799042832597054/1371799043575123978/EbMqICb.png?ex=6a1d616a&is=6a1c0fea&hm=168afd1329daa8d2661b81ebec81ec87df5c9390728162c4659ff2192b44fe84&",
+      "image": "https://media.discordapp.net/attachments/1371799042832597054/1371799043575123978/EbMqICb.png?ex=6a1e0a2a&is=6a1cb8aa&hm=b9d7e5b859d8d6e5f2c1d137f9a9b2d56a28f121a388cfe24255f4077c24ee2c&",
       "author": {
         "name": "asherathegod",
         "avatar": "https://avatars.githubusercontent.com/u/68480231?v=4",
@@ -1319,7 +1319,7 @@
       "kind": "plugins",
       "name": "Old mastery icons",
       "description": "This plugins will change new mastery icons to old version",
-      "image": "https://media.discordapp.net/attachments/1414553304259760148/1414553304523866163/image.png?ex=6a1d5a6c&is=6a1c08ec&hm=cf59797698fcfe8cfb0931acf68a4f2a538f0fecf5155a3181473730e3b0da97&",
+      "image": "https://media.discordapp.net/attachments/1414553304259760148/1414553304523866163/image.png?ex=6a1e032c&is=6a1cb1ac&hm=36e7d8703720a3741e7ecdb32ad41b6aafa0ea82e366d37001753b81c87e3665&",
       "author": {
         "name": "Elaina"
       },
@@ -1334,7 +1334,7 @@
         {
           "name": "oldMasteryIcons.js",
           "size": 5500,
-          "downloadUrl": "https://cdn.discordapp.com/attachments/1414553304259760148/1414553545046364240/oldMasteryIcons.js?ex=6a1d5aa6&is=6a1c0926&hm=bc147637851f629966a7664d3f8b6ee8bae6a70f089a3ac6505b89e78defa7a5&",
+          "downloadUrl": "https://cdn.discordapp.com/attachments/1414553304259760148/1414553545046364240/oldMasteryIcons.js?ex=6a1e0366&is=6a1cb1e6&hm=f0ae8a101115adb42393b152dd138c2d8956234532c4112a11fe7188d68293de&",
           "contentType": "application/javascript; charset=utf-8"
         },
         {
@@ -1417,7 +1417,7 @@
       "kind": "plugins",
       "name": "Invisible profile banner",
       "description": "Just copy and paste it into the DevTools console (Ctrl+Shift+I). Needs last season rank to be unranked js fetch(\"/lol-challenges/v1/update-player-preferences/\", { method: \"POST\", headers: { \"Content-Type\": \"application/json\" }, body: JSON.stringify({ bannerAccent: \"2\"}) })",
-      "image": "https://media.discordapp.net/attachments/1311460393507356802/1311460598969798656/image.png?ex=6a1d609c&is=6a1c0f1c&hm=b61dc87a5c4bdc6f34ff81c4c96dad985b6c12ce88e46763fa3bd7adf66057f2&",
+      "image": "https://media.discordapp.net/attachments/1311460393507356802/1311460598969798656/image.png?ex=6a1e095c&is=6a1cb7dc&hm=6d2c215ba5cd48844703abd5eaea02e3dab5c0c9d6fc383e63419932ed25bc05&",
       "author": {
         "name": "kebs"
       },
