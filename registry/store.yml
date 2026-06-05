@@ -1,6 +1,6 @@
 name: Pengu Community Store registry
 version: 1
-generatedAt: 2026-06-05T18:24:42.278Z
+generatedAt: 2026-06-05T20:24:51.287Z
 source:
   guildId: "1069483280438673418"
   forums:
@@ -9,6 +9,40 @@ source:
     - kind: themes
       channelId: "1077886317364523072"
 listings:
+  - id: "1512550218044805150"
+    kind: plugins
+    name: Snooze-Manager [Plug-in Collection]
+    description: "Snooze-Manager is a modular plug-in manager for Pengu Loader. Each
+      QoL feature is implemented as a separate module, and the manager loads
+      them together while keeping configuration consolidated. Everything is
+      built to be lightweight and event driven: no embedded React application,
+      no bloat, no constant polling of the client for changes and so on. Some
+      features are inspired by earlier work, but the implementation here is
+      independent and expanded to offer more than a straight copy."
+    details: ""
+    repo: https://github.com/ReformedDoge/Snooze-Manager
+    releaseUrl: https://github.com/ReformedDoge/Snooze-Manager/releases/tag/v1.0.0
+    releaseTag: v1.0.0
+    releaseName: v1.0.0 - Initial Public Release
+    image: https://media.discordapp.net/attachments/1512550218044805150/1512550376509931742/6kkx030.png?ex=6a247fcf&is=6a232e4f&hm=98cc6079b3e7f529166d7fc9d5c2fc42767a069aecb4eceb0fb44c768227a133&
+    author:
+      name: ReformedDoge
+      avatar: https://avatars.githubusercontent.com/u/39759213?v=4
+      github: ReformedDoge
+    tags:
+      - Utility
+      - Misc
+      - Fun
+      - Enhancement
+    discordUrl: https://discord.com/channels/1069483280438673418/1512550218044805150/1512550218044805150
+    upvotes: 1
+    updatedAt: 2026-06-05T20:07:07Z
+    assets:
+      - name: Snooze-Manager.zip
+        size: 134284
+        downloadUrl: https://github.com/ReformedDoge/Snooze-Manager/releases/download/v1.0.0/Snooze-Manager.zip
+        contentType: application/x-zip-compressed
+    enriched: true
   - id: "1485799707526828102"
     kind: plugins
     name: "[v1.3.0] Snooze-CSS (Theme loader / Theme Creator)"
@@ -233,7 +267,7 @@ listings:
     releaseUrl: https://github.com/kyso1/KysoTheme/releases/tag/v3.0
     releaseTag: v3.0
     releaseName: KysoTheme V3
-    image: https://media.discordapp.net/attachments/1507291423840407613/1507291424301776957/Screenshot_1.png?ex=6a23d307&is=6a228187&hm=07fda096649de57a659cb7a48339a995514439525e1687d21f91fbbd3b45be24&
+    image: https://media.discordapp.net/attachments/1507291423840407613/1507291424301776957/Screenshot_1.png?ex=6a247bc7&is=6a232a47&hm=935e354cc7c178ea318f7831effe4eb7e2b4c555e545ea4c1d0716deca9e3bfc&
     author:
       name: kyso1
       avatar: https://avatars.githubusercontent.com/u/128049220?v=4
@@ -295,33 +329,6 @@ listings:
         downloadUrl: https://github.com/Yimikami/pengu-plugins/releases/download/PenguFamily_v0.1.0/PenguFamily.zip
         contentType: application/x-zip-compressed
     enriched: true
-  - id: "1320554325118025778"
-    kind: plugins
-    name: Custom ARAM Bot Enabler [OUTDATED]
-    description: A curated collection of powerful plugins to enhance your League of
-      Legends experience! 🎮✨
-    details: first release of pengu family
-    repo: https://github.com/Yimikami/pengu-plugins
-    releaseUrl: https://github.com/Yimikami/pengu-plugins/releases/tag/PenguFamily_v0.1.0
-    releaseTag: PenguFamily_v0.1.0
-    releaseName: Pengu Family v0.1.0
-    image: https://opengraph.githubassets.com/pengu/Yimikami/pengu-plugins
-    author:
-      name: Yimikami
-      avatar: https://avatars.githubusercontent.com/u/39545057?v=4
-      github: Yimikami
-    tags:
-      - Utility
-      - Enhancement
-    discordUrl: https://discord.com/channels/1069483280438673418/1320554325118025778/1320554325118025778
-    upvotes: 3
-    updatedAt: 2026-05-11T10:02:38Z
-    assets:
-      - name: PenguFamily.zip
-        size: 49271833
-        downloadUrl: https://github.com/Yimikami/pengu-plugins/releases/download/PenguFamily_v0.1.0/PenguFamily.zip
-        contentType: application/x-zip-compressed
-    enriched: true
   - id: "1497146237273641040"
     kind: plugins
     name: Dodge Game
@@ -332,7 +339,7 @@ listings:
     releaseUrl: https://github.com/Yimikami/pengu-plugins/releases/tag/PenguFamily_v0.1.0
     releaseTag: PenguFamily_v0.1.0
     releaseName: Pengu Family v0.1.0
-    image: https://media.discordapp.net/attachments/1497146237273641040/1497146238745972816/image.png?ex=6a23d496&is=6a228316&hm=1efa7d15d0d2d20fd8f0c1d3eb4c4be9de350e120209e378af567a480f1e093c&
+    image: https://media.discordapp.net/attachments/1497146237273641040/1497146238745972816/image.png?ex=6a247d56&is=6a232bd6&hm=8bdc0528c2f6e5881ccada39feb34088c35f83b2c0a617a3768fae43173ddd70&
     author:
       name: Yimikami
       avatar: https://avatars.githubusercontent.com/u/39545057?v=4
@@ -873,7 +880,7 @@ listings:
     assets:
       - name: removecrystal.js
         size: 1126
-        downloadUrl: https://cdn.discordapp.com/attachments/1487535639128965121/1487535639883944108/removecrystal.js?ex=6a23cdc5&is=6a227c45&hm=c12271aaedb3506884612c6eb7df399dd7cc4a01966e1464c82fe24acb34c088&
+        downloadUrl: https://cdn.discordapp.com/attachments/1487535639128965121/1487535639883944108/removecrystal.js?ex=6a247685&is=6a232505&hm=c063ae5919176a1572064fa2fd61161f94b8979abb2df3efcde8a46cf65035e1&
         contentType: text/javascript; charset=utf-8
     enriched: true
   - id: "1476062717579231385"
@@ -900,7 +907,7 @@ listings:
     description: "Unlock all backgrounds easily. Just press the background picker
       button, and you'll be able to choose any skin you like, as if you owned
       them all Source: < Download is below, not the source ⬇️ ⬇️ ⬇️"
-    image: https://media.discordapp.net/attachments/1311415707371700345/1311415707568836809/image.png?ex=6a23ce4d&is=6a227ccd&hm=fe1ece09e755da9bcde4ae74d712e07278464e2872247742dfca5ae6c0d9c586&
+    image: https://media.discordapp.net/attachments/1311415707371700345/1311415707568836809/image.png?ex=6a24770d&is=6a23258d&hm=9c9c7af9079767b292653669f5dfaf046fb01759864738b62752b96e3fffd15b&
     author:
       name: kebs
     tags:
@@ -913,7 +920,7 @@ listings:
     assets:
       - name: LoLBackgroundUnlocker.js
         size: 6216
-        downloadUrl: https://cdn.discordapp.com/attachments/1311415707371700345/1311415708143583355/LoLBackgroundUnlocker.js?ex=6a23ce4d&is=6a227ccd&hm=252ba1179fc8e50024be4dc8ec1e2f4fad84a2f70948a446fe8141ba57bd80e8&
+        downloadUrl: https://cdn.discordapp.com/attachments/1311415707371700345/1311415708143583355/LoLBackgroundUnlocker.js?ex=6a24770d&is=6a23258d&hm=8667a4e306b126bd0e6c37f9e673de1aafc5c63dca64cb4a8bb2c97b286234ec&
         contentType: application/javascript; charset=utf-8
     enriched: true
   - id: "1485931384504848394"
@@ -1000,7 +1007,7 @@ listings:
     releaseUrl: https://github.com/cuongnguyen207/phrolova-theme-lol/releases/tag/Phrolova-theme-lol
     releaseTag: Phrolova-theme-lol
     releaseName: Custome Themes 1.0
-    image: https://media.discordapp.net/attachments/1486800653685620884/1486800654344261813/image.png?ex=6a23c443&is=6a2272c3&hm=db37fd3589107c606b3db0667988a03b062e923f8872647d9d32e755f8af31b1&
+    image: https://media.discordapp.net/attachments/1486800653685620884/1486800654344261813/image.png?ex=6a246d03&is=6a231b83&hm=43b996543709e9bf1f1f8dcf98365ea7011bc6214bf8ee1ca5c3c71c8244277c&
     author:
       name: cuongnguyen207
       avatar: https://avatars.githubusercontent.com/u/213099361?v=4
@@ -1056,7 +1063,7 @@ listings:
     description: Animated particle cursor effects for the League of Legends client —
       Penguloader plugin
     repo: https://github.com/nt3y/cursor-pack-penguloader
-    image: https://media.discordapp.net/attachments/1484279090830905394/1484279092202307736/image.png?ex=6a23d260&is=6a2280e0&hm=c198ece10c38f1588c07f4395135458568f7c263d7cdc962da6276c56ceb5944&
+    image: https://media.discordapp.net/attachments/1484279090830905394/1484279092202307736/image.png?ex=6a247b20&is=6a2329a0&hm=32af80e52d077b449ae8dc0308ba6b93a0760a91b5fb51ee0f991e2fc27b692b&
     author:
       name: nt3y
       avatar: https://avatars.githubusercontent.com/u/269317310?v=4
@@ -1172,7 +1179,7 @@ listings:
     releaseUrl: https://github.com/hadixcanimm/taric48/releases/tag/gamelauncher
     releaseTag: gamelauncher
     releaseName: "Taric 48 Game Launcher "
-    image: https://media.discordapp.net/attachments/1469972117306212639/1469972117549486178/image.png?ex=6a23d937&is=6a2287b7&hm=3670873d71d1828d71cb97731ccad15e5bc9a02ad984dacd3c0843f1b289ead7&
+    image: https://media.discordapp.net/attachments/1469972117306212639/1469972117549486178/image.png?ex=6a2481f7&is=6a233077&hm=4139f067b63a77ff1739f3d3f9c375ab1ca9ca7482ef76de685fd2b92e98fec8&
     author:
       name: hadixcanimm
       avatar: https://avatars.githubusercontent.com/u/114208757?v=4
@@ -1251,7 +1258,7 @@ listings:
     name: Balaclava Plugins! [13/05/2026]
     description: My plugins for Pengu Loader! :)
     repo: https://github.com/controlado/pengu-plugins
-    image: https://media.discordapp.net/attachments/1109009446023217193/1110094360390946908/ezgif-2-9ed966a32e.png?ex=6a23c070&is=6a226ef0&hm=329a35f3df5253cdfcdc9568ef59c31e583e02be6b67d91a95f69e96f971bdd8&
+    image: https://media.discordapp.net/attachments/1109009446023217193/1110094360390946908/ezgif-2-9ed966a32e.png?ex=6a246930&is=6a2317b0&hm=daecf965d23f9b168aadd03706871c32789869a031843c784c29f8cd4cdcdc7d&
     author:
       name: controlado
       avatar: https://avatars.githubusercontent.com/u/71716568?v=4
@@ -1927,7 +1934,7 @@ listings:
     releaseUrl: https://github.com/oMaikeru/PureBlack-Theme/releases/tag/v0.4
     releaseTag: v0.4
     releaseName: v0.4
-    image: https://media.discordapp.net/attachments/1107021081207914566/1107021081442783242/black-theme.PNG?ex=6a23c6f9&is=6a227579&hm=b6dff37d22738c12757033641876f6aff6b92c867b5f706f559132674eeb7744&
+    image: https://media.discordapp.net/attachments/1107021081207914566/1107021081442783242/black-theme.PNG?ex=6a246fb9&is=6a231e39&hm=908808eaa5d56bc326e07aa6ed33ecf0b2f283bb43406b74af08d80124f3db6a&
     author:
       name: oMaikeru
       avatar: https://avatars.githubusercontent.com/u/76801149?v=4
