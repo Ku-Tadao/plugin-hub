@@ -1,6 +1,6 @@
 name: Pengu Community Store registry
 version: 1
-generatedAt: 2026-06-06T12:05:41.508Z
+generatedAt: 2026-06-06T14:16:29.777Z
 source:
   guildId: "1069483280438673418"
   forums:
@@ -35,7 +35,7 @@ listings:
       - Fun
       - Enhancement
     discordUrl: https://discord.com/channels/1069483280438673418/1512550218044805150/1512550218044805150
-    upvotes: 2
+    upvotes: 4
     updatedAt: 2026-06-05T22:11:17Z
     assets:
       - name: Snooze-Manager.zip
@@ -698,7 +698,7 @@ listings:
     releaseUrl: https://github.com/xRize/MusicPlugin/releases/tag/Release2
     releaseTag: Release2
     releaseName: v1.0.1
-    image: https://media.discordapp.net/attachments/1487606021449973850/1487606021831528640/569826409-7f1dae67-6e42-4fb5-ac20-32cbc0166a21.png?ex=6a24b811&is=6a236691&hm=47d52491cd8e22606a1bfce6e6bdd06a248e32d9ac917146481a632b21e8bc90&
+    image: https://media.discordapp.net/attachments/1487606021449973850/1487606021831528640/569826409-7f1dae67-6e42-4fb5-ac20-32cbc0166a21.png?ex=6a2560d1&is=6a240f51&hm=86641fe38ca6bee11f0481f50d35feed119e633a81e39e13a98dd895372179de&
     author:
       name: xRize
       avatar: https://avatars.githubusercontent.com/u/83946532?v=4
@@ -1091,7 +1091,7 @@ listings:
     releaseUrl: https://github.com/Reynbow/auto-champ-lock/releases/tag/v1.5.2
     releaseTag: v1.5.2
     releaseName: v1.5.2
-    image: https://media.discordapp.net/attachments/1477651306167406592/1477651306364534834/role-pick-ui.png?ex=6a24c244&is=6a2370c4&hm=99eeb16e06a231c9675e39f91391ca504f3b3aabe8fe979d7a3c0ae641709653&
+    image: https://media.discordapp.net/attachments/1477651306167406592/1477651306364534834/role-pick-ui.png?ex=6a256b04&is=6a241984&hm=d90129f13baaa8a3f2a650e26d25d319685a3de97a05fe838d23fb8c7372e5e8&
     author:
       name: Reynbow
       avatar: https://avatars.githubusercontent.com/u/19285509?v=4
@@ -1275,7 +1275,7 @@ listings:
     kind: plugins
     name: Full length ARAM music
     description: A plugin to bring back full length ARAM music on champion select
-    image: https://media.discordapp.net/attachments/1469142886330273884/1469142887424983214/channels4_profile.jpg?ex=6a24c96f&is=6a2377ef&hm=9c55ee8032eb7789366ca0c5fdc6bb7ba02bbae0df28ee2e42e871585596c85d&
+    image: https://media.discordapp.net/attachments/1469142886330273884/1469142887424983214/channels4_profile.jpg?ex=6a25722f&is=6a2420af&hm=6b5fc4ca45d9363547dc06396ad37fc3b3534a099916718686f2f9239807d9bc&
     author:
       name: Blue Cartoon Cat
     tags:
@@ -1315,7 +1315,7 @@ listings:
     releaseUrl: https://github.com/kyso1/tft-client-theme/releases/tag/v1.0
     releaseTag: v1.0
     releaseName: v1.0
-    image: https://media.discordapp.net/attachments/1462077280728780861/1462077814324068548/nUvdXBx.png?ex=6a24cad3&is=6a237953&hm=922d87781ca6902a6b00c7643f536a19b4ee82eec13342c94505152eb9273d2c&
+    image: https://media.discordapp.net/attachments/1462077280728780861/1462077814324068548/nUvdXBx.png?ex=6a257393&is=6a242213&hm=1f4401d179f3d137ce079beed9b4edf47d749c80b5b3d28d01ca8dd71691b682&
     author:
       name: kyso1
       avatar: https://avatars.githubusercontent.com/u/128049220?v=4
@@ -1340,7 +1340,7 @@ listings:
     description: this plugin blocks the new community pact popup when you first
       login, now technically you can say "ive never agreed to it" so you can
       therefore be as toxic as you want.
-    image: https://media.discordapp.net/attachments/1458822729414217954/1458822729716469913/image.png?ex=6a24d0ca&is=6a237f4a&hm=079ae057a1b21def87aac93e3a9a85c3f7064751b590fd747f4cfb0d884b13af&
+    image: https://media.discordapp.net/attachments/1458822729414217954/1458822729716469913/image.png?ex=6a25798a&is=6a24280a&hm=b762149706133fb7280d72b3094a8e4a11592892753864ad9ceceec278ea5e81&
     author:
       name: Cat Bot
     tags:
@@ -1351,7 +1351,7 @@ listings:
     assets:
       - name: RiotPactBlocker.js
         size: 508
-        downloadUrl: https://cdn.discordapp.com/attachments/1458822729414217954/1458822730198810674/RiotPactBlocker.js?ex=6a24d0ca&is=6a237f4a&hm=d24f492b8c024b5cde775ab7fbb390bdeb5c5eab340aaec00c38b8851f7baab9&
+        downloadUrl: https://cdn.discordapp.com/attachments/1458822729414217954/1458822730198810674/RiotPactBlocker.js?ex=6a25798a&is=6a24280a&hm=d4d70b15a7a637af7147b0a8225a21995520ee3750860a0743ad13309d8e5fb3&
         contentType: text/javascript; charset=utf-8
     enriched: true
   - id: "1371799042832597054"
@@ -1572,7 +1572,7 @@ listings:
     assets:
       - name: activity_center_toggle.js
         size: 10156
-        downloadUrl: https://cdn.discordapp.com/attachments/1396060178545119263/1401719798949216316/activity_center_toggle.js?ex=6a24b7ca&is=6a23664a&hm=da5f416891f1be7b9fd250c1d2d5018202e096c1461b65b708e0e449c678a9b8&
+        downloadUrl: https://cdn.discordapp.com/attachments/1396060178545119263/1401719798949216316/activity_center_toggle.js?ex=6a25608a&is=6a240f0a&hm=0c890cf1b0d6954329e16935587ec51ec6fa1fa9c6c0f96c7dff16332e53b1f9&
         contentType: application/javascript; charset=utf-8
     enriched: true
   - id: "1365312229775511603"
@@ -1580,7 +1580,7 @@ listings:
     name: Acrylical  theme fork version
     description: custom theme for lick of leg-ends launcher
     repo: https://github.com/watchingfun/league-launcher-theme
-    image: https://media.discordapp.net/attachments/1365312229775511603/1365312230337282048/image.png?ex=6a24c359&is=6a2371d9&hm=d0906530fd2258986651545b3b87553e2cad7452db0f94b9ed10b7a291c6f90a&
+    image: https://media.discordapp.net/attachments/1365312229775511603/1365312230337282048/image.png?ex=6a256c19&is=6a241a99&hm=75ffd010e8e8d537a6f01307840559700c71a2c202811adbb813a5389ac2e720&
     author:
       name: watchingfun
       avatar: https://avatars.githubusercontent.com/u/22067924?v=4
@@ -1628,7 +1628,7 @@ listings:
       ings.displaylegacypatchnumbers, (xhr, original) = {
       Object.defineProperty(xhr, 'responseText', { writable: true, value: true
       }); original(); }); } Download ⬇⬇⬇⬇⬇⬇"
-    image: https://media.discordapp.net/attachments/1332168478148399285/1332168478710562837/image.png?ex=6a24d113&is=6a237f93&hm=fae69dacd36019277456ead4aa460ef649db51abce693db38880478e82c94bcf&
+    image: https://media.discordapp.net/attachments/1332168478148399285/1332168478710562837/image.png?ex=6a2579d3&is=6a242853&hm=b7a5f5d3fbbbdda0a16468d594121c5cc607f4feb371afd875fefb867913e486&
     author:
       name: kebs
     tags:
@@ -1641,7 +1641,7 @@ listings:
     assets:
       - name: OldPatchNumber.js
         size: 4610
-        downloadUrl: https://cdn.discordapp.com/attachments/1332168478148399285/1332168478936797226/OldPatchNumber.js?ex=6a24d113&is=6a237f93&hm=c06bdf89d4975c33fb1db7ea917ae0eba349557974d9afdd9ccb2add335f69c2&
+        downloadUrl: https://cdn.discordapp.com/attachments/1332168478148399285/1332168478936797226/OldPatchNumber.js?ex=6a2579d3&is=6a242853&hm=9dd1e660e1141b0eb0514b37914f0be073fd53764720ccdc617e2cdfe4d263dc&
         contentType: application/javascript; charset=utf-8
     enriched: true
   - id: "1316703290775441408"
@@ -1769,7 +1769,7 @@ listings:
     releaseUrl: https://github.com/lolpyken/pyken/releases/tag/1
     releaseTag: "1"
     releaseName: Pyken
-    image: https://media.discordapp.net/attachments/1305881618757582869/1305881619210436649/Screenshot_2024-11-12_071546.png?ex=6a24c448&is=6a2372c8&hm=23f195d57c02e43b5622247570c929016fec38688c22a4edfe575808052eeda6&
+    image: https://media.discordapp.net/attachments/1305881618757582869/1305881619210436649/Screenshot_2024-11-12_071546.png?ex=6a256d08&is=6a241b88&hm=7662b07a1bcb55bcdfac9157c9c9d911c72a866d46ecee3d92d808f7512b00b8&
     author:
       name: lolpyken
       avatar: https://avatars.githubusercontent.com/u/34245482?v=4
@@ -1976,7 +1976,7 @@ listings:
     releaseUrl: https://github.com/nomi-san/indie-theme/releases/tag/release/lts
     releaseTag: release/lts
     releaseName: indie-theme-lts
-    image: https://media.discordapp.net/attachments/1176518022312247296/1176518022651990097/284592384-6b8b2c3d-1927-467b-99aa-ae1e10f4b69e.png?ex=6a24cc8b&is=6a237b0b&hm=1612ce2686df390aeefd2b89f6573afd9963c5006cf9ee0ccaeb3b8705a0ecdc&
+    image: https://media.discordapp.net/attachments/1176518022312247296/1176518022651990097/284592384-6b8b2c3d-1927-467b-99aa-ae1e10f4b69e.png?ex=6a25754b&is=6a2423cb&hm=000e78f8991e62085dfd5b5a2206bb16d34971c756f08899b5a7b4492288c298&
     author:
       name: nomi-san
       avatar: https://avatars.githubusercontent.com/u/38210249?v=4
@@ -2028,7 +2028,7 @@ listings:
     name: Rem Theme
     description: Plug-ins I made to be used in league-loader
     repo: https://github.com/Lyfhael/league-loader-plugins
-    image: https://media.discordapp.net/attachments/1080303567216332900/1080303567883218995/4MGf2QS.png?ex=6a24cc19&is=6a237a99&hm=f34109b2c511f0942057f6a153a84e2ebef7dca27b541db426706489cca4af1a&
+    image: https://media.discordapp.net/attachments/1080303567216332900/1080303567883218995/4MGf2QS.png?ex=6a2574d9&is=6a242359&hm=007bbf010d19958703f666062e002937b8dccbed56878fef9747006f572f24c6&
     author:
       name: Lyfhael
       avatar: https://avatars.githubusercontent.com/u/43145883?v=4
