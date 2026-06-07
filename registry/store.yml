@@ -1,6 +1,6 @@
 name: Pengu Community Store registry
 version: 1
-generatedAt: 2026-06-07T13:50:44.482Z
+generatedAt: 2026-06-07T15:24:22.275Z
 source:
   guildId: "1069483280438673418"
   forums:
@@ -35,7 +35,7 @@ listings:
       - Fun
       - Enhancement
     discordUrl: https://discord.com/channels/1069483280438673418/1512550218044805150/1512550218044805150
-    upvotes: 8
+    upvotes: 9
     updatedAt: 2026-06-06T16:49:53Z
     assets:
       - name: Snooze-Manager.zip
@@ -291,7 +291,7 @@ listings:
     kind: themes
     name: Minimalist Debloat Theme
     description: No description provided.
-    image: https://media.discordapp.net/attachments/1491806616415244459/1491806616750915705/wasupdud.png?ex=6a26286d&is=6a24d6ed&hm=6b9705b6f43813be046090ea7da4a952c5eac5d0b51740f477539e7e51903c7e&
+    image: https://media.discordapp.net/attachments/1491806616415244459/1491806616750915705/wasupdud.png?ex=6a26d12d&is=6a257fad&hm=fe502af28219e00521f0bcf40f17f39f4b075c440af258106484e3a1d537f6c2&
     author:
       name: 莫嘎 | Mogay
     tags:
@@ -615,7 +615,7 @@ listings:
     releaseTag: V1.2.0
     releaseName: "v1.2.0 - New Option: Render in a separate dedicated pop-out
       window, Refactor: responsive dashboard layout"
-    image: https://media.discordapp.net/attachments/1475139802482479317/1475139803027607734/ilfu6zl.gif?ex=6a262b3f&is=6a24d9bf&hm=3866c75fb3d2e44ec2e2a45b3ce811260c45bdff19942ae5f85e2459debdb1b0&
+    image: https://media.discordapp.net/attachments/1475139802482479317/1475139803027607734/ilfu6zl.gif?ex=6a26d3ff&is=6a25827f&hm=4f01cf8d9fa06aeb1565cae8a9c185e73d88261f3adbbade90028a9f9b79ec83&
     author:
       name: ReformedDoge
       avatar: https://avatars.githubusercontent.com/u/39759213?v=4
@@ -670,7 +670,7 @@ listings:
     releaseUrl: https://github.com/ErisuGreyrat/Pengu-Background-Customizer/releases/tag/2.0
     releaseTag: "2.0"
     releaseName: V2
-    image: https://media.discordapp.net/attachments/1373487727861039115/1373487728985116703/image.png?ex=6a262920&is=6a24d7a0&hm=9c81bce6c7eedefe104786b7f849d66b6d462b966c9ba97fca540ba3c6ef9e61&
+    image: https://media.discordapp.net/attachments/1373487727861039115/1373487728985116703/image.png?ex=6a26d1e0&is=6a258060&hm=211cd3963faa4ef20036a4ee45352713483bdd17e54b4de16f3f0ba567258be4&
     author:
       name: ErisuGreyrat
       avatar: https://avatars.githubusercontent.com/u/179902803?v=4
@@ -1117,7 +1117,7 @@ listings:
     releaseUrl: https://github.com/ErisuGreyrat/acrylic-league-theme/releases/tag/1.9.3
     releaseTag: 1.9.3
     releaseName: v1.9.3
-    image: https://media.discordapp.net/attachments/1373486870054441210/1373486870553694360/image.png?ex=6a262854&is=6a24d6d4&hm=4a5dd0110d0cd360f2a4bac6a1e182f8a11e1322de28ae99c0418a4aeadca711&
+    image: https://media.discordapp.net/attachments/1373486870054441210/1373486870553694360/image.png?ex=6a26d114&is=6a257f94&hm=5de1e5250c685749d9b21a1546c85c1409cb7f12232a897298c30ca5c14c14c4&
     author:
       name: ErisuGreyrat
       avatar: https://avatars.githubusercontent.com/u/179902803?v=4
@@ -1340,7 +1340,7 @@ listings:
     description: this plugin blocks the new community pact popup when you first
       login, now technically you can say "ive never agreed to it" so you can
       therefore be as toxic as you want.
-    image: https://media.discordapp.net/attachments/1458822729414217954/1458822729716469913/image.png?ex=6a26224a&is=6a24d0ca&hm=cf054d8b7d08cbf598a9e23bdd52a3a6d924c3edef14a86eca999fee3ce7c08d&
+    image: https://media.discordapp.net/attachments/1458822729414217954/1458822729716469913/image.png?ex=6a26cb0a&is=6a25798a&hm=ca24e5716ef156f029971254b456bec64b516d86c02de9531115836e3514cfcc&
     author:
       name: Cat Bot
     tags:
@@ -1351,7 +1351,7 @@ listings:
     assets:
       - name: RiotPactBlocker.js
         size: 508
-        downloadUrl: https://cdn.discordapp.com/attachments/1458822729414217954/1458822730198810674/RiotPactBlocker.js?ex=6a26224a&is=6a24d0ca&hm=5cea0bcb6abd51f49cb2d4cfc10140ebf679ec497461bd205c2df14954211124&
+        downloadUrl: https://cdn.discordapp.com/attachments/1458822729414217954/1458822730198810674/RiotPactBlocker.js?ex=6a26cb0a&is=6a25798a&hm=a6408ed5defc1fb8a95aebe294242dcf6c2f6576147c50895ebe005d8f5830fa&
         contentType: text/javascript; charset=utf-8
     enriched: true
   - id: "1371799042832597054"
@@ -1628,7 +1628,7 @@ listings:
       ings.displaylegacypatchnumbers, (xhr, original) = {
       Object.defineProperty(xhr, 'responseText', { writable: true, value: true
       }); original(); }); } Download ⬇⬇⬇⬇⬇⬇"
-    image: https://media.discordapp.net/attachments/1332168478148399285/1332168478710562837/image.png?ex=6a262293&is=6a24d113&hm=74f6f85bbc312c5993ca2dfed206623328d332991b555eb81b1f6df14822576a&
+    image: https://media.discordapp.net/attachments/1332168478148399285/1332168478710562837/image.png?ex=6a26cb53&is=6a2579d3&hm=61df9bef1cb3ae570cd92d648719d5c78455456135b422373fa7d0ffc63f709d&
     author:
       name: kebs
     tags:
@@ -1641,7 +1641,7 @@ listings:
     assets:
       - name: OldPatchNumber.js
         size: 4610
-        downloadUrl: https://cdn.discordapp.com/attachments/1332168478148399285/1332168478936797226/OldPatchNumber.js?ex=6a262293&is=6a24d113&hm=3bc1335c431ad02e8eef5473b634ecd18e31375e52985fc26fc25267f1a4b3e1&
+        downloadUrl: https://cdn.discordapp.com/attachments/1332168478148399285/1332168478936797226/OldPatchNumber.js?ex=6a26cb53&is=6a2579d3&hm=1027559b4fe42915ac7a0ada2d71bedacf038fc3db99f0bf836f31e96851dea8&
         contentType: application/javascript; charset=utf-8
     enriched: true
   - id: "1316703290775441408"
@@ -1878,7 +1878,7 @@ listings:
     releaseUrl: https://github.com/egirlcatnip/league-theme-mica/releases/tag/Releases
     releaseTag: Releases
     releaseName: Release v1.6
-    image: https://media.discordapp.net/attachments/1165305978187681803/1165305978674216970/shot.png?ex=6a263283&is=6a24e103&hm=1b03d3d05873eed4e6ffad602954179393145836eb2d92fa8862531f43ad65f1&
+    image: https://media.discordapp.net/attachments/1165305978187681803/1165305978674216970/shot.png?ex=6a26db43&is=6a2589c3&hm=1dee03b9e2f98ae05c2ec90c8c2079d43e13a1e2321be01b03c35a7f22213612&
     author:
       name: egirlcatnip
       avatar: https://avatars.githubusercontent.com/u/26607304?v=4
@@ -1985,7 +1985,7 @@ listings:
     name: GrayscaleV2
     description: Grayscale theme for Pengu-loader.
     repo: https://github.com/rviid/league-grayscale-theme
-    image: https://media.discordapp.net/attachments/1166033741186076793/1166033741597130852/grayscalev2.png?ex=6a26354b&is=6a24e3cb&hm=81aa88e085ae996991346a0d776cb03fdaf6695daf989d6a956649fdda71e6aa&
+    image: https://media.discordapp.net/attachments/1166033741186076793/1166033741597130852/grayscalev2.png?ex=6a26de0b&is=6a258c8b&hm=edebc506688cf19169a99d728739b5b461fa8d16b1294d52d60649513017d7e0&
     author:
       name: rviid
       avatar: https://avatars.githubusercontent.com/u/147655674?v=4
@@ -2072,7 +2072,7 @@ listings:
     releaseUrl: https://github.com/HerXayah/league-launcher-theme/releases/tag/treetard
     releaseTag: treetard
     releaseName: JS File
-    image: https://media.discordapp.net/attachments/1077961395393536092/1077970085148381214/chrome_zATRdGurSO.png?ex=6a263220&is=6a24e0a0&hm=c3d6153f9a365b69f0ab56950776d1205f3c18f2542aac0baea958f860aa8d1b&
+    image: https://media.discordapp.net/attachments/1077961395393536092/1077970085148381214/chrome_zATRdGurSO.png?ex=6a26dae0&is=6a258960&hm=e4edea0d4b7b6608036fb0ed2d7bcebbc2185920b5b74cf3cdde4f1fb771b01e&
     author:
       name: HerXayah
       avatar: https://avatars.githubusercontent.com/u/45071533?v=4
@@ -2115,7 +2115,7 @@ listings:
     releaseUrl: https://github.com/HerXayah/league-launcher-theme/releases/tag/treetard
     releaseTag: treetard
     releaseName: JS File
-    image: https://media.discordapp.net/attachments/1077970301192769636/1077970301666734080/PDHdfhl.png?ex=6a263253&is=6a24e0d3&hm=12f6a7fdd7b13efdc27c39384054ba089ee4d4121f077e75fe1ccaad10169a6c&
+    image: https://media.discordapp.net/attachments/1077970301192769636/1077970301666734080/PDHdfhl.png?ex=6a26db13&is=6a258993&hm=e27767a5081b27eab738c209ec19d98458c88eccde330158a3b8c8581c188402&
     author:
       name: HerXayah
       avatar: https://avatars.githubusercontent.com/u/45071533?v=4
