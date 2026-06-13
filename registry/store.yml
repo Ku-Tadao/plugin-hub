@@ -1,6 +1,6 @@
 name: Pengu Community Store registry
 version: 1
-generatedAt: 2026-06-13T08:37:07.601Z
+generatedAt: 2026-06-13T11:13:50.131Z
 source:
   guildId: "1069483280438673418"
   forums:
@@ -418,7 +418,7 @@ listings:
     releaseUrl: https://github.com/Yimikami/pengu-plugins/releases/tag/PenguFamily_v0.1.0
     releaseTag: PenguFamily_v0.1.0
     releaseName: Pengu Family v0.1.0
-    image: https://media.discordapp.net/attachments/1503337548993265687/1503337549404311693/tb.png?ex=6a2dd472&is=6a2c82f2&hm=09fba91491054a3776c50f29f3a4467b4a0ea8eba97a8976fd1315536be2dce9&
+    image: https://media.discordapp.net/attachments/1503337548993265687/1503337549404311693/tb.png?ex=6a2e7d32&is=6a2d2bb2&hm=f4e15c731de8d9223fb6dba12e1ca5cebb8f7ec15734b2c0223f442330552f8d&
     author:
       name: Yimikami
       avatar: https://avatars.githubusercontent.com/u/39545057?v=4
@@ -445,7 +445,7 @@ listings:
     releaseUrl: https://github.com/Yimikami/pengu-plugins/releases/tag/PenguFamily_v0.1.0
     releaseTag: PenguFamily_v0.1.0
     releaseName: Pengu Family v0.1.0
-    image: https://media.discordapp.net/attachments/1472183865379389444/1496249294418612344/0330C317-A78E-416F-AC36-FE6739688A1F.png?ex=6a2dc03e&is=6a2c6ebe&hm=8f9d72f95dcb2a2e4e732bfa1af7a9aca2d355ffc2b3c91022096b2f9822ab1b&
+    image: https://media.discordapp.net/attachments/1472183865379389444/1496249294418612344/0330C317-A78E-416F-AC36-FE6739688A1F.png?ex=6a2e68fe&is=6a2d177e&hm=a8213c283a697ad41c9257aa3c038908a9090285ea9c078d5190a4ac84e4df39&
     author:
       name: Yimikami
       avatar: https://avatars.githubusercontent.com/u/39545057?v=4
@@ -514,7 +514,7 @@ listings:
       hover tooltip, and your profile page. BNC Button in Lobby as always with
       my plugins. ⚠️ Client-side only — only you can see the change. Other
       players still see your actual equipped banner.
-    image: https://media.discordapp.net/attachments/1499358177052069899/1499358177840467968/4hbdb93.png?ex=6a2ddade&is=6a2c895e&hm=7a2f225f977d69dd51b6c77bcda88fb86f1d1ee1778ba0ff9e2c261edcf81672&
+    image: https://media.discordapp.net/attachments/1499358177052069899/1499358177840467968/4hbdb93.png?ex=6a2e839e&is=6a2d321e&hm=a9f2fd85ffffc31908ea55dc95d1e7ef6adca149b6abc2ed376a333dbc7a779b&
     author:
       name: Eris Greyrat
     tags:
@@ -527,7 +527,7 @@ listings:
     assets:
       - name: Banner-Customizer.js
         size: 56598
-        downloadUrl: https://cdn.discordapp.com/attachments/1499358177052069899/1499358178658222220/Banner-Customizer.js?ex=6a2ddade&is=6a2c895e&hm=f2c55ae50ab1a0075f75b6b960c53e251f6c82a30f629e3d242e3f4dbee292fd&
+        downloadUrl: https://cdn.discordapp.com/attachments/1499358177052069899/1499358178658222220/Banner-Customizer.js?ex=6a2e839e&is=6a2d321e&hm=e5f85f6a626118290cb42eac1687f6e3a7cf22d2ea294c096ba4fb6050a9dd93&
         contentType: text/javascript; charset=utf-8
     enriched: true
   - id: "1499090537427243129"
@@ -729,7 +729,7 @@ listings:
     releaseUrl: https://github.com/Ventoba/3DSkinViewer/releases/tag/v1.0
     releaseTag: v1.0
     releaseName: v1.0
-    image: https://media.discordapp.net/attachments/1490663854059950280/1490663854391427183/example2.PNG?ex=6a2ddda6&is=6a2c8c26&hm=19730cf9d21773709c68dac2dd8c805c6d264f962d0a5777cbbf01c391e6040d&
+    image: https://media.discordapp.net/attachments/1490663854059950280/1490663854391427183/example2.PNG?ex=6a2e8666&is=6a2d34e6&hm=06c38a108ffa2eae37dad47daacaf1011ae5fc79d302649b510fd3784224203b&
     author:
       name: Ventoba
       avatar: https://avatars.githubusercontent.com/u/96593577?v=4
@@ -763,7 +763,7 @@ listings:
     assets:
       - name: index.js
         size: 4929
-        downloadUrl: https://cdn.discordapp.com/attachments/1462451902028578940/1465476858241093662/index.js?ex=6a2ddcae&is=6a2c8b2e&hm=9a5a5a22fe53a2cdf86a80531074a730aa674ac838bddee4e36d6cdaef0ae654&
+        downloadUrl: https://cdn.discordapp.com/attachments/1462451902028578940/1465476858241093662/index.js?ex=6a2e856e&is=6a2d33ee&hm=9d0f6c80e7e2901d7b027bb028b491025088558e605a263a9f9bf74eda89ecd3&
         contentType: text/javascript; charset=utf-8
     enriched: true
   - id: "1476103367171248180"
@@ -928,7 +928,7 @@ listings:
     name: Banner Remover (not unranked needed last season)
     description: I made this plugin so the banner is transparent for seeing the
       background :3
-    image: https://media.discordapp.net/attachments/1485931384504848394/1485931923275776201/C457E65E-4309-49F8-87B7-D302F19ADCDF.png?ex=6a2dca31&is=6a2c78b1&hm=6393f4df6a27019a8d066440712f207d1c7ae1a729eb7694038741ebf74e4478&
+    image: https://media.discordapp.net/attachments/1485931384504848394/1485931923275776201/C457E65E-4309-49F8-87B7-D302F19ADCDF.png?ex=6a2e72f1&is=6a2d2171&hm=ad170ab2c954cd53b815db67b1ba4785206b22dfb724baab579f14e324572b41&
     author:
       name: Polydragoo
     tags:
@@ -939,7 +939,7 @@ listings:
     assets:
       - name: BannerRemover-LittleRadioo.zip
         size: 1447
-        downloadUrl: https://cdn.discordapp.com/attachments/1485931384504848394/1485931384869621820/BannerRemover-LittleRadioo.zip?ex=6a2dc9b1&is=6a2c7831&hm=e4afc77de45163c56e9bffd941054ec9ab37bf3f0e8011d0b80cf5de6e410237&
+        downloadUrl: https://cdn.discordapp.com/attachments/1485931384504848394/1485931384869621820/BannerRemover-LittleRadioo.zip?ex=6a2e7271&is=6a2d20f1&hm=3974e83f9c61865d59536b01475fe5d6a8afb5ba91058616217ac1eea8ea1102&
         contentType: application/zip
     enriched: true
   - id: "1486800653685620884"
@@ -1044,7 +1044,7 @@ listings:
     description: 🔒 Lock the League of Legends client with a 4-digit PIN — hotkey
       support, iOS-style UI, blur overlay. Penguloader plugin.
     repo: https://github.com/nt3y/LeagueClient-Locker-
-    image: https://media.discordapp.net/attachments/1485026009018273872/1485026009500877094/image.png?ex=6a2dca3f&is=6a2c78bf&hm=e91f96f2341981d69527a4233524ac119e21f44decdc043d4bbf2c6dbe517dde&
+    image: https://media.discordapp.net/attachments/1485026009018273872/1485026009500877094/image.png?ex=6a2e72ff&is=6a2d217f&hm=dac8be3da07da3be89207ea8d33e4b29184fd0c271528afb71f9b26fef78c189&
     author:
       name: nt3y
       avatar: https://avatars.githubusercontent.com/u/269317310?v=4
@@ -1156,7 +1156,7 @@ listings:
     name: HideChampName
     description: Hides enemy champion names in Champion Select for League of Legends
     repo: https://github.com/Mixiruri/AnonymousEnemies
-    image: https://media.discordapp.net/attachments/1476888210436001904/1476888211044171848/preview.webp?ex=6a2dd914&is=6a2c8794&hm=e40efc289dd678a84e1edeb8d32f5e7d6f90aafaa3ece5f21f17a5f079f77eea&
+    image: https://media.discordapp.net/attachments/1476888210436001904/1476888211044171848/preview.webp?ex=6a2e81d4&is=6a2d3054&hm=6dbbe97d7603c864bbcf043894d42e40067224b8f933879105c98b695612d3db&
     author:
       name: Mixiruri
       avatar: https://avatars.githubusercontent.com/u/255986660?v=4
@@ -1290,7 +1290,7 @@ listings:
     name: Blue Essence Icon Swapper
     description: "Blue Essence Icon Swapper How to use: Click the BE icon to change
       icon. Click the BE icon to select new image/reset to standard."
-    image: https://media.discordapp.net/attachments/1468009747780210791/1468019006991634432/Screenshot_2026-02-02_232517.png?ex=6a2de1bd&is=6a2c903d&hm=7561d889c46f4b6b26de42b4349c79347e77ded97fdff77db7c77324bb1c2e3b&
+    image: https://media.discordapp.net/attachments/1468009747780210791/1468019006991634432/Screenshot_2026-02-02_232517.png?ex=6a2e8a7d&is=6a2d38fd&hm=8d869b8947a12620331c8f21bc63b074476024c035bcaea93cbff7c6ef4a257f&
     author:
       name: Ilkay
     tags:
@@ -1301,7 +1301,7 @@ listings:
     assets:
       - name: BE-Icon-Swapper.js
         size: 6253
-        downloadUrl: https://cdn.discordapp.com/attachments/1468009747780210791/1468019008229081235/BE-Icon-Swapper.js?ex=6a2de1be&is=6a2c903e&hm=57b49edb435860d983130123509627f1e46dfa140305f0197dfe606d9ce56a91&
+        downloadUrl: https://cdn.discordapp.com/attachments/1468009747780210791/1468019008229081235/BE-Icon-Swapper.js?ex=6a2e8a7e&is=6a2d38fe&hm=01b9a0273ff585dc14c7bfe8138d94792c02781e5de75a821e0db4b897953b11&
         contentType: text/javascript; charset=utf-8
     enriched: true
   - id: "1462077280728780861"
@@ -1370,7 +1370,7 @@ listings:
       from \"plugin request\" section long ago, now i can't find who developed
       it. They will be credited as soon as they reach out"
     repo: https://github.com/asherathegod/penguplugins
-    image: https://media.discordapp.net/attachments/1371799042832597054/1371799043575123978/EbMqICb.png?ex=6a2ddc2a&is=6a2c8aaa&hm=b53cc571a8c9ddbba4bb5fe77c5f4df25166f1a3f7afc39e0e87948ced287801&
+    image: https://media.discordapp.net/attachments/1371799042832597054/1371799043575123978/EbMqICb.png?ex=6a2e84ea&is=6a2d336a&hm=4720deb52e2900e71fb14814f6415c58c91959dd998d77c486fd71e4ca5f21d1&
     author:
       name: asherathegod
       avatar: https://avatars.githubusercontent.com/u/68480231?v=4
@@ -1404,7 +1404,7 @@ listings:
     kind: plugins
     name: Old mastery icons
     description: This plugins will change new mastery icons to old version
-    image: https://media.discordapp.net/attachments/1414553304259760148/1414553304523866163/image.png?ex=6a2dd52c&is=6a2c83ac&hm=986c8c2efd810de5a87e711309f7cd3490242a481d5ebf546479a1ebcc8cdd24&
+    image: https://media.discordapp.net/attachments/1414553304259760148/1414553304523866163/image.png?ex=6a2e7dec&is=6a2d2c6c&hm=511c25e88b0a17d3cbba98962b4fd0197e99b2f68d7d9204b4464a47a3ab2d0c&
     author:
       name: Elaina
     tags:
@@ -1416,7 +1416,7 @@ listings:
     assets:
       - name: oldMasteryIcons.js
         size: 5500
-        downloadUrl: https://cdn.discordapp.com/attachments/1414553304259760148/1414553545046364240/oldMasteryIcons.js?ex=6a2dd566&is=6a2c83e6&hm=1f83c16c8b6bac3480d7cbc52bda2e45845141eaea04f30ef71f6f2efee80ef7&
+        downloadUrl: https://cdn.discordapp.com/attachments/1414553304259760148/1414553545046364240/oldMasteryIcons.js?ex=6a2e7e26&is=6a2d2ca6&hm=d1979e8401f7a64798ba0c809c77ba9c5700ad3fc48624076ccc39dcc3680f66&
         contentType: application/javascript; charset=utf-8
       - name: oldMasteryIcons.js
         size: 11497
@@ -1487,7 +1487,7 @@ listings:
       fetch("/lol-challenges/v1/update-player-preferences/", { method: "POST",
       headers: { "Content-Type": "application/json" }, body: JSON.stringify({
       bannerAccent: "2"}) })'
-    image: https://media.discordapp.net/attachments/1311460393507356802/1311460598969798656/image.png?ex=6a2ddb5c&is=6a2c89dc&hm=3cf3ad99d8dd69075602af1073dd6ea18a7a0ee01fc8a3ffa2199c3e860334c1&
+    image: https://media.discordapp.net/attachments/1311460393507356802/1311460598969798656/image.png?ex=6a2e841c&is=6a2d329c&hm=f59a58c45070b51c6842c3837f08c24555eafb2fd274aec49da64383e214c289&
     author:
       name: kebs
     tags:
@@ -1560,7 +1560,7 @@ listings:
       Activity Center to the Play screen - Removes Navbar button since it
       redirects anyways - Toggle on and off via Client General Interface
       Settings, if you at some point need to use it"
-    image: https://media.discordapp.net/attachments/1396060178545119263/1396060179815989399/image.png?ex=6a2dca9c&is=6a2c791c&hm=360ce68f7d4835e628e8504ecd70204b668bc30699f2054050598aacc58ff2f3&
+    image: https://media.discordapp.net/attachments/1396060178545119263/1396060179815989399/image.png?ex=6a2e735c&is=6a2d21dc&hm=9ab60d9ef3ae4eb0d91a40f0de5db53bd691de81ebd8be35cc05ddf12f870ce3&
     author:
       name: Eris Greyrat
     tags:
@@ -1653,7 +1653,7 @@ listings:
     releaseUrl: https://github.com/Elaina69/fake-reward-badge/releases/tag/v1.0.0
     releaseTag: v1.0.0
     releaseName: ""
-    image: https://media.discordapp.net/attachments/1316703290775441408/1316703290960121867/image.png?ex=6a2dd03f&is=6a2c7ebf&hm=a0342c09b11619f8b8b2c81ffcd4dc12a50825b21ed7e9ad442715989edea56c&
+    image: https://media.discordapp.net/attachments/1316703290775441408/1316703290960121867/image.png?ex=6a2e78ff&is=6a2d277f&hm=4975fef701220ecc8ca1f0c833f2d61873a231f3d6d7b6be129b5f81a7040609&
     author:
       name: Elaina69
       avatar: https://avatars.githubusercontent.com/u/94338907?v=4
@@ -1721,7 +1721,7 @@ listings:
     releaseUrl: https://github.com/PenguLoader/PenguLoader/releases/tag/v1.1.6
     releaseTag: v1.1.6
     releaseName: v1.1.6
-    image: https://media.discordapp.net/attachments/1413095170475560960/1413095170940997642/Untitled.png?ex=6a2dcd2e&is=6a2c7bae&hm=b96390458c6b5e00ae202eabd9ede567e54d72fb74f00bbb7c0588c424b9767a&
+    image: https://media.discordapp.net/attachments/1413095170475560960/1413095170940997642/Untitled.png?ex=6a2e75ee&is=6a2d246e&hm=0233816e63c713bc13aa1a42c52ced737ee6182dc62cb766df77ed6c03ac4ba0&
     author:
       name: PenguLoader
       avatar: https://avatars.githubusercontent.com/u/126898920?v=4
@@ -1853,7 +1853,7 @@ listings:
     releaseUrl: https://github.com/Humildeficador/DisableQueues/releases/tag/1.0
     releaseTag: "1.0"
     releaseName: v1.0
-    image: https://media.discordapp.net/attachments/1200544287817994240/1200544288119996557/Screenshot_1.png?ex=6a2dc37f&is=6a2c71ff&hm=ea5bb19a43c4cbd4c37b9062f4a74702239e5b14d6b53b6094d50d13492a3740&
+    image: https://media.discordapp.net/attachments/1200544287817994240/1200544288119996557/Screenshot_1.png?ex=6a2e6c3f&is=6a2d1abf&hm=359bafa15ef10392209a2e0ed088881abb5418e4c7baf75d8a4f31b87d25f3e2&
     author:
       name: Humildeficador
       avatar: https://avatars.githubusercontent.com/u/130767630?v=4
