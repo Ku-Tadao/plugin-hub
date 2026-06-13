@@ -1,6 +1,6 @@
 name: Pengu Community Store registry
 version: 1
-generatedAt: 2026-06-13T16:55:41.397Z
+generatedAt: 2026-06-13T18:07:11.927Z
 source:
   guildId: "1069483280438673418"
   forums:
@@ -9,6 +9,32 @@ source:
     - kind: themes
       channelId: "1077886317364523072"
 listings:
+  - id: "1334901167125299300"
+    kind: plugins
+    name: End Of Game mass report
+    description: Report all player right after end of game
+    details: "- Fix report bugs"
+    repo: https://github.com/Elaina69/eog-mass-report
+    releaseUrl: https://github.com/Elaina69/eog-mass-report/releases/tag/v1.1.2
+    releaseTag: v1.1.2
+    releaseName: ""
+    image: https://opengraph.githubassets.com/4cf193debe290ed623578c21c94546a3ad1f971b8af841e3c8745153b96e7e62/Elaina69/eog-mass-report/releases/tag/v1.1.0
+    author:
+      name: Elaina69
+      avatar: https://avatars.githubusercontent.com/u/94338907?v=4
+      github: Elaina69
+    tags:
+      - Utility
+      - Misc
+    discordUrl: https://discord.com/channels/1069483280438673418/1334901167125299300/1334901167125299300
+    upvotes: 13
+    updatedAt: 2026-06-13T17:12:19Z
+    assets:
+      - name: EOGMassReport.js
+        size: 20451
+        downloadUrl: https://github.com/Elaina69/eog-mass-report/releases/download/v1.1.2/EOGMassReport.js
+        contentType: text/javascript
+    enriched: true
   - id: "1512550218044805150"
     kind: plugins
     name: Snooze-Manager [Plug-in Collection]
@@ -236,7 +262,7 @@ listings:
     releaseUrl: https://github.com/kyso1/KysoTheme/releases/tag/v3.0
     releaseTag: v3.0
     releaseName: KysoTheme V3
-    image: https://media.discordapp.net/attachments/1240541534663868426/1240541534869262376/image.png?ex=6a2e40d6&is=6a2cef56&hm=e18a8fad359f8564b85b6cb33e355ee6243336a8181e334ce5ec5063123e976f&
+    image: https://media.discordapp.net/attachments/1240541534663868426/1240541534869262376/image.png?ex=6a2ee996&is=6a2d9816&hm=06b4619d9d296282140c9c3361a81eca78790faced0734afe6903a75e7497ba8&
     author:
       name: kyso1
       avatar: https://avatars.githubusercontent.com/u/128049220?v=4
@@ -1424,7 +1450,7 @@ listings:
         contentType: application/javascript; charset=utf-8
       - name: oldMasteryIcons.js
         size: 9545
-        downloadUrl: https://cdn.discordapp.com/attachments/1414553304259760148/1414659601575579780/oldMasteryIcons.js?ex=6a2e382c&is=6a2ce6ac&hm=83c8efd37c8a88c2142811a1cd3bbee6481b8da9690843925266b0c8765985da&
+        downloadUrl: https://cdn.discordapp.com/attachments/1414553304259760148/1414659601575579780/oldMasteryIcons.js?ex=6a2ee0ec&is=6a2d8f6c&hm=853c698e23055c5c46bf8abd593add09c31a945509da241d1e54bf105c157484&
         contentType: application/javascript; charset=utf-8
     enriched: true
   - id: "1322710156173250601"
@@ -1525,32 +1551,6 @@ listings:
       - name: fakeRunesPages.js
         size: 24608
         downloadUrl: https://github.com/Elaina69/fake-runes-pages/releases/download/v1.1.1/fakeRunesPages.js
-        contentType: text/javascript
-    enriched: true
-  - id: "1334901167125299300"
-    kind: plugins
-    name: End Of Game mass report
-    description: Report all player right after end of game
-    details: "- Fix crash client issue"
-    repo: https://github.com/Elaina69/eog-mass-report
-    releaseUrl: https://github.com/Elaina69/eog-mass-report/releases/tag/v1.1.1
-    releaseTag: v1.1.1
-    releaseName: ""
-    image: https://opengraph.githubassets.com/4cf193debe290ed623578c21c94546a3ad1f971b8af841e3c8745153b96e7e62/Elaina69/eog-mass-report/releases/tag/v1.1.0
-    author:
-      name: Elaina69
-      avatar: https://avatars.githubusercontent.com/u/94338907?v=4
-      github: Elaina69
-    tags:
-      - Utility
-      - Misc
-    discordUrl: https://discord.com/channels/1069483280438673418/1334901167125299300/1334901167125299300
-    upvotes: 13
-    updatedAt: 2025-08-31T14:40:17Z
-    assets:
-      - name: EOGMassReport.js
-        size: 20221
-        downloadUrl: https://github.com/Elaina69/eog-mass-report/releases/download/v1.1.1/EOGMassReport.js
         contentType: text/javascript
     enriched: true
   - id: "1396060178545119263"
