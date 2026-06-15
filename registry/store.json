@@ -1,7 +1,7 @@
 {
   "name": "Pengu Community Store registry",
   "version": 1,
-  "generatedAt": "2026-06-15T12:12:00.447Z",
+  "generatedAt": "2026-06-15T17:30:34.973Z",
   "source": {
     "guildId": "1069483280438673418",
     "forums": [
@@ -37,7 +37,7 @@
         "Misc"
       ],
       "discordUrl": "https://discord.com/channels/1069483280438673418/1515826629773885653/1515826629773885653",
-      "upvotes": 2,
+      "upvotes": 4,
       "updatedAt": "2026-06-14T21:08:17Z",
       "assets": [
         {
@@ -162,7 +162,7 @@
       "releaseUrl": "https://github.com/Elaina69/Elaina-theme/releases/tag/v4.5.1",
       "releaseTag": "v4.5.1",
       "releaseName": "",
-      "image": "https://media.discordapp.net/attachments/1373696348284653628/1373696348653617315/fh98jYI.png?ex=6a30ceab&is=6a2f7d2b&hm=96b6570a9a01c1205c96b40242822aef2fdd52109553e89b8afe92fb8b78f2a5&",
+      "image": "https://media.discordapp.net/attachments/1373696348284653628/1373696348653617315/fh98jYI.png?ex=6a31776b&is=6a3025eb&hm=dbe6f83802735fc1a13ac17f485a3ff82724900f8811a815a7189e58eacf4bbe&",
       "author": {
         "name": "Elaina69",
         "avatar": "https://avatars.githubusercontent.com/u/94338907?v=4",
@@ -313,7 +313,7 @@
       "kind": "themes",
       "name": "Minimalist Debloat Theme",
       "description": "No description provided.",
-      "image": "https://media.discordapp.net/attachments/1491806616415244459/1491806616750915705/wasupdud.png?ex=6a30b46d&is=6a2f62ed&hm=47d4b9f94fe7d868487d039415480c5a5f6e12c46a13539085fca338851fcd5a&",
+      "image": "https://media.discordapp.net/attachments/1491806616415244459/1491806616750915705/wasupdud.png?ex=6a315d2d&is=6a300bad&hm=0301568ad2dac2d0306a9b513fa9d5bbddfc4c75f71f055e8beca23c288dd09b&",
       "author": {
         "name": "莫嘎 | Mogay"
       },
@@ -434,7 +434,7 @@
       "releaseUrl": "https://github.com/Yimikami/pengu-plugins/releases/tag/PenguFamily_v0.1.0",
       "releaseTag": "PenguFamily_v0.1.0",
       "releaseName": "Pengu Family v0.1.0",
-      "image": "https://media.discordapp.net/attachments/1411366905247170621/1411743618388983931/image.png?ex=6a30cb73&is=6a2f79f3&hm=0638db4f13e82800c20909d7c88d60bbe8a2c7754e7c05c6801f7eec65b1c57b&",
+      "image": "https://media.discordapp.net/attachments/1411366905247170621/1411743618388983931/image.png?ex=6a317433&is=6a3022b3&hm=e198295e2214811f9998589e52863bffc30656dca2fb514c38cbefbe61e6f560&",
       "author": {
         "name": "Yimikami",
         "avatar": "https://avatars.githubusercontent.com/u/39545057?v=4",
@@ -550,7 +550,7 @@
       "kind": "plugins",
       "name": "S9 League of legends ranked borders",
       "description": "This plugin will change your profile ranked image to old ones that i think was looking the best in the whole rank history! It was made by <@1246591176791035946 he helped me doing it for myself so i wanted to give him the credits for it + share it with you guys cuz u might wanna use it!",
-      "image": "https://media.discordapp.net/attachments/1414636794124832851/1414636794858700900/oldborders.png?ex=6a30c5ee&is=6a2f746e&hm=0892a9ba6a167a3f9d7d53bfbdb412a1ba0cb6fd61a7efcac29a744446141b45&",
+      "image": "https://media.discordapp.net/attachments/1414636794124832851/1414636794858700900/oldborders.png?ex=6a316eae&is=6a301d2e&hm=24c0a09d786f6092daab17b61e50f81f8eb5c7350433a239f489a055f18233b4&",
       "author": {
         "name": "Samuraj"
       },
@@ -565,7 +565,7 @@
         {
           "name": "s9-ranked-borders.zip",
           "size": 945105,
-          "downloadUrl": "https://cdn.discordapp.com/attachments/1414636794124832851/1414636795714338886/s9-ranked-borders.zip?ex=6a30c5ee&is=6a2f746e&hm=3432e06ad230eaa012d1cccc1f244ce39bcf01ccde7f9bd0fc4dc8ab9aab8318&",
+          "downloadUrl": "https://cdn.discordapp.com/attachments/1414636794124832851/1414636795714338886/s9-ranked-borders.zip?ex=6a316eae&is=6a301d2e&hm=7dfa231cb217e579cbac2f5cfbb2ccf806a2caae9782a8efb03f6c6daad85499&",
           "contentType": "application/zip"
         }
       ],
@@ -604,7 +604,7 @@
       "name": "Spotify Controller - In-game playback controls",
       "description": "A lightweight Spotify controller integrated directly into the League of Legends client using Pengu Loader. This project consists of two parts: a local Node.js authentication server and a client-side plugin.",
       "repo": "https://github.com/GogoChad/spotify-media-player",
-      "image": "https://media.discordapp.net/attachments/1499090537427243129/1499090537792143492/image.png?ex=6a30d61b&is=6a2f849b&hm=5b622768bc63125330708f7cb24c7169ac2cecc94026f2a96336c90e9dff6cc6&",
+      "image": "https://media.discordapp.net/attachments/1499090537427243129/1499090537792143492/image.png?ex=6a317edb&is=6a302d5b&hm=70b543d721799a273d4fb053e251f833d40153a957a872cc6904243d0731c56f&",
       "author": {
         "name": "GogoChad",
         "avatar": "https://avatars.githubusercontent.com/u/133820564?v=4",
@@ -652,7 +652,7 @@
       "releaseUrl": "https://github.com/ReformedDoge/Mayhem-Doctor/releases/tag/V1.2.0",
       "releaseTag": "V1.2.0",
       "releaseName": "v1.2.0 - New Option: Render in a separate dedicated pop-out window, Refactor: responsive dashboard layout",
-      "image": "https://media.discordapp.net/attachments/1475139802482479317/1475139803027607734/ilfu6zl.gif?ex=6a30b73f&is=6a2f65bf&hm=b88af1587f1105a9a889c6908883638ef75b1bd7e87762a1b0bd3835fcabce15&",
+      "image": "https://media.discordapp.net/attachments/1475139802482479317/1475139803027607734/ilfu6zl.gif?ex=6a315fff&is=6a300e7f&hm=29969003e0765ebe18f4ebfdbfdeda8d267088aeff738c17beb08d26f618d0dc&",
       "author": {
         "name": "ReformedDoge",
         "avatar": "https://avatars.githubusercontent.com/u/39759213?v=4",
@@ -686,7 +686,7 @@
       "releaseUrl": "https://github.com/ErisuGreyrat/Pengu-Background-Customizer/releases/tag/2.0",
       "releaseTag": "2.0",
       "releaseName": "V2",
-      "image": "https://media.discordapp.net/attachments/1373487727861039115/1373487728985116703/image.png?ex=6a30b520&is=6a2f63a0&hm=aaeb223c0556719a360f2e6940463dd2eb4bad9fb3052a9cc1e2336623fbeb94&",
+      "image": "https://media.discordapp.net/attachments/1373487727861039115/1373487728985116703/image.png?ex=6a315de0&is=6a300c60&hm=aa0b55578d07cec4ba1eb798cf3e359a8546fdf505b68fd7d3bd89ff719a951d&",
       "author": {
         "name": "ErisuGreyrat",
         "avatar": "https://avatars.githubusercontent.com/u/179902803?v=4",
@@ -720,7 +720,7 @@
       "releaseUrl": "https://github.com/xRize/MusicPlugin/releases/tag/Release2",
       "releaseTag": "Release2",
       "releaseName": "v1.0.1",
-      "image": "https://media.discordapp.net/attachments/1487606021449973850/1487606021831528640/569826409-7f1dae67-6e42-4fb5-ac20-32cbc0166a21.png?ex=6a309591&is=6a2f4411&hm=07d1780209eec2c4a8ffc514d09a1e99c76f8850a4f9d963ed4e5f48b77ab8eb&",
+      "image": "https://media.discordapp.net/attachments/1487606021449973850/1487606021831528640/569826409-7f1dae67-6e42-4fb5-ac20-32cbc0166a21.png?ex=6a313e51&is=6a2fecd1&hm=1892e082c5b3a0bec410d3ed7ea3e9190dff2c8acfb236678122d95933b21223&",
       "author": {
         "name": "xRize",
         "avatar": "https://avatars.githubusercontent.com/u/83946532?v=4",
@@ -1047,7 +1047,7 @@
       "releaseUrl": "https://github.com/Reynbow/auto-champ-lock/releases/tag/v1.5.2",
       "releaseTag": "v1.5.2",
       "releaseName": "v1.5.2",
-      "image": "https://media.discordapp.net/attachments/1477651306167406592/1477651306364534834/role-pick-ui.png?ex=6a309fc4&is=6a2f4e44&hm=ffcf8b02685531e2aac1b0dcf1aae1040e80c8128a32ac9103b3d5df00f3d28f&",
+      "image": "https://media.discordapp.net/attachments/1477651306167406592/1477651306364534834/role-pick-ui.png?ex=6a314884&is=6a2ff704&hm=d8bb8d69192854aa5eb8b25dc4de8884de3329cf6333a69691997893af80c7b7&",
       "author": {
         "name": "Reynbow",
         "avatar": "https://avatars.githubusercontent.com/u/19285509?v=4",
@@ -1079,7 +1079,7 @@
       "releaseUrl": "https://github.com/ErisuGreyrat/acrylic-league-theme/releases/tag/1.9.3",
       "releaseTag": "1.9.3",
       "releaseName": "v1.9.3",
-      "image": "https://media.discordapp.net/attachments/1373486870054441210/1373486870553694360/image.png?ex=6a30b454&is=6a2f62d4&hm=6fdd3c004019e4968b0bc2039e1f32f92520f03f1e9a14b2cc094924de5f4154&",
+      "image": "https://media.discordapp.net/attachments/1373486870054441210/1373486870553694360/image.png?ex=6a315d14&is=6a300b94&hm=c237ea3fd96237b93462eb40c96dbcaa03a2642c620e2098f6071f8991333343&",
       "author": {
         "name": "ErisuGreyrat",
         "avatar": "https://avatars.githubusercontent.com/u/179902803?v=4",
@@ -1241,7 +1241,7 @@
       "kind": "plugins",
       "name": "Full length ARAM music",
       "description": "A plugin to bring back full length ARAM music on champion select",
-      "image": "https://media.discordapp.net/attachments/1469142886330273884/1469142887424983214/channels4_profile.jpg?ex=6a30a6ef&is=6a2f556f&hm=723186f75e9d7c3e11b0f84cda7a75dcf1fcbab964097bfdbf96c66c44b7d9ca&",
+      "image": "https://media.discordapp.net/attachments/1469142886330273884/1469142887424983214/channels4_profile.jpg?ex=6a314faf&is=6a2ffe2f&hm=f36f6ee7c7c2a3734dd09bd09c4a3eef7bec5cc7958de24eda8d3b9371718888&",
       "author": {
         "name": "Blue Cartoon Cat"
       },
@@ -1289,7 +1289,7 @@
       "releaseUrl": "https://github.com/kyso1/tft-client-theme/releases/tag/v1.0",
       "releaseTag": "v1.0",
       "releaseName": "v1.0",
-      "image": "https://media.discordapp.net/attachments/1462077280728780861/1462077814324068548/nUvdXBx.png?ex=6a30a853&is=6a2f56d3&hm=a635379ea3a87a2d5fe5efb7503d247da6f239c9008aec97ad9741b92c5f2f42&",
+      "image": "https://media.discordapp.net/attachments/1462077280728780861/1462077814324068548/nUvdXBx.png?ex=6a315113&is=6a2fff93&hm=c2f7ab6593871f57900e32d25cfa51df7550813949cf29fd864edd18c282b4d0&",
       "author": {
         "name": "kyso1",
         "avatar": "https://avatars.githubusercontent.com/u/128049220?v=4",
@@ -1319,7 +1319,7 @@
       "kind": "plugins",
       "name": "community pact popup blocker",
       "description": "this plugin blocks the new community pact popup when you first login, now technically you can say \"ive never agreed to it\" so you can therefore be as toxic as you want.",
-      "image": "https://media.discordapp.net/attachments/1458822729414217954/1458822729716469913/image.png?ex=6a30ae4a&is=6a2f5cca&hm=503639b6dee618b829ff5e05bfaeb2cc39be3853d1b5cb13b998f25fea967f28&",
+      "image": "https://media.discordapp.net/attachments/1458822729414217954/1458822729716469913/image.png?ex=6a31570a&is=6a30058a&hm=725392888d1eaea211dc000fd89c32b7d8e20cd1a8a17d5f0e03722124f30ad9&",
       "author": {
         "name": "Cat Bot"
       },
@@ -1333,7 +1333,7 @@
         {
           "name": "RiotPactBlocker.js",
           "size": 508,
-          "downloadUrl": "https://cdn.discordapp.com/attachments/1458822729414217954/1458822730198810674/RiotPactBlocker.js?ex=6a30ae4a&is=6a2f5cca&hm=8a52e2f5553e0524d0836e3f59535d83af28b8b1fe84b04dd69ca82780b8bf35&",
+          "downloadUrl": "https://cdn.discordapp.com/attachments/1458822729414217954/1458822730198810674/RiotPactBlocker.js?ex=6a31570a&is=6a30058a&hm=0683327904d3d11f0de60f523a15ec346f1fca5fa516c2ae77a88823aba4a276&",
           "contentType": "text/javascript; charset=utf-8"
         }
       ],
@@ -1408,13 +1408,13 @@
         {
           "name": "oldMasteryIcons.js",
           "size": 11497,
-          "downloadUrl": "https://cdn.discordapp.com/attachments/1414553304259760148/1414642890965254326/oldMasteryIcons.js?ex=6a30cb9c&is=6a2f7a1c&hm=b79466c854dc9751d86e62a37054af6ff3dd21d316e4ed37c1c4d191571de077&",
+          "downloadUrl": "https://cdn.discordapp.com/attachments/1414553304259760148/1414642890965254326/oldMasteryIcons.js?ex=6a31745c&is=6a3022dc&hm=fcd6cb5848f58840d9db08314029899fc67d0b29917bcf63a16f79efcec997a8&",
           "contentType": "application/javascript; charset=utf-8"
         },
         {
           "name": "oldMasteryIcons.js",
           "size": 9545,
-          "downloadUrl": "https://cdn.discordapp.com/attachments/1414553304259760148/1414659601575579780/oldMasteryIcons.js?ex=6a30db2c&is=6a2f89ac&hm=89f5c7611ed8ffe7e5fd9c4f22ef044293b6c5cc74e304d5343785d2a2a09e67&",
+          "downloadUrl": "https://cdn.discordapp.com/attachments/1414553304259760148/1414659601575579780/oldMasteryIcons.js?ex=6a3183ec&is=6a30326c&hm=03289cd19640bba40a99243768097e34079ad2dc034ac91a696ef5c9a0bc3c2b&",
           "contentType": "application/javascript; charset=utf-8"
         }
       ],
@@ -1521,7 +1521,7 @@
         {
           "name": "activity_center_toggle.js",
           "size": 10156,
-          "downloadUrl": "https://cdn.discordapp.com/attachments/1396060178545119263/1401719798949216316/activity_center_toggle.js?ex=6a30954a&is=6a2f43ca&hm=2d1cdbd7c5878e9fe2448eb6990fe6336968d8deb1c74e9cb9d19a28cc7ec3c4&",
+          "downloadUrl": "https://cdn.discordapp.com/attachments/1396060178545119263/1401719798949216316/activity_center_toggle.js?ex=6a313e0a&is=6a2fec8a&hm=9d9268effd717b1b872ff90c3d19793f7f2316c5b39bed74fe433a34e50dba9e&",
           "contentType": "application/javascript; charset=utf-8"
         }
       ],
@@ -1533,7 +1533,7 @@
       "name": "Acrylical  theme fork version",
       "description": "custom theme for lick of leg-ends launcher",
       "repo": "https://github.com/watchingfun/league-launcher-theme",
-      "image": "https://media.discordapp.net/attachments/1365312229775511603/1365312230337282048/image.png?ex=6a30a0d9&is=6a2f4f59&hm=c2917c7aa52b65f088fb852bddecdcfda1368e84198159069534158a67b71b9c&",
+      "image": "https://media.discordapp.net/attachments/1365312229775511603/1365312230337282048/image.png?ex=6a314999&is=6a2ff819&hm=d1bf135d5dabf135cf8f8343a04c46db0c196ea6ba5ab3ff2ad4f04e5d83ea55&",
       "author": {
         "name": "watchingfun",
         "avatar": "https://avatars.githubusercontent.com/u/22067924?v=4",
@@ -1585,7 +1585,7 @@
       "kind": "plugins",
       "name": "Old patch version number",
       "description": "Displays 15.2 instead of 25.S1.2 Source: js import as upl from 'pengu-upl'; export function init(context: any) { upl.init(context); upl.hooks.xhr.hookPost(/lol-client-config/v3/client-config/lol.clientsettings.displaylegacypatchnumbers, (xhr, original) = { Object.defineProperty(xhr, 'responseText', { writable: true, value: true }); original(); }); } Download ⬇⬇⬇⬇⬇⬇",
-      "image": "https://media.discordapp.net/attachments/1332168478148399285/1332168478710562837/image.png?ex=6a30ae93&is=6a2f5d13&hm=9138777e386fda44e0810b744efdd8ac989e1ad9aafea9b1279419ff58bbb12e&",
+      "image": "https://media.discordapp.net/attachments/1332168478148399285/1332168478710562837/image.png?ex=6a315753&is=6a3005d3&hm=c88821a61725a0e1e77b0f52564efd156bdfebdb2c75cc7cf246757e495f26e2&",
       "author": {
         "name": "kebs"
       },
@@ -1601,7 +1601,7 @@
         {
           "name": "OldPatchNumber.js",
           "size": 4610,
-          "downloadUrl": "https://cdn.discordapp.com/attachments/1332168478148399285/1332168478936797226/OldPatchNumber.js?ex=6a30ae93&is=6a2f5d13&hm=d1bce36aedb3c5412000cc46cacac662c73ebf43008dad18954ef578c383b3ec&",
+          "downloadUrl": "https://cdn.discordapp.com/attachments/1332168478148399285/1332168478936797226/OldPatchNumber.js?ex=6a315753&is=6a3005d3&hm=8f5645c66617604367c4dd441e8fe948ca88eddd894b2aa95d8fc666ec9e2352&",
           "contentType": "application/javascript; charset=utf-8"
         }
       ],
@@ -1652,7 +1652,7 @@
       "name": "ScarletRed",
       "description": "ScarletRed theme ( Original from ElainaV3) for Pengu loader",
       "repo": "https://github.com/R3mia/ScarletRed",
-      "image": "https://media.discordapp.net/attachments/1183799859342483476/1183799859707379803/image.png?ex=6a30c9c8&is=6a2f7848&hm=9d4c6aba9c27cf5212f37ed40fba969531ad50fa27fd07fc6046a54317f3c0d6&",
+      "image": "https://media.discordapp.net/attachments/1183799859342483476/1183799859707379803/image.png?ex=6a317288&is=6a302108&hm=9c4db1d99fc13034d7d1c81f160218aea92c2e6ded6307c0b1a1aa52eb1a8c4e&",
       "author": {
         "name": "R3mia",
         "avatar": "https://avatars.githubusercontent.com/u/72246166?v=4",
@@ -1715,7 +1715,7 @@
       "releaseUrl": "https://github.com/lolpyken/pyken/releases/tag/1",
       "releaseTag": "1",
       "releaseName": "Pyken",
-      "image": "https://media.discordapp.net/attachments/1305881618757582869/1305881619210436649/Screenshot_2024-11-12_071546.png?ex=6a30a1c8&is=6a2f5048&hm=79a6c3e0dfb77e28382d8fd92838d2eda711218f96003ff0ffa9ab3068eb770d&",
+      "image": "https://media.discordapp.net/attachments/1305881618757582869/1305881619210436649/Screenshot_2024-11-12_071546.png?ex=6a314a88&is=6a2ff908&hm=0e9f58b1a7d2a932f208e58654f15a0aa3b42378f27f72e9876052e9ff547d67&",
       "author": {
         "name": "lolpyken",
         "avatar": "https://avatars.githubusercontent.com/u/34245482?v=4",
@@ -1763,7 +1763,7 @@
       "releaseUrl": "https://github.com/nomi-san/ahri-theme/releases/tag/240221",
       "releaseTag": "240221",
       "releaseName": "ahri-theme-240221",
-      "image": "https://media.discordapp.net/attachments/1095736862187991232/1095736862741635283/68747470733a2f2f692e696d6775722e636f6d2f74617a504e484e2e706e67.png?ex=6a30c739&is=6a2f75b9&hm=910cb80d618d2745ab8c636a9b4c4693993429d0cf2a81e972ed4c2b7321f74d&",
+      "image": "https://media.discordapp.net/attachments/1095736862187991232/1095736862741635283/68747470733a2f2f692e696d6775722e636f6d2f74617a504e484e2e706e67.png?ex=6a316ff9&is=6a301e79&hm=74a50def78db86ae7ace62523936fba54306a47e6140f2a6abe5ea9cf9634f5d&",
       "author": {
         "name": "nomi-san",
         "avatar": "https://avatars.githubusercontent.com/u/38210249?v=4",
@@ -1825,7 +1825,7 @@
       "releaseUrl": "https://github.com/egirlcatnip/league-theme-mica/releases/tag/Releases",
       "releaseTag": "Releases",
       "releaseName": "Release v1.6",
-      "image": "https://media.discordapp.net/attachments/1165305978187681803/1165305978674216970/shot.png?ex=6a30be83&is=6a2f6d03&hm=a53bf4fd9078d28364883c7e66e944f77a9017384f31e813a0338bb3779b5ff6&",
+      "image": "https://media.discordapp.net/attachments/1165305978187681803/1165305978674216970/shot.png?ex=6a316743&is=6a3015c3&hm=71c08e95a43332f8d9d2f9947c3bb54fa2b644a637bd1c826fda606242920d42&",
       "author": {
         "name": "egirlcatnip",
         "avatar": "https://avatars.githubusercontent.com/u/26607304?v=4",
@@ -1890,7 +1890,7 @@
       "releaseUrl": "https://github.com/nomi-san/indie-theme/releases/tag/release/lts",
       "releaseTag": "release/lts",
       "releaseName": "indie-theme-lts",
-      "image": "https://media.discordapp.net/attachments/1176518022312247296/1176518022651990097/284592384-6b8b2c3d-1927-467b-99aa-ae1e10f4b69e.png?ex=6a30aa0b&is=6a2f588b&hm=8a5f10dfd257f3b384ef08d4c4df00c17d8af01c8d33b754cc07478987f1c6a5&",
+      "image": "https://media.discordapp.net/attachments/1176518022312247296/1176518022651990097/284592384-6b8b2c3d-1927-467b-99aa-ae1e10f4b69e.png?ex=6a3152cb&is=6a30014b&hm=b205ea2b781616bb31e6af0de2006f8bf701fa29c4a96516244acc6d9ddaed37&",
       "author": {
         "name": "nomi-san",
         "avatar": "https://avatars.githubusercontent.com/u/38210249?v=4",
@@ -1935,7 +1935,7 @@
       "name": "GrayscaleV2",
       "description": "Grayscale theme for Pengu-loader.",
       "repo": "https://github.com/rviid/league-grayscale-theme",
-      "image": "https://media.discordapp.net/attachments/1166033741186076793/1166033741597130852/grayscalev2.png?ex=6a30c14b&is=6a2f6fcb&hm=eefc184cdea4c48da1788d36a8a508b52fdb9c23d87dc6ebf19a86f6bbb60ef7&",
+      "image": "https://media.discordapp.net/attachments/1166033741186076793/1166033741597130852/grayscalev2.png?ex=6a316a0b&is=6a30188b&hm=298cbf5f5de266264c36b17ae8f5ed627ec719d0120ce27b73f4dce417f57b8a&",
       "author": {
         "name": "rviid",
         "avatar": "https://avatars.githubusercontent.com/u/147655674?v=4",
@@ -1954,7 +1954,7 @@
       "name": "Rem Theme",
       "description": "Plug-ins I made to be used in league-loader",
       "repo": "https://github.com/Lyfhael/league-loader-plugins",
-      "image": "https://media.discordapp.net/attachments/1080303567216332900/1080303567883218995/4MGf2QS.png?ex=6a30a999&is=6a2f5819&hm=e1f69b7a8cf8506e581d2dbf9128d4ef31d63c30acb9cee355449e4622ccb49f&",
+      "image": "https://media.discordapp.net/attachments/1080303567216332900/1080303567883218995/4MGf2QS.png?ex=6a315259&is=6a3000d9&hm=a210058fe7098cb0f27f0c5cbad2032bb2c79e2d306f56327eeb11364f6ab59b&",
       "author": {
         "name": "Lyfhael",
         "avatar": "https://avatars.githubusercontent.com/u/43145883?v=4",
@@ -2018,7 +2018,7 @@
       "releaseUrl": "https://github.com/HerXayah/league-launcher-theme/releases/tag/treetard",
       "releaseTag": "treetard",
       "releaseName": "JS File",
-      "image": "https://media.discordapp.net/attachments/1077961395393536092/1077970085148381214/chrome_zATRdGurSO.png?ex=6a30be20&is=6a2f6ca0&hm=bdcc7e28473969360669af38ae6df34f0cfc31d3e081a254f26295f998a6c897&",
+      "image": "https://media.discordapp.net/attachments/1077961395393536092/1077970085148381214/chrome_zATRdGurSO.png?ex=6a3166e0&is=6a301560&hm=84321ea028e714c107c2c867ae9486c4aced94cb7de5bb415d615c9016f16814&",
       "author": {
         "name": "HerXayah",
         "avatar": "https://avatars.githubusercontent.com/u/45071533?v=4",
@@ -2053,7 +2053,7 @@
       "releaseUrl": "https://github.com/HerXayah/league-launcher-theme/releases/tag/treetard",
       "releaseTag": "treetard",
       "releaseName": "JS File",
-      "image": "https://media.discordapp.net/attachments/1077970301192769636/1077970301666734080/PDHdfhl.png?ex=6a30be53&is=6a2f6cd3&hm=bef477cd4fa20e8dabdfb42fffd01ff21968480c51a47b9c123d5abc6c25e610&",
+      "image": "https://media.discordapp.net/attachments/1077970301192769636/1077970301666734080/PDHdfhl.png?ex=6a316713&is=6a301593&hm=094434eb2e2bce447fd709eee611cf0a56e84920f040852d0eb272001ee0d75e&",
       "author": {
         "name": "HerXayah",
         "avatar": "https://avatars.githubusercontent.com/u/45071533?v=4",
