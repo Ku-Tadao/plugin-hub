@@ -1,6 +1,6 @@
 name: Pengu Community Store registry
 version: 1
-generatedAt: 2026-06-19T16:11:20.640Z
+generatedAt: 2026-06-19T18:16:14.552Z
 source:
   guildId: "1069483280438673418"
   forums:
@@ -209,7 +209,7 @@ listings:
     releaseUrl: https://github.com/Elaina69/Elaina-theme/releases/tag/v4.5.1
     releaseTag: v4.5.1
     releaseName: ""
-    image: https://media.discordapp.net/attachments/1373696348284653628/1373696348653617315/fh98jYI.png?ex=6a3614ab&is=6a34c32b&hm=0eac4c81cfd167b4918f6044ab59a19d0af154e22af63e823cadc8c68879490d&
+    image: https://media.discordapp.net/attachments/1373696348284653628/1373696348653617315/fh98jYI.png?ex=6a36bd6b&is=6a356beb&hm=b00b1674ad7363f815ddb011125884a75246470169f19f0af2918f3c88d27d7c&
     author:
       name: Elaina69
       avatar: https://avatars.githubusercontent.com/u/94338907?v=4
@@ -318,7 +318,7 @@ listings:
     releaseUrl: https://github.com/kyso1/KysoTheme/releases/tag/v3.0
     releaseTag: v3.0
     releaseName: KysoTheme V3
-    image: https://media.discordapp.net/attachments/1240541534663868426/1240541534869262376/image.png?ex=6a3629d6&is=6a34d856&hm=5adf78b21e9450b790e89fcf0bc34ed2f2ead17aa9af8e52baed77a7c004142f&
+    image: https://media.discordapp.net/attachments/1240541534663868426/1240541534869262376/image.png?ex=6a36d296&is=6a358116&hm=ef6e92c23b440ecbbad708f97d9102fb5da8c2e09e867d844266964fa32c2594&
     author:
       name: kyso1
       avatar: https://avatars.githubusercontent.com/u/128049220?v=4
@@ -619,7 +619,7 @@ listings:
       League of Legends client using Pengu Loader. This project consists of two
       parts: a local Node.js authentication server and a client-side plugin."
     repo: https://github.com/GogoChad/spotify-media-player
-    image: https://media.discordapp.net/attachments/1499090537427243129/1499090537792143492/image.png?ex=6a361c1b&is=6a34ca9b&hm=3a083615528b05887498286cfd2ceb70b61b7824675047eaa46de28114a7b615&
+    image: https://media.discordapp.net/attachments/1499090537427243129/1499090537792143492/image.png?ex=6a36c4db&is=6a35735b&hm=50f570b229f0a076527b250a502fb4ff4dcc27734715f4d70f78d76f98a93f91&
     author:
       name: GogoChad
       avatar: https://avatars.githubusercontent.com/u/133820564?v=4
@@ -1230,7 +1230,7 @@ listings:
     assets:
       - name: Hide_Nonsense2.js
         size: 8079
-        downloadUrl: https://cdn.discordapp.com/attachments/1395902555095171225/1440040589490917507/Hide_Nonsense2.js?ex=6a362e0f&is=6a34dc8f&hm=3a011ea2385babd213d844978dcac77ed2667c5ca17e90e29295bf53d5a49831&
+        downloadUrl: https://cdn.discordapp.com/attachments/1395902555095171225/1440040589490917507/Hide_Nonsense2.js?ex=6a36d6cf&is=6a35854f&hm=3105c32e0f59a1bc86c1e06cd45f1e9527c2ea528f2b1ddb16eb90a400ae29c1&
         contentType: text/javascript; charset=utf-8
     enriched: true
   - id: "1476888210436001904"
@@ -1506,7 +1506,7 @@ listings:
         contentType: application/javascript; charset=utf-8
       - name: oldMasteryIcons.js
         size: 9545
-        downloadUrl: https://cdn.discordapp.com/attachments/1414553304259760148/1414659601575579780/oldMasteryIcons.js?ex=6a36212c&is=6a34cfac&hm=c7f5d5a40e0d94fbba45bd32cd04e97f91afdf11638d581c1646340b661a42cd&
+        downloadUrl: https://cdn.discordapp.com/attachments/1414553304259760148/1414659601575579780/oldMasteryIcons.js?ex=6a36c9ec&is=6a35786c&hm=2e606056d1ed69613e426f3203eecd63980f2c9865b557e48b39d4401f856ddf&
         contentType: application/javascript; charset=utf-8
     enriched: true
   - id: "1322710156173250601"
