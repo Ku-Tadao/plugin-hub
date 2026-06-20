@@ -1,6 +1,6 @@
 name: Pengu Community Store registry
 version: 1
-generatedAt: 2026-06-20T10:57:36.184Z
+generatedAt: 2026-06-20T12:53:05.870Z
 source:
   guildId: "1069483280438673418"
   forums:
@@ -9,6 +9,28 @@ source:
     - kind: themes
       channelId: "1077886317364523072"
 listings:
+  - id: "1311415707371700345"
+    kind: plugins
+    name: LoLBackgroundUnlocker
+    description: "Unlock all backgrounds easily. Just press the background picker
+      button, and you'll be able to choose any skin you like, as if you owned
+      them all Source: < Download is below, not the source ⬇️ ⬇️ ⬇️"
+    image: https://media.discordapp.net/attachments/1311415707371700345/1311415707568836809/image.png?ex=6a3794cd&is=6a36434d&hm=24e18aa3a771e65eb7fd15bd985799c6e7c4d273db46a5e10710136dca669d69&
+    author:
+      name: kebs
+    tags:
+      - Utility
+      - Fun
+      - Enhancement
+    discordUrl: https://discord.com/channels/1069483280438673418/1311415707371700345/1311415707371700345
+    upvotes: 19
+    updatedAt: 2026-06-20T11:50:24.160Z
+    assets:
+      - name: LoLBackgroundUnlocker.js
+        size: 6216
+        downloadUrl: https://cdn.discordapp.com/attachments/1311415707371700345/1311415708143583355/LoLBackgroundUnlocker.js?ex=6a3794cd&is=6a36434d&hm=4f6037a1e575e562bac9a2a8ffce31a4c68fb3c3eabfd150890f37bb617e895d&
+        contentType: application/javascript; charset=utf-8
+    enriched: true
   - id: "1469142886330273884"
     kind: plugins
     name: Full length ARAM music
@@ -297,7 +319,7 @@ listings:
     releaseUrl: https://github.com/Elaina69/Elaina-theme/releases/tag/v4.5.1
     releaseTag: v4.5.1
     releaseName: ""
-    image: https://media.discordapp.net/attachments/1078464593791307777/1078464594055544942/image.png?ex=6a3727ec&is=6a35d66c&hm=9d9066cd76852cafe4fb92a1b86ac774c006f9997aa44a97f9bef4423621f068&
+    image: https://media.discordapp.net/attachments/1078464593791307777/1078464594055544942/image.png?ex=6a37d0ac&is=6a367f2c&hm=84085541656150a0b2529999fb1f7d615937ce05a7d3e3d96bdbd1059b793f01&
     author:
       name: Elaina69
       avatar: https://avatars.githubusercontent.com/u/94338907?v=4
@@ -566,7 +588,7 @@ listings:
       apply, meta tier list, post-game op.gg. Personal use; not endorsed by Riot
       Games."
     repo: https://github.com/Nicetyone/league-lean
-    image: https://media.discordapp.net/attachments/1500282612084768848/1500282612516917258/01.png?ex=6a372690&is=6a35d510&hm=8149ee2b31a3cd87db6f0aadf05dc6e8822df63dc96a63725c66f3c91be4de93&
+    image: https://media.discordapp.net/attachments/1500282612084768848/1500282612516917258/01.png?ex=6a37cf50&is=6a367dd0&hm=df3a7a0b211d0d32dc2e695b17678889cb2edb7a718071b13e2eb67703e30fae&
     author:
       name: Nicetyone
       avatar: https://avatars.githubusercontent.com/u/78967461?v=4
@@ -651,7 +673,7 @@ listings:
     name: OP.GG & U.GG Button Plugin
     description: An custom JavaScript page for Pengu Loader
     repo: https://github.com/GogoChad/opgg-button
-    image: https://media.discordapp.net/attachments/1495203342400360459/1495203439347499059/image.png?ex=6a372137&is=6a35cfb7&hm=ba23e80bcc2a1021d55e032671ef1e1167958a70d87a03f2ceceb583c0df99f5&
+    image: https://media.discordapp.net/attachments/1495203342400360459/1495203439347499059/image.png?ex=6a37c9f7&is=6a367877&hm=182a22638856cb50f3bd799dd3ecbcea0072b66b4e18f3e65997e8b692847941&
     author:
       name: GogoChad
       avatar: https://avatars.githubusercontent.com/u/133820564?v=4
@@ -794,7 +816,7 @@ listings:
     releaseUrl: https://github.com/xRize/MusicPlugin/releases/tag/Release2
     releaseTag: Release2
     releaseName: v1.0.1
-    image: https://media.discordapp.net/attachments/1487606021449973850/1487606021831528640/569826409-7f1dae67-6e42-4fb5-ac20-32cbc0166a21.png?ex=6a372d11&is=6a35db91&hm=210bc331c5b22de25096b76cd4de87049e28a07be2a1c36812addac913c0625d&
+    image: https://media.discordapp.net/attachments/1487606021449973850/1487606021831528640/569826409-7f1dae67-6e42-4fb5-ac20-32cbc0166a21.png?ex=6a37d5d1&is=6a368451&hm=16c171a45fd3afc89da47799a86cff7e8a98055e627f0430448681b0a78910c5&
     author:
       name: xRize
       avatar: https://avatars.githubusercontent.com/u/83946532?v=4
@@ -996,28 +1018,6 @@ listings:
     upvotes: 8
     updatedAt: 2026-03-27T09:41:16Z
     assets: []
-    enriched: true
-  - id: "1311415707371700345"
-    kind: plugins
-    name: LoLBackgroundUnlocker
-    description: "Unlock all backgrounds easily. Just press the background picker
-      button, and you'll be able to choose any skin you like, as if you owned
-      them all Source: < Download is below, not the source ⬇️ ⬇️ ⬇️"
-    image: https://media.discordapp.net/attachments/1311415707371700345/1311415707568836809/image.png?ex=6a3794cd&is=6a36434d&hm=24e18aa3a771e65eb7fd15bd985799c6e7c4d273db46a5e10710136dca669d69&
-    author:
-      name: kebs
-    tags:
-      - Utility
-      - Fun
-      - Enhancement
-    discordUrl: https://discord.com/channels/1069483280438673418/1311415707371700345/1311415707371700345
-    upvotes: 19
-    updatedAt: 2026-03-26T22:21:27.016Z
-    assets:
-      - name: LoLBackgroundUnlocker.js
-        size: 6216
-        downloadUrl: https://cdn.discordapp.com/attachments/1311415707371700345/1311415708143583355/LoLBackgroundUnlocker.js?ex=6a3794cd&is=6a36434d&hm=4f6037a1e575e562bac9a2a8ffce31a4c68fb3c3eabfd150890f37bb617e895d&
-        contentType: application/javascript; charset=utf-8
     enriched: true
   - id: "1485931384504848394"
     kind: plugins
@@ -1232,7 +1232,7 @@ listings:
     kind: plugins
     name: Hide Nonsense
     description: No description provided.
-    image: https://media.discordapp.net/attachments/1395902555095171225/1395906635968286882/image.png?ex=6a371edc&is=6a35cd5c&hm=d64f64e6f07494b856406e63a266e7c03ec14a19cbfe9942f74a31b7baeb865c&
+    image: https://media.discordapp.net/attachments/1395902555095171225/1395906635968286882/image.png?ex=6a37c79c&is=6a36761c&hm=b24882e9ef54ff93c7b9c45acf654bac5df5e5a424d6b0c378b04ea8b909feef&
     author:
       name: 莫嘎 | Mogay
     tags:
@@ -1332,7 +1332,7 @@ listings:
     releaseUrl: https://github.com/nomi-san/balance-buff-viewer/releases/tag/main
     releaseTag: main
     releaseName: S16 | v26 | 2026
-    image: https://media.discordapp.net/attachments/1127199847901052979/1127199848303693844/image.png?ex=6a37226a&is=6a35d0ea&hm=9bd9249cdc4b2f1e020cccfcf915e2ebd9812055356d182d6a8484f0e80c3def&
+    image: https://media.discordapp.net/attachments/1127199847901052979/1127199848303693844/image.png?ex=6a37cb2a&is=6a3679aa&hm=abe5145db6b922c4e62bfd26a4e791031c3126d5a6f974cce6612a6eaabe0b2f&
     author:
       name: nomi-san
       avatar: https://avatars.githubusercontent.com/u/38210249?v=4
@@ -1372,7 +1372,7 @@ listings:
     name: Blue Essence Icon Swapper
     description: "Blue Essence Icon Swapper How to use: Click the BE icon to change
       icon. Click the BE icon to select new image/reset to standard."
-    image: https://media.discordapp.net/attachments/1468009747780210791/1468019006991634432/Screenshot_2026-02-02_232517.png?ex=6a371c3d&is=6a35cabd&hm=cf9d9898640e94e797fa4a9a0e1c29a6540e4f1ede9cb550f5d39a51cb016f07&
+    image: https://media.discordapp.net/attachments/1468009747780210791/1468019006991634432/Screenshot_2026-02-02_232517.png?ex=6a37c4fd&is=6a36737d&hm=0a46e039afc537b45420bbd4a936c75c5fbc8b7cf65c5085c8882bcf29691c97&
     author:
       name: Ilkay
     tags:
@@ -1383,7 +1383,7 @@ listings:
     assets:
       - name: BE-Icon-Swapper.js
         size: 6253
-        downloadUrl: https://cdn.discordapp.com/attachments/1468009747780210791/1468019008229081235/BE-Icon-Swapper.js?ex=6a371c3e&is=6a35cabe&hm=18a8bcd5a68447b4650cf7a6a1e77be270dc4dfd2714b0c4ad097eaf3b4b7df5&
+        downloadUrl: https://cdn.discordapp.com/attachments/1468009747780210791/1468019008229081235/BE-Icon-Swapper.js?ex=6a37c4fe&is=6a36737e&hm=ebf08210a52c7c46aa85290e6020b60d9a7d2157005a319d89f6a33d4e3675ba&
         contentType: text/javascript; charset=utf-8
     enriched: true
   - id: "1462077280728780861"
@@ -1521,7 +1521,7 @@ listings:
     releaseUrl: https://github.com/DmitryFisk/pengu-force-custom-lobby/releases/tag/2.2.0
     releaseTag: 2.2.0
     releaseName: 2.2.0
-    image: https://media.discordapp.net/attachments/1322710156173250601/1322710156626104320/image.png?ex=6a372454&is=6a35d2d4&hm=094f1a1e25ec38d8c7d4a8636bc3986c17c2537a96f86884bcc1167b485b602e&
+    image: https://media.discordapp.net/attachments/1322710156173250601/1322710156626104320/image.png?ex=6a37cd14&is=6a367b94&hm=8eae5837b4ba64847b6d29bf169bcbadaf20cd96c44e60f8cdbf2f209c976a61&
     author:
       name: DmitryFisk
       avatar: https://avatars.githubusercontent.com/u/62219971?v=4
@@ -1601,7 +1601,7 @@ listings:
     assets:
       - name: activity_center_toggle.js
         size: 10156
-        downloadUrl: https://cdn.discordapp.com/attachments/1396060178545119263/1401719798949216316/activity_center_toggle.js?ex=6a372cca&is=6a35db4a&hm=45fcd23486f509f8d9dc2acfae6768f0fa8f95bf2b74164c7c382eb72be952e3&
+        downloadUrl: https://cdn.discordapp.com/attachments/1396060178545119263/1401719798949216316/activity_center_toggle.js?ex=6a37d58a&is=6a36840a&hm=b7c91a97e007dcb5d8a379699588b469b3eb2e20cf3cd994902ed688c5c3f579&
         contentType: application/javascript; charset=utf-8
     enriched: true
   - id: "1365312229775511603"
@@ -2048,7 +2048,7 @@ listings:
       on) • Hide Chat Ban Logs if you want to suggest a plugin. use the channel
       <1128961916497317938 and tag me"
     repo: https://github.com/iIlusion/league-loader-plugins
-    image: https://media.discordapp.net/attachments/1077921251445706852/1077921251621879881/8ef86509de0a0f4666ae0369efb72e08e88909104498d597.png?ex=6a372825&is=6a35d6a5&hm=ff377d2aed47ffdb1a25838619ba0a03e71ef2e33aaa67e59f232f9066e669a1&
+    image: https://media.discordapp.net/attachments/1077921251445706852/1077921251621879881/8ef86509de0a0f4666ae0369efb72e08e88909104498d597.png?ex=6a37d0e5&is=6a367f65&hm=dd69441a6aa3b7361e28418ad80ff901a5a5a9783c45751b42cf0b9864a77ce4&
     author:
       name: iIlusion
       avatar: https://avatars.githubusercontent.com/u/49544373?v=4
