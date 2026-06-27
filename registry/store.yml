@@ -1,6 +1,6 @@
 name: Pengu Community Store registry
 version: 1
-generatedAt: 2026-06-27T18:03:03.165Z
+generatedAt: 2026-06-27T19:52:50.373Z
 source:
   guildId: "1069483280438673418"
   forums:
@@ -15,28 +15,30 @@ listings:
     description: A simple and customizable league theme, without losing the "league
       experience"
     details: >-
-      ## v3.4 — Custom icon in lobby & party
+      ## v3.5 — Instant top-bar icon, self-only profile, new toggles
 
 
-      Your selected custom profile icon now also appears on:
+      - **Instant top-bar icon** — your custom profile icon now updates the
+      top-bar avatar immediately when applied (no switch toggle / reload
+      needed).
 
-      - **Lobby player slot** — matched to you only via the crest's
-      `voice-puuid` (teammates' icons untouched).
+      - **New switch: Swap mastery icon** — optionally replace the champion
+      mastery icon with your profile icon (default off; off keeps the real
+      mastery icon).
 
-      - **Party banner** — scoped to the local player's `.lobby-banner.local`.
+      - **New switch: League color scheme** — keep the themed buttons but
+      recolor the UI to League's native gold (`#C8AA6E`); disables RGB while on
+      (default off).
 
-
-      Sets `profile-icon-url` for a native render that survives the component's
-      re-renders, plus a direct background paint for an immediate swap.
-      Self-only, opt-in (rides the existing custom-icon setting).
-
-
-      **Install/update:** drop the plugin into Pengu Loader's `plugins` folder
-      and reload the client.
+      - **Fix: self-only profile overrides** — ranked crest, mastery-score (LP),
+      transparent background and the profile-page icon now apply only to your
+      own profile, never to other players' profiles. Self-detection fails closed
+      (compares your Riot-ID name); hovercard / lobby / party paths keep their
+      existing self-guards.
     repo: https://github.com/kyso1/KysoTheme
-    releaseUrl: https://github.com/kyso1/KysoTheme/releases/tag/v3.4
-    releaseTag: v3.4
-    releaseName: v3.4 — Custom icon in lobby & party
+    releaseUrl: https://github.com/kyso1/KysoTheme/releases/tag/v3.5
+    releaseTag: v3.5
+    releaseName: Kyso UI Editor v3.5
     image: https://media.discordapp.net/attachments/1240541534663868426/1240541534869262376/image.png?ex=6a415e96&is=6a400d16&hm=bf27e07dccb639057f0781e815c7eaace60b1b214997a3b45fbaadad35af444a&
     author:
       name: kyso1
@@ -50,7 +52,7 @@ listings:
       - Transparent
     discordUrl: https://discord.com/channels/1069483280438673418/1240541534663868426/1240541534663868426
     upvotes: 4
-    updatedAt: 2026-06-27T17:09:46Z
+    updatedAt: 2026-06-27T19:41:24Z
     assets: []
     enriched: true
   - id: "1507291423840407613"
@@ -59,28 +61,30 @@ listings:
     description: A simple and customizable league theme, without losing the "league
       experience"
     details: >-
-      ## v3.4 — Custom icon in lobby & party
+      ## v3.5 — Instant top-bar icon, self-only profile, new toggles
 
 
-      Your selected custom profile icon now also appears on:
+      - **Instant top-bar icon** — your custom profile icon now updates the
+      top-bar avatar immediately when applied (no switch toggle / reload
+      needed).
 
-      - **Lobby player slot** — matched to you only via the crest's
-      `voice-puuid` (teammates' icons untouched).
+      - **New switch: Swap mastery icon** — optionally replace the champion
+      mastery icon with your profile icon (default off; off keeps the real
+      mastery icon).
 
-      - **Party banner** — scoped to the local player's `.lobby-banner.local`.
+      - **New switch: League color scheme** — keep the themed buttons but
+      recolor the UI to League's native gold (`#C8AA6E`); disables RGB while on
+      (default off).
 
-
-      Sets `profile-icon-url` for a native render that survives the component's
-      re-renders, plus a direct background paint for an immediate swap.
-      Self-only, opt-in (rides the existing custom-icon setting).
-
-
-      **Install/update:** drop the plugin into Pengu Loader's `plugins` folder
-      and reload the client.
+      - **Fix: self-only profile overrides** — ranked crest, mastery-score (LP),
+      transparent background and the profile-page icon now apply only to your
+      own profile, never to other players' profiles. Self-detection fails closed
+      (compares your Riot-ID name); hovercard / lobby / party paths keep their
+      existing self-guards.
     repo: https://github.com/kyso1/KysoTheme
-    releaseUrl: https://github.com/kyso1/KysoTheme/releases/tag/v3.4
-    releaseTag: v3.4
-    releaseName: v3.4 — Custom icon in lobby & party
+    releaseUrl: https://github.com/kyso1/KysoTheme/releases/tag/v3.5
+    releaseTag: v3.5
+    releaseName: Kyso UI Editor v3.5
     image: https://media.discordapp.net/attachments/1507291423840407613/1507291424301776957/Screenshot_1.png?ex=6a40d407&is=6a3f8287&hm=d658419c0b24ec82733152e6d4d0db62e99507b8082b196a5e0792ecc8cee692&
     author:
       name: kyso1
@@ -94,7 +98,7 @@ listings:
       - Transparent
     discordUrl: https://discord.com/channels/1069483280438673418/1507291423840407613/1507291423840407613
     upvotes: 10
-    updatedAt: 2026-06-27T17:09:46Z
+    updatedAt: 2026-06-27T19:41:24Z
     assets: []
     enriched: true
   - id: "1396060178545119263"
@@ -125,7 +129,7 @@ listings:
     description: "Unlock all backgrounds easily. Just press the background picker
       button, and you'll be able to choose any skin you like, as if you owned
       them all Source: < Download is below, not the source ⬇️ ⬇️ ⬇️"
-    image: https://media.discordapp.net/attachments/1311415707371700345/1311415707568836809/image.png?ex=6a40cf4d&is=6a3f7dcd&hm=9f81ff77dde476212e4b62bcdca92acfea33cfd968f79c13130b13300e1d9abf&
+    image: https://media.discordapp.net/attachments/1311415707371700345/1311415707568836809/image.png?ex=6a41780d&is=6a40268d&hm=6a840cbf76c94c485f5335b0e4e5db67d287fcd887fa5d5fbf3b41448a89b67d&
     author:
       name: kebs
     tags:
@@ -138,7 +142,7 @@ listings:
     assets:
       - name: LoLBackgroundUnlocker.js
         size: 6216
-        downloadUrl: https://cdn.discordapp.com/attachments/1311415707371700345/1311415708143583355/LoLBackgroundUnlocker.js?ex=6a40cf4d&is=6a3f7dcd&hm=30a83595905e7a47ff9472754b162aaeb86769a3ae5338203e7ba559d1a08bdd&
+        downloadUrl: https://cdn.discordapp.com/attachments/1311415707371700345/1311415708143583355/LoLBackgroundUnlocker.js?ex=6a41780d&is=6a40268d&hm=fff35b29582b086f800371b0977ea0ef58385aee20ea605541b09de55840d0cf&
         contentType: application/javascript; charset=utf-8
     enriched: true
   - id: "1469142886330273884"
@@ -1046,7 +1050,7 @@ listings:
     assets:
       - name: removecrystal.js
         size: 1126
-        downloadUrl: https://cdn.discordapp.com/attachments/1487535639128965121/1487535639883944108/removecrystal.js?ex=6a40cec5&is=6a3f7d45&hm=bbfa29e5d3a50d4d1b42ffe40557fbb92c70f4ea353ef3d35d58839fb009fe70&
+        downloadUrl: https://cdn.discordapp.com/attachments/1487535639128965121/1487535639883944108/removecrystal.js?ex=6a417785&is=6a402605&hm=9a704c9a3e496b4bc97204eb5477cd5c3cc71e5c6be8b3d44e045c546eb0755e&
         contentType: text/javascript; charset=utf-8
     enriched: true
   - id: "1476062717579231385"
@@ -1151,7 +1155,7 @@ listings:
     releaseUrl: https://github.com/cuongnguyen207/phrolova-theme-lol/releases/tag/Phrolova-theme-lol
     releaseTag: Phrolova-theme-lol
     releaseName: Custome Themes 1.0
-    image: https://media.discordapp.net/attachments/1486800653685620884/1486800654344261813/image.png?ex=6a40c543&is=6a3f73c3&hm=351db879c7649165ff19754e4e0e216a58a4d91eb8b6ee228ecc17dd70ac5ecb&
+    image: https://media.discordapp.net/attachments/1486800653685620884/1486800654344261813/image.png?ex=6a416e03&is=6a401c83&hm=4a927925e0b25897577773ae9be71630d142dd5df8f2cce0157793ec7781d7c6&
     author:
       name: cuongnguyen207
       avatar: https://avatars.githubusercontent.com/u/213099361?v=4
@@ -1292,7 +1296,7 @@ listings:
     assets:
       - name: Hide_Nonsense2.js
         size: 8079
-        downloadUrl: https://cdn.discordapp.com/attachments/1395902555095171225/1440040589490917507/Hide_Nonsense2.js?ex=6a40ba0f&is=6a3f688f&hm=242842db0cbff54db413dc112f3b0c5c62b92cea3bd17aa4598cf14263075ed4&
+        downloadUrl: https://cdn.discordapp.com/attachments/1395902555095171225/1440040589490917507/Hide_Nonsense2.js?ex=6a4162cf&is=6a40114f&hm=692d0a3b21fda7c02fe106e7b8cc903f3a912029c5f26d66f6f91529f61c8c9f&
         contentType: text/javascript; charset=utf-8
     enriched: true
   - id: "1476888210436001904"
@@ -1402,7 +1406,7 @@ listings:
     name: Balaclava Plugins! [13/05/2026]
     description: My plugins for Pengu Loader! :)
     repo: https://github.com/controlado/pengu-plugins
-    image: https://media.discordapp.net/attachments/1109009446023217193/1110094360390946908/ezgif-2-9ed966a32e.png?ex=6a40c170&is=6a3f6ff0&hm=3d17d36bf566589594915ce3ce33b29419505bccc47c34f776fe2792e3d9f69a&
+    image: https://media.discordapp.net/attachments/1109009446023217193/1110094360390946908/ezgif-2-9ed966a32e.png?ex=6a416a30&is=6a4018b0&hm=62f7d0830fa5305ad43205e11100a1a379838a21563d97cc68dab60c40c52c67&
     author:
       name: controlado
       avatar: https://avatars.githubusercontent.com/u/71716568?v=4
@@ -1962,7 +1966,7 @@ listings:
     releaseUrl: https://github.com/oMaikeru/PureBlack-Theme/releases/tag/v0.4
     releaseTag: v0.4
     releaseName: v0.4
-    image: https://media.discordapp.net/attachments/1107021081207914566/1107021081442783242/black-theme.PNG?ex=6a40c7f9&is=6a3f7679&hm=4cb7de4610fa8714c2edf8c16f582081f067176b80df83eb1870c873b571b15c&
+    image: https://media.discordapp.net/attachments/1107021081207914566/1107021081442783242/black-theme.PNG?ex=6a4170b9&is=6a401f39&hm=c7261e782f056508c1a892360002de09c379db1f8e98d64cc196d3113c417604&
     author:
       name: oMaikeru
       avatar: https://avatars.githubusercontent.com/u/76801149?v=4
