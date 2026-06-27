@@ -1,6 +1,6 @@
 name: Pengu Community Store registry
 version: 1
-generatedAt: 2026-06-27T15:15:25.735Z
+generatedAt: 2026-06-27T16:38:36.700Z
 source:
   guildId: "1069483280438673418"
   forums:
@@ -9,6 +9,160 @@ source:
     - kind: themes
       channelId: "1077886317364523072"
 listings:
+  - id: "1240541534663868426"
+    kind: themes
+    name: Kyso Clean Theme v2.0
+    description: A simple and customizable league theme, without losing the "league
+      experience"
+    details: >-
+      Everything since **v3.0** — every fixed theme behavior is now a toggle or
+      a control, plus two new tabs and full rank/regalia overrides.
+
+
+      ## v3.1 — Kyso UI Editor
+
+      - Renamed to **Kyso UI Editor** with a first-run welcome modal.
+
+      - Hardcoded behaviors became switches: themed/vanilla play button, banner,
+      gear & LoR buttons, profile background transparency, social blur slider,
+      profile-icon placement / navbar sync.
+
+
+      ## v3.2 — UI Editor tab + Player Assets expansion
+
+      - **UI Editor tab** with a live search bar that filters controls by label.
+
+      - **Granular show/hide toggles** for every hover-faded element: chat,
+      invite, notifications, XP ring, status, social actions, patch version, XP
+      radial, rune recommender, deep links, loot backdrop, incident ticker,
+      restriction warning, loading spinner, lobby overlay, navbar dividers,
+      activity divider.
+
+      - **Visual-effect toggles**: client blur kill, store hue overlay,
+      ready-check animation, viewport glow.
+
+      - **Per-screen backgrounds**: Collections, Champ-select, Runes,
+      Mode-switcher.
+
+      - **Sliding-door ⇄ hover mutex** (auto-exclusive) + debounced observers /
+      blur-scrubber freeze fix.
+
+
+      ## Rank crest override
+
+      - Fake your displayed rank to any tier (Iron → Challenger) with division
+      I–IV.
+
+      - Ranked tooltip override: per-queue tier text, "change all queues"
+      toggle, LP override.
+
+
+      ## v3.3 — Regalia hovercard override (self-only)
+
+      - Crest tier art, mini rank emblem, and "Tier (Queue)" text follow your
+      chosen rank — only on your own card (matched by summoner id).
+
+      - Summoner icon uses your custom icon; mastery score mirrors your LP (also
+      on the profile emblem header).
+
+      - New **Hovercard backdrop** asset with an interactive crop tool.
+    repo: https://github.com/kyso1/KysoTheme
+    releaseUrl: https://github.com/kyso1/KysoTheme/releases/tag/v3.3
+    releaseTag: v3.3
+    releaseName: v3.3 — Regalia hovercard override & UI Editor expansion
+    image: https://media.discordapp.net/attachments/1240541534663868426/1240541534869262376/image.png?ex=6a40b5d6&is=6a3f6456&hm=ab32c7847057588386788028c5c5a474f2765b913566a19f83771b0b62f611e3&
+    author:
+      name: kyso1
+      avatar: https://avatars.githubusercontent.com/u/128049220?v=4
+      github: kyso1
+    tags:
+      - Customizable
+      - Dark
+      - Red
+      - Black
+      - Transparent
+    discordUrl: https://discord.com/channels/1069483280438673418/1240541534663868426/1240541534663868426
+    upvotes: 4
+    updatedAt: 2026-06-27T16:35:02Z
+    assets: []
+    enriched: true
+  - id: "1507291423840407613"
+    kind: themes
+    name: KysoTheme v3.0
+    description: A simple and customizable league theme, without losing the "league
+      experience"
+    details: >-
+      Everything since **v3.0** — every fixed theme behavior is now a toggle or
+      a control, plus two new tabs and full rank/regalia overrides.
+
+
+      ## v3.1 — Kyso UI Editor
+
+      - Renamed to **Kyso UI Editor** with a first-run welcome modal.
+
+      - Hardcoded behaviors became switches: themed/vanilla play button, banner,
+      gear & LoR buttons, profile background transparency, social blur slider,
+      profile-icon placement / navbar sync.
+
+
+      ## v3.2 — UI Editor tab + Player Assets expansion
+
+      - **UI Editor tab** with a live search bar that filters controls by label.
+
+      - **Granular show/hide toggles** for every hover-faded element: chat,
+      invite, notifications, XP ring, status, social actions, patch version, XP
+      radial, rune recommender, deep links, loot backdrop, incident ticker,
+      restriction warning, loading spinner, lobby overlay, navbar dividers,
+      activity divider.
+
+      - **Visual-effect toggles**: client blur kill, store hue overlay,
+      ready-check animation, viewport glow.
+
+      - **Per-screen backgrounds**: Collections, Champ-select, Runes,
+      Mode-switcher.
+
+      - **Sliding-door ⇄ hover mutex** (auto-exclusive) + debounced observers /
+      blur-scrubber freeze fix.
+
+
+      ## Rank crest override
+
+      - Fake your displayed rank to any tier (Iron → Challenger) with division
+      I–IV.
+
+      - Ranked tooltip override: per-queue tier text, "change all queues"
+      toggle, LP override.
+
+
+      ## v3.3 — Regalia hovercard override (self-only)
+
+      - Crest tier art, mini rank emblem, and "Tier (Queue)" text follow your
+      chosen rank — only on your own card (matched by summoner id).
+
+      - Summoner icon uses your custom icon; mastery score mirrors your LP (also
+      on the profile emblem header).
+
+      - New **Hovercard backdrop** asset with an interactive crop tool.
+    repo: https://github.com/kyso1/KysoTheme
+    releaseUrl: https://github.com/kyso1/KysoTheme/releases/tag/v3.3
+    releaseTag: v3.3
+    releaseName: v3.3 — Regalia hovercard override & UI Editor expansion
+    image: https://media.discordapp.net/attachments/1507291423840407613/1507291424301776957/Screenshot_1.png?ex=6a40d407&is=6a3f8287&hm=d658419c0b24ec82733152e6d4d0db62e99507b8082b196a5e0792ecc8cee692&
+    author:
+      name: kyso1
+      avatar: https://avatars.githubusercontent.com/u/128049220?v=4
+      github: kyso1
+    tags:
+      - Customizable
+      - Dark
+      - Light
+      - Anime
+      - Transparent
+    discordUrl: https://discord.com/channels/1069483280438673418/1507291423840407613/1507291423840407613
+    upvotes: 9
+    updatedAt: 2026-06-27T16:35:02Z
+    assets: []
+    enriched: true
   - id: "1396060178545119263"
     kind: plugins
     name: Activity Center Toggle [redirect to play screen]
@@ -267,7 +421,7 @@ listings:
     releaseUrl: https://github.com/Elaina69/Elaina-theme/releases/tag/v4.5.1
     releaseTag: v4.5.1
     releaseName: ""
-    image: https://media.discordapp.net/attachments/1373696348284653628/1373696348653617315/fh98jYI.png?ex=6a40a0ab&is=6a3f4f2b&hm=40532379f95548b4a6bd7db5401e2219ecda5a995d6ae1f6d0421cce274f3939&
+    image: https://media.discordapp.net/attachments/1373696348284653628/1373696348653617315/fh98jYI.png?ex=6a41496b&is=6a3ff7eb&hm=1736c04d7796786142a3345464d66e6663891f5f3d8264a8220a3ab234c1264a&
     author:
       name: Elaina69
       avatar: https://avatars.githubusercontent.com/u/94338907?v=4
@@ -364,68 +518,6 @@ listings:
         size: 114031
         downloadUrl: https://github.com/Elaina69/Elaina-theme/releases/download/v4.5.1/update-file.zip
         contentType: application/x-zip-compressed
-    enriched: true
-  - id: "1240541534663868426"
-    kind: themes
-    name: Kyso Clean Theme v2.0
-    description: A simple and customizable league theme, without losing the "league
-      experience"
-    details: A lot of new features, discover them by yourself just looking into your
-      client settings > KYSOTHEME
-    repo: https://github.com/kyso1/KysoTheme
-    releaseUrl: https://github.com/kyso1/KysoTheme/releases/tag/v3.0
-    releaseTag: v3.0
-    releaseName: KysoTheme V3
-    image: https://media.discordapp.net/attachments/1240541534663868426/1240541534869262376/image.png?ex=6a40b5d6&is=6a3f6456&hm=ab32c7847057588386788028c5c5a474f2765b913566a19f83771b0b62f611e3&
-    author:
-      name: kyso1
-      avatar: https://avatars.githubusercontent.com/u/128049220?v=4
-      github: kyso1
-    tags:
-      - Customizable
-      - Dark
-      - Red
-      - Black
-      - Transparent
-    discordUrl: https://discord.com/channels/1069483280438673418/1240541534663868426/1240541534663868426
-    upvotes: 4
-    updatedAt: 2026-05-22T07:51:15Z
-    assets:
-      - name: KysoTheme_v3.7z
-        size: 8552983
-        downloadUrl: https://github.com/kyso1/KysoTheme/releases/download/v3.0/KysoTheme_v3.7z
-        contentType: application/x-compressed
-    enriched: true
-  - id: "1507291423840407613"
-    kind: themes
-    name: KysoTheme v3.0
-    description: A simple and customizable league theme, without losing the "league
-      experience"
-    details: A lot of new features, discover them by yourself just looking into your
-      client settings > KYSOTHEME
-    repo: https://github.com/kyso1/KysoTheme
-    releaseUrl: https://github.com/kyso1/KysoTheme/releases/tag/v3.0
-    releaseTag: v3.0
-    releaseName: KysoTheme V3
-    image: https://media.discordapp.net/attachments/1507291423840407613/1507291424301776957/Screenshot_1.png?ex=6a40d407&is=6a3f8287&hm=d658419c0b24ec82733152e6d4d0db62e99507b8082b196a5e0792ecc8cee692&
-    author:
-      name: kyso1
-      avatar: https://avatars.githubusercontent.com/u/128049220?v=4
-      github: kyso1
-    tags:
-      - Customizable
-      - Dark
-      - Light
-      - Anime
-      - Transparent
-    discordUrl: https://discord.com/channels/1069483280438673418/1507291423840407613/1507291423840407613
-    upvotes: 9
-    updatedAt: 2026-05-22T07:51:15Z
-    assets:
-      - name: KysoTheme_v3.7z
-        size: 8552983
-        downloadUrl: https://github.com/kyso1/KysoTheme/releases/download/v3.0/KysoTheme_v3.7z
-        contentType: application/x-compressed
     enriched: true
   - id: "1491806616415244459"
     kind: themes
@@ -531,7 +623,7 @@ listings:
     releaseUrl: https://github.com/Yimikami/pengu-plugins/releases/tag/PenguFamily_v0.1.0
     releaseTag: PenguFamily_v0.1.0
     releaseName: Pengu Family v0.1.0
-    image: https://media.discordapp.net/attachments/1411366905247170621/1411743618388983931/image.png?ex=6a409d73&is=6a3f4bf3&hm=88853d41d529deece2c9cfe43993c9ac15aa55ddd251d29d532901a6e842437b&
+    image: https://media.discordapp.net/attachments/1411366905247170621/1411743618388983931/image.png?ex=6a414633&is=6a3ff4b3&hm=0504db98b67c75519405b956bb0f28e0391be2659c1fc0f4c8da93013cb66cce&
     author:
       name: Yimikami
       avatar: https://avatars.githubusercontent.com/u/39545057?v=4
@@ -630,7 +722,7 @@ listings:
       i think was looking the best in the whole rank history! It was made by
       <@1246591176791035946 he helped me doing it for myself so i wanted to give
       him the credits for it + share it with you guys cuz u might wanna use it!
-    image: https://media.discordapp.net/attachments/1414636794124832851/1414636794858700900/oldborders.png?ex=6a4097ee&is=6a3f466e&hm=163f5ae978e3009d41bc199428a9e7f9ac48e44a9a83c1bb15ef15b578fa3613&
+    image: https://media.discordapp.net/attachments/1414636794124832851/1414636794858700900/oldborders.png?ex=6a4140ae&is=6a3fef2e&hm=f234ffe524dfbf5a02ce25f5139238aeecc59438c1fbc4816c67547b1f85fdc4&
     author:
       name: Samuraj
     tags:
@@ -642,7 +734,7 @@ listings:
     assets:
       - name: s9-ranked-borders.zip
         size: 945105
-        downloadUrl: https://cdn.discordapp.com/attachments/1414636794124832851/1414636795714338886/s9-ranked-borders.zip?ex=6a4097ee&is=6a3f466e&hm=d0d6b4966b8d81ee579f43a4d4bded93af97e1e38a1af0d906ab6057749e5138&
+        downloadUrl: https://cdn.discordapp.com/attachments/1414636794124832851/1414636795714338886/s9-ranked-borders.zip?ex=6a4140ae&is=6a3fef2e&hm=c1ae3b6490cfeac2a951596c135eea097b2cce690418474b6dd8e37de390dbd7&
         contentType: application/zip
     enriched: true
   - id: "1499358177052069899"
@@ -1524,7 +1616,7 @@ listings:
         contentType: application/javascript; charset=utf-8
       - name: oldMasteryIcons.js
         size: 11497
-        downloadUrl: https://cdn.discordapp.com/attachments/1414553304259760148/1414642890965254326/oldMasteryIcons.js?ex=6a409d9c&is=6a3f4c1c&hm=04ee9a121c9c69e2590813cb31ef98cd13fe9a71e0410146d43dbc06d2171802&
+        downloadUrl: https://cdn.discordapp.com/attachments/1414553304259760148/1414642890965254326/oldMasteryIcons.js?ex=6a41465c&is=6a3ff4dc&hm=018c91bb0912b3e80f4731b5e304f575e7952128086f4882bbdbba50b2abd248&
         contentType: application/javascript; charset=utf-8
       - name: oldMasteryIcons.js
         size: 9545
@@ -1708,7 +1800,7 @@ listings:
     name: ScarletRed
     description: ScarletRed theme ( Original from ElainaV3) for Pengu loader
     repo: https://github.com/R3mia/ScarletRed
-    image: https://media.discordapp.net/attachments/1183799859342483476/1183799859707379803/image.png?ex=6a409bc8&is=6a3f4a48&hm=1d97dd193fa46e08f05421f4a1e067c25d703ed9fe8e8f04f46293166930834e&
+    image: https://media.discordapp.net/attachments/1183799859342483476/1183799859707379803/image.png?ex=6a414488&is=6a3ff308&hm=253cd7e14c6a74849b920c2442d9f9d37a7aec55b9cabe5cce6d6a5cc03901e6&
     author:
       name: R3mia
       avatar: https://avatars.githubusercontent.com/u/72246166?v=4
@@ -1839,7 +1931,7 @@ listings:
     releaseUrl: https://github.com/nomi-san/ahri-theme/releases/tag/240221
     releaseTag: "240221"
     releaseName: ahri-theme-240221
-    image: https://media.discordapp.net/attachments/1095736862187991232/1095736862741635283/68747470733a2f2f692e696d6775722e636f6d2f74617a504e484e2e706e67.png?ex=6a409939&is=6a3f47b9&hm=cc94852a6642e9574fe9deab4db5ae7b30363b1a109b3abb3b622b5036a66665&
+    image: https://media.discordapp.net/attachments/1095736862187991232/1095736862741635283/68747470733a2f2f692e696d6775722e636f6d2f74617a504e484e2e706e67.png?ex=6a4141f9&is=6a3ff079&hm=3ed3916ef4840e8c72ce338896f5d1a8a192268b4866e0d606df777602f0ea83&
     author:
       name: nomi-san
       avatar: https://avatars.githubusercontent.com/u/38210249?v=4
@@ -2014,7 +2106,7 @@ listings:
     name: GrayscaleV2
     description: Grayscale theme for Pengu-loader.
     repo: https://github.com/rviid/league-grayscale-theme
-    image: https://media.discordapp.net/attachments/1166033741186076793/1166033741597130852/grayscalev2.png?ex=6a40934b&is=6a3f41cb&hm=c06f9c6f559172daf0d5a0259baffb863c81e70b49a25a4321fbdf57c1ca5774&
+    image: https://media.discordapp.net/attachments/1166033741186076793/1166033741597130852/grayscalev2.png?ex=6a413c0b&is=6a3fea8b&hm=6734fd5bae48ca8ed1b5e70ed87b9c6d7ab360d2ac44df7229da54296b1afb58&
     author:
       name: rviid
       avatar: https://avatars.githubusercontent.com/u/147655674?v=4
