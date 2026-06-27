@@ -1,6 +1,6 @@
 name: Pengu Community Store registry
 version: 1
-generatedAt: 2026-06-27T19:52:50.373Z
+generatedAt: 2026-06-27T21:02:36.982Z
 source:
   guildId: "1069483280438673418"
   forums:
@@ -14,31 +14,39 @@ listings:
     name: Kyso Clean Theme v2.0
     description: A simple and customizable league theme, without losing the "league
       experience"
-    details: >-
-      ## v3.5 — Instant top-bar icon, self-only profile, new toggles
+    details: "This update focuses on fixing the \"Self-Only\" functionality (which
+      restricts visual modifications to your own\r
 
+      \  profile). These fixes ensure that crests and profile edits do not leak
+      to other players' profiles when you are\r
 
-      - **Instant top-bar icon** — your custom profile icon now updates the
-      top-bar avatar immediately when applied (no switch toggle / reload
-      needed).
+      \  viewing them, even in more complex client rendering scenarios.\r
 
-      - **New switch: Swap mastery icon** — optionally replace the champion
-      mastery icon with your profile icon (default off; off keeps the real
-      mastery icon).
+      \r
 
-      - **New switch: League color scheme** — keep the themed buttons but
-      recolor the UI to League's native gold (`#C8AA6E`); disables RGB while on
-      (default off).
+      \    **🐛 Bug Fixes**\r
 
-      - **Fix: self-only profile overrides** — ranked crest, mastery-score (LP),
-      transparent background and the profile-page icon now apply only to your
-      own profile, never to other players' profiles. Self-detection fails closed
-      (compares your Riot-ID name); hovercard / lobby / party paths keep their
-      existing self-guards.
+      \    * **Self-Only Profile Detection**: Fixed own-profile detection to use
+      more precise attributes (`summoner-id` /\r
+
+      \  `puuid`) instead of name selectors, which were missing the actual real
+      node in the client.\r
+
+      \    * **Per-Surface Check**: Adjusted the code to validate profile
+      ownership individually on each rendered surface.\r
+
+      \  This resolves bugs that occurred because the League client can
+      mount/render two profiles simultaneously in memory.\r
+
+      \    * **Crest Self-ID Guard**: Fixed the `applyCrest` function so the
+      \"Self-Only\" guard re-runs once your local ID is\r
+
+      \  resolved, preventing your custom crest and icons from appearing on
+      friends' profiles."
     repo: https://github.com/kyso1/KysoTheme
-    releaseUrl: https://github.com/kyso1/KysoTheme/releases/tag/v3.5
-    releaseTag: v3.5
-    releaseName: Kyso UI Editor v3.5
+    releaseUrl: https://github.com/kyso1/KysoTheme/releases/tag/v3.5.1
+    releaseTag: v3.5.1
+    releaseName: v3.5.1
     image: https://media.discordapp.net/attachments/1240541534663868426/1240541534869262376/image.png?ex=6a415e96&is=6a400d16&hm=bf27e07dccb639057f0781e815c7eaace60b1b214997a3b45fbaadad35af444a&
     author:
       name: kyso1
@@ -52,7 +60,7 @@ listings:
       - Transparent
     discordUrl: https://discord.com/channels/1069483280438673418/1240541534663868426/1240541534663868426
     upvotes: 4
-    updatedAt: 2026-06-27T19:41:24Z
+    updatedAt: 2026-06-27T20:40:04Z
     assets: []
     enriched: true
   - id: "1507291423840407613"
@@ -60,32 +68,40 @@ listings:
     name: KysoTheme v3.0
     description: A simple and customizable league theme, without losing the "league
       experience"
-    details: >-
-      ## v3.5 — Instant top-bar icon, self-only profile, new toggles
+    details: "This update focuses on fixing the \"Self-Only\" functionality (which
+      restricts visual modifications to your own\r
 
+      \  profile). These fixes ensure that crests and profile edits do not leak
+      to other players' profiles when you are\r
 
-      - **Instant top-bar icon** — your custom profile icon now updates the
-      top-bar avatar immediately when applied (no switch toggle / reload
-      needed).
+      \  viewing them, even in more complex client rendering scenarios.\r
 
-      - **New switch: Swap mastery icon** — optionally replace the champion
-      mastery icon with your profile icon (default off; off keeps the real
-      mastery icon).
+      \r
 
-      - **New switch: League color scheme** — keep the themed buttons but
-      recolor the UI to League's native gold (`#C8AA6E`); disables RGB while on
-      (default off).
+      \    **🐛 Bug Fixes**\r
 
-      - **Fix: self-only profile overrides** — ranked crest, mastery-score (LP),
-      transparent background and the profile-page icon now apply only to your
-      own profile, never to other players' profiles. Self-detection fails closed
-      (compares your Riot-ID name); hovercard / lobby / party paths keep their
-      existing self-guards.
+      \    * **Self-Only Profile Detection**: Fixed own-profile detection to use
+      more precise attributes (`summoner-id` /\r
+
+      \  `puuid`) instead of name selectors, which were missing the actual real
+      node in the client.\r
+
+      \    * **Per-Surface Check**: Adjusted the code to validate profile
+      ownership individually on each rendered surface.\r
+
+      \  This resolves bugs that occurred because the League client can
+      mount/render two profiles simultaneously in memory.\r
+
+      \    * **Crest Self-ID Guard**: Fixed the `applyCrest` function so the
+      \"Self-Only\" guard re-runs once your local ID is\r
+
+      \  resolved, preventing your custom crest and icons from appearing on
+      friends' profiles."
     repo: https://github.com/kyso1/KysoTheme
-    releaseUrl: https://github.com/kyso1/KysoTheme/releases/tag/v3.5
-    releaseTag: v3.5
-    releaseName: Kyso UI Editor v3.5
-    image: https://media.discordapp.net/attachments/1507291423840407613/1507291424301776957/Screenshot_1.png?ex=6a40d407&is=6a3f8287&hm=d658419c0b24ec82733152e6d4d0db62e99507b8082b196a5e0792ecc8cee692&
+    releaseUrl: https://github.com/kyso1/KysoTheme/releases/tag/v3.5.1
+    releaseTag: v3.5.1
+    releaseName: v3.5.1
+    image: https://media.discordapp.net/attachments/1507291423840407613/1507291424301776957/Screenshot_1.png?ex=6a417cc7&is=6a402b47&hm=76d7d9c68f8cafb8f2e465888ec4b4481174383f02619e8090ca76ff75889070&
     author:
       name: kyso1
       avatar: https://avatars.githubusercontent.com/u/128049220?v=4
@@ -98,7 +114,7 @@ listings:
       - Transparent
     discordUrl: https://discord.com/channels/1069483280438673418/1507291423840407613/1507291423840407613
     upvotes: 10
-    updatedAt: 2026-06-27T19:41:24Z
+    updatedAt: 2026-06-27T20:40:04Z
     assets: []
     enriched: true
   - id: "1396060178545119263"
@@ -204,7 +220,7 @@ listings:
     releaseTag: v1.0.1
     releaseName: v1.0.1 - Turn Timer-Based Auto-Lock, Panic Key to override auto
       actions & Hide Unowned Skins & Chromas in Champion Select
-    image: https://media.discordapp.net/attachments/1512550218044805150/1512550376509931742/6kkx030.png?ex=6a40d80f&is=6a3f868f&hm=e712b3fdeb56c780d97c245b84f3de8e450c73bd291cf8973809b50979abdc2c&
+    image: https://media.discordapp.net/attachments/1512550218044805150/1512550376509931742/6kkx030.png?ex=6a4180cf&is=6a402f4f&hm=1bc9934f15c7ef6567f5905628132248371a9b8bb599cadf67a00e3622fe7e0a&
     author:
       name: ReformedDoge
       avatar: https://avatars.githubusercontent.com/u/39759213?v=4
@@ -509,7 +525,7 @@ listings:
     releaseUrl: https://github.com/Yimikami/pengu-plugins/releases/tag/PenguFamily_v0.1.0
     releaseTag: PenguFamily_v0.1.0
     releaseName: Pengu Family v0.1.0
-    image: https://media.discordapp.net/attachments/1497146237273641040/1497146238745972816/image.png?ex=6a40d596&is=6a3f8416&hm=37cd684d77f534b8d940c88c5da88bf904fcd3bb0a4ae1a2acef0f569e1c61ed&
+    image: https://media.discordapp.net/attachments/1497146237273641040/1497146238745972816/image.png?ex=6a417e56&is=6a402cd6&hm=d734b7cff9fe7ff215fcbadd33882e13173c3966b3b28c3c7dd2082d56aa7056&
     author:
       name: Yimikami
       avatar: https://avatars.githubusercontent.com/u/39545057?v=4
@@ -615,7 +631,7 @@ listings:
     releaseUrl: https://github.com/Yimikami/pengu-plugins/releases/tag/PenguFamily_v0.1.0
     releaseTag: PenguFamily_v0.1.0
     releaseName: Pengu Family v0.1.0
-    image: https://media.discordapp.net/attachments/1472183865379389444/1496249294418612344/0330C317-A78E-416F-AC36-FE6739688A1F.png?ex=6a40ddfe&is=6a3f8c7e&hm=b423826c8b0a2d851c0211053edc73eb5f28f6b8eadad0feff0e2b58937e66d3&
+    image: https://media.discordapp.net/attachments/1472183865379389444/1496249294418612344/0330C317-A78E-416F-AC36-FE6739688A1F.png?ex=6a4186be&is=6a40353e&hm=5735dc1e4457a0879adac263f8139aacc7adda868871204c00aa4278f7c6f4ca&
     author:
       name: Yimikami
       avatar: https://avatars.githubusercontent.com/u/39545057?v=4
@@ -1211,7 +1227,7 @@ listings:
     description: Animated particle cursor effects for the League of Legends client —
       Penguloader plugin
     repo: https://github.com/nt3y/cursor-pack-penguloader
-    image: https://media.discordapp.net/attachments/1484279090830905394/1484279092202307736/image.png?ex=6a40d360&is=6a3f81e0&hm=f33bbcae4188b821abfe21ebb5bea5531b07a93947c0f6fd12019014a40aac49&
+    image: https://media.discordapp.net/attachments/1484279090830905394/1484279092202307736/image.png?ex=6a417c20&is=6a402aa0&hm=ea67f785c0d1b00c7c1df69f0189790dd7438d20afbe63daac5af7cf82a912ca&
     author:
       name: nt3y
       avatar: https://avatars.githubusercontent.com/u/269317310?v=4
@@ -1327,7 +1343,7 @@ listings:
     releaseUrl: https://github.com/hadixcanimm/taric48/releases/tag/gamelauncher
     releaseTag: gamelauncher
     releaseName: "Taric 48 Game Launcher "
-    image: https://media.discordapp.net/attachments/1469972117306212639/1469972117549486178/image.png?ex=6a40da37&is=6a3f88b7&hm=257d167f8539b684b5dbd7e25576c4251422ca6772892ec57bf42fdb9f7a3eec&
+    image: https://media.discordapp.net/attachments/1469972117306212639/1469972117549486178/image.png?ex=6a4182f7&is=6a403177&hm=ef800526a97a24c601cc014aec628fe1d1ea30a5d0169854e2ff6266e4eee842&
     author:
       name: hadixcanimm
       avatar: https://avatars.githubusercontent.com/u/114208757?v=4
@@ -1912,7 +1928,7 @@ listings:
     releaseUrl: https://github.com/Humildeficador/DisableQueues/releases/tag/1.0
     releaseTag: "1.0"
     releaseName: v1.0
-    image: https://media.discordapp.net/attachments/1200544287817994240/1200544288119996557/Screenshot_1.png?ex=6a40e13f&is=6a3f8fbf&hm=54eb50cba7ca22d2b63b1395e3a87a1edbf0cfe6d746c86b9d0e2eaea0d8a004&
+    image: https://media.discordapp.net/attachments/1200544287817994240/1200544288119996557/Screenshot_1.png?ex=6a4189ff&is=6a40387f&hm=38278fe43f4addcae3543c768f7a188a725b78b6dfcce9da2f6055f6b1056187&
     author:
       name: Humildeficador
       avatar: https://avatars.githubusercontent.com/u/130767630?v=4
