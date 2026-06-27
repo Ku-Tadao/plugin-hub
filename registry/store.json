@@ -1,7 +1,7 @@
 {
   "name": "Pengu Community Store registry",
   "version": 1,
-  "generatedAt": "2026-06-27T16:38:36.700Z",
+  "generatedAt": "2026-06-27T18:03:03.165Z",
   "source": {
     "guildId": "1069483280438673418",
     "forums": [
@@ -21,12 +21,12 @@
       "kind": "themes",
       "name": "Kyso Clean Theme v2.0",
       "description": "A simple and customizable league theme, without losing the \"league experience\"",
-      "details": "Everything since **v3.0** — every fixed theme behavior is now a toggle or a control, plus two new tabs and full rank/regalia overrides.\n\n## v3.1 — Kyso UI Editor\n- Renamed to **Kyso UI Editor** with a first-run welcome modal.\n- Hardcoded behaviors became switches: themed/vanilla play button, banner, gear & LoR buttons, profile background transparency, social blur slider, profile-icon placement / navbar sync.\n\n## v3.2 — UI Editor tab + Player Assets expansion\n- **UI Editor tab** with a live search bar that filters controls by label.\n- **Granular show/hide toggles** for every hover-faded element: chat, invite, notifications, XP ring, status, social actions, patch version, XP radial, rune recommender, deep links, loot backdrop, incident ticker, restriction warning, loading spinner, lobby overlay, navbar dividers, activity divider.\n- **Visual-effect toggles**: client blur kill, store hue overlay, ready-check animation, viewport glow.\n- **Per-screen backgrounds**: Collections, Champ-select, Runes, Mode-switcher.\n- **Sliding-door ⇄ hover mutex** (auto-exclusive) + debounced observers / blur-scrubber freeze fix.\n\n## Rank crest override\n- Fake your displayed rank to any tier (Iron → Challenger) with division I–IV.\n- Ranked tooltip override: per-queue tier text, \"change all queues\" toggle, LP override.\n\n## v3.3 — Regalia hovercard override (self-only)\n- Crest tier art, mini rank emblem, and \"Tier (Queue)\" text follow your chosen rank — only on your own card (matched by summoner id).\n- Summoner icon uses your custom icon; mastery score mirrors your LP (also on the profile emblem header).\n- New **Hovercard backdrop** asset with an interactive crop tool.",
+      "details": "## v3.4 — Custom icon in lobby & party\n\nYour selected custom profile icon now also appears on:\n- **Lobby player slot** — matched to you only via the crest's `voice-puuid` (teammates' icons untouched).\n- **Party banner** — scoped to the local player's `.lobby-banner.local`.\n\nSets `profile-icon-url` for a native render that survives the component's re-renders, plus a direct background paint for an immediate swap. Self-only, opt-in (rides the existing custom-icon setting).\n\n**Install/update:** drop the plugin into Pengu Loader's `plugins` folder and reload the client.",
       "repo": "https://github.com/kyso1/KysoTheme",
-      "releaseUrl": "https://github.com/kyso1/KysoTheme/releases/tag/v3.3",
-      "releaseTag": "v3.3",
-      "releaseName": "v3.3 — Regalia hovercard override & UI Editor expansion",
-      "image": "https://media.discordapp.net/attachments/1240541534663868426/1240541534869262376/image.png?ex=6a40b5d6&is=6a3f6456&hm=ab32c7847057588386788028c5c5a474f2765b913566a19f83771b0b62f611e3&",
+      "releaseUrl": "https://github.com/kyso1/KysoTheme/releases/tag/v3.4",
+      "releaseTag": "v3.4",
+      "releaseName": "v3.4 — Custom icon in lobby & party",
+      "image": "https://media.discordapp.net/attachments/1240541534663868426/1240541534869262376/image.png?ex=6a415e96&is=6a400d16&hm=bf27e07dccb639057f0781e815c7eaace60b1b214997a3b45fbaadad35af444a&",
       "author": {
         "name": "kyso1",
         "avatar": "https://avatars.githubusercontent.com/u/128049220?v=4",
@@ -41,7 +41,7 @@
       ],
       "discordUrl": "https://discord.com/channels/1069483280438673418/1240541534663868426/1240541534663868426",
       "upvotes": 4,
-      "updatedAt": "2026-06-27T16:35:02Z",
+      "updatedAt": "2026-06-27T17:09:46Z",
       "assets": [],
       "enriched": true
     },
@@ -50,11 +50,11 @@
       "kind": "themes",
       "name": "KysoTheme v3.0",
       "description": "A simple and customizable league theme, without losing the \"league experience\"",
-      "details": "Everything since **v3.0** — every fixed theme behavior is now a toggle or a control, plus two new tabs and full rank/regalia overrides.\n\n## v3.1 — Kyso UI Editor\n- Renamed to **Kyso UI Editor** with a first-run welcome modal.\n- Hardcoded behaviors became switches: themed/vanilla play button, banner, gear & LoR buttons, profile background transparency, social blur slider, profile-icon placement / navbar sync.\n\n## v3.2 — UI Editor tab + Player Assets expansion\n- **UI Editor tab** with a live search bar that filters controls by label.\n- **Granular show/hide toggles** for every hover-faded element: chat, invite, notifications, XP ring, status, social actions, patch version, XP radial, rune recommender, deep links, loot backdrop, incident ticker, restriction warning, loading spinner, lobby overlay, navbar dividers, activity divider.\n- **Visual-effect toggles**: client blur kill, store hue overlay, ready-check animation, viewport glow.\n- **Per-screen backgrounds**: Collections, Champ-select, Runes, Mode-switcher.\n- **Sliding-door ⇄ hover mutex** (auto-exclusive) + debounced observers / blur-scrubber freeze fix.\n\n## Rank crest override\n- Fake your displayed rank to any tier (Iron → Challenger) with division I–IV.\n- Ranked tooltip override: per-queue tier text, \"change all queues\" toggle, LP override.\n\n## v3.3 — Regalia hovercard override (self-only)\n- Crest tier art, mini rank emblem, and \"Tier (Queue)\" text follow your chosen rank — only on your own card (matched by summoner id).\n- Summoner icon uses your custom icon; mastery score mirrors your LP (also on the profile emblem header).\n- New **Hovercard backdrop** asset with an interactive crop tool.",
+      "details": "## v3.4 — Custom icon in lobby & party\n\nYour selected custom profile icon now also appears on:\n- **Lobby player slot** — matched to you only via the crest's `voice-puuid` (teammates' icons untouched).\n- **Party banner** — scoped to the local player's `.lobby-banner.local`.\n\nSets `profile-icon-url` for a native render that survives the component's re-renders, plus a direct background paint for an immediate swap. Self-only, opt-in (rides the existing custom-icon setting).\n\n**Install/update:** drop the plugin into Pengu Loader's `plugins` folder and reload the client.",
       "repo": "https://github.com/kyso1/KysoTheme",
-      "releaseUrl": "https://github.com/kyso1/KysoTheme/releases/tag/v3.3",
-      "releaseTag": "v3.3",
-      "releaseName": "v3.3 — Regalia hovercard override & UI Editor expansion",
+      "releaseUrl": "https://github.com/kyso1/KysoTheme/releases/tag/v3.4",
+      "releaseTag": "v3.4",
+      "releaseName": "v3.4 — Custom icon in lobby & party",
       "image": "https://media.discordapp.net/attachments/1507291423840407613/1507291424301776957/Screenshot_1.png?ex=6a40d407&is=6a3f8287&hm=d658419c0b24ec82733152e6d4d0db62e99507b8082b196a5e0792ecc8cee692&",
       "author": {
         "name": "kyso1",
@@ -69,8 +69,8 @@
         "Transparent"
       ],
       "discordUrl": "https://discord.com/channels/1069483280438673418/1507291423840407613/1507291423840407613",
-      "upvotes": 9,
-      "updatedAt": "2026-06-27T16:35:02Z",
+      "upvotes": 10,
+      "updatedAt": "2026-06-27T17:09:46Z",
       "assets": [],
       "enriched": true
     },
@@ -661,7 +661,7 @@
       "name": "Spotify Controller - In-game playback controls",
       "description": "A lightweight Spotify controller integrated directly into the League of Legends client using Pengu Loader. This project consists of two parts: a local Node.js authentication server and a client-side plugin.",
       "repo": "https://github.com/GogoChad/spotify-media-player",
-      "image": "https://media.discordapp.net/attachments/1499090537427243129/1499090537792143492/image.png?ex=6a40a81b&is=6a3f569b&hm=aefd909fecda7bf21e4d6af48084ab14cd0810b08249b1a5829167c89984f14d&",
+      "image": "https://media.discordapp.net/attachments/1499090537427243129/1499090537792143492/image.png?ex=6a4150db&is=6a3fff5b&hm=6536d2a840b0d938d78e35357e865e34b7dab7db2aa959b2f0fdf770e1c4cfa1&",
       "author": {
         "name": "GogoChad",
         "avatar": "https://avatars.githubusercontent.com/u/133820564?v=4",
@@ -1426,7 +1426,7 @@
         {
           "name": "oldMasteryIcons.js",
           "size": 9545,
-          "downloadUrl": "https://cdn.discordapp.com/attachments/1414553304259760148/1414659601575579780/oldMasteryIcons.js?ex=6a40ad2c&is=6a3f5bac&hm=9a8e02d7f0125deb6f8e0fb0b0ef37e5889261b4ee5943f753f1a61a0599c2d2&",
+          "downloadUrl": "https://cdn.discordapp.com/attachments/1414553304259760148/1414659601575579780/oldMasteryIcons.js?ex=6a4155ec&is=6a40046c&hm=f9e481c6bd9cdedebf8b724597617365cbe3a1e87a8a89743e572cad80014be5&",
           "contentType": "application/javascript; charset=utf-8"
         }
       ],
