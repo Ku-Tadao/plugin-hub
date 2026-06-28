@@ -1,7 +1,7 @@
 {
   "name": "Pengu Community Store registry",
   "version": 1,
-  "generatedAt": "2026-06-28T17:10:55.430Z",
+  "generatedAt": "2026-06-28T18:44:35.494Z",
   "source": {
     "guildId": "1069483280438673418",
     "forums": [
@@ -17,6 +17,31 @@
   },
   "listings": [
     {
+      "id": "1520847793256927293",
+      "kind": "plugins",
+      "name": "No close client message",
+      "description": "This plugin automatically confirms the League Client exit dialog. - Source code: Cooming soon, i'm lazy - Download: Github url cooming soon, i'm lazy",
+      "image": "https://media.discordapp.net/attachments/1520847793256927293/1520847793411981413/57nwhtn.png?ex=6a42af61&is=6a415de1&hm=4bdf85685cc9d0ecf1103f3b79e032e9dcd944d814f91b07dba460b48544b995&",
+      "author": {
+        "name": "Elaina"
+      },
+      "tags": [
+        "Enhancement"
+      ],
+      "discordUrl": "https://discord.com/channels/1069483280438673418/1520847793256927293/1520847793256927293",
+      "upvotes": 0,
+      "updatedAt": "2026-06-28T17:46:29.212Z",
+      "assets": [
+        {
+          "name": "NoCloseMessage.js",
+          "size": 3475,
+          "downloadUrl": "https://cdn.discordapp.com/attachments/1520847793256927293/1520847873980371034/NoCloseMessage.js?ex=6a42af75&is=6a415df5&hm=ac4dde6fbce433f03b16947760b2ab0ff33cc96cd7b1e8664330df21a7688255&",
+          "contentType": "text/javascript; charset=utf-8"
+        }
+      ],
+      "enriched": true
+    },
+    {
       "id": "1240541534663868426",
       "kind": "themes",
       "name": "Kyso Clean Theme v2.0",
@@ -26,7 +51,7 @@
       "releaseUrl": "https://github.com/kyso1/KysoTheme/releases/tag/v3.5.1",
       "releaseTag": "v3.5.1",
       "releaseName": "v3.5.1",
-      "image": "https://media.discordapp.net/attachments/1240541534663868426/1240541534869262376/image.png?ex=6a420756&is=6a40b5d6&hm=b8fe2f9d8352fc45bcc5ef8fae83ac63eed9cd06a66430e89cba3999e97a3176&",
+      "image": "https://media.discordapp.net/attachments/1240541534663868426/1240541534869262376/image.png?ex=6a42b016&is=6a415e96&hm=70a60c171881ea3ff1f53a38df9c29a23ebfaf8f5a04e44ee15c3e14f8eb53c6&",
       "author": {
         "name": "kyso1",
         "avatar": "https://avatars.githubusercontent.com/u/128049220?v=4",
@@ -1149,7 +1174,7 @@
         {
           "name": "Hide_Nonsense2.js",
           "size": 8079,
-          "downloadUrl": "https://cdn.discordapp.com/attachments/1395902555095171225/1440040589490917507/Hide_Nonsense2.js?ex=6a420b8f&is=6a40ba0f&hm=90310b39c9a8653bfe794e4993988fb49720ed49d19c8cb1112c6e7d6814a377&",
+          "downloadUrl": "https://cdn.discordapp.com/attachments/1395902555095171225/1440040589490917507/Hide_Nonsense2.js?ex=6a42b44f&is=6a4162cf&hm=69b5f1de6771175d7dead157b65ff7df8fa45bdec8f691eb4d13e8d1e52fc5ff&",
           "contentType": "text/javascript; charset=utf-8"
         }
       ],
@@ -1250,7 +1275,7 @@
       "name": "Balaclava Plugins! [13/05/2026]",
       "description": "My plugins for Pengu Loader! :)",
       "repo": "https://github.com/controlado/pengu-plugins",
-      "image": "https://media.discordapp.net/attachments/1109009446023217193/1110094360390946908/ezgif-2-9ed966a32e.png?ex=6a4212f0&is=6a40c170&hm=6d3d569e53336fddbd6bcb1143644edea3ef1663da0a6adfb5c1f1f65490ef00&",
+      "image": "https://media.discordapp.net/attachments/1109009446023217193/1110094360390946908/ezgif-2-9ed966a32e.png?ex=6a42bbb0&is=6a416a30&hm=63772ebbb8a7ef5cf520e87334cf1a4827c27e47c7cfa3ed5657b0e369a65a7a&",
       "author": {
         "name": "controlado",
         "avatar": "https://avatars.githubusercontent.com/u/71716568?v=4",
@@ -1426,7 +1451,7 @@
         {
           "name": "oldMasteryIcons.js",
           "size": 9545,
-          "downloadUrl": "https://cdn.discordapp.com/attachments/1414553304259760148/1414659601575579780/oldMasteryIcons.js?ex=6a41feac&is=6a40ad2c&hm=8ce839b1972d47dfc3f651a9e8cec9aacd89362d6d9928e9e2b05e33465c18f6&",
+          "downloadUrl": "https://cdn.discordapp.com/attachments/1414553304259760148/1414659601575579780/oldMasteryIcons.js?ex=6a42a76c&is=6a4155ec&hm=be737e69aa954d43530df9e1527a84fe35e5dd5c9cb9587b3b5194b2a8f021c7&",
           "contentType": "application/javascript; charset=utf-8"
         }
       ],
@@ -1490,27 +1515,6 @@
           "contentType": "text/javascript"
         }
       ],
-      "enriched": true
-    },
-    {
-      "id": "1311460393507356802",
-      "kind": "plugins",
-      "name": "Invisible profile banner",
-      "description": "Just copy and paste it into the DevTools console (Ctrl+Shift+I). Needs last season rank to be unranked js fetch(\"/lol-challenges/v1/update-player-preferences/\", { method: \"POST\", headers: { \"Content-Type\": \"application/json\" }, body: JSON.stringify({ bannerAccent: \"2\"}) })",
-      "image": "https://media.discordapp.net/attachments/1311460393507356802/1311460598969798656/image.png?ex=6a424a9c&is=6a40f91c&hm=da91cdf54f90c9f76484bb28c947c7df818b6ffa8c35738bab341a18f51e0657&",
-      "author": {
-        "name": "kebs"
-      },
-      "tags": [
-        "Utility",
-        "Fun",
-        "Misc",
-        "Enhancement"
-      ],
-      "discordUrl": "https://discord.com/channels/1069483280438673418/1311460393507356802/1311460393507356802",
-      "upvotes": 6,
-      "updatedAt": "2025-09-07T10:42:34.683Z",
-      "assets": [],
       "enriched": true
     },
     {
