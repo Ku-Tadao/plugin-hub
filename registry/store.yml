@@ -1,6 +1,6 @@
 name: Pengu Community Store registry
 version: 1
-generatedAt: 2026-06-28T21:38:05.621Z
+generatedAt: 2026-06-28T23:01:45.466Z
 source:
   guildId: "1069483280438673418"
   forums:
@@ -628,7 +628,7 @@ listings:
     releaseUrl: https://github.com/Yimikami/pengu-plugins/releases/tag/PenguFamily_v0.1.0
     releaseTag: PenguFamily_v0.1.0
     releaseName: Pengu Family v0.1.0
-    image: https://media.discordapp.net/attachments/1503337548993265687/1503337549404311693/tb.png?ex=6a4243b2&is=6a40f232&hm=6a34ef0233f575abf74e0d089bad335bdb91ceedca4708bec74c6beaba13782f&
+    image: https://media.discordapp.net/attachments/1503337548993265687/1503337549404311693/tb.png?ex=6a42ec72&is=6a419af2&hm=54218ce386ab4bd4ce768e90319055afeda2804b975cfb3dcd30e64bdeeb641d&
     author:
       name: Yimikami
       avatar: https://avatars.githubusercontent.com/u/39545057?v=4
@@ -724,7 +724,7 @@ listings:
       hover tooltip, and your profile page. BNC Button in Lobby as always with
       my plugins. ⚠️ Client-side only — only you can see the change. Other
       players still see your actual equipped banner.
-    image: https://media.discordapp.net/attachments/1499358177052069899/1499358177840467968/4hbdb93.png?ex=6a424a1e&is=6a40f89e&hm=e6efc3cd97c88500fccc5ea42b117cf8caad263a0b4c1bc695a15264e2b6aaca&
+    image: https://media.discordapp.net/attachments/1499358177052069899/1499358177840467968/4hbdb93.png?ex=6a42f2de&is=6a41a15e&hm=a115ef54c1ed58f1ff6816e66e2931fb2f3aab9cc53a2492377b016eaf15b142&
     author:
       name: Eris Greyrat
     tags:
@@ -737,7 +737,7 @@ listings:
     assets:
       - name: Banner-Customizer.js
         size: 56598
-        downloadUrl: https://cdn.discordapp.com/attachments/1499358177052069899/1499358178658222220/Banner-Customizer.js?ex=6a424a1e&is=6a40f89e&hm=b4fec6de258fa50b0aea69b3c6bc1a864efe0b21e03fb89d3db13203ad537bbe&
+        downloadUrl: https://cdn.discordapp.com/attachments/1499358177052069899/1499358178658222220/Banner-Customizer.js?ex=6a42f2de&is=6a41a15e&hm=5b32e6925152c7631cf58ba33dcb2e0fedc43a250461b3c14c6bd739504f5fc2&
         contentType: text/javascript; charset=utf-8
     enriched: true
   - id: "1499090537427243129"
@@ -939,7 +939,7 @@ listings:
     releaseUrl: https://github.com/Ventoba/3DSkinViewer/releases/tag/v1.0
     releaseTag: v1.0
     releaseName: v1.0
-    image: https://media.discordapp.net/attachments/1490663854059950280/1490663854391427183/example2.PNG?ex=6a424ce6&is=6a40fb66&hm=f2642265f64f0cdbc594b99a222c2b7e5f63dd6143d13b7bc68cbc717bc4696c&
+    image: https://media.discordapp.net/attachments/1490663854059950280/1490663854391427183/example2.PNG?ex=6a42f5a6&is=6a41a426&hm=d1aad39d6ac53f523dbd87e6e1516a5f94a8b89a8bcb22eae9ca89570e5f99de&
     author:
       name: Ventoba
       avatar: https://avatars.githubusercontent.com/u/96593577?v=4
@@ -973,7 +973,7 @@ listings:
     assets:
       - name: index.js
         size: 4929
-        downloadUrl: https://cdn.discordapp.com/attachments/1462451902028578940/1465476858241093662/index.js?ex=6a424bee&is=6a40fa6e&hm=ca378eecc42c20d576cd771d0d642975ed8c248f4ca87d7127856949ef01a469&
+        downloadUrl: https://cdn.discordapp.com/attachments/1462451902028578940/1465476858241093662/index.js?ex=6a42f4ae&is=6a41a32e&hm=a17ca000610e98a7ec69b40cf8b60091d8b0448f003662780380caa483d12730&
         contentType: text/javascript; charset=utf-8
     enriched: true
   - id: "1476103367171248180"
@@ -1344,7 +1344,7 @@ listings:
     name: HideChampName
     description: Hides enemy champion names in Champion Select for League of Legends
     repo: https://github.com/Mixiruri/AnonymousEnemies
-    image: https://media.discordapp.net/attachments/1476888210436001904/1476888211044171848/preview.webp?ex=6a424854&is=6a40f6d4&hm=5b80a1c90ccab4fd9c6227d63dbbb7657f5d8737db30dccbe31dc91cd131a385&
+    image: https://media.discordapp.net/attachments/1476888210436001904/1476888211044171848/preview.webp?ex=6a42f114&is=6a419f94&hm=a1b08e8cfc4ecc80c06bfaa80ae3b8f59012c57d057f2b9256909f9794e7fe8e&
     author:
       name: Mixiruri
       avatar: https://avatars.githubusercontent.com/u/255986660?v=4
@@ -1544,7 +1544,7 @@ listings:
       from \"plugin request\" section long ago, now i can't find who developed
       it. They will be credited as soon as they reach out"
     repo: https://github.com/asherathegod/penguplugins
-    image: https://media.discordapp.net/attachments/1371799042832597054/1371799043575123978/EbMqICb.png?ex=6a424b6a&is=6a40f9ea&hm=4a131dd03c9bed3f8a48bc072de4f27842bf767f7f6dce09e511ffa2df125c40&
+    image: https://media.discordapp.net/attachments/1371799042832597054/1371799043575123978/EbMqICb.png?ex=6a42f42a&is=6a41a2aa&hm=e84bde6bbffb2fa79e4c30932c564f8ab9b6e6f5b697addc5ebe7cd6cfd829b2&
     author:
       name: asherathegod
       avatar: https://avatars.githubusercontent.com/u/68480231?v=4
@@ -1578,7 +1578,7 @@ listings:
     kind: plugins
     name: Old mastery icons
     description: This plugins will change new mastery icons to old version
-    image: https://media.discordapp.net/attachments/1414553304259760148/1414553304523866163/image.png?ex=6a42446c&is=6a40f2ec&hm=ac0ee0d242bc7e94342d0f8b3be16c282580c5627ea7aaf60f47914844601961&
+    image: https://media.discordapp.net/attachments/1414553304259760148/1414553304523866163/image.png?ex=6a42ed2c&is=6a419bac&hm=e8c8b2c71edf137d436b377f5387c11a1dcc2da283518ef1b2ce3880a66abeea&
     author:
       name: Elaina
     tags:
@@ -1590,7 +1590,7 @@ listings:
     assets:
       - name: oldMasteryIcons.js
         size: 5500
-        downloadUrl: https://cdn.discordapp.com/attachments/1414553304259760148/1414553545046364240/oldMasteryIcons.js?ex=6a4244a6&is=6a40f326&hm=3078632c38a5177228c0558b2f3bae466d2b755da4f72a59ec88b6d49e260686&
+        downloadUrl: https://cdn.discordapp.com/attachments/1414553304259760148/1414553545046364240/oldMasteryIcons.js?ex=6a42ed66&is=6a419be6&hm=128c2f91a592c369fad0456a58f3494772feac43d7eef91edf883daa6ef2f3ec&
         contentType: application/javascript; charset=utf-8
       - name: oldMasteryIcons.js
         size: 11497
@@ -1731,7 +1731,7 @@ listings:
     releaseUrl: https://github.com/Elaina69/fake-reward-badge/releases/tag/v1.0.0
     releaseTag: v1.0.0
     releaseName: ""
-    image: https://media.discordapp.net/attachments/1316703290775441408/1316703290960121867/image.png?ex=6a423f7f&is=6a40edff&hm=60c951658231cd27c9a0b5eeb1278f584772db3ed3c07a2e43e977f290f42bb1&
+    image: https://media.discordapp.net/attachments/1316703290775441408/1316703290960121867/image.png?ex=6a42e83f&is=6a4196bf&hm=a7ceb7b9e57370b6b5dfe1bdef5d3fb91569797be5973c38a4df3842060aacd3&
     author:
       name: Elaina69
       avatar: https://avatars.githubusercontent.com/u/94338907?v=4
