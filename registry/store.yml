@@ -1,6 +1,6 @@
 name: Pengu Community Store registry
 version: 1
-generatedAt: 2026-07-02T23:05:55.422Z
+generatedAt: 2026-07-03T01:10:04.622Z
 source:
   guildId: "1069483280438673418"
   forums:
@@ -89,7 +89,7 @@ listings:
     enriched: true
   - id: "1507291423840407613"
     kind: themes
-    name: KysoTheme v3.0
+    name: Kyso UI Editor v3.0
     description: A simple and customizable league theme, without losing the "league
       experience"
     details: "This update focuses on fixing the \"Self-Only\" functionality (which
@@ -160,7 +160,7 @@ listings:
     assets:
       - name: activity_center_toggle.js
         size: 10156
-        downloadUrl: https://cdn.discordapp.com/attachments/1396060178545119263/1401719798949216316/activity_center_toggle.js?ex=6a47a78a&is=6a46560a&hm=d4fe070ae8219c633f58cda7c753be12d1bc1b09b94fd20430b3544c08998fe2&
+        downloadUrl: https://cdn.discordapp.com/attachments/1396060178545119263/1401719798949216316/activity_center_toggle.js?ex=6a48504a&is=6a46feca&hm=0bf8d01f446ad5924524cc6a08368065182a5ea139ee3cb756fd0ce3235eb6bc&
         contentType: application/javascript; charset=utf-8
     enriched: true
   - id: "1311415707371700345"
@@ -292,7 +292,8 @@ listings:
   - id: "1334901167125299300"
     kind: plugins
     name: End Of Game mass report
-    description: Report all player right after end of game
+    description: "Report all player right after end of game You can change report
+      type inside settings Source code: Download :"
     details: "- Fix report bugs"
     repo: https://github.com/Elaina69/eog-mass-report
     releaseUrl: https://github.com/Elaina69/eog-mass-report/releases/tag/v1.1.2
@@ -300,9 +301,7 @@ listings:
     releaseName: ""
     image: https://opengraph.githubassets.com/4cf193debe290ed623578c21c94546a3ad1f971b8af841e3c8745153b96e7e62/Elaina69/eog-mass-report/releases/tag/v1.1.0
     author:
-      name: Elaina69
-      avatar: https://avatars.githubusercontent.com/u/94338907?v=4
-      github: Elaina69
+      name: Elaina
     tags:
       - Utility
       - Misc
@@ -473,7 +472,7 @@ listings:
     releaseUrl: https://github.com/Elaina69/Elaina-theme/releases/tag/v4.5.1
     releaseTag: v4.5.1
     releaseName: ""
-    image: https://media.discordapp.net/attachments/1078464593791307777/1078464594055544942/image.png?ex=6a47a2ac&is=6a46512c&hm=be829e68c2bce06e151fffeb1a27951bbda9ac6ba8eaad5b4109df2146b0dd67&
+    image: https://media.discordapp.net/attachments/1078464593791307777/1078464594055544942/image.png?ex=6a484b6c&is=6a46f9ec&hm=de6b488e67041a84b64164f94cdc4b0fd60623c0bc24c4f70abfc15fce8653da&
     author:
       name: Elaina69
       avatar: https://avatars.githubusercontent.com/u/94338907?v=4
@@ -680,7 +679,7 @@ listings:
       apply, meta tier list, post-game op.gg. Personal use; not endorsed by Riot
       Games."
     repo: https://github.com/Nicetyone/league-lean
-    image: https://media.discordapp.net/attachments/1500282612084768848/1500282612516917258/01.png?ex=6a47a150&is=6a464fd0&hm=c31469d6442708b9f18ffc49505bb6202652d85921cbf6b472db0509ba15dc57&
+    image: https://media.discordapp.net/attachments/1500282612084768848/1500282612516917258/01.png?ex=6a484a10&is=6a46f890&hm=638851c5aa6968007810a83a6dcb82e214fbb60e6ca80491894395e62b7b7975&
     author:
       name: Nicetyone
       avatar: https://avatars.githubusercontent.com/u/78967461?v=4
@@ -765,7 +764,7 @@ listings:
     name: OP.GG & U.GG Button Plugin
     description: An custom JavaScript page for Pengu Loader
     repo: https://github.com/GogoChad/opgg-button
-    image: https://media.discordapp.net/attachments/1495203342400360459/1495203439347499059/image.png?ex=6a479bf7&is=6a464a77&hm=1cc849e58a751dcbc25dc42597e65dad6f0e715fd1d84fb12e9fb5af34488db7&
+    image: https://media.discordapp.net/attachments/1495203342400360459/1495203439347499059/image.png?ex=6a4844b7&is=6a46f337&hm=9e12a22725f90f3e6146a3de5506701c69df5d39b70e536171b493d6d72934d4&
     author:
       name: GogoChad
       avatar: https://avatars.githubusercontent.com/u/133820564?v=4
@@ -908,7 +907,7 @@ listings:
     releaseUrl: https://github.com/xRize/MusicPlugin/releases/tag/Release2
     releaseTag: Release2
     releaseName: v1.0.1
-    image: https://media.discordapp.net/attachments/1487606021449973850/1487606021831528640/569826409-7f1dae67-6e42-4fb5-ac20-32cbc0166a21.png?ex=6a47a7d1&is=6a465651&hm=67619128f296c5551f5b6e26fd2576deed89467a9102bbfcac44a2a76d95818e&
+    image: https://media.discordapp.net/attachments/1487606021449973850/1487606021831528640/569826409-7f1dae67-6e42-4fb5-ac20-32cbc0166a21.png?ex=6a485091&is=6a46ff11&hm=8d6768461960b1a73021ad9e54f69b8461ec015745fd5ce64a0d601924d67ae1&
     author:
       name: xRize
       avatar: https://avatars.githubusercontent.com/u/83946532?v=4
@@ -1279,7 +1278,7 @@ listings:
     releaseUrl: https://github.com/Reynbow/auto-champ-lock/releases/tag/v1.5.2
     releaseTag: v1.5.2
     releaseName: v1.5.2
-    image: https://media.discordapp.net/attachments/1477651306167406592/1477651306364534834/role-pick-ui.png?ex=6a47b204&is=6a466084&hm=3235ac29e2154e812ffc7806532df8dd7e267c3fb8a40e7739cce8e245eddb07&
+    image: https://media.discordapp.net/attachments/1477651306167406592/1477651306364534834/role-pick-ui.png?ex=6a485ac4&is=6a470944&hm=8c4a07af7cbe0304ce260b56ad8af19fc03644b5e247a02f84bada26da12f36c&
     author:
       name: Reynbow
       avatar: https://avatars.githubusercontent.com/u/19285509?v=4
@@ -1324,7 +1323,7 @@ listings:
     kind: plugins
     name: Hide Nonsense
     description: No description provided.
-    image: https://media.discordapp.net/attachments/1395902555095171225/1395906635968286882/image.png?ex=6a47999c&is=6a46481c&hm=de535e2b9923ba96e7aef5baae524ca0d9347ff3026481e9f3943465e43273b0&
+    image: https://media.discordapp.net/attachments/1395902555095171225/1395906635968286882/image.png?ex=6a48425c&is=6a46f0dc&hm=4e2d11f8b0767bf59f0c2a6d89c318ac0ec474d04ac86fb48b0f5f653db41d67&
     author:
       name: 莫嘎 | Mogay
     tags:
@@ -1424,7 +1423,7 @@ listings:
     releaseUrl: https://github.com/nomi-san/balance-buff-viewer/releases/tag/main
     releaseTag: main
     releaseName: S16 | v26 | 2026
-    image: https://media.discordapp.net/attachments/1127199847901052979/1127199848303693844/image.png?ex=6a479d2a&is=6a464baa&hm=900711681458e7cbe0d746651208a6572a8910f1bb6005c5c10a68030098243d&
+    image: https://media.discordapp.net/attachments/1127199847901052979/1127199848303693844/image.png?ex=6a4845ea&is=6a46f46a&hm=9e5c87a5da15e3545544d95e6a623f855229715d4ed08c1b500bbf162c6ef79e&
     author:
       name: nomi-san
       avatar: https://avatars.githubusercontent.com/u/38210249?v=4
@@ -1613,7 +1612,7 @@ listings:
     releaseUrl: https://github.com/DmitryFisk/pengu-force-custom-lobby/releases/tag/2.2.0
     releaseTag: 2.2.0
     releaseName: 2.2.0
-    image: https://media.discordapp.net/attachments/1322710156173250601/1322710156626104320/image.png?ex=6a479f14&is=6a464d94&hm=41b0d8946bc9a56d929c8e6a6da98e7af36c7d80db36357c7cab7f267c3f23b6&
+    image: https://media.discordapp.net/attachments/1322710156173250601/1322710156626104320/image.png?ex=6a4847d4&is=6a46f654&hm=88022f8091a248ab19d3a032793e5a8288887418058985383b4ed66a2211d3df&
     author:
       name: DmitryFisk
       avatar: https://avatars.githubusercontent.com/u/62219971?v=4
@@ -1658,7 +1657,7 @@ listings:
     name: Acrylical  theme fork version
     description: custom theme for lick of leg-ends launcher
     repo: https://github.com/watchingfun/league-launcher-theme
-    image: https://media.discordapp.net/attachments/1365312229775511603/1365312230337282048/image.png?ex=6a47b319&is=6a466199&hm=9fb86a5830af94aa5edb85b7efd104b8cde13774487bb082048e277879dca695&
+    image: https://media.discordapp.net/attachments/1365312229775511603/1365312230337282048/image.png?ex=6a485bd9&is=6a470a59&hm=76a996aacf390fd1228519133fe76dde31f9ea46710a5f698e35a5d6bc67b365&
     author:
       name: watchingfun
       avatar: https://avatars.githubusercontent.com/u/22067924?v=4
@@ -1847,7 +1846,7 @@ listings:
     releaseUrl: https://github.com/lolpyken/pyken/releases/tag/1
     releaseTag: "1"
     releaseName: Pyken
-    image: https://media.discordapp.net/attachments/1305881618757582869/1305881619210436649/Screenshot_2024-11-12_071546.png?ex=6a47b408&is=6a466288&hm=3f06418ca70a4e5b13f26fa34ba82e0b0603ab0cb1212f981610c04a56b9376f&
+    image: https://media.discordapp.net/attachments/1305881618757582869/1305881619210436649/Screenshot_2024-11-12_071546.png?ex=6a485cc8&is=6a470b48&hm=3da1895d41c8e2f0456b685f8d93f03ced52e1cfcbbe30bfb46bbb845ff62263&
     author:
       name: lolpyken
       avatar: https://avatars.githubusercontent.com/u/34245482?v=4
@@ -2097,7 +2096,7 @@ listings:
       on) • Hide Chat Ban Logs if you want to suggest a plugin. use the channel
       <1128961916497317938 and tag me"
     repo: https://github.com/iIlusion/league-loader-plugins
-    image: https://media.discordapp.net/attachments/1077921251445706852/1077921251621879881/8ef86509de0a0f4666ae0369efb72e08e88909104498d597.png?ex=6a47a2e5&is=6a465165&hm=b981859ddff2c72d7a95c7cefc4dd2b01966af19751ee17bcd3abc4d388abaaf&
+    image: https://media.discordapp.net/attachments/1077921251445706852/1077921251621879881/8ef86509de0a0f4666ae0369efb72e08e88909104498d597.png?ex=6a484ba5&is=6a46fa25&hm=ade43755eac49b0fcfbf70fac3ba76701f6530d42b5e5ca65d2c62e6fa2cf26a&
     author:
       name: iIlusion
       avatar: https://avatars.githubusercontent.com/u/49544373?v=4
