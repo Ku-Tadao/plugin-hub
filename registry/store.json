@@ -1,7 +1,7 @@
 {
   "name": "Pengu Community Store registry",
   "version": 1,
-  "generatedAt": "2026-07-03T16:06:22.719Z",
+  "generatedAt": "2026-07-03T17:56:40.609Z",
   "source": {
     "guildId": "1069483280438673418",
     "forums": [
@@ -21,7 +21,7 @@
       "kind": "plugins",
       "name": "No close client message",
       "description": "This plugin automatically confirms the League Client exit dialog. - Source code: Cooming soon, i'm lazy - Download: Github url cooming soon, i'm lazy",
-      "image": "https://media.discordapp.net/attachments/1520847793256927293/1520847793411981413/57nwhtn.png?ex=6a489e21&is=6a474ca1&hm=c1e1fdc65904f67d3e9a08b8af364c63039ecc1e5d8dc53b2eb9982803efe457&",
+      "image": "https://media.discordapp.net/attachments/1520847793256927293/1520847793411981413/57nwhtn.png?ex=6a4946e1&is=6a47f561&hm=110592de3140dc1606d3e0128e52b5bd4d792867ea5e25db813f77b677742062&",
       "author": {
         "name": "Elaina"
       },
@@ -35,7 +35,7 @@
         {
           "name": "NoCloseMessage.js",
           "size": 3475,
-          "downloadUrl": "https://cdn.discordapp.com/attachments/1520847793256927293/1520847873980371034/NoCloseMessage.js?ex=6a489e35&is=6a474cb5&hm=855d30f211de3f461bc5e83b171c79c39440a3c8ce86d7f5ea853f158e25114f&",
+          "downloadUrl": "https://cdn.discordapp.com/attachments/1520847793256927293/1520847873980371034/NoCloseMessage.js?ex=6a4946f5&is=6a47f575&hm=d7a7451c1465bdb9e393c266fcc743d21d3a2db05831894f937141d9e175f115&",
           "contentType": "text/javascript; charset=utf-8"
         },
         {
@@ -57,7 +57,7 @@
       "releaseUrl": "https://github.com/kyso1/KysoTheme/releases/tag/v3.5.1",
       "releaseTag": "v3.5.1",
       "releaseName": "v3.5.1",
-      "image": "https://media.discordapp.net/attachments/1240541534663868426/1240541534869262376/image.png?ex=6a489ed6&is=6a474d56&hm=627b3c200fcb592cccb27cd30766378da7636b01244f99bf7f79905217dc4353&",
+      "image": "https://media.discordapp.net/attachments/1240541534663868426/1240541534869262376/image.png?ex=6a494796&is=6a47f616&hm=91a9de6e5bd195b9487e5c6afd574b53903449b8b9cffb5aab2fc828ed7d76da&",
       "author": {
         "name": "kyso1",
         "avatar": "https://avatars.githubusercontent.com/u/128049220?v=4",
@@ -322,7 +322,7 @@
       "releaseUrl": "https://github.com/Elaina69/Elaina-theme/releases/tag/v4.5.1",
       "releaseTag": "v4.5.1",
       "releaseName": "",
-      "image": "https://media.discordapp.net/attachments/1373696348284653628/1373696348653617315/fh98jYI.png?ex=6a4889ab&is=6a47382b&hm=c8e216ab283ee3939469a6d2d6f8843c1b988382409e6bafb6d5ec5e2eefa31b&",
+      "image": "https://media.discordapp.net/attachments/1373696348284653628/1373696348653617315/fh98jYI.png?ex=6a49326b&is=6a47e0eb&hm=9bf0a4f9386d5ab7e322f99aceb444e6bf2ce3dd85e3babc99c618e605dab91e&",
       "author": {
         "name": "Elaina69",
         "avatar": "https://avatars.githubusercontent.com/u/94338907?v=4",
@@ -692,7 +692,7 @@
       "name": "Spotify Controller - In-game playback controls",
       "description": "A lightweight Spotify controller integrated directly into the League of Legends client using Pengu Loader. This project consists of two parts: a local Node.js authentication server and a client-side plugin.",
       "repo": "https://github.com/GogoChad/spotify-media-player",
-      "image": "https://media.discordapp.net/attachments/1499090537427243129/1499090537792143492/image.png?ex=6a48911b&is=6a473f9b&hm=e8f130ae08cccef1335630d9b533d4697f159526edf71ac60f4085bead8fda99&",
+      "image": "https://media.discordapp.net/attachments/1499090537427243129/1499090537792143492/image.png?ex=6a4939db&is=6a47e85b&hm=a831db1b79cef11bc758a34fc9290c0b52fa6c043605e7c11971fb2f05d2e9e0&",
       "author": {
         "name": "GogoChad",
         "avatar": "https://avatars.githubusercontent.com/u/133820564?v=4",
@@ -1457,7 +1457,7 @@
         {
           "name": "oldMasteryIcons.js",
           "size": 9545,
-          "downloadUrl": "https://cdn.discordapp.com/attachments/1414553304259760148/1414659601575579780/oldMasteryIcons.js?ex=6a48962c&is=6a4744ac&hm=13c9ea695846df026b2662557904abc42b61a0203b7fec251cf0713a0ca4b336&",
+          "downloadUrl": "https://cdn.discordapp.com/attachments/1414553304259760148/1414659601575579780/oldMasteryIcons.js?ex=6a493eec&is=6a47ed6c&hm=9d847951469fe22319167ee6e674ab11b1410da6fc9fe782fd5e9cac6ccfb568&",
           "contentType": "application/javascript; charset=utf-8"
         }
       ],
