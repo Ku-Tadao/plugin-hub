@@ -1,7 +1,7 @@
 {
   "name": "Pengu Community Store registry",
   "version": 1,
-  "generatedAt": "2026-07-10T15:56:24.184Z",
+  "generatedAt": "2026-07-10T17:47:47.085Z",
   "source": {
     "guildId": "1069483280438673418",
     "forums": [
@@ -21,7 +21,7 @@
       "kind": "plugins",
       "name": "No close client message",
       "description": "This plugin automatically confirms the League Client exit dialog. - Source code: Cooming soon, i'm lazy - Download: Github url cooming soon, i'm lazy",
-      "image": "https://media.discordapp.net/attachments/1520847793256927293/1520847793411981413/57nwhtn.png?ex=6a51d8a1&is=6a508721&hm=930b5b9385dec7ff2447a9897b7272119898bcec0fa0268686905b178af41832&",
+      "image": "https://media.discordapp.net/attachments/1520847793256927293/1520847793411981413/57nwhtn.png?ex=6a528161&is=6a512fe1&hm=cc76b9dd6718263438b2481e137a0cefb7cf06ee631f88932ba94b898c297aa3&",
       "author": {
         "name": "Elaina"
       },
@@ -35,7 +35,7 @@
         {
           "name": "NoCloseMessage.js",
           "size": 3475,
-          "downloadUrl": "https://cdn.discordapp.com/attachments/1520847793256927293/1520847873980371034/NoCloseMessage.js?ex=6a51d8b5&is=6a508735&hm=0a89d7b0d692c8c0971331fb018cbcd80cafa26b0e84f152d82f895489c73fe3&",
+          "downloadUrl": "https://cdn.discordapp.com/attachments/1520847793256927293/1520847873980371034/NoCloseMessage.js?ex=6a528175&is=6a512ff5&hm=38882ae344926b067fb7e1d1058e80bb744c563233a872e6ee12fd789abd890a&",
           "contentType": "text/javascript; charset=utf-8"
         },
         {
@@ -322,7 +322,7 @@
       "releaseUrl": "https://github.com/Elaina69/Elaina-theme/releases/tag/v4.5.1",
       "releaseTag": "v4.5.1",
       "releaseName": "",
-      "image": "https://media.discordapp.net/attachments/1373696348284653628/1373696348653617315/fh98jYI.png?ex=6a51c42b&is=6a5072ab&hm=ed66fb27ed39402e1e9bfca7b8d9008380386f815b87eae6400cac7ba02d5065&",
+      "image": "https://media.discordapp.net/attachments/1373696348284653628/1373696348653617315/fh98jYI.png?ex=6a526ceb&is=6a511b6b&hm=15bb9c3a59caffbf7e6fe7c66cc53a7e125799a6ff1e11a595d117da0959cebb&",
       "author": {
         "name": "Elaina69",
         "avatar": "https://avatars.githubusercontent.com/u/94338907?v=4",
@@ -522,7 +522,7 @@
       "releaseUrl": "https://github.com/Yimikami/pengu-plugins/releases/tag/PenguFamily_v0.1.0",
       "releaseTag": "PenguFamily_v0.1.0",
       "releaseName": "Pengu Family v0.1.0",
-      "image": "https://media.discordapp.net/attachments/1411366905247170621/1411743618388983931/image.png?ex=6a51c0f3&is=6a506f73&hm=1b0a6dddaf64d653bad747461c1cb99c3d8acc1a0155098b75fa4197367421e4&",
+      "image": "https://media.discordapp.net/attachments/1411366905247170621/1411743618388983931/image.png?ex=6a5269b3&is=6a511833&hm=c0063ccd72de8ba1cfe227e6af2c9fc5f55b4b14228efd50d47c8c4258a03f11&",
       "author": {
         "name": "Yimikami",
         "avatar": "https://avatars.githubusercontent.com/u/39545057?v=4",
@@ -692,7 +692,7 @@
       "name": "Spotify Controller - In-game playback controls",
       "description": "A lightweight Spotify controller integrated directly into the League of Legends client using Pengu Loader. This project consists of two parts: a local Node.js authentication server and a client-side plugin.",
       "repo": "https://github.com/GogoChad/spotify-media-player",
-      "image": "https://media.discordapp.net/attachments/1499090537427243129/1499090537792143492/image.png?ex=6a51cb9b&is=6a507a1b&hm=c4bd2c1e11ba5ec5da156bbf9d54e25767bbc95285fd54917c04ab7f6e54b5ea&",
+      "image": "https://media.discordapp.net/attachments/1499090537427243129/1499090537792143492/image.png?ex=6a52745b&is=6a5122db&hm=08dd7b95cf8705b76e7cd2473e10e484340d8990619be80d2bfdec02109d7918&",
       "author": {
         "name": "GogoChad",
         "avatar": "https://avatars.githubusercontent.com/u/133820564?v=4",
@@ -1446,13 +1446,13 @@
         {
           "name": "oldMasteryIcons.js",
           "size": 11497,
-          "downloadUrl": "https://cdn.discordapp.com/attachments/1414553304259760148/1414642890965254326/oldMasteryIcons.js?ex=6a51c11c&is=6a506f9c&hm=64b6521e6a4ebdfa294fcbdfd28628717f224b0e82b3f1e419f7ed78c3f67503&",
+          "downloadUrl": "https://cdn.discordapp.com/attachments/1414553304259760148/1414642890965254326/oldMasteryIcons.js?ex=6a5269dc&is=6a51185c&hm=6864849821038ec67604895314b024dd3555f756c5cf1f7cf8c3291cb7b0f4df&",
           "contentType": "application/javascript; charset=utf-8"
         },
         {
           "name": "oldMasteryIcons.js",
           "size": 9545,
-          "downloadUrl": "https://cdn.discordapp.com/attachments/1414553304259760148/1414659601575579780/oldMasteryIcons.js?ex=6a51d0ac&is=6a507f2c&hm=6fca0344a8a2f2e4f3beeebf96fc67e4f52a95cca9407d1d4cf09d1f78ea64d7&",
+          "downloadUrl": "https://cdn.discordapp.com/attachments/1414553304259760148/1414659601575579780/oldMasteryIcons.js?ex=6a52796c&is=6a5127ec&hm=1811ae6f7fc183d6ba3d982973e8d10a35ff1cd9fa2ed7e8bec623aeb54bc7bf&",
           "contentType": "application/javascript; charset=utf-8"
         }
       ],
@@ -1643,7 +1643,7 @@
       "name": "ScarletRed",
       "description": "ScarletRed theme ( Original from ElainaV3) for Pengu loader",
       "repo": "https://github.com/R3mia/ScarletRed",
-      "image": "https://media.discordapp.net/attachments/1183799859342483476/1183799859707379803/image.png?ex=6a51bf48&is=6a506dc8&hm=f8a84df0e06acd89c88ed8c10caf880f60a8780eabb754a6e5772b85f0875811&",
+      "image": "https://media.discordapp.net/attachments/1183799859342483476/1183799859707379803/image.png?ex=6a526808&is=6a511688&hm=db383edf3f620e033644ddfd47f6fc426d783dcf549c17068b2e682ab4601e73&",
       "author": {
         "name": "R3mia",
         "avatar": "https://avatars.githubusercontent.com/u/72246166?v=4",
