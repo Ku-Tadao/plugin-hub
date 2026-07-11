@@ -1,6 +1,6 @@
 name: Pengu Community Store registry
 version: 1
-generatedAt: 2026-07-11T16:57:30.765Z
+generatedAt: 2026-07-11T17:56:47.439Z
 source:
   guildId: "1069483280438673418"
   forums:
@@ -35,7 +35,7 @@ listings:
     description: "This plugin automatically confirms the League Client exit dialog.
       - Source code: Cooming soon, i'm lazy - Download: Github url cooming soon,
       i'm lazy"
-    image: https://media.discordapp.net/attachments/1520847793256927293/1520847793411981413/57nwhtn.png?ex=6a532a21&is=6a51d8a1&hm=024be20dfc06562be6816537b2306f7b56f2b505a26bbcfb321fd9efbf5faa5a&
+    image: https://media.discordapp.net/attachments/1520847793256927293/1520847793411981413/57nwhtn.png?ex=6a53d2e1&is=6a528161&hm=3ad5da6cbc52ec61f7cdc72af7898918f14c099b3e969c94d07c1ddb9358a931&
     author:
       name: Elaina
     tags:
@@ -46,7 +46,7 @@ listings:
     assets:
       - name: NoCloseMessage.js
         size: 3475
-        downloadUrl: https://cdn.discordapp.com/attachments/1520847793256927293/1520847873980371034/NoCloseMessage.js?ex=6a532a35&is=6a51d8b5&hm=1297277b60d925673e5daadc75b4051ac96c0c3487541bf8237641954a964ecb&
+        downloadUrl: https://cdn.discordapp.com/attachments/1520847793256927293/1520847873980371034/NoCloseMessage.js?ex=6a53d2f5&is=6a528175&hm=5a4cd239f9975f09366eff6e382d093b3e4bae5479ea2bd38bd642443342e545&
         contentType: text/javascript; charset=utf-8
       - name: NoCloseMessage.js
         size: 4163
@@ -91,7 +91,7 @@ listings:
     releaseUrl: https://github.com/kyso1/KysoTheme/releases/tag/v3.5.1
     releaseTag: v3.5.1
     releaseName: v3.5.1
-    image: https://media.discordapp.net/attachments/1240541534663868426/1240541534869262376/image.png?ex=6a532ad6&is=6a51d956&hm=cdf16d097598b6c0b5cedbc185c067bed693a796a6fb8d9499a7ffe936aac32c&
+    image: https://media.discordapp.net/attachments/1240541534663868426/1240541534869262376/image.png?ex=6a53d396&is=6a528216&hm=b12d30fc65036ba599b73ab38e7831b45d2f55e439b555d449935f22256a9ff2&
     author:
       name: kyso1
       avatar: https://avatars.githubusercontent.com/u/128049220?v=4
@@ -1588,7 +1588,7 @@ listings:
         contentType: application/javascript; charset=utf-8
       - name: oldMasteryIcons.js
         size: 9545
-        downloadUrl: https://cdn.discordapp.com/attachments/1414553304259760148/1414659601575579780/oldMasteryIcons.js?ex=6a53222c&is=6a51d0ac&hm=360c204f3315192ea5b71ee880d06185293f0b4c95fa4f2148c28970777b9181&
+        downloadUrl: https://cdn.discordapp.com/attachments/1414553304259760148/1414659601575579780/oldMasteryIcons.js?ex=6a53caec&is=6a52796c&hm=7430c39915df1564bbf925f622ceb614b1b877a2b31f22cbdd3d2138408cc205&
         contentType: application/javascript; charset=utf-8
     enriched: true
   - id: "1322710156173250601"
