@@ -1,6 +1,6 @@
 name: Pengu Community Store registry
 version: 1
-generatedAt: 2026-07-11T15:30:58.963Z
+generatedAt: 2026-07-11T16:57:30.765Z
 source:
   guildId: "1069483280438673418"
   forums:
@@ -419,7 +419,7 @@ listings:
     releaseUrl: https://github.com/Elaina69/Elaina-theme/releases/tag/v4.5.1
     releaseTag: v4.5.1
     releaseName: ""
-    image: https://media.discordapp.net/attachments/1373696348284653628/1373696348653617315/fh98jYI.png?ex=6a5315ab&is=6a51c42b&hm=1af3cd5938c015ea51c4d2e40abb0d8b5c9463f42a90ef894e3558f5a6122c7e&
+    image: https://media.discordapp.net/attachments/1373696348284653628/1373696348653617315/fh98jYI.png?ex=6a53be6b&is=6a526ceb&hm=31e0e7e86d7621ea106bf7f14e92970b610ac68c7e2a7b62e18a91b865468aad&
     author:
       name: Elaina69
       avatar: https://avatars.githubusercontent.com/u/94338907?v=4
@@ -621,7 +621,7 @@ listings:
     releaseUrl: https://github.com/Yimikami/pengu-plugins/releases/tag/PenguFamily_v0.1.0
     releaseTag: PenguFamily_v0.1.0
     releaseName: Pengu Family v0.1.0
-    image: https://media.discordapp.net/attachments/1411366905247170621/1411743618388983931/image.png?ex=6a531273&is=6a51c0f3&hm=238ae2118a4e0f8bf7c6cb704ff7775ee6b3797b66efb5a0f67ca69a318e96c4&
+    image: https://media.discordapp.net/attachments/1411366905247170621/1411743618388983931/image.png?ex=6a53bb33&is=6a5269b3&hm=d7e3cb4a44c66321a90ce1ae27ed1c1d42a185645c0b05e2a7bcdeae7b3c570c&
     author:
       name: Yimikami
       avatar: https://avatars.githubusercontent.com/u/39545057?v=4
@@ -720,7 +720,7 @@ listings:
       i think was looking the best in the whole rank history! It was made by
       <@1246591176791035946 he helped me doing it for myself so i wanted to give
       him the credits for it + share it with you guys cuz u might wanna use it!
-    image: https://media.discordapp.net/attachments/1414636794124832851/1414636794858700900/oldborders.png?ex=6a530cee&is=6a51bb6e&hm=fcfb3fc2c2db961cec5b5973a4d67aab1a15520ae8f25061cc96d4fe6b0ae5d2&
+    image: https://media.discordapp.net/attachments/1414636794124832851/1414636794858700900/oldborders.png?ex=6a53b5ae&is=6a52642e&hm=55562b6af38dd23acfc082f04110444e5a27398b7a48a6db197210a2b6a5376f&
     author:
       name: Samuraj
     tags:
@@ -732,7 +732,7 @@ listings:
     assets:
       - name: s9-ranked-borders.zip
         size: 945105
-        downloadUrl: https://cdn.discordapp.com/attachments/1414636794124832851/1414636795714338886/s9-ranked-borders.zip?ex=6a530cee&is=6a51bb6e&hm=b3a7ac97a611671b9649e6d6ab3bd65cc26eeb892b291cf7a7f64c7c259def16&
+        downloadUrl: https://cdn.discordapp.com/attachments/1414636794124832851/1414636795714338886/s9-ranked-borders.zip?ex=6a53b5ae&is=6a52642e&hm=1a5f217ad380c940e8004741fd33dd31c19933967d69b7793adbb01fd33379b9&
         contentType: application/zip
     enriched: true
   - id: "1499358177052069899"
@@ -767,7 +767,7 @@ listings:
       League of Legends client using Pengu Loader. This project consists of two
       parts: a local Node.js authentication server and a client-side plugin."
     repo: https://github.com/GogoChad/spotify-media-player
-    image: https://media.discordapp.net/attachments/1499090537427243129/1499090537792143492/image.png?ex=6a531d1b&is=6a51cb9b&hm=a18c1ef82850cbe4f92a24e6dcbb29d010bb896f9d01b525608eea7dff414fd6&
+    image: https://media.discordapp.net/attachments/1499090537427243129/1499090537792143492/image.png?ex=6a53c5db&is=6a52745b&hm=5dd857c43b5f846e0d8c0e1277ff1f4b6cd7ebb92b6225a7454730f4ab9fff1e&
     author:
       name: GogoChad
       avatar: https://avatars.githubusercontent.com/u/133820564?v=4
@@ -1584,7 +1584,7 @@ listings:
         contentType: application/javascript; charset=utf-8
       - name: oldMasteryIcons.js
         size: 11497
-        downloadUrl: https://cdn.discordapp.com/attachments/1414553304259760148/1414642890965254326/oldMasteryIcons.js?ex=6a53129c&is=6a51c11c&hm=b98287ccba11631d5f5d39100e9fb570593a4de95f83b78d23269314bc41745a&
+        downloadUrl: https://cdn.discordapp.com/attachments/1414553304259760148/1414642890965254326/oldMasteryIcons.js?ex=6a53bb5c&is=6a5269dc&hm=e7f88e91d85a821dcc4825ca6795912984af9b4df4ae3059aaefc5ec49f0d97d&
         contentType: application/javascript; charset=utf-8
       - name: oldMasteryIcons.js
         size: 9545
@@ -1747,7 +1747,7 @@ listings:
     name: ScarletRed
     description: ScarletRed theme ( Original from ElainaV3) for Pengu loader
     repo: https://github.com/R3mia/ScarletRed
-    image: https://media.discordapp.net/attachments/1183799859342483476/1183799859707379803/image.png?ex=6a5310c8&is=6a51bf48&hm=911a0cb6f42b84de5ad5ac51c4834c5e2420e6fa2d89252f1bfab6b274d4951c&
+    image: https://media.discordapp.net/attachments/1183799859342483476/1183799859707379803/image.png?ex=6a53b988&is=6a526808&hm=79fb8e03835e679231b2210e5338e2639e1061177a306722b902794c702ede64&
     author:
       name: R3mia
       avatar: https://avatars.githubusercontent.com/u/72246166?v=4
@@ -1878,7 +1878,7 @@ listings:
     releaseUrl: https://github.com/nomi-san/ahri-theme/releases/tag/240221
     releaseTag: "240221"
     releaseName: ahri-theme-240221
-    image: https://media.discordapp.net/attachments/1095736862187991232/1095736862741635283/68747470733a2f2f692e696d6775722e636f6d2f74617a504e484e2e706e67.png?ex=6a530e39&is=6a51bcb9&hm=1a941342925023f60d1ad01f7e5eb623815a9818a3eb5d42c22c4f2268a32a57&
+    image: https://media.discordapp.net/attachments/1095736862187991232/1095736862741635283/68747470733a2f2f692e696d6775722e636f6d2f74617a504e484e2e706e67.png?ex=6a53b6f9&is=6a526579&hm=0abbaca5ca49463fcdde6210ff16a7071afd3d59c71896642569e394951904c2&
     author:
       name: nomi-san
       avatar: https://avatars.githubusercontent.com/u/38210249?v=4
