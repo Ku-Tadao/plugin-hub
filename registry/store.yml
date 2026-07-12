@@ -1,6 +1,6 @@
 name: Pengu Community Store registry
 version: 1
-generatedAt: 2026-07-12T04:51:52.142Z
+generatedAt: 2026-07-12T07:28:32.948Z
 source:
   guildId: "1069483280438673418"
   forums:
@@ -35,7 +35,7 @@ listings:
     description: "This plugin automatically confirms the League Client exit dialog.
       - Source code: Cooming soon, i'm lazy - Download: Github url cooming soon,
       i'm lazy"
-    image: https://media.discordapp.net/attachments/1520847793256927293/1520847793411981413/57nwhtn.png?ex=6a53d2e1&is=6a528161&hm=3ad5da6cbc52ec61f7cdc72af7898918f14c099b3e969c94d07c1ddb9358a931&
+    image: https://media.discordapp.net/attachments/1520847793256927293/1520847793411981413/57nwhtn.png?ex=6a547ba1&is=6a532a21&hm=56aff67b04e0595d25a447f09162d5682778babfed9e23f95395ab71493a4503&
     author:
       name: Elaina
     tags:
@@ -46,11 +46,11 @@ listings:
     assets:
       - name: NoCloseMessage.js
         size: 3475
-        downloadUrl: https://cdn.discordapp.com/attachments/1520847793256927293/1520847873980371034/NoCloseMessage.js?ex=6a53d2f5&is=6a528175&hm=5a4cd239f9975f09366eff6e382d093b3e4bae5479ea2bd38bd642443342e545&
+        downloadUrl: https://cdn.discordapp.com/attachments/1520847793256927293/1520847873980371034/NoCloseMessage.js?ex=6a547bb5&is=6a532a35&hm=0b4d6928aca51072842b2670106302a0851def1a821b084adcceece1eed46ea0&
         contentType: text/javascript; charset=utf-8
       - name: NoCloseMessage.js
         size: 4163
-        downloadUrl: https://cdn.discordapp.com/attachments/1520847793256927293/1520869718758654002/NoCloseMessage.js?ex=6a53e74d&is=6a5295cd&hm=d528538287e820a3ed586ffcf4c89b5eb56d740a37f91421d37ba6fd48b640f7&
+        downloadUrl: https://cdn.discordapp.com/attachments/1520847793256927293/1520869718758654002/NoCloseMessage.js?ex=6a54900d&is=6a533e8d&hm=c1712579cecfe0e4248f27da600c459fe8e742fd2cd267604b15f5181c820b1a&
         contentType: text/javascript; charset=utf-8
     enriched: true
   - id: "1240541534663868426"
@@ -91,7 +91,7 @@ listings:
     releaseUrl: https://github.com/kyso1/KysoTheme/releases/tag/v3.5.1
     releaseTag: v3.5.1
     releaseName: v3.5.1
-    image: https://media.discordapp.net/attachments/1240541534663868426/1240541534869262376/image.png?ex=6a53d396&is=6a528216&hm=b12d30fc65036ba599b73ab38e7831b45d2f55e439b555d449935f22256a9ff2&
+    image: https://media.discordapp.net/attachments/1240541534663868426/1240541534869262376/image.png?ex=6a547c56&is=6a532ad6&hm=f2e9e59cfbd1e527fb619aec12488b0b096f7d785ea2a1650012eff983eb2986&
     author:
       name: kyso1
       avatar: https://avatars.githubusercontent.com/u/128049220?v=4
@@ -275,7 +275,7 @@ listings:
       - Fun
       - Enhancement
     discordUrl: https://discord.com/channels/1069483280438673418/1512550218044805150/1512550218044805150
-    upvotes: 24
+    upvotes: 25
     updatedAt: 2026-06-16T04:37:54Z
     assets:
       - name: Snooze-Manager.zip
@@ -1326,7 +1326,7 @@ listings:
     assets:
       - name: Hide_Nonsense2.js
         size: 8079
-        downloadUrl: https://cdn.discordapp.com/attachments/1395902555095171225/1440040589490917507/Hide_Nonsense2.js?ex=6a53d7cf&is=6a52864f&hm=01337f48271a47ea1406537fc09b6f475d065ecc7abab36a50ca2945e2c97982&
+        downloadUrl: https://cdn.discordapp.com/attachments/1395902555095171225/1440040589490917507/Hide_Nonsense2.js?ex=6a54808f&is=6a532f0f&hm=a102146aa8076f401e59548d43949a65cd78508da14dd743011f6f23730a524f&
         contentType: text/javascript; charset=utf-8
     enriched: true
   - id: "1476888210436001904"
@@ -1436,7 +1436,7 @@ listings:
     name: Balaclava Plugins! [13/05/2026]
     description: My plugins for Pengu Loader! :)
     repo: https://github.com/controlado/pengu-plugins
-    image: https://media.discordapp.net/attachments/1109009446023217193/1110094360390946908/ezgif-2-9ed966a32e.png?ex=6a53df30&is=6a528db0&hm=71e0af99ba6636de40af6b0311bffc5b46b087ce9c7f2de187171fc6d0fe06f8&
+    image: https://media.discordapp.net/attachments/1109009446023217193/1110094360390946908/ezgif-2-9ed966a32e.png?ex=6a5487f0&is=6a533670&hm=d5209ede916a68a5438bfba504f266aea1854ab39b2dbd56c01e1e65e3c84bc0&
     author:
       name: controlado
       avatar: https://avatars.githubusercontent.com/u/71716568?v=4
@@ -1588,7 +1588,7 @@ listings:
         contentType: application/javascript; charset=utf-8
       - name: oldMasteryIcons.js
         size: 9545
-        downloadUrl: https://cdn.discordapp.com/attachments/1414553304259760148/1414659601575579780/oldMasteryIcons.js?ex=6a53caec&is=6a52796c&hm=7430c39915df1564bbf925f622ceb614b1b877a2b31f22cbdd3d2138408cc205&
+        downloadUrl: https://cdn.discordapp.com/attachments/1414553304259760148/1414659601575579780/oldMasteryIcons.js?ex=6a5473ac&is=6a53222c&hm=ae793832582f82edba6ab2f66e5e4be26a38f59547046d312fe86829c9accf09&
         contentType: application/javascript; charset=utf-8
     enriched: true
   - id: "1322710156173250601"
@@ -1975,7 +1975,7 @@ listings:
     releaseUrl: https://github.com/oMaikeru/PureBlack-Theme/releases/tag/v0.4
     releaseTag: v0.4
     releaseName: v0.4
-    image: https://media.discordapp.net/attachments/1107021081207914566/1107021081442783242/black-theme.PNG?ex=6a53e5b9&is=6a529439&hm=c5fcdc02c123d0039ae8709c829c1f794c37caf2a1405f8c4de3937ab7e4d244&
+    image: https://media.discordapp.net/attachments/1107021081207914566/1107021081442783242/black-theme.PNG?ex=6a548e79&is=6a533cf9&hm=40ee185d1a4bb0a523b94d3a0389a66d6d77730a5179555446be83d9eff0a88d&
     author:
       name: oMaikeru
       avatar: https://avatars.githubusercontent.com/u/76801149?v=4
