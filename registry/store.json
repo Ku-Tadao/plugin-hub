@@ -1,7 +1,7 @@
 {
   "name": "Pengu Community Store registry",
   "version": 1,
-  "generatedAt": "2026-07-12T17:10:16.194Z",
+  "generatedAt": "2026-07-12T18:27:24.603Z",
   "source": {
     "guildId": "1069483280438673418",
     "forums": [
@@ -48,7 +48,7 @@
       "kind": "plugins",
       "name": "No close client message",
       "description": "This plugin automatically confirms the League Client exit dialog. - Source code: Cooming soon, i'm lazy - Download: Github url cooming soon, i'm lazy",
-      "image": "https://media.discordapp.net/attachments/1520847793256927293/1520847793411981413/57nwhtn.png?ex=6a547ba1&is=6a532a21&hm=56aff67b04e0595d25a447f09162d5682778babfed9e23f95395ab71493a4503&",
+      "image": "https://media.discordapp.net/attachments/1520847793256927293/1520847793411981413/57nwhtn.png?ex=6a552461&is=6a53d2e1&hm=b416ff7d9b1b752f58f641696397854bbe186d090b54941d0f1f98dee69731b3&",
       "author": {
         "name": "Elaina"
       },
@@ -62,7 +62,7 @@
         {
           "name": "NoCloseMessage.js",
           "size": 3475,
-          "downloadUrl": "https://cdn.discordapp.com/attachments/1520847793256927293/1520847873980371034/NoCloseMessage.js?ex=6a547bb5&is=6a532a35&hm=0b4d6928aca51072842b2670106302a0851def1a821b084adcceece1eed46ea0&",
+          "downloadUrl": "https://cdn.discordapp.com/attachments/1520847793256927293/1520847873980371034/NoCloseMessage.js?ex=6a552475&is=6a53d2f5&hm=cf6292a2fb95d8a28e1485a1e1b1d2475651a84c8d2a00d016141c45fa9f99c3&",
           "contentType": "text/javascript; charset=utf-8"
         },
         {
@@ -84,7 +84,7 @@
       "releaseUrl": "https://github.com/kyso1/KysoTheme/releases/tag/v3.5.1",
       "releaseTag": "v3.5.1",
       "releaseName": "v3.5.1",
-      "image": "https://media.discordapp.net/attachments/1240541534663868426/1240541534869262376/image.png?ex=6a547c56&is=6a532ad6&hm=f2e9e59cfbd1e527fb619aec12488b0b096f7d785ea2a1650012eff983eb2986&",
+      "image": "https://media.discordapp.net/attachments/1240541534663868426/1240541534869262376/image.png?ex=6a552516&is=6a53d396&hm=d7bdd98fe32d04b36a7c3b5d6c91ecf28635efee2b369faa176aed3307dbd52b&",
       "author": {
         "name": "kyso1",
         "avatar": "https://avatars.githubusercontent.com/u/128049220?v=4",
@@ -1026,7 +1026,7 @@
         "Sound"
       ],
       "discordUrl": "https://discord.com/channels/1069483280438673418/1524137061119037490/1524137061119037490",
-      "upvotes": 3,
+      "upvotes": 4,
       "updatedAt": "2026-03-24T12:55:41Z",
       "assets": [
         {
@@ -1175,7 +1175,7 @@
         {
           "name": "Hide_Nonsense2.js",
           "size": 8079,
-          "downloadUrl": "https://cdn.discordapp.com/attachments/1395902555095171225/1440040589490917507/Hide_Nonsense2.js?ex=6a54808f&is=6a532f0f&hm=a102146aa8076f401e59548d43949a65cd78508da14dd743011f6f23730a524f&",
+          "downloadUrl": "https://cdn.discordapp.com/attachments/1395902555095171225/1440040589490917507/Hide_Nonsense2.js?ex=6a55294f&is=6a53d7cf&hm=4c4d43cc242c58e48d0cde08387c793241a5843b9cafbede20015ab817780a8d&",
           "contentType": "text/javascript; charset=utf-8"
         }
       ],
@@ -1452,7 +1452,7 @@
         {
           "name": "oldMasteryIcons.js",
           "size": 9545,
-          "downloadUrl": "https://cdn.discordapp.com/attachments/1414553304259760148/1414659601575579780/oldMasteryIcons.js?ex=6a5473ac&is=6a53222c&hm=ae793832582f82edba6ab2f66e5e4be26a38f59547046d312fe86829c9accf09&",
+          "downloadUrl": "https://cdn.discordapp.com/attachments/1414553304259760148/1414659601575579780/oldMasteryIcons.js?ex=6a551c6c&is=6a53caec&hm=75e8b2f425adc5d2f4f4b83c9d36b9e47dc53f6737267a84bf911a5d7d2e764b&",
           "contentType": "application/javascript; charset=utf-8"
         }
       ],
