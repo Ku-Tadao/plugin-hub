@@ -1,7 +1,7 @@
 {
   "name": "Pengu Community Store registry",
   "version": 1,
-  "generatedAt": "2026-07-13T09:54:14.817Z",
+  "generatedAt": "2026-07-13T12:30:42.631Z",
   "source": {
     "guildId": "1069483280438673418",
     "forums": [
@@ -16,6 +16,41 @@
     ]
   },
   "listings": [
+    {
+      "id": "1512550218044805150",
+      "kind": "plugins",
+      "name": "[v1.0.2] Snooze-Manager (A Plug-in Collection)",
+      "description": "Snooze-Manager is a modular plug-in manager for Pengu Loader. Each QoL feature is implemented as a separate module, and the manager loads them together while keeping configuration consolidated. Everything is built to be lightweight and event driven: no embedded React application, no bloat, no constant polling of the client for changes and so on. Some features are inspired by earlier work, but the implementation here is independent and expanded to offer more than a straight copy.",
+      "details": "## Release Changelog\r\n<img width=\"4670\" height=\"1710\" alt=\"image\" src=\"https://github.com/user-attachments/assets/40c57079-6a7f-4b33-8997-a01b8de1d95f\" />\r\n\r\n\r\n### New Features\r\n\r\n- **Skin Blacklist (Whale Helper)** - Block specific skins and chromas from appearing in champion select. Choose between \"Hide Completely\" or \"Show as Unowned\" mode. Full editor UI with champion search.\r\n- **Skin Randomizer (Whale Helper)** - Dice button in champion select that picks a random owned skin Also supports chromas.\r\n- **Rank Display (Player Analysis)** - Player Solo/Flex ranks now shown on player lookup view, in champion select, and during live game analysis. Includes team average rank labels.\r\n- **Role Detection & Top Champions (Player Analysis)** - Live game view now shows each player's assigned role and their most-played champions with win rate badges.\r\n- **Prioritize by Contribution (Auto Honor)** - Auto-honor can now automatically select the teammate with the best performance score first.\r\n- **KDA & Score on Honor Cards (Auto Honor)** - Player stats can now be displayed on the honor voting screen.\r\n- **Lock Timing Modes (Auto Lock Champion)** - Choose to lock your champion \"Before turn ends\" or \"After turn starts,\" with a configurable hover delay.\r\n- **Exit on Dodge (Auto Accept Match)** - New option to exit queue if a queue declines or champion select dodge occurs.\r\n- **Fullscreen Mode (Client Window Tweaks)** - Client Window Tweaks now supports fullscreen mode with F11 toggle.\r\n- **Include All Game Modes (Player Analysis)** - By default the module now shows \"active\" queues instead of the full list. Added new toggle to show all queue types in the player lookup mode filter dropdown.\r\n- **Welcome Modal** - Welcome screen shown on first launch highlighting features and main menu hotkey.\r\n- **Settings Tab** - New settings screen with menu custom hotkey capture, auto-update checks, debug logging toggle, and individual module visibility management with the ability to completely disable a module.\r\n- **\"Me\" Button (Player Lookup)** - Quick self-search button added to Player Lookup.\r\n- **Name Spoofer** - New experimental module that locally spoofs your displayed Riot ID (cosmetic only). Customize your own name, friend names, champ-select names, and more. (Recommended: disable in settings if no plan to use)\r\n\r\n### Improvements\r\n\r\n- **Customizable Hotkey (Snooze-Manager)** - Menu hotkey can now be customized from the Settings tab.\r\n- **Configurable Vote Delay (Auto Honor)** - Delay between honor votes is now configurable.\r\n- **Improved Player Lookup UI**\r\n- **Cleaner Champ-Select Stats Layout (Player Analysis)**",
+      "repo": "https://github.com/ReformedDoge/Snooze-Manager",
+      "releaseUrl": "https://github.com/ReformedDoge/Snooze-Manager/releases/tag/v1.0.2",
+      "releaseTag": "v1.0.2",
+      "releaseName": "v1.0.2 - Settings Tab, Player Analysis UI Overhaul, Rank Display, Skin Blacklist, Skin Randomizer, Champion Lock Timing Modes, Fullscreen Mode, Honor Improvements, Show stats on honor card, Auto-Exit queue on Dodge or decline, Name Spoofer & More",
+      "image": "https://media.discordapp.net/attachments/1512550218044805150/1512550376509931742/6kkx030.png?ex=6a55f00f&is=6a549e8f&hm=31feb5eadd8f7603530daa5df2dce9663cfee1d3074b7340188a27d259d648e1&",
+      "author": {
+        "name": "ReformedDoge",
+        "avatar": "https://avatars.githubusercontent.com/u/39759213?v=4",
+        "github": "ReformedDoge"
+      },
+      "tags": [
+        "Utility",
+        "Misc",
+        "Fun",
+        "Enhancement"
+      ],
+      "discordUrl": "https://discord.com/channels/1069483280438673418/1512550218044805150/1512550218044805150",
+      "upvotes": 25,
+      "updatedAt": "2026-07-13T11:06:37Z",
+      "assets": [
+        {
+          "name": "Snooze-Manager.zip",
+          "size": 191317,
+          "downloadUrl": "https://github.com/ReformedDoge/Snooze-Manager/releases/download/v1.0.2/Snooze-Manager.zip",
+          "contentType": "application/x-zip-compressed"
+        }
+      ],
+      "enriched": true
+    },
     {
       "id": "1462451902028578940",
       "kind": "plugins",
@@ -37,7 +72,7 @@
         {
           "name": "index.js",
           "size": 4929,
-          "downloadUrl": "https://cdn.discordapp.com/attachments/1462451902028578940/1465476858241093662/index.js?ex=6a5569ae&is=6a54182e&hm=43015e9d445944bc45da117ce9e46a732a2950b5ac86a21606e2f8760df227d7&",
+          "downloadUrl": "https://cdn.discordapp.com/attachments/1462451902028578940/1465476858241093662/index.js?ex=6a56126e&is=6a54c0ee&hm=a4613c91913796450821bd0dd8d9f978467c0acd388e59ef262b3bbf5d8cc1ab&",
           "contentType": "text/javascript; charset=utf-8"
         }
       ],
@@ -152,7 +187,7 @@
         {
           "name": "activity_center_toggle.js",
           "size": 10156,
-          "downloadUrl": "https://cdn.discordapp.com/attachments/1396060178545119263/1401719798949216316/activity_center_toggle.js?ex=6a557f4a&is=6a542dca&hm=e8c674ff6c72e828ed640bff86f1305607b0417ad63e6ce25483a45e3de30a80&",
+          "downloadUrl": "https://cdn.discordapp.com/attachments/1396060178545119263/1401719798949216316/activity_center_toggle.js?ex=6a56280a&is=6a54d68a&hm=9d077db1ba8b47220be986e349cd1901e3dd1e9fb6f3f1cd4e4902c07b3d90dc&",
           "contentType": "application/javascript; charset=utf-8"
         }
       ],
@@ -201,41 +236,6 @@
       "upvotes": 2,
       "updatedAt": "2026-06-20T10:06:57.763Z",
       "assets": [],
-      "enriched": true
-    },
-    {
-      "id": "1512550218044805150",
-      "kind": "plugins",
-      "name": "[v1.0.1] Snooze-Manager (A Plug-in Collection)",
-      "description": "Snooze-Manager is a modular plug-in manager for Pengu Loader. Each QoL feature is implemented as a separate module, and the manager loads them together while keeping configuration consolidated. Everything is built to be lightweight and event driven: no embedded React application, no bloat, no constant polling of the client for changes and so on. Some features are inspired by earlier work, but the implementation here is independent and expanded to offer more than a straight copy.",
-      "details": "Auto Lock Champion:\r\n- **\"Lock X seconds before turn ends\"** — set a timer to lock your pick/ban automatically when your turn's countdown reaches X seconds, instead of using a fixed delay\r\n- **Panic Key (F2)** — press during champ select to cancel all future auto-lock actions for that game only; auto-lock re-enables on the next game\r\n- **Separate \"Auto Lock-in Pick\" / \"Auto Lock-in Ban\"** — toggles. no more forced both-or-neither\r\n\r\nWhale Helper:\r\n- **\"Champion select Hide Unowned Skins & Chromas\"** — filters out unowned skins/chromas in champ select for a less cluttered skin carousel & chroma picker \r\n\r\nBugs:\r\n- Fixed Auto-Honor After Update\r\n<img width=\"1764\" height=\"1228\" alt=\"image\" src=\"https://github.com/user-attachments/assets/b7713e73-5664-4be3-bf82-45d66b6f6759\" />\r\n",
-      "repo": "https://github.com/ReformedDoge/Snooze-Manager",
-      "releaseUrl": "https://github.com/ReformedDoge/Snooze-Manager/releases/tag/v1.0.1",
-      "releaseTag": "v1.0.1",
-      "releaseName": "v1.0.1 - Turn Timer-Based Auto-Lock, Panic Key to override auto actions & Hide Unowned Skins & Chromas in Champion Select",
-      "image": "https://media.discordapp.net/attachments/1512550218044805150/1512550376509931742/6kkx030.png?ex=6a55f00f&is=6a549e8f&hm=31feb5eadd8f7603530daa5df2dce9663cfee1d3074b7340188a27d259d648e1&",
-      "author": {
-        "name": "ReformedDoge",
-        "avatar": "https://avatars.githubusercontent.com/u/39759213?v=4",
-        "github": "ReformedDoge"
-      },
-      "tags": [
-        "Utility",
-        "Misc",
-        "Fun",
-        "Enhancement"
-      ],
-      "discordUrl": "https://discord.com/channels/1069483280438673418/1512550218044805150/1512550218044805150",
-      "upvotes": 25,
-      "updatedAt": "2026-06-16T04:37:54Z",
-      "assets": [
-        {
-          "name": "Snooze-Manager.zip",
-          "size": 135947,
-          "downloadUrl": "https://github.com/ReformedDoge/Snooze-Manager/releases/download/v1.0.1/Snooze-Manager.zip",
-          "contentType": "application/x-zip-compressed"
-        }
-      ],
       "enriched": true
     },
     {
@@ -391,7 +391,7 @@
       "releaseUrl": "https://github.com/Elaina69/Elaina-theme/releases/tag/v4.5.1",
       "releaseTag": "v4.5.1",
       "releaseName": "",
-      "image": "https://media.discordapp.net/attachments/1078464593791307777/1078464594055544942/image.png?ex=6a557a6c&is=6a5428ec&hm=d34609c492655cb6b9cb9ee9b60325bf4d80417c41053e95af38895eda879720&",
+      "image": "https://media.discordapp.net/attachments/1078464593791307777/1078464594055544942/image.png?ex=6a56232c&is=6a54d1ac&hm=dee08619c0f87af914a9e3cac60c3ecc41e9e97470da9a3ea11c773f56f139a6&",
       "author": {
         "name": "Elaina69",
         "avatar": "https://avatars.githubusercontent.com/u/94338907?v=4",
@@ -582,7 +582,7 @@
       "releaseUrl": "https://github.com/Yimikami/pengu-plugins/releases/tag/PenguFamily_v0.1.0",
       "releaseTag": "PenguFamily_v0.1.0",
       "releaseName": "Pengu Family v0.1.0",
-      "image": "https://media.discordapp.net/attachments/1503337548993265687/1503337549404311693/tb.png?ex=6a556172&is=6a540ff2&hm=3aa90250860fcacaca9bb0a951f06e02761537fffd9f1769552c95ab42107443&",
+      "image": "https://media.discordapp.net/attachments/1503337548993265687/1503337549404311693/tb.png?ex=6a560a32&is=6a54b8b2&hm=e8c6d6fc9899be5231341cb7406feb794f7a4c718ddaf22a770061114e258163&",
       "author": {
         "name": "Yimikami",
         "avatar": "https://avatars.githubusercontent.com/u/39545057?v=4",
@@ -644,7 +644,7 @@
       "name": "league-lean — meta tier list + auto rune/build apply + post-game op.gg, all in one sidebar",
       "description": "Pengu Loader plugin: lean Riot client tweaks, auto rune/build apply, meta tier list, post-game op.gg. Personal use; not endorsed by Riot Games.",
       "repo": "https://github.com/Nicetyone/league-lean",
-      "image": "https://media.discordapp.net/attachments/1500282612084768848/1500282612516917258/01.png?ex=6a557910&is=6a542790&hm=bda2c0cf07845c1a6fde149c432f1c31616ab916b96e5f740bdfd58fae13641e&",
+      "image": "https://media.discordapp.net/attachments/1500282612084768848/1500282612516917258/01.png?ex=6a5621d0&is=6a54d050&hm=da439668688ad29ca17e3dd56b2a63403b76a06e5a50cd23f7c46eaae4581f00&",
       "author": {
         "name": "Nicetyone",
         "avatar": "https://avatars.githubusercontent.com/u/78967461?v=4",
@@ -691,7 +691,7 @@
       "kind": "plugins",
       "name": "Banner Customizer",
       "description": "Plugin that lets you display any banner in your lobby, including ones you don't own. Upload your own custom images or animated WebM files, or pick from any banner in the game. Works in the standard lobby, Arena hover tooltip, and your profile page. BNC Button in Lobby as always with my plugins. ⚠️ Client-side only — only you can see the change. Other players still see your actual equipped banner.",
-      "image": "https://media.discordapp.net/attachments/1499358177052069899/1499358177840467968/4hbdb93.png?ex=6a5567de&is=6a54165e&hm=c68cbfd56cd4f680cbc3c37d5d723bcfaca530c55a9bebcd38c7e957e1b20e6c&",
+      "image": "https://media.discordapp.net/attachments/1499358177052069899/1499358177840467968/4hbdb93.png?ex=6a56109e&is=6a54bf1e&hm=8c6364aefeec8e69404e17dbc83ddc69594a8aac166b552cb4842af6678e6692&",
       "author": {
         "name": "Eris Greyrat"
       },
@@ -707,7 +707,7 @@
         {
           "name": "Banner-Customizer.js",
           "size": 56598,
-          "downloadUrl": "https://cdn.discordapp.com/attachments/1499358177052069899/1499358178658222220/Banner-Customizer.js?ex=6a5567de&is=6a54165e&hm=3c07955bd16cca4124855c1db66d7d83fdca8076ac64d43842bcb26c5b2b28ea&",
+          "downloadUrl": "https://cdn.discordapp.com/attachments/1499358177052069899/1499358178658222220/Banner-Customizer.js?ex=6a56109e&is=6a54bf1e&hm=cfcf28501863c6188de455ff0732399b35f7e827fe86d13052160fa8c3bf9f4f&",
           "contentType": "text/javascript; charset=utf-8"
         }
       ],
@@ -741,7 +741,7 @@
       "name": "OP.GG & U.GG Button Plugin",
       "description": "An custom JavaScript page for Pengu Loader",
       "repo": "https://github.com/GogoChad/opgg-button",
-      "image": "https://media.discordapp.net/attachments/1495203342400360459/1495203439347499059/image.png?ex=6a5573b7&is=6a542237&hm=d4c68376c1e8d223ce4b853865ebafdc578ba5eb7feea3ddb9b14296f15b5eb1&",
+      "image": "https://media.discordapp.net/attachments/1495203342400360459/1495203439347499059/image.png?ex=6a561c77&is=6a54caf7&hm=4db0cad183c7308738ca8759a5a0195bb47e7ebeb1aa48f3a2fbc37be20e456b&",
       "author": {
         "name": "GogoChad",
         "avatar": "https://avatars.githubusercontent.com/u/133820564?v=4",
@@ -835,7 +835,7 @@
       "releaseUrl": "https://github.com/xRize/MusicPlugin/releases/tag/Release2",
       "releaseTag": "Release2",
       "releaseName": "v1.0.1",
-      "image": "https://media.discordapp.net/attachments/1487606021449973850/1487606021831528640/569826409-7f1dae67-6e42-4fb5-ac20-32cbc0166a21.png?ex=6a557f91&is=6a542e11&hm=d0917ce650fc5c251019ce2171c02b97b9b837ae4a539f0ce198028fac5fc8df&",
+      "image": "https://media.discordapp.net/attachments/1487606021449973850/1487606021831528640/569826409-7f1dae67-6e42-4fb5-ac20-32cbc0166a21.png?ex=6a562851&is=6a54d6d1&hm=30af19689f6eb58e890d1bd20efac59ff7d012069efe9a1e8412f78d7f9845cc&",
       "author": {
         "name": "xRize",
         "avatar": "https://avatars.githubusercontent.com/u/83946532?v=4",
@@ -874,7 +874,7 @@
       "releaseUrl": "https://github.com/Ventoba/3DSkinViewer/releases/tag/v1.0",
       "releaseTag": "v1.0",
       "releaseName": "v1.0",
-      "image": "https://media.discordapp.net/attachments/1490663854059950280/1490663854391427183/example2.PNG?ex=6a556aa6&is=6a541926&hm=7aae0fc108395b982d69edc1218ce31e016700f0148b174677820c96e2c70c64&",
+      "image": "https://media.discordapp.net/attachments/1490663854059950280/1490663854391427183/example2.PNG?ex=6a561366&is=6a54c1e6&hm=bd1e63fcf1758e72a91e06c80c049dcfa04c3c26389d5cc84ec66dbd04e1029f&",
       "author": {
         "name": "Ventoba",
         "avatar": "https://avatars.githubusercontent.com/u/96593577?v=4",
@@ -1160,7 +1160,7 @@
       "kind": "plugins",
       "name": "Hide Nonsense",
       "description": "No description provided.",
-      "image": "https://media.discordapp.net/attachments/1395902555095171225/1395906635968286882/image.png?ex=6a55715c&is=6a541fdc&hm=3cf7a8591cd51c5dc96c41f0d3de4af3e6319216c81dd14712d68ad7f137b266&",
+      "image": "https://media.discordapp.net/attachments/1395902555095171225/1395906635968286882/image.png?ex=6a561a1c&is=6a54c89c&hm=493f0f6ec40f930ab7ca219c359077d1fbd02585248d377a90a4297f53940636&",
       "author": {
         "name": "莫嘎 | Mogą"
       },
@@ -1187,7 +1187,7 @@
       "name": "HideChampName",
       "description": "Hides enemy champion names in Champion Select for League of Legends",
       "repo": "https://github.com/Mixiruri/AnonymousEnemies",
-      "image": "https://media.discordapp.net/attachments/1476888210436001904/1476888211044171848/preview.webp?ex=6a556614&is=6a541494&hm=94b2ade1defc1ed83283f919f411bb2c59c1e588fc0f4df25372da91bbd6e581&",
+      "image": "https://media.discordapp.net/attachments/1476888210436001904/1476888211044171848/preview.webp?ex=6a560ed4&is=6a54bd54&hm=592383e1778131aa37ba23d0bdad41e2f946cf450421d9ac5840f3924bb1ca5a&",
       "author": {
         "name": "Mixiruri",
         "avatar": "https://avatars.githubusercontent.com/u/255986660?v=4",
@@ -1247,7 +1247,7 @@
       "releaseUrl": "https://github.com/nomi-san/balance-buff-viewer/releases/tag/main",
       "releaseTag": "main",
       "releaseName": "S16 | v26 | 2026",
-      "image": "https://media.discordapp.net/attachments/1127199847901052979/1127199848303693844/image.png?ex=6a5574ea&is=6a54236a&hm=866164dd98c40319f69057670bc695a7384944a081365532338db0f4e71c06db&",
+      "image": "https://media.discordapp.net/attachments/1127199847901052979/1127199848303693844/image.png?ex=6a561daa&is=6a54cc2a&hm=5a7248b482c245a556410afe49a9bf0aa6de0649a86e6cc54411c81e94c0efa9&",
       "author": {
         "name": "nomi-san",
         "avatar": "https://avatars.githubusercontent.com/u/38210249?v=4",
@@ -1297,7 +1297,7 @@
       "kind": "plugins",
       "name": "Blue Essence Icon Swapper",
       "description": "Blue Essence Icon Swapper How to use: Click the BE icon to change icon. Click the BE icon to select new image/reset to standard.",
-      "image": "https://media.discordapp.net/attachments/1468009747780210791/1468019006991634432/Screenshot_2026-02-02_232517.png?ex=6a556ebd&is=6a541d3d&hm=dadf32affdf6df61c7b846d520a9fe1753437f3781bda31004427a5170eabd62&",
+      "image": "https://media.discordapp.net/attachments/1468009747780210791/1468019006991634432/Screenshot_2026-02-02_232517.png?ex=6a56177d&is=6a54c5fd&hm=9605b38afc9ffeccab9d8bae3716eb68352c530f73e0e45bfa08165c3bcfd505&",
       "author": {
         "name": "Ilkay"
       },
@@ -1311,7 +1311,7 @@
         {
           "name": "BE-Icon-Swapper.js",
           "size": 6253,
-          "downloadUrl": "https://cdn.discordapp.com/attachments/1468009747780210791/1468019008229081235/BE-Icon-Swapper.js?ex=6a556ebe&is=6a541d3e&hm=07e1c868c11fcec8348c2cd65da6082935bfdd37e535458c11ac98c621c36dbb&",
+          "downloadUrl": "https://cdn.discordapp.com/attachments/1468009747780210791/1468019008229081235/BE-Icon-Swapper.js?ex=6a56177e&is=6a54c5fe&hm=96999bf74a45453cfd7f215cdb334aa56197934153cf956dce44326ccde69919&",
           "contentType": "text/javascript; charset=utf-8"
         }
       ],
@@ -1383,7 +1383,7 @@
       "name": "AutoAcceptEnhanced - auto Q acccepter with enhancements",
       "description": "AutoAcceptEnhanced 🚀 An enhanced auto queue accepter with hide \"match found\" dialog function Features: ✅ Auto Accept - Automatically accepts match queues after 9.5 seconds ✅ Hide Dialog - Hides the match found dialog, allowing you to continue using the client (open chests, shop, etc.) while in queue ✅ Clean UI - Minimalist toggle buttons in the lobby ✅ Settings Persistence - Your preferences are saved between sessions Installation: 1. Download autoaccept.js from GitHub 2. Place the file in your Pengu Loader plugins directory 3. Enjoy! You'll see toggle buttons in your lobby Download: 🔗 GitHub: This plugin is based on another developer's auto accept plugin, which wasn't released. I downloaded it from \"plugin request\" section long ago, now i can't find who developed it. They will be credited as soon as they reach out",
       "repo": "https://github.com/asherathegod/penguplugins",
-      "image": "https://media.discordapp.net/attachments/1371799042832597054/1371799043575123978/EbMqICb.png?ex=6a55692a&is=6a5417aa&hm=0532f0f548db2ad0e6fbbe3dcd893f83a3cfd3694817a2cd6dda59e186b2edaa&",
+      "image": "https://media.discordapp.net/attachments/1371799042832597054/1371799043575123978/EbMqICb.png?ex=6a5611ea&is=6a54c06a&hm=0f1f0a8b98a6978b41064a56597a47dccf3c8e765f2638d536706d0000a4e335&",
       "author": {
         "name": "asherathegod",
         "avatar": "https://avatars.githubusercontent.com/u/68480231?v=4",
@@ -1425,7 +1425,7 @@
       "kind": "plugins",
       "name": "Old mastery icons",
       "description": "This plugins will change new mastery icons to old version",
-      "image": "https://media.discordapp.net/attachments/1414553304259760148/1414553304523866163/image.png?ex=6a55622c&is=6a5410ac&hm=69fa4d7b3a450a546cbd881f2db92e3b057089320b076021bc381e7e93e27998&",
+      "image": "https://media.discordapp.net/attachments/1414553304259760148/1414553304523866163/image.png?ex=6a560aec&is=6a54b96c&hm=d2fcfdb3f4f06c93411e27ad3372c7d1f973b182dbf7a3ee261eb2c2d2326a9b&",
       "author": {
         "name": "Elaina"
       },
@@ -1440,7 +1440,7 @@
         {
           "name": "oldMasteryIcons.js",
           "size": 5500,
-          "downloadUrl": "https://cdn.discordapp.com/attachments/1414553304259760148/1414553545046364240/oldMasteryIcons.js?ex=6a556266&is=6a5410e6&hm=9d12493c7963be18816645bc214bd2ce93fc7db5002f722e5027768c862dd325&",
+          "downloadUrl": "https://cdn.discordapp.com/attachments/1414553304259760148/1414553545046364240/oldMasteryIcons.js?ex=6a560b26&is=6a54b9a6&hm=81120ffa2b0a4c4018fa840d0a031112b01af3ef30a25ad2052cae0275e14242&",
           "contentType": "application/javascript; charset=utf-8"
         },
         {
@@ -1468,7 +1468,7 @@
       "releaseUrl": "https://github.com/DmitryFisk/pengu-force-custom-lobby/releases/tag/2.2.0",
       "releaseTag": "2.2.0",
       "releaseName": "2.2.0",
-      "image": "https://media.discordapp.net/attachments/1322710156173250601/1322710156626104320/image.png?ex=6a5576d4&is=6a542554&hm=a450404ed6e28d99eb66f48bab209086cb640403e15f3428056d82e61e0ba414&",
+      "image": "https://media.discordapp.net/attachments/1322710156173250601/1322710156626104320/image.png?ex=6a561f94&is=6a54ce14&hm=2a993bedca4006b533c08c7cec37e4fa364c794d3578268ed3a1c27b7b5aadab&",
       "author": {
         "name": "DmitryFisk",
         "avatar": "https://avatars.githubusercontent.com/u/62219971?v=4",
@@ -1964,7 +1964,7 @@
       "name": "Lx Plugins",
       "description": "Main Repo: Plugin List • Name Spoofer • Listening Status (Working on) • Hide Chat Ban Logs if you want to suggest a plugin. use the channel <1128961916497317938 and tag me",
       "repo": "https://github.com/iIlusion/league-loader-plugins",
-      "image": "https://media.discordapp.net/attachments/1077921251445706852/1077921251621879881/8ef86509de0a0f4666ae0369efb72e08e88909104498d597.png?ex=6a557aa5&is=6a542925&hm=1c1c45d16de38e1806ac16bf7db1dfb5e489dcd391d824da42b7764d3ec6227e&",
+      "image": "https://media.discordapp.net/attachments/1077921251445706852/1077921251621879881/8ef86509de0a0f4666ae0369efb72e08e88909104498d597.png?ex=6a562365&is=6a54d1e5&hm=b45c743b499dddd49114103705a821c1f1579f6954796fe0c56583b3f61a9600&",
       "author": {
         "name": "iIlusion",
         "avatar": "https://avatars.githubusercontent.com/u/49544373?v=4",
