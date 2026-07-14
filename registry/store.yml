@@ -1,6 +1,6 @@
 name: Pengu Community Store registry
 version: 1
-generatedAt: 2026-07-14T16:13:11.177Z
+generatedAt: 2026-07-14T17:40:24.643Z
 source:
   guildId: "1069483280438673418"
   forums:
@@ -129,7 +129,7 @@ listings:
     name: Auto mute allies
     description: Mute your tilted allies while keeping the all chat funzies! 🐐
     author:
-      name: 127.0.0.5
+      name: qq
     tags:
       - Utility
       - Misc
@@ -470,7 +470,7 @@ listings:
     releaseUrl: https://github.com/Elaina69/Elaina-theme/releases/tag/v4.5.1
     releaseTag: v4.5.1
     releaseName: ""
-    image: https://media.discordapp.net/attachments/1373696348284653628/1373696348653617315/fh98jYI.png?ex=6a570a2b&is=6a55b8ab&hm=cbf97b221002a3d8b383b3fb43ea55393a37cc5810a9d2e3834a964b3e86fcb6&
+    image: https://media.discordapp.net/attachments/1373696348284653628/1373696348653617315/fh98jYI.png?ex=6a57b2eb&is=6a56616b&hm=d1113b8f786a0c082078894852b229be2aab47c85917a529c88f200b2b3c69c3&
     author:
       name: Elaina69
       avatar: https://avatars.githubusercontent.com/u/94338907?v=4
@@ -818,7 +818,7 @@ listings:
       League of Legends client using Pengu Loader. This project consists of two
       parts: a local Node.js authentication server and a client-side plugin."
     repo: https://github.com/GogoChad/spotify-media-player
-    image: https://media.discordapp.net/attachments/1499090537427243129/1499090537792143492/image.png?ex=6a57119b&is=6a55c01b&hm=3b70135c91d5b90864ec14075ea6d51a9dd92acf98525a26d75a40abc5e9dd15&
+    image: https://media.discordapp.net/attachments/1499090537427243129/1499090537792143492/image.png?ex=6a57ba5b&is=6a5668db&hm=a327a5d18e6eb40df3c17685af713d2ec1c66a1895415c869f962ea25a34d37d&
     author:
       name: GogoChad
       avatar: https://avatars.githubusercontent.com/u/133820564?v=4
@@ -1130,7 +1130,7 @@ listings:
     description: "Removes the challanges crystal <:pepewow:1086020951516389568
       version that also restores old borders:"
     author:
-      name: 127.0.0.5
+      name: qq
     tags:
       - Utility
       - Misc
@@ -1639,7 +1639,7 @@ listings:
         contentType: application/javascript; charset=utf-8
       - name: oldMasteryIcons.js
         size: 9545
-        downloadUrl: https://cdn.discordapp.com/attachments/1414553304259760148/1414659601575579780/oldMasteryIcons.js?ex=6a5716ac&is=6a55c52c&hm=aeaa629fd9394c22ab290153e5cc244c995809a83fd26abe64db168e1e0211e7&
+        downloadUrl: https://cdn.discordapp.com/attachments/1414553304259760148/1414659601575579780/oldMasteryIcons.js?ex=6a57bf6c&is=6a566dec&hm=750cdbeb9bd4c9762baef2170e03a380679831ff50a0737fce3c158ffbcb6192&
         contentType: application/javascript; charset=utf-8
     enriched: true
   - id: "1322710156173250601"
