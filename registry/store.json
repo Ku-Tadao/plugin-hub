@@ -1,7 +1,7 @@
 {
   "name": "Pengu Community Store registry",
   "version": 1,
-  "generatedAt": "2026-07-15T16:21:23.924Z",
+  "generatedAt": "2026-07-15T17:47:16.984Z",
   "source": {
     "guildId": "1069483280438673418",
     "forums": [
@@ -83,7 +83,7 @@
       "kind": "plugins",
       "name": "No close client message",
       "description": "This plugin automatically confirms the League Client exit dialog. - Source code: Cooming soon, i'm lazy - Download: Github url cooming soon, i'm lazy",
-      "image": "https://media.discordapp.net/attachments/1520847793256927293/1520847793411981413/57nwhtn.png?ex=6a587021&is=6a571ea1&hm=187c94a84607720db03795c33ba6c57d6873ea0fcb8dc91ec36ed6af21f14ee1&",
+      "image": "https://media.discordapp.net/attachments/1520847793256927293/1520847793411981413/57nwhtn.png?ex=6a5918e1&is=6a57c761&hm=b90685aa1791b761145189e17eed906a680c3b454809edbc063d433167535fcc&",
       "author": {
         "name": "Elaina"
       },
@@ -97,7 +97,7 @@
         {
           "name": "NoCloseMessage.js",
           "size": 3475,
-          "downloadUrl": "https://cdn.discordapp.com/attachments/1520847793256927293/1520847873980371034/NoCloseMessage.js?ex=6a587035&is=6a571eb5&hm=50125e37ecb22a2a1e43376a70113fd7a734de0ab0df176036bee016dd3b3036&",
+          "downloadUrl": "https://cdn.discordapp.com/attachments/1520847793256927293/1520847873980371034/NoCloseMessage.js?ex=6a5918f5&is=6a57c775&hm=c8a261535894072ab476bbc9091fd5fc0325cbb19e8b4044c2e0776bbd5424e2&",
           "contentType": "text/javascript; charset=utf-8"
         },
         {
@@ -719,7 +719,7 @@
       "name": "Spotify Controller - In-game playback controls",
       "description": "A lightweight Spotify controller integrated directly into the League of Legends client using Pengu Loader. This project consists of two parts: a local Node.js authentication server and a client-side plugin.",
       "repo": "https://github.com/GogoChad/spotify-media-player",
-      "image": "https://media.discordapp.net/attachments/1499090537427243129/1499090537792143492/image.png?ex=6a58631b&is=6a57119b&hm=490a82a7b958374df6832566fc396af58f4579f2b38c4862220d84ea849c2feb&",
+      "image": "https://media.discordapp.net/attachments/1499090537427243129/1499090537792143492/image.png?ex=6a590bdb&is=6a57ba5b&hm=cd9e466ab24f45f78d8cb39fa209ed7f56acef9547b38cc28db498aba35c278a&",
       "author": {
         "name": "GogoChad",
         "avatar": "https://avatars.githubusercontent.com/u/133820564?v=4",
@@ -1452,7 +1452,7 @@
         {
           "name": "oldMasteryIcons.js",
           "size": 9545,
-          "downloadUrl": "https://cdn.discordapp.com/attachments/1414553304259760148/1414659601575579780/oldMasteryIcons.js?ex=6a58682c&is=6a5716ac&hm=b1aaba5920472e057faf1202a73f5fcbe2651192365e500d46645cb42e5dcac3&",
+          "downloadUrl": "https://cdn.discordapp.com/attachments/1414553304259760148/1414659601575579780/oldMasteryIcons.js?ex=6a5910ec&is=6a57bf6c&hm=1aab5658d1da747b663ebe1ba2e65dbf7ba7d3b0b2cf3ffc987d037c9df9dc60&",
           "contentType": "application/javascript; charset=utf-8"
         }
       ],
