@@ -1,6 +1,6 @@
 name: Pengu Community Store registry
 version: 1
-generatedAt: 2026-07-15T23:05:37.528Z
+generatedAt: 2026-07-16T00:56:05.223Z
 source:
   guildId: "1069483280438673418"
   forums:
@@ -295,7 +295,7 @@ listings:
     assets:
       - name: activity_center_toggle.js
         size: 10156
-        downloadUrl: https://cdn.discordapp.com/attachments/1396060178545119263/1401719798949216316/activity_center_toggle.js?ex=6a58cb0a&is=6a57798a&hm=30634c83c2999a35b5218d28df5a8fa129fdde34f8a2d7624ee4aa74666c1813&
+        downloadUrl: https://cdn.discordapp.com/attachments/1396060178545119263/1401719798949216316/activity_center_toggle.js?ex=6a5973ca&is=6a58224a&hm=33f90a5d2ea50f911158482663b3e122223d2e4e78eb6e29545b922b5518f567&
         contentType: application/javascript; charset=utf-8
     enriched: true
   - id: "1311415707371700345"
@@ -544,7 +544,7 @@ listings:
     releaseUrl: https://github.com/Elaina69/Elaina-theme/releases/tag/v4.5.1
     releaseTag: v4.5.1
     releaseName: ""
-    image: https://media.discordapp.net/attachments/1078464593791307777/1078464594055544942/image.png?ex=6a58c62c&is=6a5774ac&hm=3984bc2316f0eb12090e5916ab1051c6c5d646f99f6f844295e9871bc456b40e&
+    image: https://media.discordapp.net/attachments/1078464593791307777/1078464594055544942/image.png?ex=6a596eec&is=6a581d6c&hm=e6c747db0257b732ba30f5b731b3e3c1b3a1eb08fb4c44857240622b8983ed78&
     author:
       name: Elaina69
       avatar: https://avatars.githubusercontent.com/u/94338907?v=4
@@ -751,7 +751,7 @@ listings:
       apply, meta tier list, post-game op.gg. Personal use; not endorsed by Riot
       Games."
     repo: https://github.com/Nicetyone/league-lean
-    image: https://media.discordapp.net/attachments/1500282612084768848/1500282612516917258/01.png?ex=6a58c4d0&is=6a577350&hm=eb2e7672b226a4ba09e62b5e45ca68cac3d115a3c25a61df587e8ab105c6500d&
+    image: https://media.discordapp.net/attachments/1500282612084768848/1500282612516917258/01.png?ex=6a596d90&is=6a581c10&hm=6703a05b3fce7832e4c7b6907fdae2ef15ea20ce6db2d2f232d4aa732e89fb32&
     author:
       name: Nicetyone
       avatar: https://avatars.githubusercontent.com/u/78967461?v=4
@@ -836,7 +836,7 @@ listings:
     name: OP.GG & U.GG Button Plugin
     description: An custom JavaScript page for Pengu Loader
     repo: https://github.com/GogoChad/opgg-button
-    image: https://media.discordapp.net/attachments/1495203342400360459/1495203439347499059/image.png?ex=6a58bf77&is=6a576df7&hm=c6d1c2b983e9944212e9fae89187e29fa7faaf8152c13e3f79dd9faa9a523915&
+    image: https://media.discordapp.net/attachments/1495203342400360459/1495203439347499059/image.png?ex=6a596837&is=6a5816b7&hm=f69ba3add1247a07a0959f5845ef88158a7e79abea7a807101088f7d9e90529b&
     author:
       name: GogoChad
       avatar: https://avatars.githubusercontent.com/u/133820564?v=4
@@ -979,7 +979,7 @@ listings:
     releaseUrl: https://github.com/xRize/MusicPlugin/releases/tag/Release2
     releaseTag: Release2
     releaseName: v1.0.1
-    image: https://media.discordapp.net/attachments/1487606021449973850/1487606021831528640/569826409-7f1dae67-6e42-4fb5-ac20-32cbc0166a21.png?ex=6a58cb51&is=6a5779d1&hm=4aafa6c2e3d68d5291651ea5f4e5000fda0ac3b055f98642d4f3efe847c985c2&
+    image: https://media.discordapp.net/attachments/1487606021449973850/1487606021831528640/569826409-7f1dae67-6e42-4fb5-ac20-32cbc0166a21.png?ex=6a597411&is=6a582291&hm=898a17d85eb5127b850c11edb81db6bf9442e2ddd0d9a374ceb4d9a9d40ad7d6&
     author:
       name: xRize
       avatar: https://avatars.githubusercontent.com/u/83946532?v=4
@@ -1365,7 +1365,7 @@ listings:
     kind: plugins
     name: Hide Nonsense
     description: No description provided.
-    image: https://media.discordapp.net/attachments/1395902555095171225/1395906635968286882/image.png?ex=6a58bd1c&is=6a576b9c&hm=badc593c4bd500636e83d22b730d66bfc99587dc5e28ef8ab45e64411339eeae&
+    image: https://media.discordapp.net/attachments/1395902555095171225/1395906635968286882/image.png?ex=6a5965dc&is=6a58145c&hm=6c2d9657e2b7bdc77f74a5eb545ff30b6b3f6cbe9138443562cd7ef72dd8003c&
     author:
       name: 莫嘎 | Mogą
     tags:
@@ -1430,57 +1430,16 @@ listings:
   - id: "1127199847901052979"
     kind: plugins
     name: Balance buff viewer
-    description: ARAM/URF balance buff viewer plugin for Pengu Loader
-    details: "### 📦 Installation\r
-
-      \r
-
-      - Download **balance-buff-viewer.js** and put it in your plugins folder.\r
-
-      - If you already have one, it will **automatically update-to-date** 😎.\r
-
-      - ⚠ Anyone who downloaded it **before 2026** should redownload it.\r
-
-      \r
-
-      ```\r
-
-      Pengu Loader/\r
-
-      \  |__ plugins/\r
-
-      \    |__ balance-buff-viewer.js          ✅\r
-
-      ```\r
-
-      \r
-
-      <br>\r
-
-      \r
-
-      ![image](https://github.com/nomi-san/balance-buff-viewer/assets/38210249/\
-      cdfe3581-6186-4a69-884f-c817973b1b24)\r\n"
-    repo: https://github.com/nomi-san/balance-buff-viewer
-    releaseUrl: https://github.com/nomi-san/balance-buff-viewer/releases/tag/main
-    releaseTag: main
-    releaseName: S16 | v26 | 2026
-    image: https://media.discordapp.net/attachments/1127199847901052979/1127199848303693844/image.png?ex=6a58c0aa&is=6a576f2a&hm=c83c8de049bb8926ac5361f4508202bc3a192d78eda02c238fb1f5095f507a76&
+    description: No description provided.
     author:
-      name: nomi-san
-      avatar: https://avatars.githubusercontent.com/u/38210249?v=4
-      github: nomi-san
+      name: Community
     tags:
       - Utility
       - Enhancement
     discordUrl: https://discord.com/channels/1069483280438673418/1127199847901052979/1127199847901052979
-    upvotes: 18
-    updatedAt: 2026-02-08T03:22:08Z
-    assets:
-      - name: balance-buff-viewer.js
-        size: 261
-        downloadUrl: https://github.com/nomi-san/balance-buff-viewer/releases/download/main/balance-buff-viewer.js
-        contentType: text/javascript
+    upvotes: 0
+    updatedAt: 2026-02-08T03:59:08.179Z
+    assets: []
     enriched: true
   - id: "1109009446023217193"
     kind: plugins
@@ -1654,7 +1613,7 @@ listings:
     releaseUrl: https://github.com/DmitryFisk/pengu-force-custom-lobby/releases/tag/2.2.0
     releaseTag: 2.2.0
     releaseName: 2.2.0
-    image: https://media.discordapp.net/attachments/1322710156173250601/1322710156626104320/image.png?ex=6a58c294&is=6a577114&hm=8f8105e72950cbe388c74ac86059bc16296ea6d3928e840efae87c4b52d048a4&
+    image: https://media.discordapp.net/attachments/1322710156173250601/1322710156626104320/image.png?ex=6a596b54&is=6a5819d4&hm=4d5cc0f1def09b9e22c41ace23cd203f72d3d9e8e6f53daee4f726b344a00f3d&
     author:
       name: DmitryFisk
       avatar: https://avatars.githubusercontent.com/u/62219971?v=4
@@ -1744,7 +1703,7 @@ listings:
       JSON.stringify({ preferredCrestType: "prestige", preferredBannerType:
       "blank", selectedPrestigeCrest: 22}), headers: { "Content-Type":
       "application/json" }, });'
-    image: https://media.discordapp.net/attachments/1327785286327074929/1327785286561960026/image.png?ex=6a58c429&is=6a5772a9&hm=5d1d4ccf805a73a35c2a38b853dc013d5698951d3ebd1df7e1828b895f94c8b9&
+    image: https://media.discordapp.net/attachments/1327785286327074929/1327785286561960026/image.png?ex=6a596ce9&is=6a581b69&hm=ac4e9fefd11d0523d6d9812fc4169cdba22cf5f5582d1f742675bd746fab9c7d&
     author:
       name: kebs
     tags:
@@ -2132,7 +2091,7 @@ listings:
       on) • Hide Chat Ban Logs if you want to suggest a plugin. use the channel
       <1128961916497317938 and tag me"
     repo: https://github.com/iIlusion/league-loader-plugins
-    image: https://media.discordapp.net/attachments/1077921251445706852/1077921251621879881/8ef86509de0a0f4666ae0369efb72e08e88909104498d597.png?ex=6a58c665&is=6a5774e5&hm=3778c7835afb0eb5fccd1875b1790e48c817756746324a1a6b9c601a070dea50&
+    image: https://media.discordapp.net/attachments/1077921251445706852/1077921251621879881/8ef86509de0a0f4666ae0369efb72e08e88909104498d597.png?ex=6a596f25&is=6a581da5&hm=9eafdd1890cebf47c2d807ea3f4f6de11044c32ca8e03f56aa9cda773745bd24&
     author:
       name: iIlusion
       avatar: https://avatars.githubusercontent.com/u/49544373?v=4
