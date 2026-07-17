@@ -1,7 +1,7 @@
 {
   "name": "Pengu Community Store registry",
   "version": 1,
-  "generatedAt": "2026-07-17T21:21:50.008Z",
+  "generatedAt": "2026-07-17T22:20:54.665Z",
   "source": {
     "guildId": "1069483280438673418",
     "forums": [
@@ -172,7 +172,7 @@
       "kind": "plugins",
       "name": "Activity Center Toggle [redirect to play screen]",
       "description": "- Fully removes the League (Activity Center) - Redirects from the Activity Center to the Play screen - Removes Navbar button since it redirects anyways - Toggle on and off via Client General Interface Settings, if you at some point need to use it",
-      "image": "https://media.discordapp.net/attachments/1396060178545119263/1396060179815989399/image.png?ex=6a5b465c&is=6a59f4dc&hm=19eb0394f67cd9bc58ed22a5d21cf1be75c4a6d0cb83bd8a370592dd3f97cce8&",
+      "image": "https://media.discordapp.net/attachments/1396060178545119263/1396060179815989399/image.png?ex=6a5bef1c&is=6a5a9d9c&hm=d9645f97f6ad2710f1e0d5c05bda02b7644361f3263e07961bca27e8c27797e3&",
       "author": {
         "name": "Eris Greyrat"
       },
@@ -582,7 +582,7 @@
       "releaseUrl": "https://github.com/Yimikami/pengu-plugins/releases/tag/PenguFamily_v0.1.0",
       "releaseTag": "PenguFamily_v0.1.0",
       "releaseName": "Pengu Family v0.1.0",
-      "image": "https://media.discordapp.net/attachments/1503337548993265687/1503337549404311693/tb.png?ex=6a5b5032&is=6a59feb2&hm=472bf36bd03c2113d267b0e304e844cb53be42888c97a2163449cf77aa2a3fad&",
+      "image": "https://media.discordapp.net/attachments/1503337548993265687/1503337549404311693/tb.png?ex=6a5bf8f2&is=6a5aa772&hm=fda0080b7baa7b3c222d325dc0e8af2c2fbf02ee26045cef08231c5854df5fb4&",
       "author": {
         "name": "Yimikami",
         "avatar": "https://avatars.githubusercontent.com/u/39545057?v=4",
@@ -982,7 +982,7 @@
       "kind": "plugins",
       "name": "Banner Remover (not unranked needed last season)",
       "description": "I made this plugin so the banner is transparent for seeing the background :3",
-      "image": "https://media.discordapp.net/attachments/1485931384504848394/1485931923275776201/C457E65E-4309-49F8-87B7-D302F19ADCDF.png?ex=6a5b45f1&is=6a59f471&hm=0e0078606430a99e24a6d3e3ef960e69b375e8c09b78f421dbf3a296c53aee06&",
+      "image": "https://media.discordapp.net/attachments/1485931384504848394/1485931923275776201/C457E65E-4309-49F8-87B7-D302F19ADCDF.png?ex=6a5beeb1&is=6a5a9d31&hm=b4660a9e303197dec1c8068b76f7d02dca0054910ad8026867e765aadcd371df&",
       "author": {
         "name": "Polydragoo"
       },
@@ -1056,7 +1056,7 @@
       "name": "Lock your League of Legends client with a 4-digit PIN code",
       "description": "🔒 Lock the League of Legends client with a 4-digit PIN — hotkey support, iOS-style UI, blur overlay. Penguloader plugin.",
       "repo": "https://github.com/nt3y/LeagueClient-Locker-",
-      "image": "https://media.discordapp.net/attachments/1485026009018273872/1485026009500877094/image.png?ex=6a5b45ff&is=6a59f47f&hm=59cc49e998c27fd886b98c8c167ef3967e1d0e2671d650875e81e32fdaa6ef97&",
+      "image": "https://media.discordapp.net/attachments/1485026009018273872/1485026009500877094/image.png?ex=6a5beebf&is=6a5a9d3f&hm=112a0c763b940dd76e7c30a74b29068f1a40819da4ff71247496bfb876736905&",
       "author": {
         "name": "nt3y",
         "avatar": "https://avatars.githubusercontent.com/u/269317310?v=4",
@@ -1425,7 +1425,7 @@
       "kind": "plugins",
       "name": "Old mastery icons",
       "description": "This plugins will change new mastery icons to old version",
-      "image": "https://media.discordapp.net/attachments/1414553304259760148/1414553304523866163/image.png?ex=6a5b50ec&is=6a59ff6c&hm=955009b711ce064779dc5c8cdacc3692380d6f2b436229c204009deb83b5dc43&",
+      "image": "https://media.discordapp.net/attachments/1414553304259760148/1414553304523866163/image.png?ex=6a5bf9ac&is=6a5aa82c&hm=72dcd53d9313e9ffc859d4127c2bec71d93b5a48c6fc9f2517b40dec008aa85a&",
       "author": {
         "name": "Elaina"
       },
@@ -1440,7 +1440,7 @@
         {
           "name": "oldMasteryIcons.js",
           "size": 5500,
-          "downloadUrl": "https://cdn.discordapp.com/attachments/1414553304259760148/1414553545046364240/oldMasteryIcons.js?ex=6a5b5126&is=6a59ffa6&hm=0e4033cf3115049c2abab12feaad7809b5ac68c6d8ed6ec4a53f4685bb0df9d1&",
+          "downloadUrl": "https://cdn.discordapp.com/attachments/1414553304259760148/1414553545046364240/oldMasteryIcons.js?ex=6a5bf9e6&is=6a5aa866&hm=e0752ea30763208172460c57a0af7144343f54bcfb52e57c190e7318b63f0016&",
           "contentType": "application/javascript; charset=utf-8"
         },
         {
@@ -1594,7 +1594,7 @@
       "releaseUrl": "https://github.com/Elaina69/fake-reward-badge/releases/tag/v1.0.0",
       "releaseTag": "v1.0.0",
       "releaseName": "",
-      "image": "https://media.discordapp.net/attachments/1316703290775441408/1316703290960121867/image.png?ex=6a5b4bff&is=6a59fa7f&hm=2a8ca1737a5adcfa2714cf0d506fd552f59b407cac5166ca671d0408fb3ad325&",
+      "image": "https://media.discordapp.net/attachments/1316703290775441408/1316703290960121867/image.png?ex=6a5bf4bf&is=6a5aa33f&hm=e3b58c2b5f80dd9c55c61bab33a3679446e7de9c64802d9edb0de4e138365704&",
       "author": {
         "name": "Elaina69",
         "avatar": "https://avatars.githubusercontent.com/u/94338907?v=4",
@@ -1654,7 +1654,7 @@
       "releaseUrl": "https://github.com/PenguLoader/PenguLoader/releases/tag/v1.1.6",
       "releaseTag": "v1.1.6",
       "releaseName": "v1.1.6",
-      "image": "https://media.discordapp.net/attachments/1413095170475560960/1413095170940997642/Untitled.png?ex=6a5b48ee&is=6a59f76e&hm=3ed6fde3e6c847a5c0e9fda5134775fa85a04321a4cf1d183872b2151fda7db4&",
+      "image": "https://media.discordapp.net/attachments/1413095170475560960/1413095170940997642/Untitled.png?ex=6a5bf1ae&is=6a5aa02e&hm=10535ea51ad80f452f32a96707a8b84013e4c5482addf31903622ebd969e4b1e&",
       "author": {
         "name": "PenguLoader",
         "avatar": "https://avatars.githubusercontent.com/u/126898920?v=4",
