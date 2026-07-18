@@ -1,6 +1,6 @@
 name: Pengu Community Store registry
 version: 1
-generatedAt: 2026-07-18T13:56:26.733Z
+generatedAt: 2026-07-18T14:55:03.578Z
 source:
   guildId: "1069483280438673418"
   forums:
@@ -572,7 +572,7 @@ listings:
     kind: themes
     name: Minimalist Debloat Theme
     description: No description provided.
-    image: https://media.discordapp.net/attachments/1491806616415244459/1491806616750915705/wasupdud.png?ex=6a5c35ed&is=6a5ae46d&hm=728737b82a752a1c7e6ee1f217ce33b1018b7aa6a6af1adc7f26ae58eb302723&
+    image: https://media.discordapp.net/attachments/1491806616415244459/1491806616750915705/wasupdud.png?ex=6a5cdead&is=6a5b8d2d&hm=eb855e30dbbe3e326191a1fe02a029bd41731902b87a3d7c2e1af0fc4885e8b9&
     author:
       name: 莫嘎 | Mogą
     tags:
@@ -896,7 +896,7 @@ listings:
     releaseTag: V1.2.0
     releaseName: "v1.2.0 - New Option: Render in a separate dedicated pop-out
       window, Refactor: responsive dashboard layout"
-    image: https://media.discordapp.net/attachments/1475139802482479317/1475139803027607734/ilfu6zl.gif?ex=6a5c38bf&is=6a5ae73f&hm=dccdffe302b6285a03d98974c577a902c193309fd5a55581bc34bdf4378bcbfe&
+    image: https://media.discordapp.net/attachments/1475139802482479317/1475139803027607734/ilfu6zl.gif?ex=6a5ce17f&is=6a5b8fff&hm=ca6b9152cc1885a461d697a42dfe4e0caaac12ff69cd360383d950ab7b129257&
     author:
       name: ReformedDoge
       avatar: https://avatars.githubusercontent.com/u/39759213?v=4
@@ -951,7 +951,7 @@ listings:
     releaseUrl: https://github.com/ErisuGreyrat/Pengu-Background-Customizer/releases/tag/2.0
     releaseTag: "2.0"
     releaseName: V2
-    image: https://media.discordapp.net/attachments/1373487727861039115/1373487728985116703/image.png?ex=6a5c36a0&is=6a5ae520&hm=7d0e88a0eaeed731c0b0814d9f0200898386e8d6bcaa972e74dc56f62b62ca85&
+    image: https://media.discordapp.net/attachments/1373487727861039115/1373487728985116703/image.png?ex=6a5cdf60&is=6a5b8de0&hm=ed326b351b5c9aeff7c3e591cee2f80e99379cf87b956ec6d098e9313c35c294&
     author:
       name: ErisuGreyrat
       avatar: https://avatars.githubusercontent.com/u/179902803?v=4
@@ -1346,7 +1346,7 @@ listings:
     releaseUrl: https://github.com/ErisuGreyrat/acrylic-league-theme/releases/tag/1.9.3
     releaseTag: 1.9.3
     releaseName: v1.9.3
-    image: https://media.discordapp.net/attachments/1373486870054441210/1373486870553694360/image.png?ex=6a5c35d4&is=6a5ae454&hm=07a5660f94e338f196baa1a0f48cfcc2f813e77ff6057995f0c8438c35d3f42f&
+    image: https://media.discordapp.net/attachments/1373486870054441210/1373486870553694360/image.png?ex=6a5cde94&is=6a5b8d14&hm=af18b4fbfc91ad4c88d9b2e575293599900a83124c3e2494d921abeb2df3b66f&
     author:
       name: ErisuGreyrat
       avatar: https://avatars.githubusercontent.com/u/179902803?v=4
@@ -1555,7 +1555,7 @@ listings:
     description: this plugin blocks the new community pact popup when you first
       login, now technically you can say "ive never agreed to it" so you can
       therefore be as toxic as you want.
-    image: https://media.discordapp.net/attachments/1458822729414217954/1458822729716469913/image.png?ex=6a5c2fca&is=6a5ade4a&hm=7b29c3a84113b4f33f4c737a539995a31900dee939a41f2c675f6153f99ebb24&
+    image: https://media.discordapp.net/attachments/1458822729414217954/1458822729716469913/image.png?ex=6a5cd88a&is=6a5b870a&hm=9f3c64250d6dcb7dc3bd4abdb32fca6f8793714f5073e77cf72b48f20c7a6dd0&
     author:
       name: Cat Bot
     tags:
@@ -1566,7 +1566,7 @@ listings:
     assets:
       - name: RiotPactBlocker.js
         size: 508
-        downloadUrl: https://cdn.discordapp.com/attachments/1458822729414217954/1458822730198810674/RiotPactBlocker.js?ex=6a5c2fca&is=6a5ade4a&hm=ceee448db56805aef3f7e1dd1a0895bfcbc3af794855aa43b1515a2989afdb2c&
+        downloadUrl: https://cdn.discordapp.com/attachments/1458822729414217954/1458822730198810674/RiotPactBlocker.js?ex=6a5cd88a&is=6a5b870a&hm=639ec7bcf02554a0a4f72ef7ea0375b1ea4000a8dab454e31952f4b9eebb334b&
         contentType: text/javascript; charset=utf-8
     enriched: true
   - id: "1371799042832597054"
@@ -1719,7 +1719,7 @@ listings:
       ings.displaylegacypatchnumbers, (xhr, original) = {
       Object.defineProperty(xhr, 'responseText', { writable: true, value: true
       }); original(); }); } Download ⬇⬇⬇⬇⬇⬇"
-    image: https://media.discordapp.net/attachments/1332168478148399285/1332168478710562837/image.png?ex=6a5c3013&is=6a5ade93&hm=1c0b23459d74c19157fadeda0d24c4b78def1a4670dac9294be86d5be7bfffca&
+    image: https://media.discordapp.net/attachments/1332168478148399285/1332168478710562837/image.png?ex=6a5cd8d3&is=6a5b8753&hm=a9b8d9cb2fd3e2e8a5405b3829fe34d2e57fbab8abfc7a245e76939754576006&
     author:
       name: kebs
     tags:
@@ -1732,7 +1732,7 @@ listings:
     assets:
       - name: OldPatchNumber.js
         size: 4610
-        downloadUrl: https://cdn.discordapp.com/attachments/1332168478148399285/1332168478936797226/OldPatchNumber.js?ex=6a5c3013&is=6a5ade93&hm=3eb1758bcb5dc07e1d0f070e7b30913d476420001294f7b8b8029945da9bfcb2&
+        downloadUrl: https://cdn.discordapp.com/attachments/1332168478148399285/1332168478936797226/OldPatchNumber.js?ex=6a5cd8d3&is=6a5b8753&hm=b6609dde82219e6c199008c31ef276ec8fa979aa338c0b169d6ee1d52ed75b5d&
         contentType: application/javascript; charset=utf-8
     enriched: true
   - id: "1327785286327074929"
