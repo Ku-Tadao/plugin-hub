@@ -1,6 +1,6 @@
 name: Pengu Community Store registry
 version: 1
-generatedAt: 2026-07-19T13:22:47.017Z
+generatedAt: 2026-07-19T14:38:28.213Z
 source:
   guildId: "1069483280438673418"
   forums:
@@ -324,7 +324,7 @@ listings:
     kind: plugins
     name: Full length ARAM music
     description: A plugin to bring back full length ARAM music on champion select
-    image: https://media.discordapp.net/attachments/1469142886330273884/1469142887424983214/channels4_profile.jpg?ex=6a5d79ef&is=6a5c286f&hm=31c9d8b530ab1bdc469f5b66444dcd64336568cf89122f4874297e8228e7c49f&
+    image: https://media.discordapp.net/attachments/1469142886330273884/1469142887424983214/channels4_profile.jpg?ex=6a5e22af&is=6a5cd12f&hm=9919c6da2544eecceebc4715ab4ea8f10ffdd9c9b4da6e4c84cfe5f8157eab56&
     author:
       name: Blue Cartoon Cat
     tags:
@@ -572,7 +572,7 @@ listings:
     kind: themes
     name: Minimalist Debloat Theme
     description: No description provided.
-    image: https://media.discordapp.net/attachments/1491806616415244459/1491806616750915705/wasupdud.png?ex=6a5d876d&is=6a5c35ed&hm=e685e487d9779e894daa6c9db9ae393e3cf3b2c9a2a662a6c9f0173906c564ce&
+    image: https://media.discordapp.net/attachments/1491806616415244459/1491806616750915705/wasupdud.png?ex=6a5e302d&is=6a5cdead&hm=929d99703956c80af7b83003e0e005ffc5b30d611d4afc4429837bff8d7ac9bf&
     author:
       name: 莫嘎 | Mogą
     tags:
@@ -951,7 +951,7 @@ listings:
     releaseUrl: https://github.com/ErisuGreyrat/Pengu-Background-Customizer/releases/tag/2.0
     releaseTag: "2.0"
     releaseName: V2
-    image: https://media.discordapp.net/attachments/1373487727861039115/1373487728985116703/image.png?ex=6a5d8820&is=6a5c36a0&hm=cb04fd430cea8ce6eed276947dc5a215be4d0658e446a5aeed7822b3239db9e7&
+    image: https://media.discordapp.net/attachments/1373487727861039115/1373487728985116703/image.png?ex=6a5e30e0&is=6a5cdf60&hm=4f43a509871fb6506dc10c86ae2affa0b2eb2c5c8196b9e450facff796353ddb&
     author:
       name: ErisuGreyrat
       avatar: https://avatars.githubusercontent.com/u/179902803?v=4
@@ -1346,7 +1346,7 @@ listings:
     releaseUrl: https://github.com/ErisuGreyrat/acrylic-league-theme/releases/tag/1.9.3
     releaseTag: 1.9.3
     releaseName: v1.9.3
-    image: https://media.discordapp.net/attachments/1373486870054441210/1373486870553694360/image.png?ex=6a5d8754&is=6a5c35d4&hm=01ada8ef781c00aa6eb2d3dab8274d3df243beb8d00ae24dfbe92a985f6d03b1&
+    image: https://media.discordapp.net/attachments/1373486870054441210/1373486870553694360/image.png?ex=6a5e3014&is=6a5cde94&hm=b444cac6f5a9a7ffbd0d11f72400ab58285eb31aa374ede7ae2bb6600ac491a5&
     author:
       name: ErisuGreyrat
       avatar: https://avatars.githubusercontent.com/u/179902803?v=4
@@ -1530,7 +1530,7 @@ listings:
     releaseUrl: https://github.com/kyso1/tft-client-theme/releases/tag/v1.0
     releaseTag: v1.0
     releaseName: v1.0
-    image: https://media.discordapp.net/attachments/1462077280728780861/1462077814324068548/nUvdXBx.png?ex=6a5d7b53&is=6a5c29d3&hm=874e393425f3e1ccfb682e2007112bf6610a056ec23e05fd514b4bf3d25353f3&
+    image: https://media.discordapp.net/attachments/1462077280728780861/1462077814324068548/nUvdXBx.png?ex=6a5e2413&is=6a5cd293&hm=0a5d7e1cbff0af95f5397a014f322abe3029eba3874aed98d9cc0bdc22051055&
     author:
       name: kyso1
       avatar: https://avatars.githubusercontent.com/u/128049220?v=4
@@ -1555,7 +1555,7 @@ listings:
     description: this plugin blocks the new community pact popup when you first
       login, now technically you can say "ive never agreed to it" so you can
       therefore be as toxic as you want.
-    image: https://media.discordapp.net/attachments/1458822729414217954/1458822729716469913/image.png?ex=6a5d814a&is=6a5c2fca&hm=106f1affea0fde79f84940e3523d2f07a8f58b6b4def294e6e4082229442d93f&
+    image: https://media.discordapp.net/attachments/1458822729414217954/1458822729716469913/image.png?ex=6a5e2a0a&is=6a5cd88a&hm=84ee02139a843c6b5dd30595d78ce78bb08711f29d1e980ba58e8ede7a64b750&
     author:
       name: Cat Bot
     tags:
@@ -1566,7 +1566,7 @@ listings:
     assets:
       - name: RiotPactBlocker.js
         size: 508
-        downloadUrl: https://cdn.discordapp.com/attachments/1458822729414217954/1458822730198810674/RiotPactBlocker.js?ex=6a5d814a&is=6a5c2fca&hm=5ad0e70ab36fc2b6894f2e0de1e6ed9bf31cf5ad9c0a5c6230db1416d5063676&
+        downloadUrl: https://cdn.discordapp.com/attachments/1458822729414217954/1458822730198810674/RiotPactBlocker.js?ex=6a5e2a0a&is=6a5cd88a&hm=4719309ad33c3bf122648a8d2b5b173e31231143b956d01c5fa4dd7104b4c70d&
         contentType: text/javascript; charset=utf-8
     enriched: true
   - id: "1371799042832597054"
@@ -1719,7 +1719,7 @@ listings:
       ings.displaylegacypatchnumbers, (xhr, original) = {
       Object.defineProperty(xhr, 'responseText', { writable: true, value: true
       }); original(); }); } Download ⬇⬇⬇⬇⬇⬇"
-    image: https://media.discordapp.net/attachments/1332168478148399285/1332168478710562837/image.png?ex=6a5d8193&is=6a5c3013&hm=0bfc1c44ca71df8dcf79b36b3d68b020f738baab251df1c6f1bd8621f54fceb2&
+    image: https://media.discordapp.net/attachments/1332168478148399285/1332168478710562837/image.png?ex=6a5e2a53&is=6a5cd8d3&hm=743d6e0a07a3cd6dff5432e7cb9cfda88b7ce4a4264e0dd5a29332e1047d08db&
     author:
       name: kebs
     tags:
@@ -1732,7 +1732,7 @@ listings:
     assets:
       - name: OldPatchNumber.js
         size: 4610
-        downloadUrl: https://cdn.discordapp.com/attachments/1332168478148399285/1332168478936797226/OldPatchNumber.js?ex=6a5d8193&is=6a5c3013&hm=4324c89300d21f65009320dfe45a2b31f45259a956c55da8568b91da0bb1ac63&
+        downloadUrl: https://cdn.discordapp.com/attachments/1332168478148399285/1332168478936797226/OldPatchNumber.js?ex=6a5e2a53&is=6a5cd8d3&hm=5028ef810c028654dc76b16f4a2e64c7f270ddf567e510486fa658989609f4bf&
         contentType: application/javascript; charset=utf-8
     enriched: true
   - id: "1327785286327074929"
@@ -2062,7 +2062,7 @@ listings:
     releaseUrl: https://github.com/nomi-san/indie-theme/releases/tag/release/lts
     releaseTag: release/lts
     releaseName: indie-theme-lts
-    image: https://media.discordapp.net/attachments/1176518022312247296/1176518022651990097/284592384-6b8b2c3d-1927-467b-99aa-ae1e10f4b69e.png?ex=6a5d7d0b&is=6a5c2b8b&hm=97b916c56ade6a9755657b15fec6c38358d316d15aef7c86cf19d1a42afe3f7b&
+    image: https://media.discordapp.net/attachments/1176518022312247296/1176518022651990097/284592384-6b8b2c3d-1927-467b-99aa-ae1e10f4b69e.png?ex=6a5e25cb&is=6a5cd44b&hm=7b5edd737652e5cfe2de4d8b19ebf2caccd9c87e7bb40f046fe5670b379c4c0f&
     author:
       name: nomi-san
       avatar: https://avatars.githubusercontent.com/u/38210249?v=4
@@ -2114,7 +2114,7 @@ listings:
     name: Rem Theme
     description: Plug-ins I made to be used in league-loader
     repo: https://github.com/Lyfhael/league-loader-plugins
-    image: https://media.discordapp.net/attachments/1080303567216332900/1080303567883218995/4MGf2QS.png?ex=6a5d7c99&is=6a5c2b19&hm=fbbbbb865ad0bbf177a721c6bab7e0840396d38792e0decde6cbcbc949cdada5&
+    image: https://media.discordapp.net/attachments/1080303567216332900/1080303567883218995/4MGf2QS.png?ex=6a5e2559&is=6a5cd3d9&hm=dc200122efbc4bef18fb2c9c238960e3e332d7057f64e057c71541d4bd5fab1a&
     author:
       name: Lyfhael
       avatar: https://avatars.githubusercontent.com/u/43145883?v=4
