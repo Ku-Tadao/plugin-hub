@@ -1,6 +1,6 @@
 name: Pengu Community Store registry
 version: 1
-generatedAt: 2026-07-19T18:03:20.589Z
+generatedAt: 2026-07-19T19:40:43.793Z
 source:
   guildId: "1069483280438673418"
   forums:
@@ -165,7 +165,7 @@ listings:
         contentType: text/javascript; charset=utf-8
       - name: NoCloseMessage.js
         size: 4163
-        downloadUrl: https://cdn.discordapp.com/attachments/1520847793256927293/1520869718758654002/NoCloseMessage.js?ex=6a5dca8d&is=6a5c790d&hm=c787a0114bebc89792c56de23e55d0408ed0701e878b463952552ed88cd7b211&
+        downloadUrl: https://cdn.discordapp.com/attachments/1520847793256927293/1520869718758654002/NoCloseMessage.js?ex=6a5e734d&is=6a5d21cd&hm=5b6515e1644641f7cf2adc0f12a150843e6ef602d89b0d79782d8d70585fc38b&
         contentType: text/javascript; charset=utf-8
     enriched: true
   - id: "1240541534663868426"
@@ -304,7 +304,7 @@ listings:
     description: "Unlock all backgrounds easily. Just press the background picker
       button, and you'll be able to choose any skin you like, as if you owned
       them all Source: < Download is below, not the source ⬇️ ⬇️ ⬇️"
-    image: https://media.discordapp.net/attachments/1311415707371700345/1311415707568836809/image.png?ex=6a5dd04d&is=6a5c7ecd&hm=b2a2ca046cddf2bff8cb23fdd15b103ccfbb1556fbb9e86de27c2871cf1174cd&
+    image: https://media.discordapp.net/attachments/1311415707371700345/1311415707568836809/image.png?ex=6a5e790d&is=6a5d278d&hm=adef69da4d330f349bddb8c49c83e131c88900f4e2a7bc7f6a363c05342e3660&
     author:
       name: kebs
     tags:
@@ -317,7 +317,7 @@ listings:
     assets:
       - name: LoLBackgroundUnlocker.js
         size: 6216
-        downloadUrl: https://cdn.discordapp.com/attachments/1311415707371700345/1311415708143583355/LoLBackgroundUnlocker.js?ex=6a5dd04d&is=6a5c7ecd&hm=0e34513cc2d92527cafdde090bbe33e170c863f991eda058b06ef520199bfd6c&
+        downloadUrl: https://cdn.discordapp.com/attachments/1311415707371700345/1311415708143583355/LoLBackgroundUnlocker.js?ex=6a5e790d&is=6a5d278d&hm=99d1b4ad642c5622f1a36364d63e5cd7c266fc00c5d3a6aa71ac2365ae9cab2a&
         contentType: application/javascript; charset=utf-8
     enriched: true
   - id: "1469142886330273884"
@@ -1141,7 +1141,7 @@ listings:
     assets:
       - name: removecrystal.js
         size: 1126
-        downloadUrl: https://cdn.discordapp.com/attachments/1487535639128965121/1487535639883944108/removecrystal.js?ex=6a5dcfc5&is=6a5c7e45&hm=6c623d902bb7bc5f1d1fb1d4c193778008f4e7c0831651549a78547b394560f9&
+        downloadUrl: https://cdn.discordapp.com/attachments/1487535639128965121/1487535639883944108/removecrystal.js?ex=6a5e7885&is=6a5d2705&hm=6ebb046abebd716d23693176997782c73b7efda815337633aff75bc2b1290b18&
         contentType: text/javascript; charset=utf-8
     enriched: true
   - id: "1476062717579231385"
@@ -1239,7 +1239,7 @@ listings:
     releaseUrl: https://github.com/cuongnguyen207/wuwa-theme-lol/releases/tag/custome-themes-lol
     releaseTag: custome-themes-lol
     releaseName: Wuthering Waves Themes
-    image: https://media.discordapp.net/attachments/1524137061119037490/1524137061735596094/Screenshot_18.png?ex=6a5dd000&is=6a5c7e80&hm=5c96932b86ce8cdb76679a82e7aa42ff688833a8f6c7c7e9961176c9eebcc6fb&
+    image: https://media.discordapp.net/attachments/1524137061119037490/1524137061735596094/Screenshot_18.png?ex=6a5e78c0&is=6a5d2740&hm=1e321e8d93858d5a3c6f0eb1905fe1a2a0848906b6daa423375925018814a720&
     author:
       name: cuongnguyen207
       avatar: https://avatars.githubusercontent.com/u/213099361?v=4
@@ -1377,7 +1377,7 @@ listings:
     assets:
       - name: Hide_Nonsense2.js
         size: 8079
-        downloadUrl: https://cdn.discordapp.com/attachments/1395902555095171225/1440040589490917507/Hide_Nonsense2.js?ex=6a5dbb0f&is=6a5c698f&hm=1790ddfd076ad21e40fa9fadf98ac277b152cccdb1b590196c8e3320f7b0937c&
+        downloadUrl: https://cdn.discordapp.com/attachments/1395902555095171225/1440040589490917507/Hide_Nonsense2.js?ex=6a5e63cf&is=6a5d124f&hm=0015f703bc4bd31ad696445234925bcc17d5968ce65c9674473aadad794acbfd&
         contentType: text/javascript; charset=utf-8
     enriched: true
   - id: "1476888210436001904"
@@ -1487,7 +1487,7 @@ listings:
     name: Balaclava Plugins! [13/05/2026]
     description: My plugins for Pengu Loader! :)
     repo: https://github.com/controlado/pengu-plugins
-    image: https://media.discordapp.net/attachments/1109009446023217193/1110094360390946908/ezgif-2-9ed966a32e.png?ex=6a5dc270&is=6a5c70f0&hm=1cccce06f89e5f4c037a09330b935f688bf079e89fe45e772e4eab243dc66429&
+    image: https://media.discordapp.net/attachments/1109009446023217193/1110094360390946908/ezgif-2-9ed966a32e.png?ex=6a5e6b30&is=6a5d19b0&hm=05fdceaeddd290d2fb6975a1278c87a5e4f1b2d696a24a219cc8d461cafb4b64&
     author:
       name: controlado
       avatar: https://avatars.githubusercontent.com/u/71716568?v=4
@@ -2020,7 +2020,7 @@ listings:
     releaseUrl: https://github.com/oMaikeru/PureBlack-Theme/releases/tag/v0.4
     releaseTag: v0.4
     releaseName: v0.4
-    image: https://media.discordapp.net/attachments/1107021081207914566/1107021081442783242/black-theme.PNG?ex=6a5dc8f9&is=6a5c7779&hm=b61ecc734155c70f9398135c6e98031956cc7ae94fa5dcfeb5c33c8a5c21ca13&
+    image: https://media.discordapp.net/attachments/1107021081207914566/1107021081442783242/black-theme.PNG?ex=6a5e71b9&is=6a5d2039&hm=d8b852c1051f3d73ae7b3232beee5b52f3b9e3148a0766cba5a5e236d40df9d8&
     author:
       name: oMaikeru
       avatar: https://avatars.githubusercontent.com/u/76801149?v=4
