@@ -1,7 +1,7 @@
 {
   "name": "Pengu Community Store registry",
   "version": 1,
-  "generatedAt": "2026-07-22T21:36:58.343Z",
+  "generatedAt": "2026-07-22T23:02:06.583Z",
   "source": {
     "guildId": "1069483280438673418",
     "forums": [
@@ -72,7 +72,7 @@
         {
           "name": "index.js",
           "size": 4929,
-          "downloadUrl": "https://cdn.discordapp.com/attachments/1462451902028578940/1465476858241093662/index.js?ex=6a61efee&is=6a609e6e&hm=2642672acbceb991e19fc4f94a3ff74e204f1d4529d1f6eb8ed441477575e9e1&",
+          "downloadUrl": "https://cdn.discordapp.com/attachments/1462451902028578940/1465476858241093662/index.js?ex=6a6298ae&is=6a61472e&hm=9038192fdeca448fbd98de31e447535559365952c471da673dbd96281583de5e&",
           "contentType": "text/javascript; charset=utf-8"
         }
       ],
@@ -582,7 +582,7 @@
       "releaseUrl": "https://github.com/Yimikami/pengu-plugins/releases/tag/PenguFamily_v0.1.0",
       "releaseTag": "PenguFamily_v0.1.0",
       "releaseName": "Pengu Family v0.1.0",
-      "image": "https://media.discordapp.net/attachments/1503337548993265687/1503337549404311693/tb.png?ex=6a61e7b2&is=6a609632&hm=904456746449e10a5612a92e4ea5e4f60883b6d7f2e18a04b8e632cb2ad6478d&",
+      "image": "https://media.discordapp.net/attachments/1503337548993265687/1503337549404311693/tb.png?ex=6a629072&is=6a613ef2&hm=a87a87e4b4d3c66cefd32924e531482d14328c0e8992eadda31c05a1a013d5a8&",
       "author": {
         "name": "Yimikami",
         "avatar": "https://avatars.githubusercontent.com/u/39545057?v=4",
@@ -691,7 +691,7 @@
       "kind": "plugins",
       "name": "Banner Customizer",
       "description": "Plugin that lets you display any banner in your lobby, including ones you don't own. Upload your own custom images or animated WebM files, or pick from any banner in the game. Works in the standard lobby, Arena hover tooltip, and your profile page. BNC Button in Lobby as always with my plugins. ⚠️ Client-side only — only you can see the change. Other players still see your actual equipped banner.",
-      "image": "https://media.discordapp.net/attachments/1499358177052069899/1499358177840467968/4hbdb93.png?ex=6a61ee1e&is=6a609c9e&hm=701498dcfe920df3284311cb554b082bd2c93ae3d59710c77653dfae761b4a8d&",
+      "image": "https://media.discordapp.net/attachments/1499358177052069899/1499358177840467968/4hbdb93.png?ex=6a6296de&is=6a61455e&hm=c48fc388485440a1f1a78eb2a5ea13f5f704b3e94fd54292036e3e242855ae52&",
       "author": {
         "name": "Eris Greyrat"
       },
@@ -707,7 +707,7 @@
         {
           "name": "Banner-Customizer.js",
           "size": 56598,
-          "downloadUrl": "https://cdn.discordapp.com/attachments/1499358177052069899/1499358178658222220/Banner-Customizer.js?ex=6a61ee1e&is=6a609c9e&hm=782262015753837f5417da0bef995ce6d709db593523134b07041d42d44eed5e&",
+          "downloadUrl": "https://cdn.discordapp.com/attachments/1499358177052069899/1499358178658222220/Banner-Customizer.js?ex=6a6296de&is=6a61455e&hm=496e69116ea7f044e65edab0665b881b33c395b1251a7d546b656fcac1e338e1&",
           "contentType": "text/javascript; charset=utf-8"
         }
       ],
@@ -874,7 +874,7 @@
       "releaseUrl": "https://github.com/Ventoba/3DSkinViewer/releases/tag/v1.0",
       "releaseTag": "v1.0",
       "releaseName": "v1.0",
-      "image": "https://media.discordapp.net/attachments/1490663854059950280/1490663854391427183/example2.PNG?ex=6a61f0e6&is=6a609f66&hm=be5142b5366a04ee4ea0e569ed200337277a267ee873fa0fe6c34a7f52b23a20&",
+      "image": "https://media.discordapp.net/attachments/1490663854059950280/1490663854391427183/example2.PNG?ex=6a6299a6&is=6a614826&hm=436e958f4a93be073f5611d401d73e23f6a01d468f5fdb5193d7c4cfe7334be2&",
       "author": {
         "name": "Ventoba",
         "avatar": "https://avatars.githubusercontent.com/u/96593577?v=4",
@@ -1187,7 +1187,7 @@
       "name": "HideChampName",
       "description": "Hides enemy champion names in Champion Select for League of Legends",
       "repo": "https://github.com/Mixiruri/AnonymousEnemies",
-      "image": "https://media.discordapp.net/attachments/1476888210436001904/1476888211044171848/preview.webp?ex=6a61ec54&is=6a609ad4&hm=a27e460c84b14b81918fcb692a099cba9f51edaeb326904ebcaee146296bb02d&",
+      "image": "https://media.discordapp.net/attachments/1476888210436001904/1476888211044171848/preview.webp?ex=6a629514&is=6a614394&hm=a5a4266d6cc807c731be393799ac35ef25d8f27484c920fd556b4b9349b31cde&",
       "author": {
         "name": "Mixiruri",
         "avatar": "https://avatars.githubusercontent.com/u/255986660?v=4",
@@ -1383,7 +1383,7 @@
       "name": "AutoAcceptEnhanced - auto Q acccepter with enhancements",
       "description": "AutoAcceptEnhanced 🚀 An enhanced auto queue accepter with hide \"match found\" dialog function Features: ✅ Auto Accept - Automatically accepts match queues after 9.5 seconds ✅ Hide Dialog - Hides the match found dialog, allowing you to continue using the client (open chests, shop, etc.) while in queue ✅ Clean UI - Minimalist toggle buttons in the lobby ✅ Settings Persistence - Your preferences are saved between sessions Installation: 1. Download autoaccept.js from GitHub 2. Place the file in your Pengu Loader plugins directory 3. Enjoy! You'll see toggle buttons in your lobby Download: 🔗 GitHub: This plugin is based on another developer's auto accept plugin, which wasn't released. I downloaded it from \"plugin request\" section long ago, now i can't find who developed it. They will be credited as soon as they reach out",
       "repo": "https://github.com/asherathegod/penguplugins",
-      "image": "https://media.discordapp.net/attachments/1371799042832597054/1371799043575123978/EbMqICb.png?ex=6a61ef6a&is=6a609dea&hm=53b468ea0c54353268e8e9e32763dad170e4565d335a25000d9c32d2d6f2c492&",
+      "image": "https://media.discordapp.net/attachments/1371799042832597054/1371799043575123978/EbMqICb.png?ex=6a62982a&is=6a6146aa&hm=e96ad53d1c8211cf73e30c5df10773373ad51a8e5b140101526feaf099704a59&",
       "author": {
         "name": "asherathegod",
         "avatar": "https://avatars.githubusercontent.com/u/68480231?v=4",
@@ -1425,7 +1425,7 @@
       "kind": "plugins",
       "name": "Old mastery icons",
       "description": "This plugins will change new mastery icons to old version",
-      "image": "https://media.discordapp.net/attachments/1414553304259760148/1414553304523866163/image.png?ex=6a61e86c&is=6a6096ec&hm=15f6c5846a8cc36a0cb6ad21e50b3dae9ae6ea88d095a7b5e9efb90f2918b44f&",
+      "image": "https://media.discordapp.net/attachments/1414553304259760148/1414553304523866163/image.png?ex=6a62912c&is=6a613fac&hm=c3f818c80cb3e524401dd74a773dd72596216a5871044cdae313f9e120ff2524&",
       "author": {
         "name": "Elaina"
       },
@@ -1440,7 +1440,7 @@
         {
           "name": "oldMasteryIcons.js",
           "size": 5500,
-          "downloadUrl": "https://cdn.discordapp.com/attachments/1414553304259760148/1414553545046364240/oldMasteryIcons.js?ex=6a61e8a6&is=6a609726&hm=01370e9fb8c3c72153ebcca0b221f8c466a4f8e77f449d4aea85287fabd68a03&",
+          "downloadUrl": "https://cdn.discordapp.com/attachments/1414553304259760148/1414553545046364240/oldMasteryIcons.js?ex=6a629166&is=6a613fe6&hm=c73e0da05561d66f14b9e5e9cae56d112921876795290c8e7e6d726244edfc52&",
           "contentType": "application/javascript; charset=utf-8"
         },
         {
@@ -1594,7 +1594,7 @@
       "releaseUrl": "https://github.com/Elaina69/fake-reward-badge/releases/tag/v1.0.0",
       "releaseTag": "v1.0.0",
       "releaseName": "",
-      "image": "https://media.discordapp.net/attachments/1316703290775441408/1316703290960121867/image.png?ex=6a61e37f&is=6a6091ff&hm=f5682fa8b8d4ce3896ad9362f0be9e72ec2bd1fcf5e92869965d18b412a7f677&",
+      "image": "https://media.discordapp.net/attachments/1316703290775441408/1316703290960121867/image.png?ex=6a628c3f&is=6a613abf&hm=329bad97296c4b250c2f439c3307077f7fae8116cad207cc4f3d361f80946bd8&",
       "author": {
         "name": "Elaina69",
         "avatar": "https://avatars.githubusercontent.com/u/94338907?v=4",
