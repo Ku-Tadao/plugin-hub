@@ -1,6 +1,6 @@
 name: Pengu Community Store registry
 version: 1
-generatedAt: 2026-07-23T07:05:30.126Z
+generatedAt: 2026-07-23T09:57:22.845Z
 source:
   guildId: "1069483280438673418"
   forums:
@@ -105,7 +105,7 @@ listings:
       Skin Blacklist, Skin Randomizer, Champion Lock Timing Modes, Fullscreen
       Mode, Honor Improvements, Show stats on honor card, Auto-Exit queue on
       Dodge or decline, Name Spoofer & More
-    image: https://media.discordapp.net/attachments/1512550218044805150/1512550376509931742/6kkx030.png?ex=6a62764f&is=6a6124cf&hm=541f3e6a6867b31e9c36e568eeabac7bbf92197da4ed6356f4edad4bf1c380ec&
+    image: https://media.discordapp.net/attachments/1512550218044805150/1512550376509931742/6kkx030.png?ex=6a631f0f&is=6a61cd8f&hm=24d1fdc94a2c325273b331290f7f856f66d6c29a5d3d52ec0b504147d0bf6e81&
     author:
       name: ReformedDoge
       avatar: https://avatars.githubusercontent.com/u/39759213?v=4
@@ -165,7 +165,7 @@ listings:
         contentType: text/javascript; charset=utf-8
       - name: NoCloseMessage.js
         size: 4163
-        downloadUrl: https://cdn.discordapp.com/attachments/1520847793256927293/1520869718758654002/NoCloseMessage.js?ex=6a6267cd&is=6a61164d&hm=264015d76c8ade309abee952a9533db5bc84b7b6a24d446e32af096267c50040&
+        downloadUrl: https://cdn.discordapp.com/attachments/1520847793256927293/1520869718758654002/NoCloseMessage.js?ex=6a63108d&is=6a61bf0d&hm=65235a7ca4913d768cfcb9817ca9ef6c468f3f1b9e1de294bfac91312a11a3d9&
         contentType: text/javascript; charset=utf-8
     enriched: true
   - id: "1240541534663868426"
@@ -260,7 +260,7 @@ listings:
     releaseUrl: https://github.com/kyso1/KysoTheme/releases/tag/v3.5.1
     releaseTag: v3.5.1
     releaseName: v3.5.1
-    image: https://media.discordapp.net/attachments/1507291423840407613/1507291424301776957/Screenshot_1.png?ex=6a627247&is=6a6120c7&hm=a3c7b6776589e2422fcf19cacff9a70b2d43122ac87101d24143eb26f869a0ee&
+    image: https://media.discordapp.net/attachments/1507291423840407613/1507291424301776957/Screenshot_1.png?ex=6a631b07&is=6a61c987&hm=1c501ac5e17cca62f1df0a75ad8fc100328eead72669510d85c7d51a25226969&
     author:
       name: kyso1
       avatar: https://avatars.githubusercontent.com/u/128049220?v=4
@@ -283,7 +283,7 @@ listings:
       Activity Center to the Play screen - Removes Navbar button since it
       redirects anyways - Toggle on and off via Client General Interface
       Settings, if you at some point need to use it"
-    image: https://media.discordapp.net/attachments/1396060178545119263/1396060179815989399/image.png?ex=6a62869c&is=6a61351c&hm=cd3bfb0aea2d86d911a671c3f6d91dce5bfc93d8863e95b0030d3d04925db77a&
+    image: https://media.discordapp.net/attachments/1396060178545119263/1396060179815989399/image.png?ex=6a632f5c&is=6a61dddc&hm=9dd2121082abf79d632f825328c04702e3d07bb2dabe0d0553f0282f1c07ca4f&
     author:
       name: Eris Greyrat
     tags:
@@ -304,7 +304,7 @@ listings:
     description: "Unlock all backgrounds easily. Just press the background picker
       button, and you'll be able to choose any skin you like, as if you owned
       them all Source: < Download is below, not the source ⬇️ ⬇️ ⬇️"
-    image: https://media.discordapp.net/attachments/1311415707371700345/1311415707568836809/image.png?ex=6a626d8d&is=6a611c0d&hm=0834e7a7af5535ae9a2ad8f8a481668f3b13d3c644a51a6ae514ad112530dab7&
+    image: https://media.discordapp.net/attachments/1311415707371700345/1311415707568836809/image.png?ex=6a63164d&is=6a61c4cd&hm=7a7eed095b66bdbec399d5756f1530378d143876b5e267a371ab5b3188fa7632&
     author:
       name: kebs
     tags:
@@ -317,7 +317,7 @@ listings:
     assets:
       - name: LoLBackgroundUnlocker.js
         size: 6216
-        downloadUrl: https://cdn.discordapp.com/attachments/1311415707371700345/1311415708143583355/LoLBackgroundUnlocker.js?ex=6a626d8d&is=6a611c0d&hm=277464301e8135ed3dbcc9459b3f6e3a40a242985d523f258623ad81ad088bb2&
+        downloadUrl: https://cdn.discordapp.com/attachments/1311415707371700345/1311415708143583355/LoLBackgroundUnlocker.js?ex=6a63164d&is=6a61c4cd&hm=d10353475ebcfefecc9a2c9df99d2156d01bedfe2815f819239832d8bee796ae&
         contentType: application/javascript; charset=utf-8
     enriched: true
   - id: "1469142886330273884"
@@ -620,7 +620,7 @@ listings:
     releaseUrl: https://github.com/Yimikami/pengu-plugins/releases/tag/PenguFamily_v0.1.0
     releaseTag: PenguFamily_v0.1.0
     releaseName: Pengu Family v0.1.0
-    image: https://media.discordapp.net/attachments/1497146237273641040/1497146238745972816/image.png?ex=6a6273d6&is=6a612256&hm=a5be00c0508c235e8b603f4ce9db8ba9ffd9009e76b27f96e00a638103b1508f&
+    image: https://media.discordapp.net/attachments/1497146237273641040/1497146238745972816/image.png?ex=6a631c96&is=6a61cb16&hm=e1044f727a008a76592a1059405fb99c955f3cd18a27b8355bbcf09c27870338&
     author:
       name: Yimikami
       avatar: https://avatars.githubusercontent.com/u/39545057?v=4
@@ -726,7 +726,7 @@ listings:
     releaseUrl: https://github.com/Yimikami/pengu-plugins/releases/tag/PenguFamily_v0.1.0
     releaseTag: PenguFamily_v0.1.0
     releaseName: Pengu Family v0.1.0
-    image: https://media.discordapp.net/attachments/1472183865379389444/1496249294418612344/0330C317-A78E-416F-AC36-FE6739688A1F.png?ex=6a627c3e&is=6a612abe&hm=e4b41c19d2bdcf0d65603c0f9ce919f0f4d2e105f1d971002a87a1ba49a617d7&
+    image: https://media.discordapp.net/attachments/1472183865379389444/1496249294418612344/0330C317-A78E-416F-AC36-FE6739688A1F.png?ex=6a6324fe&is=6a61d37e&hm=11b82aad7fdadad44e0d198831ff3eb349e051cc43aefe4ca61f70ff6f2c6de4&
     author:
       name: Yimikami
       avatar: https://avatars.githubusercontent.com/u/39545057?v=4
@@ -1141,7 +1141,7 @@ listings:
     assets:
       - name: removecrystal.js
         size: 1126
-        downloadUrl: https://cdn.discordapp.com/attachments/1487535639128965121/1487535639883944108/removecrystal.js?ex=6a626d05&is=6a611b85&hm=8c84bbd21eace61c4a0303eb07a65d15bc952b53d5f139a942d8573971f12e5a&
+        downloadUrl: https://cdn.discordapp.com/attachments/1487535639128965121/1487535639883944108/removecrystal.js?ex=6a6315c5&is=6a61c445&hm=41733d3df46b71c1b864a9d46798bfd48458fcab0a24c04c93ebade667d29a2c&
         contentType: text/javascript; charset=utf-8
     enriched: true
   - id: "1476062717579231385"
@@ -1167,7 +1167,7 @@ listings:
     name: Banner Remover (not unranked needed last season)
     description: I made this plugin so the banner is transparent for seeing the
       background :3
-    image: https://media.discordapp.net/attachments/1485931384504848394/1485931923275776201/C457E65E-4309-49F8-87B7-D302F19ADCDF.png?ex=6a628631&is=6a6134b1&hm=6bbbaaab68d6bed6df10a973480170c5554b728a6cd36662b23081c5915a06d1&
+    image: https://media.discordapp.net/attachments/1485931384504848394/1485931923275776201/C457E65E-4309-49F8-87B7-D302F19ADCDF.png?ex=6a632ef1&is=6a61dd71&hm=f151f6843c3c19213f6cc5cce3b0d3ced85af1b752c62d4c0564b61efc63befe&
     author:
       name: LittleRadio
     tags:
@@ -1178,7 +1178,7 @@ listings:
     assets:
       - name: BannerRemover-LittleRadioo.zip
         size: 1447
-        downloadUrl: https://cdn.discordapp.com/attachments/1485931384504848394/1485931384869621820/BannerRemover-LittleRadioo.zip?ex=6a6285b1&is=6a613431&hm=000baaf9ddebe2a5160471e2c9753b1f3bb8ae164c8396ffd25f0245e15976d6&
+        downloadUrl: https://cdn.discordapp.com/attachments/1485931384504848394/1485931384869621820/BannerRemover-LittleRadioo.zip?ex=6a632e71&is=6a61dcf1&hm=bddafe9f80f8de083defa301dc0906694cb5850c7a011b8f5bd1f509670c9b60&
         contentType: application/zip
     enriched: true
   - id: "1524137061119037490"
@@ -1239,7 +1239,7 @@ listings:
     releaseUrl: https://github.com/cuongnguyen207/wuwa-theme-lol/releases/tag/custome-themes-lol
     releaseTag: custome-themes-lol
     releaseName: Wuthering Waves Themes
-    image: https://media.discordapp.net/attachments/1524137061119037490/1524137061735596094/Screenshot_18.png?ex=6a626d40&is=6a611bc0&hm=eed2d2f183ab6dd300cc2ee6ce9af35e41b7cc193a5be87bd0213052145d2411&
+    image: https://media.discordapp.net/attachments/1524137061119037490/1524137061735596094/Screenshot_18.png?ex=6a631600&is=6a61c480&hm=b6dceee8693ba288a67a5dc8ffd5478e2e6a0f8b621f60cdc2b3c19fe90d855a&
     author:
       name: cuongnguyen207
       avatar: https://avatars.githubusercontent.com/u/213099361?v=4
@@ -1273,7 +1273,7 @@ listings:
     description: 🔒 Lock the League of Legends client with a 4-digit PIN — hotkey
       support, iOS-style UI, blur overlay. Penguloader plugin.
     repo: https://github.com/nt3y/LeagueClient-Locker-
-    image: https://media.discordapp.net/attachments/1485026009018273872/1485026009500877094/image.png?ex=6a62863f&is=6a6134bf&hm=440320c92704badb897867a6fe29ffff208fb2564f9579bfedc7337ede389fea&
+    image: https://media.discordapp.net/attachments/1485026009018273872/1485026009500877094/image.png?ex=6a632eff&is=6a61dd7f&hm=4f97e1705b93edee4eb3022c7c07c4ddd12c819bb3a9b3ab495e99d2674b26f5&
     author:
       name: nt3y
       avatar: https://avatars.githubusercontent.com/u/269317310?v=4
@@ -1292,7 +1292,7 @@ listings:
     description: Animated particle cursor effects for the League of Legends client —
       Penguloader plugin
     repo: https://github.com/nt3y/cursor-pack-penguloader
-    image: https://media.discordapp.net/attachments/1484279090830905394/1484279092202307736/image.png?ex=6a6271a0&is=6a612020&hm=d49acc31e70a4cc742982437aeefe2018f101cc8dfd373428de937f095a09023&
+    image: https://media.discordapp.net/attachments/1484279090830905394/1484279092202307736/image.png?ex=6a631a60&is=6a61c8e0&hm=b284cf7610465edf91265cb610e44df3fe91a8d31ef9ed71dd99274d8c70bd0a&
     author:
       name: nt3y
       avatar: https://avatars.githubusercontent.com/u/269317310?v=4
@@ -1408,7 +1408,7 @@ listings:
     releaseUrl: https://github.com/hadixcanimm/taric48/releases/tag/gamelauncher
     releaseTag: gamelauncher
     releaseName: "Taric 48 Game Launcher "
-    image: https://media.discordapp.net/attachments/1469972117306212639/1469972117549486178/image.png?ex=6a627877&is=6a6126f7&hm=397b657208e1711e438e2a6c023adb850abbee6a1a1baeca0d10fba4fab25185&
+    image: https://media.discordapp.net/attachments/1469972117306212639/1469972117549486178/image.png?ex=6a632137&is=6a61cfb7&hm=682b7004f937a732d4c63e373f5c3e56d5cb65cc93b32ad63fe5728e42df15b0&
     author:
       name: hadixcanimm
       avatar: https://avatars.githubusercontent.com/u/114208757?v=4
@@ -1766,7 +1766,7 @@ listings:
     releaseUrl: https://github.com/Elaina69/fake-reward-badge/releases/tag/v1.0.0
     releaseTag: v1.0.0
     releaseName: ""
-    image: https://media.discordapp.net/attachments/1316703290775441408/1316703290960121867/image.png?ex=6a628c3f&is=6a613abf&hm=329bad97296c4b250c2f439c3307077f7fae8116cad207cc4f3d361f80946bd8&
+    image: https://media.discordapp.net/attachments/1316703290775441408/1316703290960121867/image.png?ex=6a6334ff&is=6a61e37f&hm=dfad8175fbc0358895a6c765cdf32c054b458aac91ba5335be68fbd0f7ce0ff4&
     author:
       name: Elaina69
       avatar: https://avatars.githubusercontent.com/u/94338907?v=4
@@ -1834,7 +1834,7 @@ listings:
     releaseUrl: https://github.com/PenguLoader/PenguLoader/releases/tag/v1.1.6
     releaseTag: v1.1.6
     releaseName: v1.1.6
-    image: https://media.discordapp.net/attachments/1413095170475560960/1413095170940997642/Untitled.png?ex=6a62892e&is=6a6137ae&hm=98e7df3daf3e24634d30bb3f0ccea0f0f6f75e0340bbac78dd8472aabbf92952&
+    image: https://media.discordapp.net/attachments/1413095170475560960/1413095170940997642/Untitled.png?ex=6a6331ee&is=6a61e06e&hm=44014ab66ce04647de0728fb55eb8745cb59884a73542ddf3037923b4559ec3f&
     author:
       name: PenguLoader
       avatar: https://avatars.githubusercontent.com/u/126898920?v=4
@@ -1966,7 +1966,7 @@ listings:
     releaseUrl: https://github.com/Humildeficador/DisableQueues/releases/tag/1.0
     releaseTag: "1.0"
     releaseName: v1.0
-    image: https://media.discordapp.net/attachments/1200544287817994240/1200544288119996557/Screenshot_1.png?ex=6a627f7f&is=6a612dff&hm=fcd644e447a645be7bcbd1a305ba768e3f8020675f08a945c4b1b587027cb036&
+    image: https://media.discordapp.net/attachments/1200544287817994240/1200544288119996557/Screenshot_1.png?ex=6a63283f&is=6a61d6bf&hm=6f8cbbfec968be4203504df8d2f9e13849b5b36a7fd4deeb3e88ac3d45abfd26&
     author:
       name: Humildeficador
       avatar: https://avatars.githubusercontent.com/u/130767630?v=4
@@ -2020,7 +2020,7 @@ listings:
     releaseUrl: https://github.com/oMaikeru/PureBlack-Theme/releases/tag/v0.4
     releaseTag: v0.4
     releaseName: v0.4
-    image: https://media.discordapp.net/attachments/1107021081207914566/1107021081442783242/black-theme.PNG?ex=6a626639&is=6a6114b9&hm=a127c1f2c36ff8b78b0491e3fcdb8bd3c35ce174d5f6e82c9df27e1790ea16f9&
+    image: https://media.discordapp.net/attachments/1107021081207914566/1107021081442783242/black-theme.PNG?ex=6a630ef9&is=6a61bd79&hm=68a505879857724f7b5f82089b08a22159795a25cb3f203e9ebb392c37ea97e2&
     author:
       name: oMaikeru
       avatar: https://avatars.githubusercontent.com/u/76801149?v=4
