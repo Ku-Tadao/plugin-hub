@@ -1,7 +1,7 @@
 {
   "name": "Pengu Community Store registry",
   "version": 1,
-  "generatedAt": "2026-07-24T16:45:50.874Z",
+  "generatedAt": "2026-07-24T18:17:31.123Z",
   "source": {
     "guildId": "1069483280438673418",
     "forums": [
@@ -36,7 +36,7 @@
         "Enhancement"
       ],
       "discordUrl": "https://discord.com/channels/1069483280438673418/1370379492354162729/1370379492354162729",
-      "upvotes": 12,
+      "upvotes": 11,
       "updatedAt": "2026-07-23T16:38:20Z",
       "assets": [
         {
@@ -115,7 +115,7 @@
       "kind": "plugins",
       "name": "No close client message",
       "description": "This plugin automatically confirms the League Client exit dialog. - Source code: Cooming soon, i'm lazy - Download: Github url cooming soon, i'm lazy",
-      "image": "https://media.discordapp.net/attachments/1520847793256927293/1520847793411981413/57nwhtn.png?ex=6a644da1&is=6a62fc21&hm=ed834b8fb58425d7cc9b84ebd296c93c1fda99444119d992d48c68fc22310909&",
+      "image": "https://media.discordapp.net/attachments/1520847793256927293/1520847793411981413/57nwhtn.png?ex=6a64f661&is=6a63a4e1&hm=e81b9a09e8c6a85682307375e81759e47a85ed3e2478dd755d6419d3fddf30c7&",
       "author": {
         "name": "Elaina"
       },
@@ -129,7 +129,7 @@
         {
           "name": "NoCloseMessage.js",
           "size": 3475,
-          "downloadUrl": "https://cdn.discordapp.com/attachments/1520847793256927293/1520847873980371034/NoCloseMessage.js?ex=6a644db5&is=6a62fc35&hm=0b0570336416a8332aa315a55679f7ff06fd1467e5910675bfa7d16200c80632&",
+          "downloadUrl": "https://cdn.discordapp.com/attachments/1520847793256927293/1520847873980371034/NoCloseMessage.js?ex=6a64f675&is=6a63a4f5&hm=9c0f5cccd9ad7aefa29bd99bd0f6984fa0540b70b533245fbf5eb321b6474753&",
           "contentType": "text/javascript; charset=utf-8"
         },
         {
@@ -151,7 +151,7 @@
       "releaseUrl": "https://github.com/kyso1/KysoTheme/releases/tag/v3.5.1",
       "releaseTag": "v3.5.1",
       "releaseName": "v3.5.1",
-      "image": "https://media.discordapp.net/attachments/1240541534663868426/1240541534869262376/image.png?ex=6a644e56&is=6a62fcd6&hm=32dd991e4dce1d394120a120ec5a8e9409305c2304de5c0a38f15faace300b4e&",
+      "image": "https://media.discordapp.net/attachments/1240541534663868426/1240541534869262376/image.png?ex=6a64f716&is=6a63a596&hm=99c8d4415a97055a9eeb4c631ed6ce3d910c3ebbb04ee781d01e187abc1cdc7d&",
       "author": {
         "name": "kyso1",
         "avatar": "https://avatars.githubusercontent.com/u/128049220?v=4",
@@ -751,7 +751,7 @@
       "name": "Spotify Controller - In-game playback controls",
       "description": "A lightweight Spotify controller integrated directly into the League of Legends client using Pengu Loader. This project consists of two parts: a local Node.js authentication server and a client-side plugin.",
       "repo": "https://github.com/GogoChad/spotify-media-player",
-      "image": "https://media.discordapp.net/attachments/1499090537427243129/1499090537792143492/image.png?ex=6a64409b&is=6a62ef1b&hm=92a720cf5556d847075d996cdf3c89de3befaaeee9d647ad951e7331e009f04d&",
+      "image": "https://media.discordapp.net/attachments/1499090537427243129/1499090537792143492/image.png?ex=6a64e95b&is=6a6397db&hm=36e1e61db173651cba002d3153214c26cef55b93ea2bce998b8b5d58ecc13e5d&",
       "author": {
         "name": "GogoChad",
         "avatar": "https://avatars.githubusercontent.com/u/133820564?v=4",
@@ -1207,7 +1207,7 @@
         {
           "name": "Hide_Nonsense2.js",
           "size": 8079,
-          "downloadUrl": "https://cdn.discordapp.com/attachments/1395902555095171225/1440040589490917507/Hide_Nonsense2.js?ex=6a64528f&is=6a63010f&hm=e27308ee6b95ef62917c7fb5968e6dc97de0bf78466fda2a839c7003a7aafde2&",
+          "downloadUrl": "https://cdn.discordapp.com/attachments/1395902555095171225/1440040589490917507/Hide_Nonsense2.js?ex=6a64fb4f&is=6a63a9cf&hm=62769bf10c02b4068d551ed5a16bffac4f3bc0d8a631e59cd8d6c63a9ac801d6&",
           "contentType": "text/javascript; charset=utf-8"
         }
       ],
