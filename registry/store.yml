@@ -1,6 +1,6 @@
 name: Pengu Community Store registry
 version: 1
-generatedAt: 2026-07-25T17:30:43.457Z
+generatedAt: 2026-07-25T18:31:01.864Z
 source:
   guildId: "1069483280438673418"
   forums:
@@ -351,7 +351,7 @@ listings:
     description: "This plugin automatically confirms the League Client exit dialog.
       - Source code: Cooming soon, i'm lazy - Download: Github url cooming soon,
       i'm lazy"
-    image: https://media.discordapp.net/attachments/1520847793256927293/1520847793411981413/57nwhtn.png?ex=6a659f21&is=6a644da1&hm=6063f07eaa2ac0f73b00319053e4e94b3888b1386d62084546f57c9cf859271d&
+    image: https://media.discordapp.net/attachments/1520847793256927293/1520847793411981413/57nwhtn.png?ex=6a6647e1&is=6a64f661&hm=0595ae7b2f39e30630ff427a89c7298ee186fa2fba425c3b725c4c770f957bef&
     author:
       name: Elaina
     tags:
@@ -362,7 +362,7 @@ listings:
     assets:
       - name: NoCloseMessage.js
         size: 3475
-        downloadUrl: https://cdn.discordapp.com/attachments/1520847793256927293/1520847873980371034/NoCloseMessage.js?ex=6a659f35&is=6a644db5&hm=31bd438b378910d7ffcdbad2475cd012576c2530c4479a40e2d6af76d711dd62&
+        downloadUrl: https://cdn.discordapp.com/attachments/1520847793256927293/1520847873980371034/NoCloseMessage.js?ex=6a6647f5&is=6a64f675&hm=6cb001adf74b562f65120a9e602d070339f02a0957122b88a08e715cdbbb5dbf&
         contentType: text/javascript; charset=utf-8
       - name: NoCloseMessage.js
         size: 4163
@@ -407,7 +407,7 @@ listings:
     releaseUrl: https://github.com/kyso1/KysoTheme/releases/tag/v3.5.1
     releaseTag: v3.5.1
     releaseName: v3.5.1
-    image: https://media.discordapp.net/attachments/1240541534663868426/1240541534869262376/image.png?ex=6a659fd6&is=6a644e56&hm=5f6710b062ea7f997da74060d50da344043e162c755a73391ed08b28d74bc358&
+    image: https://media.discordapp.net/attachments/1240541534663868426/1240541534869262376/image.png?ex=6a664896&is=6a64f716&hm=36be3aa7e3f7550f86c6a537a8053e8a193c9a7cfa381c64fdfa71c4979cdde3&
     author:
       name: kyso1
       avatar: https://avatars.githubusercontent.com/u/128049220?v=4
@@ -1578,7 +1578,7 @@ listings:
     assets:
       - name: Hide_Nonsense2.js
         size: 8079
-        downloadUrl: https://cdn.discordapp.com/attachments/1395902555095171225/1440040589490917507/Hide_Nonsense2.js?ex=6a65a40f&is=6a64528f&hm=7df5599437c7a6414474974828470a9c34e338af21bbb36c60fc15ef12ba62e3&
+        downloadUrl: https://cdn.discordapp.com/attachments/1395902555095171225/1440040589490917507/Hide_Nonsense2.js?ex=6a664ccf&is=6a64fb4f&hm=0940f9d22dc2085ee65346b6dc5e036f703c9890e84b2f753807f6043f4d3ca8&
         contentType: text/javascript; charset=utf-8
     enriched: true
   - id: "1476888210436001904"
