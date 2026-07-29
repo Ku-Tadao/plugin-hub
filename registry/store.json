@@ -1,7 +1,7 @@
 {
   "name": "Pengu Community Store registry",
   "version": 1,
-  "generatedAt": "2026-07-29T01:02:03.853Z",
+  "generatedAt": "2026-07-29T04:46:05.700Z",
   "source": {
     "guildId": "1069483280438673418",
     "forums": [
@@ -16,6 +16,38 @@
     ]
   },
   "listings": [
+    {
+      "id": "1370379492354162729",
+      "kind": "plugins",
+      "name": "newDodgeTracker 新的躲避列表",
+      "description": "DodgeTracker 躲避列表工具 安装指南 下载并安装 Pengu Loader（要求版本 = 1.1.6） 从发布页面（ newDodgeTracker.zip 文件 将 ZIP 文件解压后放入客户端的 plugins 插件文件夹中 如何添加玩家到躲避列表？ 方法一：手动添加 打开英雄联盟客户端设置 找到「躲避追踪器」并点击「躲避列表」 在输入框按格式输入：玩家名称标签（例如：疾风剑豪456894） 点击「添加玩家」完成操作 方法二：快捷操作 在以下界面右键点击玩家名称： 对局结算界面 历史战绩页面 组队房间列表 选择「死亡笔记」选项即可 功能特性 支持玩家名称的标签（Tag）和备注功能 自动适配客户端语言（中文客户端显示中文，其他语言客户端显示英文） 致谢 本插件基于 iIlusion/DodgeTracker（ DodgeTracker Dodge List Tool Installation Guide Download and install Pengu Loader (requires version = 1.1.6) Download newDodgeTracker.zip from Releases page: Extract the ZIP file into the client's plugins folder How to Add Players to Dodge List? Method 1: Manual Addition Open League of Legends client settings Navigate to \"Dodge Tracker\" and click \"Dodge List\" Input in format: PlayerNameTag (e.g., Yasuo456894) Click \"Add Player\" to complete Method 2: Quick Action Right-click player names in: Post-game lobby Match history page Party member list Select \"Add to Dodge List\" option Features Supports player tags and notes Automatic language adaptation (Chinese for CN client, English for others) Acknowledgements Modified from iIlusion/DodgeTracker（ with added tag/note support and multilingual optimization. Thanks to the original author!",
+      "details": "# DodgeTracker v1.2.2 - Pengu Loader v1.2 Compatibility Fix\n\n## Bug Fix\n\nFixed champ select chat detection not working on **Pengu Loader v1.2**.\n\n### Problem\n\nThe endpoint `//riotclient/chat/v5/participants` that was used to fetch players in champ select **no longer works on Pengu Loader v1.2**. This caused DodgeTracker to fail silently — no player detection and no chat messages during champion select.\n\nThanks to **@Snooze** for helping identify the broken endpoint!\n\n### Solution\n\n- **Primary method changed**: Now uses the standard LCU API `/lol-champ-select/v1/session` to get player summoner IDs, then fetches game names via `/lol-summoner/v2/summoners`. This works on **all Pengu Loader versions**.\n- **Both teams included**: Now detects dodged players on both `myTeam` and `theirTeam`.\n- **Secondary fallback retained**: The old Riot Client chat API is kept as a backup, trying both `/riotclient/` and `//riotclient/` URL prefixes.\n- **Better error handling**: Added comprehensive `[DodgeTracker]` console logging throughout the champ select flow for easier debugging.\n- **Fixed `create()` method casing**: HTTP method is now normalized to uppercase.\n\n### Compatibility\n\n- **Pengu Loader v1.1.6**: Fully compatible (both methods work)\n- **Pengu Loader v1.2**: Fully compatible (LCU API method works)\n- All other features (settings panel, dodge list management, custom tags, language switching) were unaffected and continue to work on both versions.\n\n### Files Changed\n\n- `index.js` — Swapped player detection order, added both teams, improved logging\n- `tracker.js` — Fixed HTTP method casing, improved empty response handling\n- `chatService.js` — Added null checks, multiple message type fallbacks, better logging\n- `package.json` — Version bump to 1.2.2",
+      "repo": "https://github.com/yanghao0205/newDodgeTracker",
+      "releaseUrl": "https://github.com/yanghao0205/newDodgeTracker/releases/tag/v1.2.2",
+      "releaseTag": "v1.2.2",
+      "releaseName": "DodgeTracker v1.2.2 - Pengu Loader v1.2 Compatibility Fix",
+      "image": "https://media.discordapp.net/attachments/1370379492354162729/1370379493017128970/1.png?ex=6a6a9d1b&is=6a694b9b&hm=e00268a94b1860f739be0ba935dc1ca63046a2cc5608f70d4643748f2a6eaff1&",
+      "author": {
+        "name": "yanghao0205",
+        "avatar": "https://avatars.githubusercontent.com/u/52226844?v=4",
+        "github": "yanghao0205"
+      },
+      "tags": [
+        "Enhancement"
+      ],
+      "discordUrl": "https://discord.com/channels/1069483280438673418/1370379492354162729/1370379492354162729",
+      "upvotes": 12,
+      "updatedAt": "2026-07-29T03:17:39Z",
+      "assets": [
+        {
+          "name": "DodgeTracker.7z",
+          "size": 50807,
+          "downloadUrl": "https://github.com/yanghao0205/newDodgeTracker/releases/download/v1.2.2/DodgeTracker.7z",
+          "contentType": "application/x-7z-compressed"
+        }
+      ],
+      "enriched": true
+    },
     {
       "id": "1462451902028578940",
       "kind": "plugins",
@@ -39,38 +71,6 @@
           "size": 4929,
           "downloadUrl": "https://cdn.discordapp.com/attachments/1462451902028578940/1465476858241093662/index.js?ex=6a6a81ae&is=6a69302e&hm=cbc6feadc7e9a32f46eb214afc0bb0854a19d04c1d3bce75b112569698908d5a&",
           "contentType": "text/javascript; charset=utf-8"
-        }
-      ],
-      "enriched": true
-    },
-    {
-      "id": "1370379492354162729",
-      "kind": "plugins",
-      "name": "newDodgeTracker 新的躲避列表",
-      "description": "DodgeTracker 躲避列表工具 安装指南 下载并安装 Pengu Loader（要求版本 = 1.1.6） 从发布页面（ newDodgeTracker.zip 文件 将 ZIP 文件解压后放入客户端的 plugins 插件文件夹中 如何添加玩家到躲避列表？ 方法一：手动添加 打开英雄联盟客户端设置 找到「躲避追踪器」并点击「躲避列表」 在输入框按格式输入：玩家名称标签（例如：疾风剑豪456894） 点击「添加玩家」完成操作 方法二：快捷操作 在以下界面右键点击玩家名称： 对局结算界面 历史战绩页面 组队房间列表 选择「死亡笔记」选项即可 功能特性 支持玩家名称的标签（Tag）和备注功能 自动适配客户端语言（中文客户端显示中文，其他语言客户端显示英文） 致谢 本插件基于 iIlusion/DodgeTracker（ DodgeTracker Dodge List Tool Installation Guide Download and install Pengu Loader (requires version = 1.1.6) Download newDodgeTracker.zip from Releases page: Extract the ZIP file into the client's plugins folder How to Add Players to Dodge List? Method 1: Manual Addition Open League of Legends client settings Navigate to \"Dodge Tracker\" and click \"Dodge List\" Input in format: PlayerNameTag (e.g., Yasuo456894) Click \"Add Player\" to complete Method 2: Quick Action Right-click player names in: Post-game lobby Match history page Party member list Select \"Add to Dodge List\" option Features Supports player tags and notes Automatic language adaptation (Chinese for CN client, English for others) Acknowledgements Modified from iIlusion/DodgeTracker（ with added tag/note support and multilingual optimization. Thanks to the original author!",
-      "details": "# DodgeTracker v1.2.0 Release Notes\n\n## 🎉 Major Update: Custom Tags & Full Language Coverage!\n\nThis update brings custom tag management, full 22-language coverage for all LOL client languages, a runtime language switcher, and numerous UX improvements.\n\n### ✨ New Features\n\n#### 🏷️ Custom Tag System\n- **Create your own tags**: Users can now create custom tags to categorize players however they want\n- **Auto-cleanup**: Custom tags are automatically removed when no players reference them anymore, keeping your tag list clean\n- **Export/Import compatible**: Custom tags are included in the v2 export format `{version:2, players, customTags}`, with backward compatibility for old formats\n- **Preset tags preserved**: AFK, Troll, Unskilled, and My Killer remain as non-deletable presets\n\n#### 🌍 Full Language Coverage (22 Languages)\n- **Expanded from 19 to 22 languages**, now covering ALL League of Legends client languages:\n  - English (en_US) - Default\n  - Simplified Chinese (zh_CN)\n  - Traditional Chinese (zh_TW)\n  - Chinese Malaysia (zh_MY)\n  - Russian (ru_RU)\n  - Arabic (ar_AE)\n  - Indonesian (id_ID)\n  - Czech (cs_CZ)\n  - German (de_DE)\n  - Greek (el_GR)\n  - Spanish (es_ES)\n  - French (fr_FR)\n  - Hungarian (hu_HU)\n  - Italian (it_IT)\n  - Japanese (ja_JP)\n  - Korean (ko_KR)\n  - Polish (pl_PL)\n  - Portuguese (pt_BR)\n  - Romanian (ro_RO)\n  - Thai (th_TH)\n  - Turkish (tr_TR)\n  - Vietnamese (vi_VN)\n\n#### 🔄 Runtime Language Switcher\n- **Switch languages on the fly**: A language dropdown in the settings panel lets you preview any language without restarting\n- **Auto-detect priority**: Defaults to automatic client language detection; manual switch is runtime-only and resets on restart\n- **Settings UI refresh**: Switching language now refreshes the settings window title and sidebar in real-time\n\n#### 🗂️ Filter Group Collapse\n- **Preset tags**: Always visible in the filter area\n- **Custom tags**: Collapsed under a \"Custom Tags\" dropdown, expandable with one click\n- **Cleaner UI**: Reduces clutter when you have many custom tags\n\n#### ⚠️ Clear List Confirmation\n- **Safety dialog**: Clearing the dodge list now shows a confirmation dialog asking if you have exported/saved your list first\n- **Prevents accidental data loss**\n\n### 🔄 Changes\n\n#### Tag System Updates\n- **Removed Toxic tag**: Streamlined to 4 preset tags (AFK, Troll, Unskilled, My Killer)\n- **Death Note meme**: The death note label is preserved only in zh_CN as an anime reference; other Chinese variants use functional description\n- **Improved tag translations**: Refined translations across all languages for accuracy\n\n#### Death Note Modal Improvements\n- Custom tags in the death note modal are grouped under a collapsible Custom Tags section\n- Auto-expands when the player already has custom tags or when a new custom tag is first created\n- Enter key shortcut for quick tag creation\n\n#### Dodge List View Improvements\n- Player rows only show assigned tags (highlighted), not all available tags\n- Per-player tag management modal (replaces global tag manager)\n- Fixed button layout: Note, Manage Tags, Remove (single row)\n\n### 🐛 Bug Fixes\n\n- Fixed custom tags disappearing after switching languages (cleanup logic improved with empty-list protection)\n- Fixed sidebar not refreshing when switching back to auto-detect\n- Fixed note button position issue in player list rows\n- Fixed custom tag creation not working after the first use\n- Improved cleanupUnusedCustomTags safety: skips cleanup when player list is empty (non-force mode)\n\n### 📈 Compatibility\n\n- **Pengu Loader**: Requires version >= 1.1.0\n- **League of Legends**: Supports all latest versions\n- **Operating Systems**: Windows 10/11\n\n---\n\n**Note**: Translations are primarily AI-generated and continuously refined. If you find any translation issues or would like to improve translation quality, please submit an Issue or Pull Request on the GitHub repository.\n\nEnjoy the enhanced DodgeTracker experience!",
-      "repo": "https://github.com/yanghao0205/newDodgeTracker",
-      "releaseUrl": "https://github.com/yanghao0205/newDodgeTracker/releases/tag/v1.2.0",
-      "releaseTag": "v1.2.0",
-      "releaseName": "DodgeTracker v1.2.0 - Custom Tags & Full Language Coverage",
-      "image": "https://media.discordapp.net/attachments/1370379492354162729/1370379493017128970/1.png?ex=6a6a9d1b&is=6a694b9b&hm=e00268a94b1860f739be0ba935dc1ca63046a2cc5608f70d4643748f2a6eaff1&",
-      "author": {
-        "name": "yanghao0205",
-        "avatar": "https://avatars.githubusercontent.com/u/52226844?v=4",
-        "github": "yanghao0205"
-      },
-      "tags": [
-        "Enhancement"
-      ],
-      "discordUrl": "https://discord.com/channels/1069483280438673418/1370379492354162729/1370379492354162729",
-      "upvotes": 12,
-      "updatedAt": "2026-07-23T16:38:20Z",
-      "assets": [
-        {
-          "name": "DodgeTracker.7z",
-          "size": 49699,
-          "downloadUrl": "https://github.com/yanghao0205/newDodgeTracker/releases/download/v1.2.0/DodgeTracker.7z",
-          "contentType": "application/x-7z-compressed"
         }
       ],
       "enriched": true
@@ -257,7 +257,7 @@
       "kind": "plugins",
       "name": "Full length ARAM music",
       "description": "A plugin to bring back full length ARAM music on champion select",
-      "image": "https://media.discordapp.net/attachments/1469142886330273884/1469142887424983214/channels4_profile.jpg?ex=6a6a002f&is=6a68aeaf&hm=d4caced3774d1786916c3e4b6ff9131a4a51bde31825ef48e7d8587e6ff7b82b&",
+      "image": "https://media.discordapp.net/attachments/1469142886330273884/1469142887424983214/channels4_profile.jpg?ex=6a6aa8ef&is=6a69576f&hm=0d4058c0a35476823ae1772ecc87d5b89b6ed9bfb9c66079fc954a30f1b4ca79&",
       "author": {
         "name": "Blue Cartoon Cat"
       },
@@ -381,7 +381,7 @@
       "releaseUrl": "https://github.com/Elaina69/Elaina-theme/releases/tag/v4.5.1",
       "releaseTag": "v4.5.1",
       "releaseName": "",
-      "image": "https://media.discordapp.net/attachments/1373696348284653628/1373696348653617315/fh98jYI.png?ex=6a6a27eb&is=6a68d66b&hm=bc273c2a3fcf16bd31f22d913be29551afc75408b4c9890ad49c594a3bf7709f&",
+      "image": "https://media.discordapp.net/attachments/1373696348284653628/1373696348653617315/fh98jYI.png?ex=6a6ad0ab&is=6a697f2b&hm=45a5840ade0efee20b7576c72fb8121d04158d3522d24484a216eddff99ad36c&",
       "author": {
         "name": "Elaina69",
         "avatar": "https://avatars.githubusercontent.com/u/94338907?v=4",
@@ -460,7 +460,7 @@
       "kind": "themes",
       "name": "Minimalist Debloat Theme",
       "description": "No description provided.",
-      "image": "https://media.discordapp.net/attachments/1491806616415244459/1491806616750915705/wasupdud.png?ex=6a6a0dad&is=6a68bc2d&hm=e19606bcb1ae83ba221f4fd2df25bba115e79746d4e6857a78a263b621e5c65e&",
+      "image": "https://media.discordapp.net/attachments/1491806616415244459/1491806616750915705/wasupdud.png?ex=6a6ab66d&is=6a6964ed&hm=24e24fb1d97711a55c9fddb33697e8713cc51cba5ad3f6cd204be20181f26b28&",
       "author": {
         "name": "莫嘎 | Mogą"
       },
@@ -581,7 +581,7 @@
       "releaseUrl": "https://github.com/Yimikami/pengu-plugins/releases/tag/PenguFamily_v0.1.0",
       "releaseTag": "PenguFamily_v0.1.0",
       "releaseName": "Pengu Family v0.1.0",
-      "image": "https://media.discordapp.net/attachments/1411366905247170621/1411743618388983931/image.png?ex=6a6a24b3&is=6a68d333&hm=567e983ce64af650cbec738a5da2c074808b8157f251ac5836b56c8a6df26a94&",
+      "image": "https://media.discordapp.net/attachments/1411366905247170621/1411743618388983931/image.png?ex=6a6acd73&is=6a697bf3&hm=29572b7e5d3874d39535a1c09604dddd2cacaa21cabda956cf94b9325586a757&",
       "author": {
         "name": "Yimikami",
         "avatar": "https://avatars.githubusercontent.com/u/39545057?v=4",
@@ -697,7 +697,7 @@
       "kind": "plugins",
       "name": "S9 League of legends ranked borders",
       "description": "This plugin will change your profile ranked image to old ones that i think was looking the best in the whole rank history! It was made by <@1246591176791035946 he helped me doing it for myself so i wanted to give him the credits for it + share it with you guys cuz u might wanna use it!",
-      "image": "https://media.discordapp.net/attachments/1414636794124832851/1414636794858700900/oldborders.png?ex=6a6a1f2e&is=6a68cdae&hm=861e6f6231624bbd1890598b64de7007b447c9d058fafbf69e63340434835585&",
+      "image": "https://media.discordapp.net/attachments/1414636794124832851/1414636794858700900/oldborders.png?ex=6a6ac7ee&is=6a69766e&hm=07f218fb875b3115a2f176e714d0ec34b9881d6d096d2ea527626deca17c000b&",
       "author": {
         "name": "Samuraj"
       },
@@ -712,7 +712,7 @@
         {
           "name": "s9-ranked-borders.zip",
           "size": 945105,
-          "downloadUrl": "https://cdn.discordapp.com/attachments/1414636794124832851/1414636795714338886/s9-ranked-borders.zip?ex=6a6a1f2e&is=6a68cdae&hm=03dd6f077a4a7d315895850d1f71f2e3f675acfbfac4694da81edd6c13d5f5c1&",
+          "downloadUrl": "https://cdn.discordapp.com/attachments/1414636794124832851/1414636795714338886/s9-ranked-borders.zip?ex=6a6ac7ee&is=6a69766e&hm=cc0392df9f884528150377a8063409a02df9e003a13078b6dde2b2ef3332284b&",
           "contentType": "application/zip"
         }
       ],
@@ -799,7 +799,7 @@
       "releaseUrl": "https://github.com/ReformedDoge/Mayhem-Doctor/releases/tag/V1.2.0",
       "releaseTag": "V1.2.0",
       "releaseName": "v1.2.0 - New Option: Render in a separate dedicated pop-out window, Refactor: responsive dashboard layout",
-      "image": "https://media.discordapp.net/attachments/1475139802482479317/1475139803027607734/ilfu6zl.gif?ex=6a6a107f&is=6a68beff&hm=9fd00f94fe90c6a5201befbefe19e83fcd2f0fa9ec60324c5f598f5268f38e81&",
+      "image": "https://media.discordapp.net/attachments/1475139802482479317/1475139803027607734/ilfu6zl.gif?ex=6a6ab93f&is=6a6967bf&hm=e6990adc5aa8753ab84586a8a93a16c0dd79b07c0234bc8a5893cf1f42438b25&",
       "author": {
         "name": "ReformedDoge",
         "avatar": "https://avatars.githubusercontent.com/u/39759213?v=4",
@@ -833,7 +833,7 @@
       "releaseUrl": "https://github.com/ErisuGreyrat/Pengu-Background-Customizer/releases/tag/2.0",
       "releaseTag": "2.0",
       "releaseName": "V2",
-      "image": "https://media.discordapp.net/attachments/1373487727861039115/1373487728985116703/image.png?ex=6a6a0e60&is=6a68bce0&hm=4d4d0961e3d43986c203c5d8f6457c9b9a7d9aa68b95f3ce687c2a0acad75e23&",
+      "image": "https://media.discordapp.net/attachments/1373487727861039115/1373487728985116703/image.png?ex=6a6ab720&is=6a6965a0&hm=ee557441522f221ac8ca89c7df25f98fb23dd82e57218a04cb468a2d513dcde5&",
       "author": {
         "name": "ErisuGreyrat",
         "avatar": "https://avatars.githubusercontent.com/u/179902803?v=4",
@@ -1167,7 +1167,7 @@
       "releaseUrl": "https://github.com/ErisuGreyrat/acrylic-league-theme/releases/tag/1.9.3",
       "releaseTag": "1.9.3",
       "releaseName": "v1.9.3",
-      "image": "https://media.discordapp.net/attachments/1373486870054441210/1373486870553694360/image.png?ex=6a6a0d94&is=6a68bc14&hm=b23e9ea380b6bf792faa6d03825f39f3f643052526d577e6562b8a083bceac19&",
+      "image": "https://media.discordapp.net/attachments/1373486870054441210/1373486870553694360/image.png?ex=6a6ab654&is=6a6964d4&hm=4d4c5cc0bfa8c7a19e9e5fec17833d6ed17f4b38d75b01a63a49af6f562e0459&",
       "author": {
         "name": "ErisuGreyrat",
         "avatar": "https://avatars.githubusercontent.com/u/179902803?v=4",
@@ -1359,7 +1359,7 @@
       "releaseUrl": "https://github.com/kyso1/tft-client-theme/releases/tag/v1.0",
       "releaseTag": "v1.0",
       "releaseName": "v1.0",
-      "image": "https://media.discordapp.net/attachments/1462077280728780861/1462077814324068548/nUvdXBx.png?ex=6a6a0193&is=6a68b013&hm=22021b69787109923124e65d1a3f5b4956e10654e8b037444952553b3a24c6b8&",
+      "image": "https://media.discordapp.net/attachments/1462077280728780861/1462077814324068548/nUvdXBx.png?ex=6a6aaa53&is=6a6958d3&hm=f7860405f3765008834ed94520afc6ab78ad86714f8ce20f0c8029ac245a7a11&",
       "author": {
         "name": "kyso1",
         "avatar": "https://avatars.githubusercontent.com/u/128049220?v=4",
@@ -1389,7 +1389,7 @@
       "kind": "plugins",
       "name": "community pact popup blocker",
       "description": "this plugin blocks the new community pact popup when you first login, now technically you can say \"ive never agreed to it\" so you can therefore be as toxic as you want.",
-      "image": "https://media.discordapp.net/attachments/1458822729414217954/1458822729716469913/image.png?ex=6a6a078a&is=6a68b60a&hm=840e3248246930945da5d098f18da0e1202c773328c043850175f00200c39012&",
+      "image": "https://media.discordapp.net/attachments/1458822729414217954/1458822729716469913/image.png?ex=6a6ab04a&is=6a695eca&hm=5bb4df0bb94c5e61b3ee4842770e8a06384e77495b111a818f04fe0e7290c7fc&",
       "author": {
         "name": "Cat Bot"
       },
@@ -1403,7 +1403,7 @@
         {
           "name": "RiotPactBlocker.js",
           "size": 508,
-          "downloadUrl": "https://cdn.discordapp.com/attachments/1458822729414217954/1458822730198810674/RiotPactBlocker.js?ex=6a6a078a&is=6a68b60a&hm=a2f71a8eb79daf0251253dbf78a8649bcb2c3ad47d9ba5256103e74c5265cc47&",
+          "downloadUrl": "https://cdn.discordapp.com/attachments/1458822729414217954/1458822730198810674/RiotPactBlocker.js?ex=6a6ab04a&is=6a695eca&hm=96ca2411ea81d0654ca4b5ad2c2322de8aebd1938b09717a482aac482f130124&",
           "contentType": "text/javascript; charset=utf-8"
         }
       ],
@@ -1483,7 +1483,7 @@
       "name": "Acrylical  theme fork version",
       "description": "custom theme for lick of leg-ends launcher",
       "repo": "https://github.com/watchingfun/league-launcher-theme",
-      "image": "https://media.discordapp.net/attachments/1365312229775511603/1365312230337282048/image.png?ex=6a69fa19&is=6a68a899&hm=ee29ed08cc43407ba43675a454bdad597a7053ef8a7a0beb92e2a57d24f51579&",
+      "image": "https://media.discordapp.net/attachments/1365312229775511603/1365312230337282048/image.png?ex=6a6aa2d9&is=6a695159&hm=f346ea1ec22c379df3160bc2d8acc919d422f046cd4e19997cefb9287bb876c2&",
       "author": {
         "name": "watchingfun",
         "avatar": "https://avatars.githubusercontent.com/u/22067924?v=4",
@@ -1535,7 +1535,7 @@
       "kind": "plugins",
       "name": "Old patch version number",
       "description": "Displays 15.2 instead of 25.S1.2 Source: js import as upl from 'pengu-upl'; export function init(context: any) { upl.init(context); upl.hooks.xhr.hookPost(/lol-client-config/v3/client-config/lol.clientsettings.displaylegacypatchnumbers, (xhr, original) = { Object.defineProperty(xhr, 'responseText', { writable: true, value: true }); original(); }); } Download ⬇⬇⬇⬇⬇⬇",
-      "image": "https://media.discordapp.net/attachments/1332168478148399285/1332168478710562837/image.png?ex=6a6a07d3&is=6a68b653&hm=ebc15d1f75453df2488ff5949450cffec9c76383067c7d1004ec57b0c912899d&",
+      "image": "https://media.discordapp.net/attachments/1332168478148399285/1332168478710562837/image.png?ex=6a6ab093&is=6a695f13&hm=cbcd02c1021479b8d1ea2001e30f28b727539699b1b6f203a364710b58e5ff92&",
       "author": {
         "name": "kebs"
       },
@@ -1551,7 +1551,7 @@
         {
           "name": "OldPatchNumber.js",
           "size": 4610,
-          "downloadUrl": "https://cdn.discordapp.com/attachments/1332168478148399285/1332168478936797226/OldPatchNumber.js?ex=6a6a07d3&is=6a68b653&hm=d12ddacd74c32f54a06483da283862071756f69de3809cc0812cb539a0d0fd98&",
+          "downloadUrl": "https://cdn.discordapp.com/attachments/1332168478148399285/1332168478936797226/OldPatchNumber.js?ex=6a6ab093&is=6a695f13&hm=94aa9b3eb12c2a2b3a6aeea0a78b5161b3453544022b9c0489727628122b0034&",
           "contentType": "application/javascript; charset=utf-8"
         }
       ],
@@ -1623,7 +1623,7 @@
       "name": "ScarletRed",
       "description": "ScarletRed theme ( Original from ElainaV3) for Pengu loader",
       "repo": "https://github.com/R3mia/ScarletRed",
-      "image": "https://media.discordapp.net/attachments/1183799859342483476/1183799859707379803/image.png?ex=6a6a2308&is=6a68d188&hm=90ed25521028a16524d5cee58dc941b881d5459110957322c12b4893f380a356&",
+      "image": "https://media.discordapp.net/attachments/1183799859342483476/1183799859707379803/image.png?ex=6a6acbc8&is=6a697a48&hm=198b65d6081d6a94f1c90b948b883a7645babb56dd64b2882ae5b068e1879216&",
       "author": {
         "name": "R3mia",
         "avatar": "https://avatars.githubusercontent.com/u/72246166?v=4",
@@ -1686,7 +1686,7 @@
       "releaseUrl": "https://github.com/lolpyken/pyken/releases/tag/1",
       "releaseTag": "1",
       "releaseName": "Pyken",
-      "image": "https://media.discordapp.net/attachments/1305881618757582869/1305881619210436649/Screenshot_2024-11-12_071546.png?ex=6a69fb08&is=6a68a988&hm=f46baeb0371d157030ace4a93d8321bb61f44b4cf4eebeae70637cf00abe9062&",
+      "image": "https://media.discordapp.net/attachments/1305881618757582869/1305881619210436649/Screenshot_2024-11-12_071546.png?ex=6a6aa3c8&is=6a695248&hm=82b2e2a540c9511ca106c781d8cafe17ff63c4efa4d3bac174f9ae52060d2619&",
       "author": {
         "name": "lolpyken",
         "avatar": "https://avatars.githubusercontent.com/u/34245482?v=4",
@@ -1734,7 +1734,7 @@
       "releaseUrl": "https://github.com/nomi-san/ahri-theme/releases/tag/240221",
       "releaseTag": "240221",
       "releaseName": "ahri-theme-240221",
-      "image": "https://media.discordapp.net/attachments/1095736862187991232/1095736862741635283/68747470733a2f2f692e696d6775722e636f6d2f74617a504e484e2e706e67.png?ex=6a6a2079&is=6a68cef9&hm=98c5592140713dffa5016dc8caa3224a5afad14cf12c6bc727c9d26d5418d8fe&",
+      "image": "https://media.discordapp.net/attachments/1095736862187991232/1095736862741635283/68747470733a2f2f692e696d6775722e636f6d2f74617a504e484e2e706e67.png?ex=6a6ac939&is=6a6977b9&hm=826ec24e435c0efca79cdbb1178245b36d31ab44d926c571d08298eb40c40ed1&",
       "author": {
         "name": "nomi-san",
         "avatar": "https://avatars.githubusercontent.com/u/38210249?v=4",
@@ -1796,7 +1796,7 @@
       "releaseUrl": "https://github.com/egirlcatnip/league-theme-mica/releases/tag/Releases",
       "releaseTag": "Releases",
       "releaseName": "Release v1.6",
-      "image": "https://media.discordapp.net/attachments/1165305978187681803/1165305978674216970/shot.png?ex=6a6a17c3&is=6a68c643&hm=80cbbdb4c9c3436c57b810dc2d9672c40389f8bd9d0cdcef1d387205e8087010&",
+      "image": "https://media.discordapp.net/attachments/1165305978187681803/1165305978674216970/shot.png?ex=6a6ac083&is=6a696f03&hm=3a92abb00a1c42ed5572e1b037dac1c4814c89c403a2c24ab097352259f82525&",
       "author": {
         "name": "egirlcatnip",
         "avatar": "https://avatars.githubusercontent.com/u/26607304?v=4",
@@ -1861,7 +1861,7 @@
       "releaseUrl": "https://github.com/nomi-san/indie-theme/releases/tag/release/lts",
       "releaseTag": "release/lts",
       "releaseName": "indie-theme-lts",
-      "image": "https://media.discordapp.net/attachments/1176518022312247296/1176518022651990097/284592384-6b8b2c3d-1927-467b-99aa-ae1e10f4b69e.png?ex=6a6a034b&is=6a68b1cb&hm=b86a693748b0507470c136dca16ae430603fd17d42140cc6f4b1c90ad941b536&",
+      "image": "https://media.discordapp.net/attachments/1176518022312247296/1176518022651990097/284592384-6b8b2c3d-1927-467b-99aa-ae1e10f4b69e.png?ex=6a6aac0b&is=6a695a8b&hm=fbf4f7fb1a6558e4a44088c391f48d0860e8ad9dc4d2016e2d27c875e498c5d0&",
       "author": {
         "name": "nomi-san",
         "avatar": "https://avatars.githubusercontent.com/u/38210249?v=4",
@@ -1906,7 +1906,7 @@
       "name": "GrayscaleV2",
       "description": "Grayscale theme for Pengu-loader.",
       "repo": "https://github.com/rviid/league-grayscale-theme",
-      "image": "https://media.discordapp.net/attachments/1166033741186076793/1166033741597130852/grayscalev2.png?ex=6a6a1a8b&is=6a68c90b&hm=d3e61c3346311fd09eba369264736a243dad725c7f4ac67b565b6a2824fb29bb&",
+      "image": "https://media.discordapp.net/attachments/1166033741186076793/1166033741597130852/grayscalev2.png?ex=6a6ac34b&is=6a6971cb&hm=90042606414c5c499e2be29bcc16792fa52aced19b9bffc12fa368a291d076f7&",
       "author": {
         "name": "rviid",
         "avatar": "https://avatars.githubusercontent.com/u/147655674?v=4",
@@ -1925,7 +1925,7 @@
       "name": "Rem Theme",
       "description": "Plug-ins I made to be used in league-loader",
       "repo": "https://github.com/Lyfhael/league-loader-plugins",
-      "image": "https://media.discordapp.net/attachments/1080303567216332900/1080303567883218995/4MGf2QS.png?ex=6a6a02d9&is=6a68b159&hm=8897d2e106df900f28d5ccc76cdc3d42265c34720eda5f0df500693ef38f7a1f&",
+      "image": "https://media.discordapp.net/attachments/1080303567216332900/1080303567883218995/4MGf2QS.png?ex=6a6aab99&is=6a695a19&hm=d36e041531e076ed482af36cb45819a5f6faa406bf107c28ba4d03e9261eb3f8&",
       "author": {
         "name": "Lyfhael",
         "avatar": "https://avatars.githubusercontent.com/u/43145883?v=4",
@@ -1989,7 +1989,7 @@
       "releaseUrl": "https://github.com/HerXayah/league-launcher-theme/releases/tag/treetard",
       "releaseTag": "treetard",
       "releaseName": "JS File",
-      "image": "https://media.discordapp.net/attachments/1077961395393536092/1077970085148381214/chrome_zATRdGurSO.png?ex=6a6a1760&is=6a68c5e0&hm=35f1c8acc85dfb498b6414c3fb5b2c1f7ee1ca32815e00c68110a2e709b2ba9b&",
+      "image": "https://media.discordapp.net/attachments/1077961395393536092/1077970085148381214/chrome_zATRdGurSO.png?ex=6a6ac020&is=6a696ea0&hm=6566e358b71e970e708f91509c035e12d3748c176bcff5e9c6489913e8084eaa&",
       "author": {
         "name": "HerXayah",
         "avatar": "https://avatars.githubusercontent.com/u/45071533?v=4",
@@ -2024,7 +2024,7 @@
       "releaseUrl": "https://github.com/HerXayah/league-launcher-theme/releases/tag/treetard",
       "releaseTag": "treetard",
       "releaseName": "JS File",
-      "image": "https://media.discordapp.net/attachments/1077970301192769636/1077970301666734080/PDHdfhl.png?ex=6a6a1793&is=6a68c613&hm=7a23f3777304dd1de6ee93ea4f2567387abe3641ac9a985af6b8c6d0618e277a&",
+      "image": "https://media.discordapp.net/attachments/1077970301192769636/1077970301666734080/PDHdfhl.png?ex=6a6ac053&is=6a696ed3&hm=5677cf2307e043a344aa94e3c06f99c3d4d8aae925da8f9d10c4cdaebdbe2999&",
       "author": {
         "name": "HerXayah",
         "avatar": "https://avatars.githubusercontent.com/u/45071533?v=4",
