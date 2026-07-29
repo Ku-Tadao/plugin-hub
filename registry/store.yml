@@ -1,6 +1,6 @@
 name: Pengu Community Store registry
 version: 1
-generatedAt: 2026-07-29T22:00:29.669Z
+generatedAt: 2026-07-29T23:06:40.106Z
 source:
   guildId: "1069483280438673418"
   forums:
@@ -142,7 +142,7 @@ listings:
     assets:
       - name: index.js
         size: 4929
-        downloadUrl: https://cdn.discordapp.com/attachments/1462451902028578940/1465476858241093662/index.js?ex=6a6b2a6e&is=6a69d8ee&hm=5055431d514dcde45e3eb4d2b9a73ed3a4708304bd399bdf37f0e156738ab9e3&
+        downloadUrl: https://cdn.discordapp.com/attachments/1462451902028578940/1465476858241093662/index.js?ex=6a6bd32e&is=6a6a81ae&hm=9bcc34c801f814f23cf568d14fbfe7b90007552e21982193e5f8087946b672e4&
         contentType: text/javascript; charset=utf-8
     enriched: true
   - id: "1512550218044805150"
@@ -815,7 +815,7 @@ listings:
     releaseUrl: https://github.com/Yimikami/pengu-plugins/releases/tag/PenguFamily_v0.1.0
     releaseTag: PenguFamily_v0.1.0
     releaseName: Pengu Family v0.1.0
-    image: https://media.discordapp.net/attachments/1503337548993265687/1503337549404311693/tb.png?ex=6a6b2232&is=6a69d0b2&hm=aa1b9d5c1fcf2eacad2b00388df1314ede511dd21191eb8c9fc8b80eaada8341&
+    image: https://media.discordapp.net/attachments/1503337548993265687/1503337549404311693/tb.png?ex=6a6bcaf2&is=6a6a7972&hm=307718b2b7335a698ea0c1bd6bd5626fe660ce95ad635868abde225af2fc4998&
     author:
       name: Yimikami
       avatar: https://avatars.githubusercontent.com/u/39545057?v=4
@@ -911,7 +911,7 @@ listings:
       hover tooltip, and your profile page. BNC Button in Lobby as always with
       my plugins. ⚠️ Client-side only — only you can see the change. Other
       players still see your actual equipped banner.
-    image: https://media.discordapp.net/attachments/1499358177052069899/1499358177840467968/4hbdb93.png?ex=6a6b289e&is=6a69d71e&hm=f561c8f5533e8e3a713ba1f06747d2721e7d779e1849ef24033cec243111827d&
+    image: https://media.discordapp.net/attachments/1499358177052069899/1499358177840467968/4hbdb93.png?ex=6a6bd15e&is=6a6a7fde&hm=8c8278952d7cd821eb60b5e9157b7e9f4e44234ae7524d2f090d4a2491c9496a&
     author:
       name: Eris Greyrat
     tags:
@@ -924,7 +924,7 @@ listings:
     assets:
       - name: Banner-Customizer.js
         size: 56598
-        downloadUrl: https://cdn.discordapp.com/attachments/1499358177052069899/1499358178658222220/Banner-Customizer.js?ex=6a6b289e&is=6a69d71e&hm=652927ce0f7f30425375115cbee904b6defa527c0022e96d3f8cd3cc80d9a6c1&
+        downloadUrl: https://cdn.discordapp.com/attachments/1499358177052069899/1499358178658222220/Banner-Customizer.js?ex=6a6bd15e&is=6a6a7fde&hm=623730d1d642ffcfe685f58d4f30ce3a2f6939bd8058488a26899c7714719091&
         contentType: text/javascript; charset=utf-8
     enriched: true
   - id: "1499090537427243129"
@@ -1126,7 +1126,7 @@ listings:
     releaseUrl: https://github.com/Ventoba/3DSkinViewer/releases/tag/v1.0
     releaseTag: v1.0
     releaseName: v1.0
-    image: https://media.discordapp.net/attachments/1490663854059950280/1490663854391427183/example2.PNG?ex=6a6b2b66&is=6a69d9e6&hm=989731ee356d4468240c7d242c7b18cc51f60e47d13adfb4e311f2c01ae435b6&
+    image: https://media.discordapp.net/attachments/1490663854059950280/1490663854391427183/example2.PNG?ex=6a6bd426&is=6a6a82a6&hm=25d1fd521b6e2fa35689ccac036f34f515c33f999902308844722f4c27ed9b3f&
     author:
       name: Ventoba
       avatar: https://avatars.githubusercontent.com/u/96593577?v=4
@@ -1501,7 +1501,7 @@ listings:
     name: HideChampName
     description: Hides enemy champion names in Champion Select for League of Legends
     repo: https://github.com/Mixiruri/AnonymousEnemies
-    image: https://media.discordapp.net/attachments/1476888210436001904/1476888211044171848/preview.webp?ex=6a6b26d4&is=6a69d554&hm=1be01732873fe1342072da77245065b001075e798412ed3b71c68b25550b5b54&
+    image: https://media.discordapp.net/attachments/1476888210436001904/1476888211044171848/preview.webp?ex=6a6bcf94&is=6a6a7e14&hm=41a450b4bf3674539deaad4a8265f98c366ad2d5a58ac8cfb7a8e2afcd648fcc&
     author:
       name: Mixiruri
       avatar: https://avatars.githubusercontent.com/u/255986660?v=4
@@ -1621,7 +1621,7 @@ listings:
     name: Blue Essence Icon Swapper
     description: "Blue Essence Icon Swapper How to use: Click the BE icon to change
       icon. Click the BE icon to select new image/reset to standard."
-    image: https://media.discordapp.net/attachments/1468009747780210791/1468019006991634432/Screenshot_2026-02-02_232517.png?ex=6a6b2f7d&is=6a69ddfd&hm=9b1cdedca7de0c337ecdd7b02792a5e716bf51ee3391877f8aac5f203cb1a6f4&
+    image: https://media.discordapp.net/attachments/1468009747780210791/1468019006991634432/Screenshot_2026-02-02_232517.png?ex=6a6bd83d&is=6a6a86bd&hm=bf5260b77df38050bb0355e86b64e43a661c7e3e9402f438f9c80caf07234901&
     author:
       name: Ilkay
     tags:
@@ -1632,7 +1632,7 @@ listings:
     assets:
       - name: BE-Icon-Swapper.js
         size: 6253
-        downloadUrl: https://cdn.discordapp.com/attachments/1468009747780210791/1468019008229081235/BE-Icon-Swapper.js?ex=6a6b2f7e&is=6a69ddfe&hm=28e557d628267fbebecbca365fc05372003abc0c04d4e756d324e151865e35be&
+        downloadUrl: https://cdn.discordapp.com/attachments/1468009747780210791/1468019008229081235/BE-Icon-Swapper.js?ex=6a6bd83e&is=6a6a86be&hm=3b77793b1d2580b88b976ead7a191369c3d99cf1ea9e284432f38b106fd90145&
         contentType: text/javascript; charset=utf-8
     enriched: true
   - id: "1462077280728780861"
@@ -1701,7 +1701,7 @@ listings:
       from \"plugin request\" section long ago, now i can't find who developed
       it. They will be credited as soon as they reach out"
     repo: https://github.com/asherathegod/penguplugins
-    image: https://media.discordapp.net/attachments/1371799042832597054/1371799043575123978/EbMqICb.png?ex=6a6b29ea&is=6a69d86a&hm=1767126656de6bb9ed7aace7ad22a05f0348c1458d463d1e8ef3ff97689c1db3&
+    image: https://media.discordapp.net/attachments/1371799042832597054/1371799043575123978/EbMqICb.png?ex=6a6bd2aa&is=6a6a812a&hm=cf14fcaf5e2ef990f93612ee141aebe26f38298ab0b4cc1c6f22375518be53ff&
     author:
       name: asherathegod
       avatar: https://avatars.githubusercontent.com/u/68480231?v=4
