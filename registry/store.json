@@ -1,7 +1,7 @@
 {
   "name": "Pengu Community Store registry",
   "version": 1,
-  "generatedAt": "2026-07-31T15:18:44.652Z",
+  "generatedAt": "2026-07-31T17:04:35.850Z",
   "source": {
     "guildId": "1069483280438673418",
     "forums": [
@@ -381,7 +381,7 @@
       "releaseUrl": "https://github.com/Elaina69/Elaina-theme/releases/tag/v4.5.1",
       "releaseTag": "v4.5.1",
       "releaseName": "",
-      "image": "https://media.discordapp.net/attachments/1373696348284653628/1373696348653617315/fh98jYI.png?ex=6a6d73ab&is=6a6c222b&hm=e235cf178794ebbaaf0e42246e06f2d553f1f3d81203c779765fd744fbfcc244&",
+      "image": "https://media.discordapp.net/attachments/1373696348284653628/1373696348653617315/fh98jYI.png?ex=6a6e1c6b&is=6a6ccaeb&hm=d146b2c522ecc8eb147763d25e7323510424db39c7ba914393450653a548b5c5&",
       "author": {
         "name": "Elaina69",
         "avatar": "https://avatars.githubusercontent.com/u/94338907?v=4",
@@ -581,7 +581,7 @@
       "releaseUrl": "https://github.com/Yimikami/pengu-plugins/releases/tag/PenguFamily_v0.1.0",
       "releaseTag": "PenguFamily_v0.1.0",
       "releaseName": "Pengu Family v0.1.0",
-      "image": "https://media.discordapp.net/attachments/1411366905247170621/1411743618388983931/image.png?ex=6a6d7073&is=6a6c1ef3&hm=18e4d88c0b88e1e0c209d32b94fcc56cbcb0a56f79730f43fdc0257440fbbcc2&",
+      "image": "https://media.discordapp.net/attachments/1411366905247170621/1411743618388983931/image.png?ex=6a6e1933&is=6a6cc7b3&hm=a82f46145f590935a43a8420b6cb85abf748396a3d711518e6f2fc8a23301fbd&",
       "author": {
         "name": "Yimikami",
         "avatar": "https://avatars.githubusercontent.com/u/39545057?v=4",
@@ -697,7 +697,7 @@
       "kind": "plugins",
       "name": "S9 League of legends ranked borders",
       "description": "This plugin will change your profile ranked image to old ones that i think was looking the best in the whole rank history! It was made by <@1246591176791035946 he helped me doing it for myself so i wanted to give him the credits for it + share it with you guys cuz u might wanna use it!",
-      "image": "https://media.discordapp.net/attachments/1414636794124832851/1414636794858700900/oldborders.png?ex=6a6d6aee&is=6a6c196e&hm=37bf442d02f80fb6dab6e3eb143619a5d705c8dc2c7b6e8901191f2e47ab82b3&",
+      "image": "https://media.discordapp.net/attachments/1414636794124832851/1414636794858700900/oldborders.png?ex=6a6e13ae&is=6a6cc22e&hm=9c128d5fa889f1aaa87475420765c3b6455f4e1ab3a0e459b11353811742c408&",
       "author": {
         "name": "Samuraj"
       },
@@ -712,7 +712,7 @@
         {
           "name": "s9-ranked-borders.zip",
           "size": 945105,
-          "downloadUrl": "https://cdn.discordapp.com/attachments/1414636794124832851/1414636795714338886/s9-ranked-borders.zip?ex=6a6d6aee&is=6a6c196e&hm=7cc6103b1685801079136d5e743783c3fe32d67ac402469a293cf88994e984c9&",
+          "downloadUrl": "https://cdn.discordapp.com/attachments/1414636794124832851/1414636795714338886/s9-ranked-borders.zip?ex=6a6e13ae&is=6a6cc22e&hm=3e133d6776e23b66aa48505035794d63f550685dd6a6f482de95c325e824315f&",
           "contentType": "application/zip"
         }
       ],
@@ -751,7 +751,7 @@
       "name": "Spotify Controller - In-game playback controls",
       "description": "A lightweight Spotify controller integrated directly into the League of Legends client using Pengu Loader. This project consists of two parts: a local Node.js authentication server and a client-side plugin.",
       "repo": "https://github.com/GogoChad/spotify-media-player",
-      "image": "https://media.discordapp.net/attachments/1499090537427243129/1499090537792143492/image.png?ex=6a6d7b1b&is=6a6c299b&hm=65972e122e9f8697d175001b07d5ddf9f7134675584845194236b3b88921d11a&",
+      "image": "https://media.discordapp.net/attachments/1499090537427243129/1499090537792143492/image.png?ex=6a6e23db&is=6a6cd25b&hm=4b5264a63e40531693c76bf39d4621b9560480d53cd90a8cf3289d275dd072b9&",
       "author": {
         "name": "GogoChad",
         "avatar": "https://avatars.githubusercontent.com/u/133820564?v=4",
@@ -1623,7 +1623,7 @@
       "name": "ScarletRed",
       "description": "ScarletRed theme ( Original from ElainaV3) for Pengu loader",
       "repo": "https://github.com/R3mia/ScarletRed",
-      "image": "https://media.discordapp.net/attachments/1183799859342483476/1183799859707379803/image.png?ex=6a6d6ec8&is=6a6c1d48&hm=8e53e87928b2c67bbb3ab08b93c63f4ae09b73301b53101afbcfaaeff59d632f&",
+      "image": "https://media.discordapp.net/attachments/1183799859342483476/1183799859707379803/image.png?ex=6a6e1788&is=6a6cc608&hm=a280a4856b836b24c74492d2a1c1b5bcb3246c361a8d6a81ca8f7960d52955bd&",
       "author": {
         "name": "R3mia",
         "avatar": "https://avatars.githubusercontent.com/u/72246166?v=4",
@@ -1734,7 +1734,7 @@
       "releaseUrl": "https://github.com/nomi-san/ahri-theme/releases/tag/240221",
       "releaseTag": "240221",
       "releaseName": "ahri-theme-240221",
-      "image": "https://media.discordapp.net/attachments/1095736862187991232/1095736862741635283/68747470733a2f2f692e696d6775722e636f6d2f74617a504e484e2e706e67.png?ex=6a6d6c39&is=6a6c1ab9&hm=2bc931f34afa64d04edb05816c6ca3cf9efe2847fe5630fe7cbefdefaf68533c&",
+      "image": "https://media.discordapp.net/attachments/1095736862187991232/1095736862741635283/68747470733a2f2f692e696d6775722e636f6d2f74617a504e484e2e706e67.png?ex=6a6e14f9&is=6a6cc379&hm=4946a4a7fff8fe27d453cb81c520d37969674b474a95ec94835ac9964899ca44&",
       "author": {
         "name": "nomi-san",
         "avatar": "https://avatars.githubusercontent.com/u/38210249?v=4",
@@ -1906,7 +1906,7 @@
       "name": "GrayscaleV2",
       "description": "Grayscale theme for Pengu-loader.",
       "repo": "https://github.com/rviid/league-grayscale-theme",
-      "image": "https://media.discordapp.net/attachments/1166033741186076793/1166033741597130852/grayscalev2.png?ex=6a6d664b&is=6a6c14cb&hm=2927455fe38479c8f78a2a49bc461a7b67d2b78ca6d8667fb0207bf209b365c4&",
+      "image": "https://media.discordapp.net/attachments/1166033741186076793/1166033741597130852/grayscalev2.png?ex=6a6e0f0b&is=6a6cbd8b&hm=274af11baff43146f684f6b69a5b816b4fd144c4aac0a1b7f9562926ad09b79e&",
       "author": {
         "name": "rviid",
         "avatar": "https://avatars.githubusercontent.com/u/147655674?v=4",
