@@ -1,6 +1,6 @@
 name: Pengu Community Store registry
 version: 1
-generatedAt: 2026-08-01T21:54:32.001Z
+generatedAt: 2026-08-01T22:54:33.545Z
 source:
   guildId: "1069483280438673418"
   forums:
@@ -142,7 +142,7 @@ listings:
     assets:
       - name: index.js
         size: 4929
-        downloadUrl: https://cdn.discordapp.com/attachments/1462451902028578940/1465476858241093662/index.js?ex=6a6f1eee&is=6a6dcd6e&hm=cb38b0c5793884f9f1d85df43bf34c9bfbdbedc1ae45ae54f4aa42b75a33e205&
+        downloadUrl: https://cdn.discordapp.com/attachments/1462451902028578940/1465476858241093662/index.js?ex=6a6fc7ae&is=6a6e762e&hm=8445ead2343db1922893988c0bd6171ea748d4eff8129f54ee7721a72bfcbb24&
         contentType: text/javascript; charset=utf-8
     enriched: true
   - id: "1512550218044805150"
@@ -815,7 +815,7 @@ listings:
     releaseUrl: https://github.com/Yimikami/pengu-plugins/releases/tag/PenguFamily_v0.1.0
     releaseTag: PenguFamily_v0.1.0
     releaseName: Pengu Family v0.1.0
-    image: https://media.discordapp.net/attachments/1503337548993265687/1503337549404311693/tb.png?ex=6a6f16b2&is=6a6dc532&hm=2f8f7784c034a97ae02c92393ab17436fe63113a078848ab34cc616425e02e81&
+    image: https://media.discordapp.net/attachments/1503337548993265687/1503337549404311693/tb.png?ex=6a6fbf72&is=6a6e6df2&hm=62ac53a2e5e5f553c9bec9e88f4b770e52fd181606f08828ab1f0aa6ccee2e2f&
     author:
       name: Yimikami
       avatar: https://avatars.githubusercontent.com/u/39545057?v=4
@@ -911,7 +911,7 @@ listings:
       hover tooltip, and your profile page. BNC Button in Lobby as always with
       my plugins. ⚠️ Client-side only — only you can see the change. Other
       players still see your actual equipped banner.
-    image: https://media.discordapp.net/attachments/1499358177052069899/1499358177840467968/4hbdb93.png?ex=6a6f1d1e&is=6a6dcb9e&hm=37fb6fb95c6e4cb27351df41dedb3e4f266f7dbbad19d2d42dc778196837eb9e&
+    image: https://media.discordapp.net/attachments/1499358177052069899/1499358177840467968/4hbdb93.png?ex=6a6fc5de&is=6a6e745e&hm=e608971fb112830f0999276461d25dde9c6eccf8ce167180f9fd2069da2bc025&
     author:
       name: Eris Greyrat
     tags:
@@ -924,7 +924,7 @@ listings:
     assets:
       - name: Banner-Customizer.js
         size: 56598
-        downloadUrl: https://cdn.discordapp.com/attachments/1499358177052069899/1499358178658222220/Banner-Customizer.js?ex=6a6f1d1e&is=6a6dcb9e&hm=da5cae48e54401eab4ef49362dcc1394e012fd0c6845faa3026f2f3ed93539e7&
+        downloadUrl: https://cdn.discordapp.com/attachments/1499358177052069899/1499358178658222220/Banner-Customizer.js?ex=6a6fc5de&is=6a6e745e&hm=08a8aeb6ae8a79881f20255320a73592209945d262b626de3a7812866f9f7a9f&
         contentType: text/javascript; charset=utf-8
     enriched: true
   - id: "1499090537427243129"
@@ -1126,7 +1126,7 @@ listings:
     releaseUrl: https://github.com/Ventoba/3DSkinViewer/releases/tag/v1.0
     releaseTag: v1.0
     releaseName: v1.0
-    image: https://media.discordapp.net/attachments/1490663854059950280/1490663854391427183/example2.PNG?ex=6a6f1fe6&is=6a6dce66&hm=af4d308cd253d91e70486d823fa6723f08cc2e999e8a061297725c2fcff282be&
+    image: https://media.discordapp.net/attachments/1490663854059950280/1490663854391427183/example2.PNG?ex=6a6fc8a6&is=6a6e7726&hm=e440432e684fba277103f6777f5c069848b001523559ca91bba11c5e3081df62&
     author:
       name: Ventoba
       avatar: https://avatars.githubusercontent.com/u/96593577?v=4
@@ -1501,7 +1501,7 @@ listings:
     name: HideChampName
     description: Hides enemy champion names in Champion Select for League of Legends
     repo: https://github.com/Mixiruri/AnonymousEnemies
-    image: https://media.discordapp.net/attachments/1476888210436001904/1476888211044171848/preview.webp?ex=6a6f1b54&is=6a6dc9d4&hm=c982e297af212a1b7d6daf58febe27f67188990029e3df12ccd4f0affd850c84&
+    image: https://media.discordapp.net/attachments/1476888210436001904/1476888211044171848/preview.webp?ex=6a6fc414&is=6a6e7294&hm=ba5c19ff12a936049e77a9dcb8cb2b38c8220aab7b0c77c9c8526a87d684ca1f&
     author:
       name: Mixiruri
       avatar: https://avatars.githubusercontent.com/u/255986660?v=4
@@ -1701,7 +1701,7 @@ listings:
       from \"plugin request\" section long ago, now i can't find who developed
       it. They will be credited as soon as they reach out"
     repo: https://github.com/asherathegod/penguplugins
-    image: https://media.discordapp.net/attachments/1371799042832597054/1371799043575123978/EbMqICb.png?ex=6a6f1e6a&is=6a6dccea&hm=d390027ee5442f45f41aabf613eae0d80b142b443803163ad79a8cdb588ddfe7&
+    image: https://media.discordapp.net/attachments/1371799042832597054/1371799043575123978/EbMqICb.png?ex=6a6fc72a&is=6a6e75aa&hm=f2a686acf66cdb4343e62f7e0021b118c2e94f0cd0e97565eafb85907a129f3c&
     author:
       name: asherathegod
       avatar: https://avatars.githubusercontent.com/u/68480231?v=4
