@@ -1,6 +1,6 @@
 name: Pengu Community Store registry
 version: 1
-generatedAt: 2026-08-01T04:02:45.116Z
+generatedAt: 2026-08-01T07:01:38.821Z
 source:
   guildId: "1069483280438673418"
   forums:
@@ -266,7 +266,7 @@ listings:
     description: "This plugin automatically confirms the League Client exit dialog.
       - Source code: Cooming soon, i'm lazy - Download: Github url cooming soon,
       i'm lazy"
-    image: https://media.discordapp.net/attachments/1520847793256927293/1520847793411981413/57nwhtn.png?ex=6a6e30e1&is=6a6cdf61&hm=5adc70fd13abc52c46f3926f5d1f5623e7a4ee05d254f1859b87dcf6916d60e8&
+    image: https://media.discordapp.net/attachments/1520847793256927293/1520847793411981413/57nwhtn.png?ex=6a6ed9a1&is=6a6d8821&hm=8dc7d5beb4c8bd972883de90a7d35154f25e3e256b68068f90753f7081c6c541&
     author:
       name: Elaina
     tags:
@@ -277,7 +277,7 @@ listings:
     assets:
       - name: NoCloseMessage.js
         size: 3475
-        downloadUrl: https://cdn.discordapp.com/attachments/1520847793256927293/1520847873980371034/NoCloseMessage.js?ex=6a6e30f5&is=6a6cdf75&hm=64e5492ea2488ae61e9a44e3d7af1fa145875b9705830f8f3e6988e94c4b5c0f&
+        downloadUrl: https://cdn.discordapp.com/attachments/1520847793256927293/1520847873980371034/NoCloseMessage.js?ex=6a6ed9b5&is=6a6d8835&hm=286ab85816e03423296024959b7de4b59e1f1c2158c6c85be58e9855fe6c0eb1&
         contentType: text/javascript; charset=utf-8
       - name: NoCloseMessage.js
         size: 4163
@@ -322,7 +322,7 @@ listings:
     releaseUrl: https://github.com/kyso1/KysoTheme/releases/tag/v3.5.1
     releaseTag: v3.5.1
     releaseName: v3.5.1
-    image: https://media.discordapp.net/attachments/1240541534663868426/1240541534869262376/image.png?ex=6a6e3196&is=6a6ce016&hm=594ca81bb114853a22695281ac3e338ecefebcee94c8df327940e1f6cc5415b6&
+    image: https://media.discordapp.net/attachments/1240541534663868426/1240541534869262376/image.png?ex=6a6eda56&is=6a6d88d6&hm=c4054e71ecd4398c912b9c87d733e34fc748e576129a4cfca1fc391f4f6f0caf&
     author:
       name: kyso1
       avatar: https://avatars.githubusercontent.com/u/128049220?v=4
@@ -586,7 +586,7 @@ listings:
     releaseUrl: https://github.com/Elaina69/Elaina-theme/releases/tag/v4.5.1
     releaseTag: v4.5.1
     releaseName: ""
-    image: https://media.discordapp.net/attachments/1373696348284653628/1373696348653617315/fh98jYI.png?ex=6a6e1c6b&is=6a6ccaeb&hm=d146b2c522ecc8eb147763d25e7323510424db39c7ba914393450653a548b5c5&
+    image: https://media.discordapp.net/attachments/1373696348284653628/1373696348653617315/fh98jYI.png?ex=6a6ec52b&is=6a6d73ab&hm=2ccdbb17ae50c0d8d9f7f8eea67470ede159eb820fa6a35b823da4abb012ea28&
     author:
       name: Elaina69
       avatar: https://avatars.githubusercontent.com/u/94338907?v=4
@@ -788,7 +788,7 @@ listings:
     releaseUrl: https://github.com/Yimikami/pengu-plugins/releases/tag/PenguFamily_v0.1.0
     releaseTag: PenguFamily_v0.1.0
     releaseName: Pengu Family v0.1.0
-    image: https://media.discordapp.net/attachments/1411366905247170621/1411743618388983931/image.png?ex=6a6e1933&is=6a6cc7b3&hm=a82f46145f590935a43a8420b6cb85abf748396a3d711518e6f2fc8a23301fbd&
+    image: https://media.discordapp.net/attachments/1411366905247170621/1411743618388983931/image.png?ex=6a6ec1f3&is=6a6d7073&hm=d1dc68eee90d739b7bb2104ceb8ef7650fb840aeafd7adb62c84484740958377&
     author:
       name: Yimikami
       avatar: https://avatars.githubusercontent.com/u/39545057?v=4
@@ -934,7 +934,7 @@ listings:
       League of Legends client using Pengu Loader. This project consists of two
       parts: a local Node.js authentication server and a client-side plugin."
     repo: https://github.com/GogoChad/spotify-media-player
-    image: https://media.discordapp.net/attachments/1499090537427243129/1499090537792143492/image.png?ex=6a6e23db&is=6a6cd25b&hm=4b5264a63e40531693c76bf39d4621b9560480d53cd90a8cf3289d275dd072b9&
+    image: https://media.discordapp.net/attachments/1499090537427243129/1499090537792143492/image.png?ex=6a6ecc9b&is=6a6d7b1b&hm=d4d13fc7fa0f69406c96aff26a62ef410357ffa22019320e9b6bf40199c6a5a3&
     author:
       name: GogoChad
       avatar: https://avatars.githubusercontent.com/u/133820564?v=4
@@ -1493,7 +1493,7 @@ listings:
     assets:
       - name: Hide_Nonsense2.js
         size: 8079
-        downloadUrl: https://cdn.discordapp.com/attachments/1395902555095171225/1440040589490917507/Hide_Nonsense2.js?ex=6a6e35cf&is=6a6ce44f&hm=27de808a975c3b3f7cac0ddea48c87a4a195330c55c8762c8a1a7104317050fa&
+        downloadUrl: https://cdn.discordapp.com/attachments/1395902555095171225/1440040589490917507/Hide_Nonsense2.js?ex=6a6ede8f&is=6a6d8d0f&hm=3025095cc736f89bfdac2da28fafa8e8d349c279076b033d6a6eddfb566c53b5&
         contentType: text/javascript; charset=utf-8
     enriched: true
   - id: "1476888210436001904"
@@ -1603,7 +1603,7 @@ listings:
     name: Balaclava Plugins! [13/05/2026]
     description: My plugins for Pengu Loader! :)
     repo: https://github.com/controlado/pengu-plugins
-    image: https://media.discordapp.net/attachments/1109009446023217193/1110094360390946908/ezgif-2-9ed966a32e.png?ex=6a6e3d30&is=6a6cebb0&hm=20564aa20d98bf6e9a5ea78a2d9bdf5924672543bbb3ba04c41a74f569f50937&
+    image: https://media.discordapp.net/attachments/1109009446023217193/1110094360390946908/ezgif-2-9ed966a32e.png?ex=6a6ee5f0&is=6a6d9470&hm=919e8ecfe26190f255801258e4ee5d4fceddc145780977722957a761f28d2baa&
     author:
       name: controlado
       avatar: https://avatars.githubusercontent.com/u/71716568?v=4
