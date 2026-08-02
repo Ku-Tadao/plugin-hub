@@ -1,7 +1,7 @@
 {
   "name": "Pengu Community Store registry",
   "version": 1,
-  "generatedAt": "2026-08-02T21:54:40.444Z",
+  "generatedAt": "2026-08-02T22:55:56.743Z",
   "source": {
     "guildId": "1069483280438673418",
     "forums": [
@@ -69,7 +69,7 @@
         {
           "name": "index.js",
           "size": 4929,
-          "downloadUrl": "https://cdn.discordapp.com/attachments/1462451902028578940/1465476858241093662/index.js?ex=6a70706e&is=6a6f1eee&hm=acc56016e51c0b0046f8e67501e79840c50bbce91a913749d19a8806b028e7e8&",
+          "downloadUrl": "https://cdn.discordapp.com/attachments/1462451902028578940/1465476858241093662/index.js?ex=6a71192e&is=6a6fc7ae&hm=1aec7da6d818ead79986ecc4ee1078d060a3a1e7dd07013db1d65cb09c15a0d6&",
           "contentType": "text/javascript; charset=utf-8"
         }
       ],
@@ -614,7 +614,7 @@
       "releaseUrl": "https://github.com/Yimikami/pengu-plugins/releases/tag/PenguFamily_v0.1.0",
       "releaseTag": "PenguFamily_v0.1.0",
       "releaseName": "Pengu Family v0.1.0",
-      "image": "https://media.discordapp.net/attachments/1503337548993265687/1503337549404311693/tb.png?ex=6a706832&is=6a6f16b2&hm=69d1252af76bee2bb0d79d53a6137cdccca473b47073562de81cd89648fa9eda&",
+      "image": "https://media.discordapp.net/attachments/1503337548993265687/1503337549404311693/tb.png?ex=6a7110f2&is=6a6fbf72&hm=9f3e982139a892b4d8fce1c18c0cffa2254bcdab5f2bf933ce828cff92760b70&",
       "author": {
         "name": "Yimikami",
         "avatar": "https://avatars.githubusercontent.com/u/39545057?v=4",
@@ -723,7 +723,7 @@
       "kind": "plugins",
       "name": "Banner Customizer",
       "description": "Plugin that lets you display any banner in your lobby, including ones you don't own. Upload your own custom images or animated WebM files, or pick from any banner in the game. Works in the standard lobby, Arena hover tooltip, and your profile page. BNC Button in Lobby as always with my plugins. ⚠️ Client-side only — only you can see the change. Other players still see your actual equipped banner.",
-      "image": "https://media.discordapp.net/attachments/1499358177052069899/1499358177840467968/4hbdb93.png?ex=6a706e9e&is=6a6f1d1e&hm=63cf249f881e1516b74889f4b4c78c8f77a1d905b9543a384c1e0752f8126b02&",
+      "image": "https://media.discordapp.net/attachments/1499358177052069899/1499358177840467968/4hbdb93.png?ex=6a71175e&is=6a6fc5de&hm=d3467544d6d917eea35249c82a6a36c4a494b2576a0cab55a1bfe2119fa1de14&",
       "author": {
         "name": "Eris Greyrat"
       },
@@ -739,7 +739,7 @@
         {
           "name": "Banner-Customizer.js",
           "size": 56598,
-          "downloadUrl": "https://cdn.discordapp.com/attachments/1499358177052069899/1499358178658222220/Banner-Customizer.js?ex=6a706e9e&is=6a6f1d1e&hm=60ebbca44790883f546230f05baddb0fad4c0be45a009c75ab5a90b681136d3b&",
+          "downloadUrl": "https://cdn.discordapp.com/attachments/1499358177052069899/1499358178658222220/Banner-Customizer.js?ex=6a71175e&is=6a6fc5de&hm=a5ac6e08303b616b099b4132216e59e70184d4e2b33c1f318bf334f9d6d1990d&",
           "contentType": "text/javascript; charset=utf-8"
         }
       ],
@@ -906,7 +906,7 @@
       "releaseUrl": "https://github.com/Ventoba/3DSkinViewer/releases/tag/v1.0",
       "releaseTag": "v1.0",
       "releaseName": "v1.0",
-      "image": "https://media.discordapp.net/attachments/1490663854059950280/1490663854391427183/example2.PNG?ex=6a707166&is=6a6f1fe6&hm=fdcad5945c78041ee311a7a32453b6a7bea01dd89d2d9159d54be5c7bf428195&",
+      "image": "https://media.discordapp.net/attachments/1490663854059950280/1490663854391427183/example2.PNG?ex=6a711a26&is=6a6fc8a6&hm=a4a5249388b0e556687623a8de7a2dc46185f44f6a3c14917e625056999c39f9&",
       "author": {
         "name": "Ventoba",
         "avatar": "https://avatars.githubusercontent.com/u/96593577?v=4",
@@ -1219,7 +1219,7 @@
       "name": "HideChampName",
       "description": "Hides enemy champion names in Champion Select for League of Legends",
       "repo": "https://github.com/Mixiruri/AnonymousEnemies",
-      "image": "https://media.discordapp.net/attachments/1476888210436001904/1476888211044171848/preview.webp?ex=6a706cd4&is=6a6f1b54&hm=443f259379c514006b3888ae8da0ecb78e4b0e62997eabd8624a62fd0223a060&",
+      "image": "https://media.discordapp.net/attachments/1476888210436001904/1476888211044171848/preview.webp?ex=6a711594&is=6a6fc414&hm=ae85f2fae3781b33a815ae05bee836808faa464e09712438bc9b9646fda7b164&",
       "author": {
         "name": "Mixiruri",
         "avatar": "https://avatars.githubusercontent.com/u/255986660?v=4",
@@ -1415,7 +1415,7 @@
       "name": "AutoAcceptEnhanced - auto Q acccepter with enhancements",
       "description": "AutoAcceptEnhanced 🚀 An enhanced auto queue accepter with hide \"match found\" dialog function Features: ✅ Auto Accept - Automatically accepts match queues after 9.5 seconds ✅ Hide Dialog - Hides the match found dialog, allowing you to continue using the client (open chests, shop, etc.) while in queue ✅ Clean UI - Minimalist toggle buttons in the lobby ✅ Settings Persistence - Your preferences are saved between sessions Installation: 1. Download autoaccept.js from GitHub 2. Place the file in your Pengu Loader plugins directory 3. Enjoy! You'll see toggle buttons in your lobby Download: 🔗 GitHub: This plugin is based on another developer's auto accept plugin, which wasn't released. I downloaded it from \"plugin request\" section long ago, now i can't find who developed it. They will be credited as soon as they reach out",
       "repo": "https://github.com/asherathegod/penguplugins",
-      "image": "https://media.discordapp.net/attachments/1371799042832597054/1371799043575123978/EbMqICb.png?ex=6a706fea&is=6a6f1e6a&hm=93335ec7b5b7b66038aa745df5531ae0fb2fc184c42d151482a0e43ad18d3745&",
+      "image": "https://media.discordapp.net/attachments/1371799042832597054/1371799043575123978/EbMqICb.png?ex=6a7118aa&is=6a6fc72a&hm=c82de5e3f1c690edd1155ade733d16163c8bc9d3c796246495e53f135df5c33f&",
       "author": {
         "name": "asherathegod",
         "avatar": "https://avatars.githubusercontent.com/u/68480231?v=4",
