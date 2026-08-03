@@ -1,7 +1,7 @@
 {
   "name": "Pengu Community Store registry",
   "version": 1,
-  "generatedAt": "2026-08-03T16:24:08.264Z",
+  "generatedAt": "2026-08-03T18:16:39.226Z",
   "source": {
     "guildId": "1069483280438673418",
     "forums": [
@@ -115,7 +115,7 @@
       "kind": "plugins",
       "name": "No close client message",
       "description": "This plugin automatically confirms the League Client exit dialog. - Source code: Cooming soon, i'm lazy - Download: Github url cooming soon, i'm lazy",
-      "image": "https://media.discordapp.net/attachments/1520847793256927293/1520847793411981413/57nwhtn.png?ex=6a717ca1&is=6a702b21&hm=273f5e67165304e9176cd0b1a383db4c0b7b5a6e318987043d8f858b9dbe89f9&",
+      "image": "https://media.discordapp.net/attachments/1520847793256927293/1520847793411981413/57nwhtn.png?ex=6a722561&is=6a70d3e1&hm=ee8f3dd915e5d03cae30fb79145b6f594732eda6fe5b9c29da68d4d43263f4ce&",
       "author": {
         "name": "Elaina"
       },
@@ -129,7 +129,7 @@
         {
           "name": "NoCloseMessage.js",
           "size": 3475,
-          "downloadUrl": "https://cdn.discordapp.com/attachments/1520847793256927293/1520847873980371034/NoCloseMessage.js?ex=6a717cb5&is=6a702b35&hm=adb32a67b5bc5c789aeebcc70118beb5435aba91bd454542f1c97ef309f29788&",
+          "downloadUrl": "https://cdn.discordapp.com/attachments/1520847793256927293/1520847873980371034/NoCloseMessage.js?ex=6a722575&is=6a70d3f5&hm=be41819c6da5d817dd270092bff2d06f86eeb8d3352e5671388b73853b7cd3ff&",
           "contentType": "text/javascript; charset=utf-8"
         },
         {
@@ -151,7 +151,7 @@
       "releaseUrl": "https://github.com/kyso1/KysoTheme/releases/tag/v3.5.1",
       "releaseTag": "v3.5.1",
       "releaseName": "v3.5.1",
-      "image": "https://media.discordapp.net/attachments/1240541534663868426/1240541534869262376/image.png?ex=6a717d56&is=6a702bd6&hm=3a4bd29e9e7164914719b18ceb4f1efa35f619797a7eecd20e9d1d74a77aee18&",
+      "image": "https://media.discordapp.net/attachments/1240541534663868426/1240541534869262376/image.png?ex=6a722616&is=6a70d496&hm=e2614e6f6c757925784ca142889d52adfed907c163bff24f17b395ecf5c118b7&",
       "author": {
         "name": "kyso1",
         "avatar": "https://avatars.githubusercontent.com/u/128049220?v=4",
@@ -229,10 +229,9 @@
       "id": "1311415707371700345",
       "kind": "plugins",
       "name": "LoLBackgroundUnlocker",
-      "description": "Unlock all backgrounds easily. Just press the background picker button, and you'll be able to choose any skin you like, as if you owned them all Source: < Download is below, not the source ⬇️ ⬇️ ⬇️",
-      "image": "https://media.discordapp.net/attachments/1311415707371700345/1311415707568836809/image.png?ex=6a7196cd&is=6a70454d&hm=fd8c4a7ff9a5d557ab9a31337c6936fcd1ce64b2c6697c8ac3cde55e71d20518&",
+      "description": "No description provided.",
       "author": {
-        "name": "kebs"
+        "name": "Community"
       },
       "tags": [
         "Utility",
@@ -240,16 +239,9 @@
         "Enhancement"
       ],
       "discordUrl": "https://discord.com/channels/1069483280438673418/1311415707371700345/1311415707371700345",
-      "upvotes": 19,
+      "upvotes": 0,
       "updatedAt": "2026-06-20T11:50:24.160Z",
-      "assets": [
-        {
-          "name": "LoLBackgroundUnlocker.js",
-          "size": 6216,
-          "downloadUrl": "https://cdn.discordapp.com/attachments/1311415707371700345/1311415708143583355/LoLBackgroundUnlocker.js?ex=6a7196cd&is=6a70454d&hm=f476d2563b30ff606cf04e114e4f1a443518163762f9b54d52a4c508b7b065dc&",
-          "contentType": "application/javascript; charset=utf-8"
-        }
-      ],
+      "assets": [],
       "enriched": true
     },
     {
@@ -751,7 +743,7 @@
       "name": "Spotify Controller - In-game playback controls",
       "description": "A lightweight Spotify controller integrated directly into the League of Legends client using Pengu Loader. This project consists of two parts: a local Node.js authentication server and a client-side plugin.",
       "repo": "https://github.com/GogoChad/spotify-media-player",
-      "image": "https://media.discordapp.net/attachments/1499090537427243129/1499090537792143492/image.png?ex=6a716f9b&is=6a701e1b&hm=98ea26d15bc64dff06d86e9e6e5ef7727065f90d23af636cc61753c14a53c762&",
+      "image": "https://media.discordapp.net/attachments/1499090537427243129/1499090537792143492/image.png?ex=6a72185b&is=6a70c6db&hm=7628d868c7fc6f15032159e60b300537f408e74b6554354d14620aaf80fbbec7&",
       "author": {
         "name": "GogoChad",
         "avatar": "https://avatars.githubusercontent.com/u/133820564?v=4",
@@ -1207,7 +1199,7 @@
         {
           "name": "Hide_Nonsense2.js",
           "size": 8079,
-          "downloadUrl": "https://cdn.discordapp.com/attachments/1395902555095171225/1440040589490917507/Hide_Nonsense2.js?ex=6a71818f&is=6a70300f&hm=bde6972639716e9d25c655429d6c17e06d00b34ac0fdecb3dd8e9963c4ab9b38&",
+          "downloadUrl": "https://cdn.discordapp.com/attachments/1395902555095171225/1440040589490917507/Hide_Nonsense2.js?ex=6a722a4f&is=6a70d8cf&hm=53a34fbfec8e88ffaeb1bded998692db6fdb0e3657f920d8a24c4e6223fa044a&",
           "contentType": "text/javascript; charset=utf-8"
         }
       ],
