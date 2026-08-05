@@ -1,7 +1,7 @@
 {
   "name": "Pengu Community Store registry",
   "version": 1,
-  "generatedAt": "2026-08-05T20:07:40.617Z",
+  "generatedAt": "2026-08-05T21:46:31.510Z",
   "source": {
     "guildId": "1069483280438673418",
     "forums": [
@@ -16,6 +16,31 @@
     ]
   },
   "listings": [
+    {
+      "id": "1458822729414217954",
+      "kind": "plugins",
+      "name": "community pact popup blocker",
+      "description": "this plugin blocks the new community pact popup when you first login, now technically you can say \"ive never agreed to it\" so you can therefore be as toxic as you want.",
+      "image": "https://media.discordapp.net/attachments/1458822729414217954/1458822729716469913/image.png?ex=6a74938a&is=6a73420a&hm=77a5792be9a7d83f5ed3e959bd203dd873fb166c2fef61d807589c4f1e7e64d7&",
+      "author": {
+        "name": "Cat Bot"
+      },
+      "tags": [
+        "Fun"
+      ],
+      "discordUrl": "https://discord.com/channels/1069483280438673418/1458822729414217954/1458822729414217954",
+      "upvotes": 13,
+      "updatedAt": "2026-08-05T20:19:02.788Z",
+      "assets": [
+        {
+          "name": "RiotPactBlocker.js",
+          "size": 508,
+          "downloadUrl": "https://cdn.discordapp.com/attachments/1458822729414217954/1458822730198810674/RiotPactBlocker.js?ex=6a74938a&is=6a73420a&hm=51c790716a43783308ff3750e53aa4025a3dbb8e28cda2e6193d23b3612513ab&",
+          "contentType": "text/javascript; charset=utf-8"
+        }
+      ],
+      "enriched": true
+    },
     {
       "id": "1370379492354162729",
       "kind": "plugins",
@@ -85,7 +110,7 @@
       "releaseUrl": "https://github.com/ReformedDoge/Snooze-Manager/releases/tag/v1.0.2",
       "releaseTag": "v1.0.2",
       "releaseName": "v1.0.2 - Settings Tab, Player Analysis UI Overhaul, Rank Display, Skin Blacklist, Skin Randomizer, Champion Lock Timing Modes, Fullscreen Mode, Honor Improvements, Show stats on honor card, Auto-Exit queue on Dodge or decline, Name Spoofer & More",
-      "image": "https://media.discordapp.net/attachments/1512550218044805150/1512550376509931742/6kkx030.png?ex=6a74428f&is=6a72f10f&hm=761e507415c884e62fa5dec9f6a125e09fe3a3e253dca32d4b459a4027ba884a&",
+      "image": "https://media.discordapp.net/attachments/1512550218044805150/1512550376509931742/6kkx030.png?ex=6a74eb4f&is=6a7399cf&hm=d5f54fdb8f83941ac53276229b0a2f6bf9d7549a19fd9053872444597d195abb&",
       "author": {
         "name": "ReformedDoge",
         "avatar": "https://avatars.githubusercontent.com/u/39759213?v=4",
@@ -204,7 +229,7 @@
       "kind": "plugins",
       "name": "Activity Center Toggle [redirect to play screen]",
       "description": "- Fully removes the League (Activity Center) - Redirects from the Activity Center to the Play screen - Removes Navbar button since it redirects anyways - Toggle on and off via Client General Interface Settings, if you at some point need to use it",
-      "image": "https://media.discordapp.net/attachments/1396060178545119263/1396060179815989399/image.png?ex=6a7452dc&is=6a73015c&hm=86cf682e897c08a0b69f611d0c6d77ec2a74dfad718d0875e0ae52102e5f0dd7&",
+      "image": "https://media.discordapp.net/attachments/1396060178545119263/1396060179815989399/image.png?ex=6a74fb9c&is=6a73aa1c&hm=8fa667d84b17c0c1dc0c0e2689640847886c259494449a9fd220f32237adcd71&",
       "author": {
         "name": "Eris Greyrat"
       },
@@ -647,7 +672,7 @@
       "releaseUrl": "https://github.com/Yimikami/pengu-plugins/releases/tag/PenguFamily_v0.1.0",
       "releaseTag": "PenguFamily_v0.1.0",
       "releaseName": "Pengu Family v0.1.0",
-      "image": "https://media.discordapp.net/attachments/1472183865379389444/1496249294418612344/0330C317-A78E-416F-AC36-FE6739688A1F.png?ex=6a74487e&is=6a72f6fe&hm=3c2b230c80166fa53537b00730ecf6b05dc832898a7bcb5495bd5fdcae15be19&",
+      "image": "https://media.discordapp.net/attachments/1472183865379389444/1496249294418612344/0330C317-A78E-416F-AC36-FE6739688A1F.png?ex=6a74f13e&is=6a739fbe&hm=9ff3a45e7990adbc6e39a9ca654f17b8dcd139e54101a67ed61fca5ed22678fc&",
       "author": {
         "name": "Yimikami",
         "avatar": "https://avatars.githubusercontent.com/u/39545057?v=4",
@@ -1014,7 +1039,7 @@
       "kind": "plugins",
       "name": "Banner Remover (not unranked needed last season)",
       "description": "I made this plugin so the banner is transparent for seeing the background :3",
-      "image": "https://media.discordapp.net/attachments/1485931384504848394/1485931923275776201/C457E65E-4309-49F8-87B7-D302F19ADCDF.png?ex=6a745271&is=6a7300f1&hm=e21e4c6baf666a47b8974d915e0cc0cc8d4dbadb276629d7ecd5492565a858cc&",
+      "image": "https://media.discordapp.net/attachments/1485931384504848394/1485931923275776201/C457E65E-4309-49F8-87B7-D302F19ADCDF.png?ex=6a74fb31&is=6a73a9b1&hm=31542c8f9bfc785ce288cc3cd972990495c00fb9930b72c063f0d9d099e6d445&",
       "author": {
         "name": "LittleRadio"
       },
@@ -1028,7 +1053,7 @@
         {
           "name": "BannerRemover-LittleRadioo.zip",
           "size": 1447,
-          "downloadUrl": "https://cdn.discordapp.com/attachments/1485931384504848394/1485931384869621820/BannerRemover-LittleRadioo.zip?ex=6a7451f1&is=6a730071&hm=ba76499c9b5e295f5cc3b39e14619e793b3651af0fd4edcef9cdd58c628e307f&",
+          "downloadUrl": "https://cdn.discordapp.com/attachments/1485931384504848394/1485931384869621820/BannerRemover-LittleRadioo.zip?ex=6a74fab1&is=6a73a931&hm=b487c2e9351cabfa132fbb3b1acf07347597d145cb2e11ffd5b96bf676ea7873&",
           "contentType": "application/zip"
         }
       ],
@@ -1088,7 +1113,7 @@
       "name": "Lock your League of Legends client with a 4-digit PIN code",
       "description": "🔒 Lock the League of Legends client with a 4-digit PIN — hotkey support, iOS-style UI, blur overlay. Penguloader plugin.",
       "repo": "https://github.com/nt3y/LeagueClient-Locker-",
-      "image": "https://media.discordapp.net/attachments/1485026009018273872/1485026009500877094/image.png?ex=6a74527f&is=6a7300ff&hm=520fd16366cdda945c2a7475fbd12c035510de325f50addf61b13d25c8a428ec&",
+      "image": "https://media.discordapp.net/attachments/1485026009018273872/1485026009500877094/image.png?ex=6a74fb3f&is=6a73a9bf&hm=705193287670a88868de042666e96c4051a10cfadb246f4ffa72829c9ec0a98a&",
       "author": {
         "name": "nt3y",
         "avatar": "https://avatars.githubusercontent.com/u/269317310?v=4",
@@ -1244,7 +1269,7 @@
       "releaseUrl": "https://github.com/hadixcanimm/taric48/releases/tag/gamelauncher",
       "releaseTag": "gamelauncher",
       "releaseName": "Taric 48 Game Launcher ",
-      "image": "https://media.discordapp.net/attachments/1469972117306212639/1469972117549486178/image.png?ex=6a7444b7&is=6a72f337&hm=93ebfca33a45ea1d897d8dc9230e38ae53dc500ba82e10ea724f34e80e5f002c&",
+      "image": "https://media.discordapp.net/attachments/1469972117306212639/1469972117549486178/image.png?ex=6a74ed77&is=6a739bf7&hm=eac0c5cd2b56afcd669a2fd6b934d017dbe7d2aca3e270e29b88431769a719c2&",
       "author": {
         "name": "hadixcanimm",
         "avatar": "https://avatars.githubusercontent.com/u/114208757?v=4",
@@ -1380,31 +1405,6 @@
           "size": 344929,
           "downloadUrl": "https://github.com/kyso1/tft-client-theme/releases/download/v1.0/TFT-Client.rar",
           "contentType": "application/x-compressed"
-        }
-      ],
-      "enriched": true
-    },
-    {
-      "id": "1458822729414217954",
-      "kind": "plugins",
-      "name": "community pact popup blocker",
-      "description": "this plugin blocks the new community pact popup when you first login, now technically you can say \"ive never agreed to it\" so you can therefore be as toxic as you want.",
-      "image": "https://media.discordapp.net/attachments/1458822729414217954/1458822729716469913/image.png?ex=6a74938a&is=6a73420a&hm=77a5792be9a7d83f5ed3e959bd203dd873fb166c2fef61d807589c4f1e7e64d7&",
-      "author": {
-        "name": "Cat Bot"
-      },
-      "tags": [
-        "Fun"
-      ],
-      "discordUrl": "https://discord.com/channels/1069483280438673418/1458822729414217954/1458822729414217954",
-      "upvotes": 13,
-      "updatedAt": "2026-01-08T14:00:42.308Z",
-      "assets": [
-        {
-          "name": "RiotPactBlocker.js",
-          "size": 508,
-          "downloadUrl": "https://cdn.discordapp.com/attachments/1458822729414217954/1458822730198810674/RiotPactBlocker.js?ex=6a74938a&is=6a73420a&hm=51c790716a43783308ff3750e53aa4025a3dbb8e28cda2e6193d23b3612513ab&",
-          "contentType": "text/javascript; charset=utf-8"
         }
       ],
       "enriched": true
@@ -1648,7 +1648,7 @@
       "releaseUrl": "https://github.com/PenguLoader/PenguLoader/releases/tag/v1.1.6",
       "releaseTag": "v1.1.6",
       "releaseName": "v1.1.6",
-      "image": "https://media.discordapp.net/attachments/1413095170475560960/1413095170940997642/Untitled.png?ex=6a74556e&is=6a7303ee&hm=9e07325931a52315f8b9b665a58cef8663155398f8ad922a2aba2d8abc9aa628&",
+      "image": "https://media.discordapp.net/attachments/1413095170475560960/1413095170940997642/Untitled.png?ex=6a74fe2e&is=6a73acae&hm=7e8c48432f6f88dc73a0298964c25664808cc2cae5e11ede4a2e1e4a3593ace8&",
       "author": {
         "name": "PenguLoader",
         "avatar": "https://avatars.githubusercontent.com/u/126898920?v=4",
@@ -1764,7 +1764,7 @@
       "releaseUrl": "https://github.com/Humildeficador/DisableQueues/releases/tag/1.0",
       "releaseTag": "1.0",
       "releaseName": "v1.0",
-      "image": "https://media.discordapp.net/attachments/1200544287817994240/1200544288119996557/Screenshot_1.png?ex=6a744bbf&is=6a72fa3f&hm=d917b21bb9af5ad6bca9510e531e4e38e0aab2c0118a104416e91d726dd40b00&",
+      "image": "https://media.discordapp.net/attachments/1200544287817994240/1200544288119996557/Screenshot_1.png?ex=6a74f47f&is=6a73a2ff&hm=757c9c65398afc1016c1d313e2ffc0e777e904b9701c670281be672de709e7d0&",
       "author": {
         "name": "Humildeficador",
         "avatar": "https://avatars.githubusercontent.com/u/130767630?v=4",
