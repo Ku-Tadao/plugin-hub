@@ -1,6 +1,6 @@
 name: Pengu Community Store registry
 version: 1
-generatedAt: 2026-08-05T16:42:01.360Z
+generatedAt: 2026-08-05T18:20:49.860Z
 source:
   guildId: "1069483280438673418"
   forums:
@@ -266,7 +266,7 @@ listings:
     description: "This plugin automatically confirms the League Client exit dialog.
       - Source code: Cooming soon, i'm lazy - Download: Github url cooming soon,
       i'm lazy"
-    image: https://media.discordapp.net/attachments/1520847793256927293/1520847793411981413/57nwhtn.png?ex=6a741fa1&is=6a72ce21&hm=388a67aac60b054e470f9d441088557f05cc29fd20340b3bc420180717b252d7&
+    image: https://media.discordapp.net/attachments/1520847793256927293/1520847793411981413/57nwhtn.png?ex=6a74c861&is=6a7376e1&hm=455c41a68bb21b40588977f4eb515cdf1d70841e660944454e98e6730b8d863a&
     author:
       name: Elaina
     tags:
@@ -277,7 +277,7 @@ listings:
     assets:
       - name: NoCloseMessage.js
         size: 3475
-        downloadUrl: https://cdn.discordapp.com/attachments/1520847793256927293/1520847873980371034/NoCloseMessage.js?ex=6a741fb5&is=6a72ce35&hm=c10e361dafbc4174193dc637c0751691def5d8bb476a9d537579bd81a8b3f69c&
+        downloadUrl: https://cdn.discordapp.com/attachments/1520847793256927293/1520847873980371034/NoCloseMessage.js?ex=6a74c875&is=6a7376f5&hm=69c602f1ba92f6f05839ae13080300818a7c21a9b51d7d1f703615f744dd8a2f&
         contentType: text/javascript; charset=utf-8
       - name: NoCloseMessage.js
         size: 4163
@@ -322,7 +322,7 @@ listings:
     releaseUrl: https://github.com/kyso1/KysoTheme/releases/tag/v3.5.1
     releaseTag: v3.5.1
     releaseName: v3.5.1
-    image: https://media.discordapp.net/attachments/1240541534663868426/1240541534869262376/image.png?ex=6a742056&is=6a72ced6&hm=5bb84a2aebff2d006a1b3cdcb5af49ed8ccb9fd33a52371b18d6844f2dc92bec&
+    image: https://media.discordapp.net/attachments/1240541534663868426/1240541534869262376/image.png?ex=6a74c916&is=6a737796&hm=2f7c0a8dad2fc02ae7633ab5bc6d5d2ec2f5a77be8d340cc7ab7233ada3c94c6&
     author:
       name: kyso1
       avatar: https://avatars.githubusercontent.com/u/128049220?v=4
@@ -934,7 +934,7 @@ listings:
       League of Legends client using Pengu Loader. This project consists of two
       parts: a local Node.js authentication server and a client-side plugin."
     repo: https://github.com/GogoChad/spotify-media-player
-    image: https://media.discordapp.net/attachments/1499090537427243129/1499090537792143492/image.png?ex=6a74129b&is=6a72c11b&hm=a107023992f48dbdf592445318febdd0437394bf1a23873086a22336ac202caa&
+    image: https://media.discordapp.net/attachments/1499090537427243129/1499090537792143492/image.png?ex=6a74bb5b&is=6a7369db&hm=2160cee277ecebf1f9fb0ffc02217dc8605cee88c23e4f21096ef3dd0058a5ef&
     author:
       name: GogoChad
       avatar: https://avatars.githubusercontent.com/u/133820564?v=4
@@ -1493,7 +1493,7 @@ listings:
     assets:
       - name: Hide_Nonsense2.js
         size: 8079
-        downloadUrl: https://cdn.discordapp.com/attachments/1395902555095171225/1440040589490917507/Hide_Nonsense2.js?ex=6a74248f&is=6a72d30f&hm=158564eba7f9ddd726dabe01fb719ccd725099c793bdf22cfe374abe8a999d9a&
+        downloadUrl: https://cdn.discordapp.com/attachments/1395902555095171225/1440040589490917507/Hide_Nonsense2.js?ex=6a74cd4f&is=6a737bcf&hm=1ff3153f0256759666483482d3d6db6aaee9f8032436e7cbff910437e2077355&
         contentType: text/javascript; charset=utf-8
     enriched: true
   - id: "1476888210436001904"
