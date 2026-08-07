@@ -1,7 +1,7 @@
 {
   "name": "Pengu Community Store registry",
   "version": 1,
-  "generatedAt": "2026-08-07T11:43:41.390Z",
+  "generatedAt": "2026-08-07T12:59:39.557Z",
   "source": {
     "guildId": "1069483280438673418",
     "forums": [
@@ -51,7 +51,7 @@
       "releaseUrl": "https://github.com/yanghao0205/newDodgeTracker/releases/tag/v1.2.3",
       "releaseTag": "v1.2.3",
       "releaseName": "v1.2.3",
-      "image": "https://media.discordapp.net/attachments/1370379492354162729/1370379493017128970/1.png?ex=6a767a9b&is=6a75291b&hm=3104fd34a611eab2f15ae4c065cf044d51ce3b1ec6ff8b2720f305f2b3eef8f0&",
+      "image": "https://media.discordapp.net/attachments/1370379492354162729/1370379493017128970/1.png?ex=6a77235b&is=6a75d1db&hm=d9db99d2e1413d248919c486c579d692c94652eb9cc2b3371e53ac05a3372c41&",
       "author": {
         "name": "yanghao0205",
         "avatar": "https://avatars.githubusercontent.com/u/52226844?v=4",
@@ -128,7 +128,7 @@
       "assets": [
         {
           "name": "Snooze-Manager.zip",
-          "size": 279830,
+          "size": 281011,
           "downloadUrl": "https://github.com/ReformedDoge/Snooze-Manager/releases/download/v1.0.2/Snooze-Manager.zip",
           "contentType": "application/x-zip-compressed"
         }
@@ -244,7 +244,7 @@
         {
           "name": "activity_center_toggle.js",
           "size": 10156,
-          "downloadUrl": "https://cdn.discordapp.com/attachments/1396060178545119263/1401719798949216316/activity_center_toggle.js?ex=6a7674ca&is=6a75234a&hm=dc0d0c5a7b403a354a836a7776a349976a4ad23354667f99ff4fea93886e9217&",
+          "downloadUrl": "https://cdn.discordapp.com/attachments/1396060178545119263/1401719798949216316/activity_center_toggle.js?ex=6a771d8a&is=6a75cc0a&hm=9f5287c44c607bc44c5362c8124ef17db93f6a0db7c09e2cb7c225290b6a80b7&",
           "contentType": "application/javascript; charset=utf-8"
         }
       ],
@@ -448,7 +448,7 @@
       "releaseUrl": "https://github.com/Elaina69/Elaina-theme/releases/tag/v4.5.1",
       "releaseTag": "v4.5.1",
       "releaseName": "",
-      "image": "https://media.discordapp.net/attachments/1078464593791307777/1078464594055544942/image.png?ex=6a766fec&is=6a751e6c&hm=59850c7928a815cb2fab6f376bb68a860e6df02f64f6abaede9dff977ecbbf2f&",
+      "image": "https://media.discordapp.net/attachments/1078464593791307777/1078464594055544942/image.png?ex=6a7718ac&is=6a75c72c&hm=815b480ff12f03c0d1d3a9a99f3026f2a60310cd00cfe9d6a61e24f45054b660&",
       "author": {
         "name": "Elaina69",
         "avatar": "https://avatars.githubusercontent.com/u/94338907?v=4",
@@ -701,7 +701,7 @@
       "name": "league-lean — meta tier list + auto rune/build apply + post-game op.gg, all in one sidebar",
       "description": "Pengu Loader plugin: lean Riot client tweaks, auto rune/build apply, meta tier list, post-game op.gg. Personal use; not endorsed by Riot Games.",
       "repo": "https://github.com/Nicetyone/league-lean",
-      "image": "https://media.discordapp.net/attachments/1500282612084768848/1500282612516917258/01.png?ex=6a766e90&is=6a751d10&hm=fef19883a2e4812aa2ab7ac1f547fae7ae110fba05a64ddc9b42b3d16334ba29&",
+      "image": "https://media.discordapp.net/attachments/1500282612084768848/1500282612516917258/01.png?ex=6a771750&is=6a75c5d0&hm=2aa5c23159eb51b21d794d8d466a5b596a75d19bd0b8211171aa95bf7950c43c&",
       "author": {
         "name": "Nicetyone",
         "avatar": "https://avatars.githubusercontent.com/u/78967461?v=4",
@@ -892,7 +892,7 @@
       "releaseUrl": "https://github.com/xRize/MusicPlugin/releases/tag/Release2",
       "releaseTag": "Release2",
       "releaseName": "v1.0.1",
-      "image": "https://media.discordapp.net/attachments/1487606021449973850/1487606021831528640/569826409-7f1dae67-6e42-4fb5-ac20-32cbc0166a21.png?ex=6a767511&is=6a752391&hm=d4b5a14bdd13001b9ccebc2fc57fb5e45a16b12b025390bcf3716ae1cfbe7657&",
+      "image": "https://media.discordapp.net/attachments/1487606021449973850/1487606021831528640/569826409-7f1dae67-6e42-4fb5-ac20-32cbc0166a21.png?ex=6a771dd1&is=6a75cc51&hm=a77f17642a17e0c99119ec9c6ee3fb7dbda40f64a2b6ff42831df508d87e550d&",
       "author": {
         "name": "xRize",
         "avatar": "https://avatars.githubusercontent.com/u/83946532?v=4",
@@ -1160,7 +1160,7 @@
       "releaseUrl": "https://github.com/Reynbow/auto-champ-lock/releases/tag/v1.5.2",
       "releaseTag": "v1.5.2",
       "releaseName": "v1.5.2",
-      "image": "https://media.discordapp.net/attachments/1477651306167406592/1477651306364534834/role-pick-ui.png?ex=6a767f44&is=6a752dc4&hm=56d327dd49277e352bba9b365aceb35f4b6044f39114f0ae436f5fa87582c8ba&",
+      "image": "https://media.discordapp.net/attachments/1477651306167406592/1477651306364534834/role-pick-ui.png?ex=6a772804&is=6a75d684&hm=3d37ce11d8e1b20adc7cc13e1f82d12e13e44c9fe4f48b1e2980d1de80ed5521&",
       "author": {
         "name": "Reynbow",
         "avatar": "https://avatars.githubusercontent.com/u/19285509?v=4",
@@ -1562,7 +1562,7 @@
       "kind": "plugins",
       "name": "Invisible profile border",
       "description": "Just copy and paste it into the DevTools console (Ctrl+Shift+I). Needs level 525 or higher js await fetch(\"/lol-regalia/v2/current-summoner/regalia\", { method: \"PUT\", body: JSON.stringify({ preferredCrestType: \"prestige\", preferredBannerType: \"blank\", selectedPrestigeCrest: 22}), headers: { \"Content-Type\": \"application/json\" }, });",
-      "image": "https://media.discordapp.net/attachments/1327785286327074929/1327785286561960026/image.png?ex=6a766de9&is=6a751c69&hm=e3b6f64c3edb6af36600ae505f45b5d8cacb636b62da62b9ad509c41b2fe49f3&",
+      "image": "https://media.discordapp.net/attachments/1327785286327074929/1327785286561960026/image.png?ex=6a7716a9&is=6a75c529&hm=345836b5a466fbf0b6bc668922cb7a91e12680aad7cf3171d6240d675497263d&",
       "author": {
         "name": "kebs"
       },
@@ -1944,7 +1944,7 @@
       "name": "Lx Plugins",
       "description": "Main Repo: Plugin List • Name Spoofer • Listening Status (Working on) • Hide Chat Ban Logs if you want to suggest a plugin. use the channel <1128961916497317938 and tag me",
       "repo": "https://github.com/iIlusion/league-loader-plugins",
-      "image": "https://media.discordapp.net/attachments/1077921251445706852/1077921251621879881/8ef86509de0a0f4666ae0369efb72e08e88909104498d597.png?ex=6a767025&is=6a751ea5&hm=6e8077dedae690f0d6fec962b6dfe924e8066a3c6a152cea8bfd15db99761e6b&",
+      "image": "https://media.discordapp.net/attachments/1077921251445706852/1077921251621879881/8ef86509de0a0f4666ae0369efb72e08e88909104498d597.png?ex=6a7718e5&is=6a75c765&hm=bb058f9bd1765bd1e8de942a39b6c5a5facb24f479bd3fcb2c10346f11d7d40d&",
       "author": {
         "name": "iIlusion",
         "avatar": "https://avatars.githubusercontent.com/u/49544373?v=4",
