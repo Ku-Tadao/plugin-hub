@@ -1,7 +1,7 @@
 {
   "name": "Pengu Community Store registry",
   "version": 1,
-  "generatedAt": "2026-08-08T11:26:45.043Z",
+  "generatedAt": "2026-08-08T11:54:34.140Z",
   "source": {
     "guildId": "1069483280438673418",
     "forums": [
@@ -448,7 +448,7 @@
       "releaseUrl": "https://github.com/Elaina69/Elaina-theme/releases/tag/v4.5.1",
       "releaseTag": "v4.5.1",
       "releaseName": "",
-      "image": "https://media.discordapp.net/attachments/1078464593791307777/1078464594055544942/image.png?ex=6a77c16c&is=6a766fec&hm=2dabbddf6e1dabe0c46815ce180f42cf9baf64cbd9252acf4195b43ebab02108&",
+      "image": "https://media.discordapp.net/attachments/1078464593791307777/1078464594055544942/image.png?ex=6a786a2c&is=6a7718ac&hm=5e746471d46eb6a219e021a4a6b0c7cab79cf3d5c4382b0b1106d4b69273a774&",
       "author": {
         "name": "Elaina69",
         "avatar": "https://avatars.githubusercontent.com/u/94338907?v=4",
@@ -701,7 +701,7 @@
       "name": "league-lean — meta tier list + auto rune/build apply + post-game op.gg, all in one sidebar",
       "description": "Pengu Loader plugin: lean Riot client tweaks, auto rune/build apply, meta tier list, post-game op.gg. Personal use; not endorsed by Riot Games.",
       "repo": "https://github.com/Nicetyone/league-lean",
-      "image": "https://media.discordapp.net/attachments/1500282612084768848/1500282612516917258/01.png?ex=6a77c010&is=6a766e90&hm=b5270ea82e4bb1c8fcf93b4fbd79675e37f446ebc3b8f94566e0332c6c0fbe32&",
+      "image": "https://media.discordapp.net/attachments/1500282612084768848/1500282612516917258/01.png?ex=6a7868d0&is=6a771750&hm=e322b0ba7243a59112132f8925772ac0ff0111a4c9656c9427197391f8f718b5&",
       "author": {
         "name": "Nicetyone",
         "avatar": "https://avatars.githubusercontent.com/u/78967461?v=4",
@@ -1304,7 +1304,7 @@
       "releaseUrl": "https://github.com/nomi-san/balance-buff-viewer/releases/tag/main",
       "releaseTag": "main",
       "releaseName": "S16 | v26 | 2026",
-      "image": "https://media.discordapp.net/attachments/1127199847901052979/1127199848303693844/image.png?ex=6a77bbea&is=6a766a6a&hm=edb3ca1fd3da6e576c194faf2e46616fb972745846f717772c066c07ea197f13&",
+      "image": "https://media.discordapp.net/attachments/1127199847901052979/1127199848303693844/image.png?ex=6a7864aa&is=6a77132a&hm=4bb41486f569affefbb661855b8fe5ea86bf15067f3953b07780fbc0d836cf64&",
       "author": {
         "name": "nomi-san",
         "avatar": "https://avatars.githubusercontent.com/u/38210249?v=4",
@@ -1462,7 +1462,7 @@
       "releaseUrl": "https://github.com/DmitryFisk/pengu-force-custom-lobby/releases/tag/2.2.0",
       "releaseTag": "2.2.0",
       "releaseName": "2.2.0",
-      "image": "https://media.discordapp.net/attachments/1322710156173250601/1322710156626104320/image.png?ex=6a77bdd4&is=6a766c54&hm=41116477fe4328ec7ce23d8e4f77a4f05b787246c1feacb56be2a36f31a86030&",
+      "image": "https://media.discordapp.net/attachments/1322710156173250601/1322710156626104320/image.png?ex=6a786694&is=6a771514&hm=b1c40b1178513e47e54f942d4d529627fa002ec31158c48cf2de0e419b092c3e&",
       "author": {
         "name": "DmitryFisk",
         "avatar": "https://avatars.githubusercontent.com/u/62219971?v=4",
@@ -1562,7 +1562,7 @@
       "kind": "plugins",
       "name": "Invisible profile border",
       "description": "Just copy and paste it into the DevTools console (Ctrl+Shift+I). Needs level 525 or higher js await fetch(\"/lol-regalia/v2/current-summoner/regalia\", { method: \"PUT\", body: JSON.stringify({ preferredCrestType: \"prestige\", preferredBannerType: \"blank\", selectedPrestigeCrest: 22}), headers: { \"Content-Type\": \"application/json\" }, });",
-      "image": "https://media.discordapp.net/attachments/1327785286327074929/1327785286561960026/image.png?ex=6a77bf69&is=6a766de9&hm=a97335ff46510bcce156c9cd997c09a61508baa456779477fa6789744ab09c4c&",
+      "image": "https://media.discordapp.net/attachments/1327785286327074929/1327785286561960026/image.png?ex=6a786829&is=6a7716a9&hm=d48bd62eb55fd13106154ea9967e5bd281781920072208a6841952f17674894a&",
       "author": {
         "name": "kebs"
       },
@@ -1944,7 +1944,7 @@
       "name": "Lx Plugins",
       "description": "Main Repo: Plugin List • Name Spoofer • Listening Status (Working on) • Hide Chat Ban Logs if you want to suggest a plugin. use the channel <1128961916497317938 and tag me",
       "repo": "https://github.com/iIlusion/league-loader-plugins",
-      "image": "https://media.discordapp.net/attachments/1077921251445706852/1077921251621879881/8ef86509de0a0f4666ae0369efb72e08e88909104498d597.png?ex=6a77c1a5&is=6a767025&hm=ac7cbcbc8616361c378824d104ff50826ed2a5493e32bab948dbb5ca04441737&",
+      "image": "https://media.discordapp.net/attachments/1077921251445706852/1077921251621879881/8ef86509de0a0f4666ae0369efb72e08e88909104498d597.png?ex=6a786a65&is=6a7718e5&hm=a00961d2a5886366562356730706f23b528bdf20ca8c7320851be8c052dd6a8d&",
       "author": {
         "name": "iIlusion",
         "avatar": "https://avatars.githubusercontent.com/u/49544373?v=4",
