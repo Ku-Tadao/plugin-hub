@@ -1,6 +1,6 @@
 name: Pengu Community Store registry
 version: 1
-generatedAt: 2026-08-08T15:27:50.466Z
+generatedAt: 2026-08-08T15:57:33.506Z
 source:
   guildId: "1069483280438673418"
   forums:
@@ -9,6 +9,154 @@ source:
     - kind: themes
       channelId: "1077886317364523072"
 listings:
+  - id: "1512550218044805150"
+    kind: plugins
+    name: "[v1.1.0] Snooze-Manager (A Plug-in Collection)"
+    description: "Snooze-Manager is a modular plug-in manager for Pengu Loader. Each
+      QoL feature is implemented as a separate module, and the manager loads
+      them together while keeping configuration consolidated. Everything is
+      built to be lightweight and event driven: no embedded React application,
+      no bloat, no constant polling of the client for changes and so on. Some
+      features are inspired by earlier work, but the implementation here is
+      independent and expanded to offer more than a straight copy."
+    details: "**Snooze-Manager v1.1.0 is out!**\r
+
+      <img width=\"1101\" height=\"716\" alt=\"image\"
+      src=\"https://github.com/user-attachments/assets/b4c6413d-e95b-4a4a-9865-\
+      6abbefd8ea46\" />\r
+
+      \r
+
+      **What's new**\r
+
+      \r
+
+      The plugin is now fully translated - module names, settings labels,
+      tooltips, status messages and toasts. \r
+
+      Supported languages: English (default), Spanish, French, Korean, Chinese,
+      Portuguese (Brazil) and Turkish. \r
+
+      Switch language in Settings -> Language. Anything untranslated falls back
+      to English.\r
+
+      \r
+
+      New module: **Use Client In Game** - dismisses the full-screen \"game in
+      progress\" screen so you can browse the client (profile, collection, etc.)
+      while a match is running. It comes back automatically after the game.\r
+
+      \r
+
+      **Auto Honor** has a new \"Prefer Friends\" option - honors your friends
+      first within allies / enemies / random, with a heart badge on their honor
+      cards.\r
+
+      \r
+
+      **Auto Select Champion** upgrades:\r
+
+      - hover-then-lock with a configurable \"Hover after X seconds\" delay\r
+
+      - \"Respect Team Intent\" - never auto-bans what a teammate intends to
+      pick\r
+
+      - \"Allow Manual Pick\" - your manual changes allow take over for current
+      queued action\r
+
+      - Searchable priority picker with champion icons and keyboard navigation\r
+
+      - Bans are limited to the active bannable set; banned/already-picked
+      champions are skipped\r
+
+      - Lock timing is more accurate: \"before turn ends\" follows the live
+      server timer, \"after turn starts\" measures from the actual turn start.\r
+
+      - Renamed to \"Auto Select\"\r
+
+      **Balance Tooltip**: \r
+
+      - Swiftplay support alongside ARAM, Arena, Nexus Blitz, One For All, URF,
+      Ultimate Spellbook.\r
+
+      - Raw stat adjustments (+X / -X for base stats like health, armor, damage)
+      now shown in Arena and Swiftplay, not just percentage modifiers.\r
+
+      - Renamed to \"Mode Balance Info\".\r
+
+      \r
+
+      **Whale Helper**:\r
+
+      - Tencent / CN client support with the full Chinese rarity system and gem
+      icons; badges repositioned to avoid overlapping the chroma overlay.\r
+
+      - Loot odds previewer now has a \"[View]\" link that lists every item in a
+      drop pool with its icon and name.\r
+
+      \r
+
+      **Penalty UI Suppression**:\r
+
+      - Now also suppresses the restriction-info warning tooltip (chat
+      restriction, ranked restriction, redemption games), behind its own
+      toggle.\r
+
+      - Renamed from \"Low Priority Warning Suppress\"; old setting is migrated
+      automatically.\r
+
+      - Player-restriction warning section is hidden as well.\r
+
+      \r
+
+      \r
+
+      Other improvements:\r
+
+      - Mode Selector Tweaks: New hideable game modes (ARAM Mayhem, Mayhem
+      (Classic), SR (Classic)); remaining cards keep a consistent layout instead
+      of Riot's new compacted one\r
+
+      - Auto Accept: new \"Hide queue pop\" option; lobby/champ-select dodge
+      detection fixed\r
+
+      - Queue labels for classic modes (\"Normal\", Mayhem (Classic), SR
+      (Classic), customs, CO-OP SR)\r
+
+      - Auto Queue: 5-second default delay before re-queue, so you can react\r
+
+      \r
+
+      Fixes:\r
+
+      - Auto Honor: KDA/score badges now show up reliably (deferred until data
+      is ready, with retries)\r
+
+      - Auto Honor: multi-vote delay no longer applied after the last vote"
+    repo: https://github.com/ReformedDoge/Snooze-Manager
+    releaseUrl: https://github.com/ReformedDoge/Snooze-Manager/releases/tag/v1.1.0
+    releaseTag: v1.1.0
+    releaseName: "v1.1.0 - Snooze-Manager v1.1.0: 7 languages, new module,
+      Auto-Select overhaul & various bug fixes and improvements"
+    image: https://media.discordapp.net/attachments/1512550218044805150/1512550376509931742/6kkx030.png?ex=6a78370f&is=6a76e58f&hm=58902d113f509c55ab78636ac56d8eeed2d21a6e5dcecec9e9f528a103db3edf&
+    author:
+      name: ReformedDoge
+      avatar: https://avatars.githubusercontent.com/u/39759213?v=4
+      github: ReformedDoge
+    tags:
+      - Utility
+      - Misc
+      - Fun
+      - Enhancement
+    discordUrl: https://discord.com/channels/1069483280438673418/1512550218044805150/1512550218044805150
+    upvotes: 31
+    updatedAt: 2026-08-08T15:45:08Z
+    assets:
+      - name: Snooze-Manager.zip
+        size: 283489
+        downloadUrl: https://github.com/ReformedDoge/Snooze-Manager/releases/download/v1.1.0/Snooze-Manager.zip
+        contentType: application/x-zip-compressed
+    enriched: true
   - id: "1475139802482479317"
     kind: plugins
     name: 🩺 Mayhem Doctor
@@ -219,121 +367,6 @@ listings:
         size: 4929
         downloadUrl: https://cdn.discordapp.com/attachments/1462451902028578940/1465476858241093662/index.js?ex=6a78596e&is=6a7707ee&hm=346ecba474f6452014fcb9bc3748a142bf0a5b86c6a11279445eb2f816b8b568&
         contentType: text/javascript; charset=utf-8
-    enriched: true
-  - id: "1512550218044805150"
-    kind: plugins
-    name: "[v1.0.2] Snooze-Manager (A Plug-in Collection)"
-    description: "Snooze-Manager is a modular plug-in manager for Pengu Loader. Each
-      QoL feature is implemented as a separate module, and the manager loads
-      them together while keeping configuration consolidated. Everything is
-      built to be lightweight and event driven: no embedded React application,
-      no bloat, no constant polling of the client for changes and so on. Some
-      features are inspired by earlier work, but the implementation here is
-      independent and expanded to offer more than a straight copy."
-    details: "## Release Changelog\r
-
-      <img width=\"4670\" height=\"1710\" alt=\"image\"
-      src=\"https://github.com/user-attachments/assets/40c57079-6a7f-4b33-8997-\
-      a01b8de1d95f\" />\r
-
-      \r
-
-      \r
-
-      ### New Features\r
-
-      \r
-
-      - **Skin Blacklist (Whale Helper)** - Block specific skins and chromas
-      from appearing in champion select. Choose between \"Hide Completely\" or
-      \"Show as Unowned\" mode. Full editor UI with champion search.\r
-
-      - **Skin Randomizer (Whale Helper)** - Dice button in champion select that
-      picks a random owned skin Also supports chromas.\r
-
-      - **Rank Display (Player Analysis)** - Player Solo/Flex ranks now shown on
-      player lookup view, in champion select, and during live game analysis.
-      Includes team average rank labels.\r
-
-      - **Role Detection & Top Champions (Player Analysis)** - Live game view
-      now shows each player's assigned role and their most-played champions with
-      win rate badges.\r
-
-      - **Prioritize by Contribution (Auto Honor)** - Auto-honor can now
-      automatically select the teammate with the best performance score first.\r
-
-      - **KDA & Score on Honor Cards (Auto Honor)** - Player stats can now be
-      displayed on the honor voting screen.\r
-
-      - **Lock Timing Modes (Auto Lock Champion)** - Choose to lock your
-      champion \"Before turn ends\" or \"After turn starts,\" with a
-      configurable hover delay.\r
-
-      - **Exit on Dodge (Auto Accept Match)** - New option to exit queue if a
-      queue declines or champion select dodge occurs.\r
-
-      - **Fullscreen Mode (Client Window Tweaks)** - Client Window Tweaks now
-      supports fullscreen mode with F11 toggle.\r
-
-      - **Include All Game Modes (Player Analysis)** - By default the module now
-      shows \"active\" queues instead of the full list. Added new toggle to show
-      all queue types in the player lookup mode filter dropdown.\r
-
-      - **Welcome Modal** - Welcome screen shown on first launch highlighting
-      features and main menu hotkey.\r
-
-      - **Settings Tab** - New settings screen with menu custom hotkey capture,
-      auto-update checks, debug logging toggle, and individual module visibility
-      management with the ability to completely disable a module.\r
-
-      - **\"Me\" Button (Player Lookup)** - Quick self-search button added to
-      Player Lookup.\r
-
-      - **Name Spoofer** - New experimental module that locally spoofs your
-      displayed Riot ID (cosmetic only). Customize your own name, friend names,
-      champ-select names, and more. (Recommended: disable in settings if no plan
-      to use)\r
-
-      \r
-
-      ### Improvements\r
-
-      \r
-
-      - **Customizable Hotkey (Snooze-Manager)** - Menu hotkey can now be
-      customized from the Settings tab.\r
-
-      - **Configurable Vote Delay (Auto Honor)** - Delay between honor votes is
-      now configurable.\r
-
-      - **Improved Player Lookup UI**\r
-
-      - **Cleaner Champ-Select Stats Layout (Player Analysis)**"
-    repo: https://github.com/ReformedDoge/Snooze-Manager
-    releaseUrl: https://github.com/ReformedDoge/Snooze-Manager/releases/tag/v1.0.2
-    releaseTag: v1.0.2
-    releaseName: v1.0.2 - Settings Tab, Player Analysis UI Overhaul, Rank Display,
-      Skin Blacklist, Skin Randomizer, Champion Lock Timing Modes, Fullscreen
-      Mode, Honor Improvements, Show stats on honor card, Auto-Exit queue on
-      Dodge or decline, Name Spoofer & More
-    image: https://media.discordapp.net/attachments/1512550218044805150/1512550376509931742/6kkx030.png?ex=6a78370f&is=6a76e58f&hm=58902d113f509c55ab78636ac56d8eeed2d21a6e5dcecec9e9f528a103db3edf&
-    author:
-      name: ReformedDoge
-      avatar: https://avatars.githubusercontent.com/u/39759213?v=4
-      github: ReformedDoge
-    tags:
-      - Utility
-      - Misc
-      - Fun
-      - Enhancement
-    discordUrl: https://discord.com/channels/1069483280438673418/1512550218044805150/1512550218044805150
-    upvotes: 31
-    updatedAt: 2026-07-13T11:06:37Z
-    assets:
-      - name: Snooze-Manager.zip
-        size: 281012
-        downloadUrl: https://github.com/ReformedDoge/Snooze-Manager/releases/download/v1.0.2/Snooze-Manager.zip
-        contentType: application/x-zip-compressed
     enriched: true
   - id: "1520847793256927293"
     kind: plugins
@@ -962,7 +995,7 @@ listings:
       i think was looking the best in the whole rank history! It was made by
       <@1246591176791035946 he helped me doing it for myself so i wanted to give
       him the credits for it + share it with you guys cuz u might wanna use it!
-    image: https://media.discordapp.net/attachments/1414636794124832851/1414636794858700900/oldborders.png?ex=6a77f6ee&is=6a76a56e&hm=57279245bb6eb78daa8f061dffe9a9419db453274ae5d69f90ba57df8a81745e&
+    image: https://media.discordapp.net/attachments/1414636794124832851/1414636794858700900/oldborders.png?ex=6a789fae&is=6a774e2e&hm=6e8722c30a618834c723f5a93fc7b4684eb802e420545757e8b86f5940c664a5&
     author:
       name: Samuraj
     tags:
@@ -974,7 +1007,7 @@ listings:
     assets:
       - name: s9-ranked-borders.zip
         size: 945105
-        downloadUrl: https://cdn.discordapp.com/attachments/1414636794124832851/1414636795714338886/s9-ranked-borders.zip?ex=6a77f6ee&is=6a76a56e&hm=72c8b2deae73b53604fa49b79fcc5cd9c5786159d0e77a76b97046d8d4940f78&
+        downloadUrl: https://cdn.discordapp.com/attachments/1414636794124832851/1414636795714338886/s9-ranked-borders.zip?ex=6a789fae&is=6a774e2e&hm=7363ef0075e5eff940d41ec5da076522a8316a5d49339d07f99d8e673ee4cff3&
         contentType: application/zip
     enriched: true
   - id: "1499358177052069899"
@@ -2002,7 +2035,7 @@ listings:
     releaseUrl: https://github.com/nomi-san/ahri-theme/releases/tag/240221
     releaseTag: "240221"
     releaseName: ahri-theme-240221
-    image: https://media.discordapp.net/attachments/1095736862187991232/1095736862741635283/68747470733a2f2f692e696d6775722e636f6d2f74617a504e484e2e706e67.png?ex=6a77f839&is=6a76a6b9&hm=2b4be9d72e504501244b20ea21de70346fe36ee153a4844421e6b2ad7e82b396&
+    image: https://media.discordapp.net/attachments/1095736862187991232/1095736862741635283/68747470733a2f2f692e696d6775722e636f6d2f74617a504e484e2e706e67.png?ex=6a78a0f9&is=6a774f79&hm=693abaac29962e668226fd6dda42b110122a22f98214756deb13258c0284986b&
     author:
       name: nomi-san
       avatar: https://avatars.githubusercontent.com/u/38210249?v=4
