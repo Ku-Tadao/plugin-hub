@@ -1,7 +1,7 @@
 {
   "name": "Pengu Community Store registry",
   "version": 1,
-  "generatedAt": "2026-08-08T14:30:57.811Z",
+  "generatedAt": "2026-08-08T15:27:50.466Z",
   "source": {
     "guildId": "1069483280438673418",
     "forums": [
@@ -16,6 +16,40 @@
     ]
   },
   "listings": [
+    {
+      "id": "1475139802482479317",
+      "kind": "plugins",
+      "name": "🩺 Mayhem Doctor",
+      "description": "Your personal ARAM Mayhem analyst, built right into the League client.",
+      "details": "## New mode support, Improve algorithm for aug & items rankings, minor UI improvements\r\n<img width=\"1511\" height=\"1007\" alt=\"image\" src=\"https://github.com/user-attachments/assets/1bd88b3d-b02b-4be8-91be-a55bd3dc9e8d\" />\r\n\r\nthere's been a feature hidden behind a secret flag in the plugin since `1.1` release that enables this (hint: the plugin name)\r\n| | |\r\n|---|---|\r\n| <img width=\"640\" alt=\"image\" src=\"https://github.com/user-attachments/assets/57995203-1b3f-4f5b-9ea8-df29f1db7678\" /> | <img width=\"512\" alt=\"image\" src=\"https://github.com/user-attachments/assets/ffe8ff82-75a1-4997-9257-272c54316341\" /> |\r\n\r\nIf you use it, make sure to enable save the data \r\nto disk via settings rather than the datastore for better performance with other plugins",
+      "repo": "https://github.com/ReformedDoge/Mayhem-Doctor",
+      "releaseUrl": "https://github.com/ReformedDoge/Mayhem-Doctor/releases/tag/v1.2.5",
+      "releaseTag": "v1.2.5",
+      "releaseName": "v1.2.5 - New mode support, Improve algorithm for aug & items rankings, minor UI improvements",
+      "image": "https://media.discordapp.net/attachments/1475139802482479317/1475139803027607734/ilfu6zl.gif?ex=6a7890ff&is=6a773f7f&hm=966b7ea78bcbd5348f50ce13bb44a629ec5726fefa931cae643c13a6b85f7f87&",
+      "author": {
+        "name": "ReformedDoge",
+        "avatar": "https://avatars.githubusercontent.com/u/39759213?v=4",
+        "github": "ReformedDoge"
+      },
+      "tags": [
+        "Utility",
+        "Misc",
+        "Enhancement"
+      ],
+      "discordUrl": "https://discord.com/channels/1069483280438673418/1475139802482479317/1475139802482479317",
+      "upvotes": 12,
+      "updatedAt": "2026-08-08T15:03:51Z",
+      "assets": [
+        {
+          "name": "Mayhem-Doctor-1.2.5.zip",
+          "size": 149105,
+          "downloadUrl": "https://github.com/ReformedDoge/Mayhem-Doctor/releases/download/v1.2.5/Mayhem-Doctor-1.2.5.zip",
+          "contentType": "application/x-zip-compressed"
+        }
+      ],
+      "enriched": true
+    },
     {
       "id": "1458822729414217954",
       "kind": "plugins",
@@ -389,7 +423,7 @@
       "assets": [
         {
           "name": "Snooze-CSS-V1.3.0.zip",
-          "size": 185169,
+          "size": 193112,
           "downloadUrl": "https://github.com/ReformedDoge/Snooze-CSS/releases/download/v1.3.0/Snooze-CSS-V1.3.0.zip",
           "contentType": "application/x-zip-compressed"
         }
@@ -812,40 +846,6 @@
       "upvotes": 10,
       "updatedAt": "2026-04-29T15:46:36Z",
       "assets": [],
-      "enriched": true
-    },
-    {
-      "id": "1475139802482479317",
-      "kind": "plugins",
-      "name": "🩺 Mayhem Doctor",
-      "description": "Your personal ARAM Mayhem analyst, built right into the League client.",
-      "details": "This release introduces standalone window support and an overhaul of the dashboard's responsive architecture across all window sizes and resolutions.\r\n\r\n<img width=\"1353\" height=\"861\" alt=\"image\" src=\"https://github.com/user-attachments/assets/18f20d66-c565-4e22-bb81-d54089889970\" />\r\n<img width=\"1353\" height=\"861\" alt=\"image\" src=\"https://github.com/user-attachments/assets/2de1dede-9cac-4a23-9c71-f69cd78bc874\" />\r\n\r\n**Core Features**\r\n* **Pop-Out Window Support:** The interface can now be rendered in a standalone, dedicated pop-out window.\r\n* **Custom Window Resizing:** Added an interactive drag handle to the bottom-right corner of the pop-out window for fluid, real-time resizing.\r\n* **Size Presets and Settings:** New window size preferences (Compact, Standard, Large, and Custom) are available in the settings tab and stay synchronized with manual drag-resizing.\r\n\r\n**UI and UX Improvements**\r\n* **Responsive Dashboard Layout:** The dashboard CSS has been refactored to utilize dynamic flexbox scaling.\r\n* **Adaptive Elements:** Dashboard components now automatically adapt and re-distribute to fit both compact in-client views and large pop-out windows without cutoff borders or vertical scrollbars.\r\n",
-      "repo": "https://github.com/ReformedDoge/Mayhem-Doctor",
-      "releaseUrl": "https://github.com/ReformedDoge/Mayhem-Doctor/releases/tag/V1.2.0",
-      "releaseTag": "V1.2.0",
-      "releaseName": "v1.2.0 - New Option: Render in a separate dedicated pop-out window, Refactor: responsive dashboard layout",
-      "image": "https://media.discordapp.net/attachments/1475139802482479317/1475139803027607734/ilfu6zl.gif?ex=6a77e83f&is=6a7696bf&hm=bb9df136efa6010572f27e1cba0d47bf48d450a12eea9c2cead4e6d2383470fe&",
-      "author": {
-        "name": "ReformedDoge",
-        "avatar": "https://avatars.githubusercontent.com/u/39759213?v=4",
-        "github": "ReformedDoge"
-      },
-      "tags": [
-        "Utility",
-        "Misc",
-        "Enhancement"
-      ],
-      "discordUrl": "https://discord.com/channels/1069483280438673418/1475139802482479317/1475139802482479317",
-      "upvotes": 12,
-      "updatedAt": "2026-04-28T21:33:38Z",
-      "assets": [
-        {
-          "name": "Mayhem-Doctor-1.2.0.zip",
-          "size": 95273,
-          "downloadUrl": "https://github.com/ReformedDoge/Mayhem-Doctor/releases/download/V1.2.0/Mayhem-Doctor-1.2.0.zip",
-          "contentType": "application/x-zip-compressed"
-        }
-      ],
       "enriched": true
     },
     {
@@ -1796,7 +1796,7 @@
       "releaseUrl": "https://github.com/egirlcatnip/league-theme-mica/releases/tag/Releases",
       "releaseTag": "Releases",
       "releaseName": "Release v1.6",
-      "image": "https://media.discordapp.net/attachments/1165305978187681803/1165305978674216970/shot.png?ex=6a77ef83&is=6a769e03&hm=3a02f3e4e189adc5f727f4aecabe08177c3b136b456baa7c8d6c9684c5cb1058&",
+      "image": "https://media.discordapp.net/attachments/1165305978187681803/1165305978674216970/shot.png?ex=6a789843&is=6a7746c3&hm=7db926ca38a1eee732631f61b28b2cef4c1e841b39e8f736423cc8f443ae5e44&",
       "author": {
         "name": "egirlcatnip",
         "avatar": "https://avatars.githubusercontent.com/u/26607304?v=4",
@@ -1906,7 +1906,7 @@
       "name": "GrayscaleV2",
       "description": "Grayscale theme for Pengu-loader.",
       "repo": "https://github.com/rviid/league-grayscale-theme",
-      "image": "https://media.discordapp.net/attachments/1166033741186076793/1166033741597130852/grayscalev2.png?ex=6a77f24b&is=6a76a0cb&hm=f2aeaeb726b4a00cab54ff46341e2de831aad90aea6667560bf771df06dfabc6&",
+      "image": "https://media.discordapp.net/attachments/1166033741186076793/1166033741597130852/grayscalev2.png?ex=6a789b0b&is=6a77498b&hm=abf07b8e009c110c4ab3da7ea3a2b83c935738046a844ef164a6c87f6369ad1d&",
       "author": {
         "name": "rviid",
         "avatar": "https://avatars.githubusercontent.com/u/147655674?v=4",
@@ -1989,7 +1989,7 @@
       "releaseUrl": "https://github.com/HerXayah/league-launcher-theme/releases/tag/treetard",
       "releaseTag": "treetard",
       "releaseName": "JS File",
-      "image": "https://media.discordapp.net/attachments/1077961395393536092/1077970085148381214/chrome_zATRdGurSO.png?ex=6a77ef20&is=6a769da0&hm=961de681703df807d9dbdbc7fa5b04dee47d70ff7fc5c9987c5c23d611addaac&",
+      "image": "https://media.discordapp.net/attachments/1077961395393536092/1077970085148381214/chrome_zATRdGurSO.png?ex=6a7897e0&is=6a774660&hm=31851104478e5db55d51b0b374db0b6921f51527e8824ace4d56ff4d7e4b1ebf&",
       "author": {
         "name": "HerXayah",
         "avatar": "https://avatars.githubusercontent.com/u/45071533?v=4",
@@ -2024,7 +2024,7 @@
       "releaseUrl": "https://github.com/HerXayah/league-launcher-theme/releases/tag/treetard",
       "releaseTag": "treetard",
       "releaseName": "JS File",
-      "image": "https://media.discordapp.net/attachments/1077970301192769636/1077970301666734080/PDHdfhl.png?ex=6a77ef53&is=6a769dd3&hm=58d3ca6361ee61173beed29baca131ea088d17c48cc9426809ef54ef331594e6&",
+      "image": "https://media.discordapp.net/attachments/1077970301192769636/1077970301666734080/PDHdfhl.png?ex=6a789813&is=6a774693&hm=0e6dc3b09bb831bbdb23facfcd4170150d12f149b2b52f2192da01be61ab87e1&",
       "author": {
         "name": "HerXayah",
         "avatar": "https://avatars.githubusercontent.com/u/45071533?v=4",
