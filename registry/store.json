@@ -1,7 +1,7 @@
 {
   "name": "Pengu Community Store registry",
   "version": 1,
-  "generatedAt": "2026-08-08T22:27:30.206Z",
+  "generatedAt": "2026-08-08T22:58:27.658Z",
   "source": {
     "guildId": "1069483280438673418",
     "forums": [
@@ -163,7 +163,7 @@
         {
           "name": "index.js",
           "size": 4929,
-          "downloadUrl": "https://cdn.discordapp.com/attachments/1462451902028578940/1465476858241093662/index.js?ex=6a78596e&is=6a7707ee&hm=346ecba474f6452014fcb9bc3748a142bf0a5b86c6a11279445eb2f816b8b568&",
+          "downloadUrl": "https://cdn.discordapp.com/attachments/1462451902028578940/1465476858241093662/index.js?ex=6a79022e&is=6a77b0ae&hm=19ec20710a8da188ebb6d8e56ea98eb75b8ea30b038c980ef4a6c710a2829ebf&",
           "contentType": "text/javascript; charset=utf-8"
         }
       ],
@@ -782,7 +782,7 @@
       "kind": "plugins",
       "name": "Banner Customizer",
       "description": "Plugin that lets you display any banner in your lobby, including ones you don't own. Upload your own custom images or animated WebM files, or pick from any banner in the game. Works in the standard lobby, Arena hover tooltip, and your profile page. BNC Button in Lobby as always with my plugins. ⚠️ Client-side only — only you can see the change. Other players still see your actual equipped banner.",
-      "image": "https://media.discordapp.net/attachments/1499358177052069899/1499358177840467968/4hbdb93.png?ex=6a78579e&is=6a77061e&hm=63e34885beeaf3cac29c17e599239b7fef10e62a4e8ee5c697bd12aca13d0e12&",
+      "image": "https://media.discordapp.net/attachments/1499358177052069899/1499358177840467968/4hbdb93.png?ex=6a79005e&is=6a77aede&hm=35a90c96599d58cc43bb889fd0ee1a32e04f141afaa61b2f963114b6e36a4d3c&",
       "author": {
         "name": "Eris Greyrat"
       },
@@ -798,7 +798,7 @@
         {
           "name": "Banner-Customizer.js",
           "size": 56598,
-          "downloadUrl": "https://cdn.discordapp.com/attachments/1499358177052069899/1499358178658222220/Banner-Customizer.js?ex=6a78579e&is=6a77061e&hm=7849352cab4b619873849b5dacc42954ed506d51b326dd8eff6394e05d8c17eb&",
+          "downloadUrl": "https://cdn.discordapp.com/attachments/1499358177052069899/1499358178658222220/Banner-Customizer.js?ex=6a79005e&is=6a77aede&hm=06640daf4e59298bafe9aa15a102284ad102a668e73156907d972ec926ced0bb&",
           "contentType": "text/javascript; charset=utf-8"
         }
       ],
@@ -931,7 +931,7 @@
       "releaseUrl": "https://github.com/Ventoba/3DSkinViewer/releases/tag/v1.0",
       "releaseTag": "v1.0",
       "releaseName": "v1.0",
-      "image": "https://media.discordapp.net/attachments/1490663854059950280/1490663854391427183/example2.PNG?ex=6a785a66&is=6a7708e6&hm=a674a17979d14231ca4ca7b5ea3e70d5c0c36423d06f79e79d36d35a03848555&",
+      "image": "https://media.discordapp.net/attachments/1490663854059950280/1490663854391427183/example2.PNG?ex=6a790326&is=6a77b1a6&hm=baadab1f6d6b2c01e03f854551519814a107bff75308b4a63b9d438ebbf9aca0&",
       "author": {
         "name": "Ventoba",
         "avatar": "https://avatars.githubusercontent.com/u/96593577?v=4",
@@ -1415,7 +1415,7 @@
       "name": "AutoAcceptEnhanced - auto Q acccepter with enhancements",
       "description": "AutoAcceptEnhanced 🚀 An enhanced auto queue accepter with hide \"match found\" dialog function Features: ✅ Auto Accept - Automatically accepts match queues after 9.5 seconds ✅ Hide Dialog - Hides the match found dialog, allowing you to continue using the client (open chests, shop, etc.) while in queue ✅ Clean UI - Minimalist toggle buttons in the lobby ✅ Settings Persistence - Your preferences are saved between sessions Installation: 1. Download autoaccept.js from GitHub 2. Place the file in your Pengu Loader plugins directory 3. Enjoy! You'll see toggle buttons in your lobby Download: 🔗 GitHub: This plugin is based on another developer's auto accept plugin, which wasn't released. I downloaded it from \"plugin request\" section long ago, now i can't find who developed it. They will be credited as soon as they reach out",
       "repo": "https://github.com/asherathegod/penguplugins",
-      "image": "https://media.discordapp.net/attachments/1371799042832597054/1371799043575123978/EbMqICb.png?ex=6a7858ea&is=6a77076a&hm=280a69ff50829d91f4a24cbca5a695619b249c91df2fdb3968f6e02607d52d00&",
+      "image": "https://media.discordapp.net/attachments/1371799042832597054/1371799043575123978/EbMqICb.png?ex=6a7901aa&is=6a77b02a&hm=ea0796bb25196c38e365f07a765be2f434705c7b785ab9f26e48add478428f9f&",
       "author": {
         "name": "asherathegod",
         "avatar": "https://avatars.githubusercontent.com/u/68480231?v=4",
