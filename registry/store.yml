@@ -1,6 +1,6 @@
 name: Pengu Community Store registry
 version: 1
-generatedAt: 2026-08-10T14:36:10.868Z
+generatedAt: 2026-08-10T15:58:40.549Z
 source:
   guildId: "1069483280438673418"
   forums:
@@ -194,7 +194,7 @@ listings:
     releaseTag: v1.2.5
     releaseName: v1.2.5 - New mode support, Improve algorithm for aug & items
       rankings, minor UI improvements
-    image: https://media.discordapp.net/attachments/1475139802482479317/1475139803027607734/ilfu6zl.gif?ex=6a7a8b3f&is=6a7939bf&hm=46e59ef724d4e7a9e4df5adebbc1516e15f8a77cd2efb72ba800abcea3259265&
+    image: https://media.discordapp.net/attachments/1475139802482479317/1475139803027607734/ilfu6zl.gif?ex=6a7b33ff&is=6a79e27f&hm=936507e2109fb3fbc39251db939d83109db4d51a83c6207c23c6d8275785ff32&
     author:
       name: ReformedDoge
       avatar: https://avatars.githubusercontent.com/u/39759213?v=4
@@ -983,7 +983,7 @@ listings:
       i think was looking the best in the whole rank history! It was made by
       <@1246591176791035946 he helped me doing it for myself so i wanted to give
       him the credits for it + share it with you guys cuz u might wanna use it!
-    image: https://media.discordapp.net/attachments/1414636794124832851/1414636794858700900/oldborders.png?ex=6a7a99ee&is=6a79486e&hm=4ad96c04fdc80630960b026142151bf80aa9a2fb27fe930e3dad71c918a6cb2e&
+    image: https://media.discordapp.net/attachments/1414636794124832851/1414636794858700900/oldborders.png?ex=6a7b42ae&is=6a79f12e&hm=9692276d810a6a0c6a4019d6e7be2de9729cea3f6c34ea0502651183f01436c0&
     author:
       name: Samuraj
     tags:
@@ -995,7 +995,7 @@ listings:
     assets:
       - name: s9-ranked-borders.zip
         size: 945105
-        downloadUrl: https://cdn.discordapp.com/attachments/1414636794124832851/1414636795714338886/s9-ranked-borders.zip?ex=6a7a99ee&is=6a79486e&hm=6c7a567337fadd94e02484b7f9ca1c017c45ea5bf08151f4d5393e3ba2bfc678&
+        downloadUrl: https://cdn.discordapp.com/attachments/1414636794124832851/1414636795714338886/s9-ranked-borders.zip?ex=6a7b42ae&is=6a79f12e&hm=7d66a879f80f68bdd14c27f268407b4af24cf2f1b2c3bb59c53403e7865af06c&
         contentType: application/zip
     enriched: true
   - id: "1499358177052069899"
@@ -1892,7 +1892,7 @@ listings:
     name: ScarletRed
     description: ScarletRed theme ( Original from ElainaV3) for Pengu loader
     repo: https://github.com/R3mia/ScarletRed
-    image: https://media.discordapp.net/attachments/1183799859342483476/1183799859707379803/image.png?ex=6a7a9dc8&is=6a794c48&hm=c0947daf08e2d2c529ef20dab4d85af3928bd4db6e97a4223caf75e9b90760a4&
+    image: https://media.discordapp.net/attachments/1183799859342483476/1183799859707379803/image.png?ex=6a7b4688&is=6a79f508&hm=76b1f2975ac20b14271037c4e6407aaf626cba3b9384626249e02932e375e9f8&
     author:
       name: R3mia
       avatar: https://avatars.githubusercontent.com/u/72246166?v=4
@@ -2023,7 +2023,7 @@ listings:
     releaseUrl: https://github.com/nomi-san/ahri-theme/releases/tag/240221
     releaseTag: "240221"
     releaseName: ahri-theme-240221
-    image: https://media.discordapp.net/attachments/1095736862187991232/1095736862741635283/68747470733a2f2f692e696d6775722e636f6d2f74617a504e484e2e706e67.png?ex=6a7a9b39&is=6a7949b9&hm=84ca61a9875d694fe912b2c3e9d088588e7af19fa78e8d0ee50470c3390f40f7&
+    image: https://media.discordapp.net/attachments/1095736862187991232/1095736862741635283/68747470733a2f2f692e696d6775722e636f6d2f74617a504e484e2e706e67.png?ex=6a7b43f9&is=6a79f279&hm=d8b55ac0f26872d846386c9f0c062df7eaeae9080cadf7c9f848200a29790c02&
     author:
       name: nomi-san
       avatar: https://avatars.githubusercontent.com/u/38210249?v=4
@@ -2091,7 +2091,7 @@ listings:
     releaseUrl: https://github.com/egirlcatnip/league-theme-mica/releases/tag/Releases
     releaseTag: Releases
     releaseName: Release v1.6
-    image: https://media.discordapp.net/attachments/1165305978187681803/1165305978674216970/shot.png?ex=6a7a9283&is=6a794103&hm=11a6e9e16da33755e07ab72a1d24c37d320cfc6cfc56d7d90d7ca461e3f44a97&
+    image: https://media.discordapp.net/attachments/1165305978187681803/1165305978674216970/shot.png?ex=6a7b3b43&is=6a79e9c3&hm=665910f060657a3326c3f6fce545a7c5d6172eb6a9fad79acb16e6331ff6cdc5&
     author:
       name: egirlcatnip
       avatar: https://avatars.githubusercontent.com/u/26607304?v=4
@@ -2198,7 +2198,7 @@ listings:
     name: GrayscaleV2
     description: Grayscale theme for Pengu-loader.
     repo: https://github.com/rviid/league-grayscale-theme
-    image: https://media.discordapp.net/attachments/1166033741186076793/1166033741597130852/grayscalev2.png?ex=6a7a954b&is=6a7943cb&hm=6abfbe02504924e00a910d298bcd4efc0705df89a17b43e68722903e1cf398a8&
+    image: https://media.discordapp.net/attachments/1166033741186076793/1166033741597130852/grayscalev2.png?ex=6a7b3e0b&is=6a79ec8b&hm=044d8cd99f4b63a6d0ecd245d04595905d97cf2e2d266ec5fa3d5d061e26b73e&
     author:
       name: rviid
       avatar: https://avatars.githubusercontent.com/u/147655674?v=4
@@ -2285,7 +2285,7 @@ listings:
     releaseUrl: https://github.com/HerXayah/league-launcher-theme/releases/tag/treetard
     releaseTag: treetard
     releaseName: JS File
-    image: https://media.discordapp.net/attachments/1077961395393536092/1077970085148381214/chrome_zATRdGurSO.png?ex=6a7a9220&is=6a7940a0&hm=7c14ad9caf2ab077fb7f7b8da5599b690d40d127cfaa6bef31fae82285bb834b&
+    image: https://media.discordapp.net/attachments/1077961395393536092/1077970085148381214/chrome_zATRdGurSO.png?ex=6a7b3ae0&is=6a79e960&hm=68c3332a153fd048d3f2cf0fcabcea6f2ee71b211cb657b05ca9d959d38bff26&
     author:
       name: HerXayah
       avatar: https://avatars.githubusercontent.com/u/45071533?v=4
@@ -2328,7 +2328,7 @@ listings:
     releaseUrl: https://github.com/HerXayah/league-launcher-theme/releases/tag/treetard
     releaseTag: treetard
     releaseName: JS File
-    image: https://media.discordapp.net/attachments/1077970301192769636/1077970301666734080/PDHdfhl.png?ex=6a7a9253&is=6a7940d3&hm=789a028362f09a62e3a0faea53b096c86a61b294393285dffd43571c23e1c887&
+    image: https://media.discordapp.net/attachments/1077970301192769636/1077970301666734080/PDHdfhl.png?ex=6a7b3b13&is=6a79e993&hm=f095f4bce99b77ebf45ed08a1f5e31e71fd763164f13c6ce54a1579107004b4e&
     author:
       name: HerXayah
       avatar: https://avatars.githubusercontent.com/u/45071533?v=4
