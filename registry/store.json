@@ -1,7 +1,7 @@
 {
   "name": "Pengu Community Store registry",
   "version": 1,
-  "generatedAt": "2026-08-10T10:42:58.939Z",
+  "generatedAt": "2026-08-10T11:45:39.659Z",
   "source": {
     "guildId": "1069483280438673418",
     "forums": [
@@ -817,7 +817,7 @@
       "name": "OP.GG & U.GG Button Plugin",
       "description": "An custom JavaScript page for Pengu Loader",
       "repo": "https://github.com/GogoChad/opgg-button",
-      "image": "https://media.discordapp.net/attachments/1495203342400360459/1495203439347499059/image.png?ex=6a7a5db7&is=6a790c37&hm=66ef385fd6d2c1ccb68fcbf6c4a873e34b2a68d397f04206d7a82be123fb12be&",
+      "image": "https://media.discordapp.net/attachments/1495203342400360459/1495203439347499059/image.png?ex=6a7b0677&is=6a79b4f7&hm=f2f6214c25b84fba6ef8f5006097d90ad468e06f712db3297ad2b42d5b4f4279&",
       "author": {
         "name": "GogoChad",
         "avatar": "https://avatars.githubusercontent.com/u/133820564?v=4",
@@ -916,7 +916,7 @@
       "releaseUrl": "https://github.com/Ventoba/3DSkinViewer/releases/tag/v1.0",
       "releaseTag": "v1.0",
       "releaseName": "v1.0",
-      "image": "https://media.discordapp.net/attachments/1490663854059950280/1490663854391427183/example2.PNG?ex=6a7a54a6&is=6a790326&hm=afe9a8fda7e15e6679d7361babfe03b280e98dfcc70aa6e7a256d84c248a9530&",
+      "image": "https://media.discordapp.net/attachments/1490663854059950280/1490663854391427183/example2.PNG?ex=6a7afd66&is=6a79abe6&hm=b61dbb41c83e3dff7dbde636f05f83d1c4ef4e348268153040ca262476a5e6f2&",
       "author": {
         "name": "Ventoba",
         "avatar": "https://avatars.githubusercontent.com/u/96593577?v=4",
@@ -1202,7 +1202,7 @@
       "kind": "plugins",
       "name": "Hide Nonsense",
       "description": "No description provided.",
-      "image": "https://media.discordapp.net/attachments/1395902555095171225/1395906635968286882/image.png?ex=6a7a5b5c&is=6a7909dc&hm=1f9248b2bd86eea6b50bf157c0852658e338fa026140d2ce4f8809a34a9044cc&",
+      "image": "https://media.discordapp.net/attachments/1395902555095171225/1395906635968286882/image.png?ex=6a7b041c&is=6a79b29c&hm=7e713f480fd4d443b7d05ace50eac789c4d65012a50818cb95f235cdcff322f4&",
       "author": {
         "name": "莫嘎 | Moga"
       },
@@ -1289,7 +1289,7 @@
       "releaseUrl": "https://github.com/nomi-san/balance-buff-viewer/releases/tag/main",
       "releaseTag": "main",
       "releaseName": "S16 | v26 | 2026",
-      "image": "https://media.discordapp.net/attachments/1127199847901052979/1127199848303693844/image.png?ex=6a7a5eea&is=6a790d6a&hm=4dae3d4968374342bb81e01d221467a42edf3758652daaf34bedbb44f6050017&",
+      "image": "https://media.discordapp.net/attachments/1127199847901052979/1127199848303693844/image.png?ex=6a7b07aa&is=6a79b62a&hm=31d60e092427c3a9dcff512e288576e4c3aa75fa2805b396ebc50614dcad3358&",
       "author": {
         "name": "nomi-san",
         "avatar": "https://avatars.githubusercontent.com/u/38210249?v=4",
@@ -1339,7 +1339,7 @@
       "kind": "plugins",
       "name": "Blue Essence Icon Swapper",
       "description": "Blue Essence Icon Swapper How to use: Click the BE icon to change icon. Click the BE icon to select new image/reset to standard.",
-      "image": "https://media.discordapp.net/attachments/1468009747780210791/1468019006991634432/Screenshot_2026-02-02_232517.png?ex=6a7a58bd&is=6a79073d&hm=9e268086dab633ca7b6c1f4b94e359b6055d459d442f71dea29fb20d025fd05f&",
+      "image": "https://media.discordapp.net/attachments/1468009747780210791/1468019006991634432/Screenshot_2026-02-02_232517.png?ex=6a7b017d&is=6a79affd&hm=0795278b0d287c07e9a4ebcf2ba56a560c4660ac1f23e166e182c70aa0b5e005&",
       "author": {
         "name": "Ilkay"
       },
@@ -1353,7 +1353,7 @@
         {
           "name": "BE-Icon-Swapper.js",
           "size": 6253,
-          "downloadUrl": "https://cdn.discordapp.com/attachments/1468009747780210791/1468019008229081235/BE-Icon-Swapper.js?ex=6a7a58be&is=6a79073e&hm=c8748b8facf86b2ee28ba0b0233d9f50131caa3911cf28fa51c5e91b9cd0bc50&",
+          "downloadUrl": "https://cdn.discordapp.com/attachments/1468009747780210791/1468019008229081235/BE-Icon-Swapper.js?ex=6a7b017e&is=6a79affe&hm=cfb5e21bd913ba5a84f8faa52b92646da14df946774df791a88c87b34452f742&",
           "contentType": "text/javascript; charset=utf-8"
         }
       ],
@@ -1447,7 +1447,7 @@
       "releaseUrl": "https://github.com/DmitryFisk/pengu-force-custom-lobby/releases/tag/2.2.0",
       "releaseTag": "2.2.0",
       "releaseName": "2.2.0",
-      "image": "https://media.discordapp.net/attachments/1322710156173250601/1322710156626104320/image.png?ex=6a7a60d4&is=6a790f54&hm=b3f2665fc6a87c29c955dea275f673ab6fce2367cf45024ce2cf7862d1260831&",
+      "image": "https://media.discordapp.net/attachments/1322710156173250601/1322710156626104320/image.png?ex=6a7b0994&is=6a79b814&hm=1a6d0f6052f1bed55d49e63680a7f2e8f56024c8382982b9386642eecf7399fb&",
       "author": {
         "name": "DmitryFisk",
         "avatar": "https://avatars.githubusercontent.com/u/62219971?v=4",
@@ -1547,7 +1547,7 @@
       "kind": "plugins",
       "name": "Invisible profile border",
       "description": "Just copy and paste it into the DevTools console (Ctrl+Shift+I). Needs level 525 or higher js await fetch(\"/lol-regalia/v2/current-summoner/regalia\", { method: \"PUT\", body: JSON.stringify({ preferredCrestType: \"prestige\", preferredBannerType: \"blank\", selectedPrestigeCrest: 22}), headers: { \"Content-Type\": \"application/json\" }, });",
-      "image": "https://media.discordapp.net/attachments/1327785286327074929/1327785286561960026/image.png?ex=6a7a6269&is=6a7910e9&hm=0f533dfd7da5c912cd33403834be9e39bba1eddb9ef73c2944523d996d180515&",
+      "image": "https://media.discordapp.net/attachments/1327785286327074929/1327785286561960026/image.png?ex=6a7b0b29&is=6a79b9a9&hm=573e532d04297d4b939ab64f6ed2485c6a3c0bd0ddbe15f2146ca8ddfd23ceed&",
       "author": {
         "name": "kebs"
       },
