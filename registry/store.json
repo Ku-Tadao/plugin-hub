@@ -1,7 +1,7 @@
 {
   "name": "Pengu Community Store registry",
   "version": 1,
-  "generatedAt": "2026-08-11T22:39:47.801Z",
+  "generatedAt": "2026-08-11T23:38:37.029Z",
   "source": {
     "guildId": "1069483280438673418",
     "forums": [
@@ -163,7 +163,7 @@
         {
           "name": "index.js",
           "size": 4929,
-          "downloadUrl": "https://cdn.discordapp.com/attachments/1462451902028578940/1465476858241093662/index.js?ex=6a7c4dee&is=6a7afc6e&hm=13cae8576298345a9149a17980d27e02ccb07b915950d211f0a7277476f819f4&",
+          "downloadUrl": "https://cdn.discordapp.com/attachments/1462451902028578940/1465476858241093662/index.js?ex=6a7cf6ae&is=6a7ba52e&hm=abd2938a5e9ef208b5615b1cfa376a38872d41b61068cfed346ba950cae5dd87&",
           "contentType": "text/javascript; charset=utf-8"
         }
       ],
@@ -817,7 +817,7 @@
       "name": "OP.GG & U.GG Button Plugin",
       "description": "An custom JavaScript page for Pengu Loader",
       "repo": "https://github.com/GogoChad/opgg-button",
-      "image": "https://media.discordapp.net/attachments/1495203342400360459/1495203439347499059/image.png?ex=6a7c57f7&is=6a7b0677&hm=848d6c1fa156f7085e0756ee9e0a6e1563d95553f0d2570524aa0ca240bbd060&",
+      "image": "https://media.discordapp.net/attachments/1495203342400360459/1495203439347499059/image.png?ex=6a7d00b7&is=6a7baf37&hm=e0f3a61ea7a8e02c0f9e0be3b3db8a36fa4e91dac71377ad295b3414a74aac0a&",
       "author": {
         "name": "GogoChad",
         "avatar": "https://avatars.githubusercontent.com/u/133820564?v=4",
@@ -916,7 +916,7 @@
       "releaseUrl": "https://github.com/Ventoba/3DSkinViewer/releases/tag/v1.0",
       "releaseTag": "v1.0",
       "releaseName": "v1.0",
-      "image": "https://media.discordapp.net/attachments/1490663854059950280/1490663854391427183/example2.PNG?ex=6a7c4ee6&is=6a7afd66&hm=9f9218903d392d665888e054daa5c4e6241b4e32e123433def60191e414ff61d&",
+      "image": "https://media.discordapp.net/attachments/1490663854059950280/1490663854391427183/example2.PNG?ex=6a7cf7a6&is=6a7ba626&hm=016df0e8e4e9abc9710263ae4e10d5f93cef6d0b2868e97927d6b6079fbdacb4&",
       "author": {
         "name": "Ventoba",
         "avatar": "https://avatars.githubusercontent.com/u/96593577?v=4",
@@ -1202,7 +1202,7 @@
       "kind": "plugins",
       "name": "Hide Nonsense",
       "description": "No description provided.",
-      "image": "https://media.discordapp.net/attachments/1395902555095171225/1395906635968286882/image.png?ex=6a7c559c&is=6a7b041c&hm=8ef1d5808db9081dceb0502cbd28096b2884f35af17ed77f209944581755493e&",
+      "image": "https://media.discordapp.net/attachments/1395902555095171225/1395906635968286882/image.png?ex=6a7cfe5c&is=6a7bacdc&hm=4d4a98d7024d3dcdb00ce049bc5037984d482e5564ee41333c27e9697ea166bb&",
       "author": {
         "name": "莫嘎 | Moga"
       },
@@ -1289,7 +1289,7 @@
       "releaseUrl": "https://github.com/nomi-san/balance-buff-viewer/releases/tag/main",
       "releaseTag": "main",
       "releaseName": "S16 | v26 | 2026",
-      "image": "https://media.discordapp.net/attachments/1127199847901052979/1127199848303693844/image.png?ex=6a7c592a&is=6a7b07aa&hm=756a3d25508fba9924181c44736a0589e81daf3fddfc2b03930e31761ec2bd1b&",
+      "image": "https://media.discordapp.net/attachments/1127199847901052979/1127199848303693844/image.png?ex=6a7d01ea&is=6a7bb06a&hm=8d44800ac686fbe236b434377c3291b208c1f9b0ba97ad5eb2f0527c9ec8a2f6&",
       "author": {
         "name": "nomi-san",
         "avatar": "https://avatars.githubusercontent.com/u/38210249?v=4",
@@ -1339,7 +1339,7 @@
       "kind": "plugins",
       "name": "Blue Essence Icon Swapper",
       "description": "Blue Essence Icon Swapper How to use: Click the BE icon to change icon. Click the BE icon to select new image/reset to standard.",
-      "image": "https://media.discordapp.net/attachments/1468009747780210791/1468019006991634432/Screenshot_2026-02-02_232517.png?ex=6a7c52fd&is=6a7b017d&hm=89356341ebabadf6dfc32e7febc5a23ffbbbe3d3bf6cd0455e5ae5da8d29552c&",
+      "image": "https://media.discordapp.net/attachments/1468009747780210791/1468019006991634432/Screenshot_2026-02-02_232517.png?ex=6a7cfbbd&is=6a7baa3d&hm=112cf1f4d789b614152b81bb86bcad0036281baf4cb522dc1fe70dd8badf22b8&",
       "author": {
         "name": "Ilkay"
       },
@@ -1353,7 +1353,7 @@
         {
           "name": "BE-Icon-Swapper.js",
           "size": 6253,
-          "downloadUrl": "https://cdn.discordapp.com/attachments/1468009747780210791/1468019008229081235/BE-Icon-Swapper.js?ex=6a7c52fe&is=6a7b017e&hm=215c23dd1e38fd854774ec0521138fa030dd9896592419094e11f4ed7403bf2b&",
+          "downloadUrl": "https://cdn.discordapp.com/attachments/1468009747780210791/1468019008229081235/BE-Icon-Swapper.js?ex=6a7cfbbe&is=6a7baa3e&hm=0cd5bf500dac49761f6d6289dd9653e3ce9d0507e0ad93aebabead8d82a46066&",
           "contentType": "text/javascript; charset=utf-8"
         }
       ],
@@ -1400,7 +1400,7 @@
       "name": "AutoAcceptEnhanced - auto Q acccepter with enhancements",
       "description": "AutoAcceptEnhanced 🚀 An enhanced auto queue accepter with hide \"match found\" dialog function Features: ✅ Auto Accept - Automatically accepts match queues after 9.5 seconds ✅ Hide Dialog - Hides the match found dialog, allowing you to continue using the client (open chests, shop, etc.) while in queue ✅ Clean UI - Minimalist toggle buttons in the lobby ✅ Settings Persistence - Your preferences are saved between sessions Installation: 1. Download autoaccept.js from GitHub 2. Place the file in your Pengu Loader plugins directory 3. Enjoy! You'll see toggle buttons in your lobby Download: 🔗 GitHub: This plugin is based on another developer's auto accept plugin, which wasn't released. I downloaded it from \"plugin request\" section long ago, now i can't find who developed it. They will be credited as soon as they reach out",
       "repo": "https://github.com/asherathegod/penguplugins",
-      "image": "https://media.discordapp.net/attachments/1371799042832597054/1371799043575123978/EbMqICb.png?ex=6a7c4d6a&is=6a7afbea&hm=ca3008c4086a376da456a3c6df51435a800c67bae0c07c94a66bb670b4269c81&",
+      "image": "https://media.discordapp.net/attachments/1371799042832597054/1371799043575123978/EbMqICb.png?ex=6a7cf62a&is=6a7ba4aa&hm=50288666244525c6289bce20431c719ae169603936259fb2e0dd1166da8e68ba&",
       "author": {
         "name": "asherathegod",
         "avatar": "https://avatars.githubusercontent.com/u/68480231?v=4",
@@ -1447,7 +1447,7 @@
       "releaseUrl": "https://github.com/DmitryFisk/pengu-force-custom-lobby/releases/tag/2.2.0",
       "releaseTag": "2.2.0",
       "releaseName": "2.2.0",
-      "image": "https://media.discordapp.net/attachments/1322710156173250601/1322710156626104320/image.png?ex=6a7c5b14&is=6a7b0994&hm=24bcf2492c6852213ac85eae62ec3a5bf2a4e358ce072aacaaa8636fc4fa7168&",
+      "image": "https://media.discordapp.net/attachments/1322710156173250601/1322710156626104320/image.png?ex=6a7d03d4&is=6a7bb254&hm=dfda70c76ef8582f1d97e800248fa4a991ed0ae9b02fe8086063c972a570e169&",
       "author": {
         "name": "DmitryFisk",
         "avatar": "https://avatars.githubusercontent.com/u/62219971?v=4",
