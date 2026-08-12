@@ -1,6 +1,6 @@
 name: Pengu Community Store registry
 version: 1
-generatedAt: 2026-08-12T08:47:18.608Z
+generatedAt: 2026-08-12T10:02:50.826Z
 source:
   guildId: "1069483280438673418"
   forums:
@@ -507,7 +507,7 @@ listings:
       Activity Center to the Play screen - Removes Navbar button since it
       redirects anyways - Toggle on and off via Client General Interface
       Settings, if you at some point need to use it"
-    image: https://media.discordapp.net/attachments/1396060178545119263/1396060179815989399/image.png?ex=6a7ce49c&is=6a7b931c&hm=f23e7fd413efee1df94aa6677c2b02f39db090a34c1fc7f8d91f2140784ba7e7&
+    image: https://media.discordapp.net/attachments/1396060178545119263/1396060179815989399/image.png?ex=6a7d8d5c&is=6a7c3bdc&hm=fa8405bb1fa0584e8303f12b6270e465c68b5e92e7ff9e107a522de994e96625&
     author:
       name: Eris Greyrat
     tags:
@@ -1314,7 +1314,7 @@ listings:
     name: Banner Remover (not unranked needed last season)
     description: I made this plugin so the banner is transparent for seeing the
       background :3
-    image: https://media.discordapp.net/attachments/1485931384504848394/1485931923275776201/C457E65E-4309-49F8-87B7-D302F19ADCDF.png?ex=6a7ce431&is=6a7b92b1&hm=9cefce5e38d36e74bb3e91fe0affa6ab6aa68d09b18607784a69e27275bd6519&
+    image: https://media.discordapp.net/attachments/1485931384504848394/1485931923275776201/C457E65E-4309-49F8-87B7-D302F19ADCDF.png?ex=6a7d8cf1&is=6a7c3b71&hm=feda95376dd0401d2acb5697aa4cf98cddd4909b64085682df34918f93d241a4&
     author:
       name: LittleRadio
     tags:
@@ -1325,7 +1325,7 @@ listings:
     assets:
       - name: BannerRemover-LittleRadioo.zip
         size: 1447
-        downloadUrl: https://cdn.discordapp.com/attachments/1485931384504848394/1485931384869621820/BannerRemover-LittleRadioo.zip?ex=6a7ce3b1&is=6a7b9231&hm=9e9980b1e6dcd8492ea41abd9600ef4496fa9e114847bcc98f7cb421a807b708&
+        downloadUrl: https://cdn.discordapp.com/attachments/1485931384504848394/1485931384869621820/BannerRemover-LittleRadioo.zip?ex=6a7d8c71&is=6a7c3af1&hm=81c1b3b7e273d8f82d6a9b688a8010e7628e33af2c0a958e21f6e12b3457427e&
         contentType: application/zip
     enriched: true
   - id: "1524137061119037490"
@@ -1420,7 +1420,7 @@ listings:
     description: 🔒 Lock the League of Legends client with a 4-digit PIN — hotkey
       support, iOS-style UI, blur overlay. Penguloader plugin.
     repo: https://github.com/nt3y/LeagueClient-Locker-
-    image: https://media.discordapp.net/attachments/1485026009018273872/1485026009500877094/image.png?ex=6a7ce43f&is=6a7b92bf&hm=4d2dd98b1ebd081ebb95353d74b985bdf21f7671fd5af43c49c72b87691e5273&
+    image: https://media.discordapp.net/attachments/1485026009018273872/1485026009500877094/image.png?ex=6a7d8cff&is=6a7c3b7f&hm=9f7a27942f7a3d5ab0ecce750bf92d2095d3148320ff9482c811334692d25a52&
     author:
       name: nt3y
       avatar: https://avatars.githubusercontent.com/u/269317310?v=4
@@ -1866,7 +1866,7 @@ listings:
     releaseUrl: https://github.com/Elaina69/fake-reward-badge/releases/tag/v1.0.0
     releaseTag: v1.0.0
     releaseName: ""
-    image: https://media.discordapp.net/attachments/1316703290775441408/1316703290960121867/image.png?ex=6a7cea3f&is=6a7b98bf&hm=a80816bb682fdc0d7a1227da42759094fc5ffe4da419be6a064a5cb2a22e4581&
+    image: https://media.discordapp.net/attachments/1316703290775441408/1316703290960121867/image.png?ex=6a7d92ff&is=6a7c417f&hm=375b5c35e4d9d89d312115ef60b01115f3fb8028fac7a10ea8b693b1ebf0da9f&
     author:
       name: Elaina69
       avatar: https://avatars.githubusercontent.com/u/94338907?v=4
@@ -1934,7 +1934,7 @@ listings:
     releaseUrl: https://github.com/PenguLoader/PenguLoader/releases/tag/v1.1.6
     releaseTag: v1.1.6
     releaseName: v1.1.6
-    image: https://media.discordapp.net/attachments/1413095170475560960/1413095170940997642/Untitled.png?ex=6a7ce72e&is=6a7b95ae&hm=e472ea207380615df7c99d7b5e96387286c60f29a10ffd1b53b975cf77fc2204&
+    image: https://media.discordapp.net/attachments/1413095170475560960/1413095170940997642/Untitled.png?ex=6a7d8fee&is=6a7c3e6e&hm=9a990fb18826718e51c7dd13c9aca4f32da0c4e714b21a42a97adcc9a6b028c5&
     author:
       name: PenguLoader
       avatar: https://avatars.githubusercontent.com/u/126898920?v=4
@@ -2066,7 +2066,7 @@ listings:
     releaseUrl: https://github.com/Humildeficador/DisableQueues/releases/tag/1.0
     releaseTag: "1.0"
     releaseName: v1.0
-    image: https://media.discordapp.net/attachments/1200544287817994240/1200544288119996557/Screenshot_1.png?ex=6a7cdd7f&is=6a7b8bff&hm=f9df2a12a25746683f2c0d8da56c60b4ff1dfe015f118c17cde7297d4edc81dd&
+    image: https://media.discordapp.net/attachments/1200544287817994240/1200544288119996557/Screenshot_1.png?ex=6a7d863f&is=6a7c34bf&hm=6a6eb98a3f630ae60d166e4b06b1fced1e94b3370d98016fc610cf8d23f9e289&
     author:
       name: Humildeficador
       avatar: https://avatars.githubusercontent.com/u/130767630?v=4
