@@ -1,6 +1,6 @@
 name: Pengu Community Store registry
 version: 1
-generatedAt: 2026-08-12T01:49:57.857Z
+generatedAt: 2026-08-12T04:07:22.599Z
 source:
   guildId: "1069483280438673418"
   forums:
@@ -194,7 +194,7 @@ listings:
     releaseTag: v1.2.5
     releaseName: v1.2.5 - New mode support, Improve algorithm for aug & items
       rankings, minor UI improvements
-    image: https://media.discordapp.net/attachments/1475139802482479317/1475139803027607734/ilfu6zl.gif?ex=6a7c857f&is=6a7b33ff&hm=71b38a2e99332a7657933fe7b490a3db0d0a2d96f5a31e156b3b70a54ed1a4ad&
+    image: https://media.discordapp.net/attachments/1475139802482479317/1475139803027607734/ilfu6zl.gif?ex=6a7d2e3f&is=6a7bdcbf&hm=669c745a80ae018b77c0bf6621ede59022df7731bae595f9a5c02854325acb04&
     author:
       name: ReformedDoge
       avatar: https://avatars.githubusercontent.com/u/39759213?v=4
@@ -218,7 +218,7 @@ listings:
     description: this plugin blocks the new community pact popup when you first
       login, now technically you can say "ive never agreed to it" so you can
       therefore be as toxic as you want.
-    image: https://media.discordapp.net/attachments/1458822729414217954/1458822729716469913/image.png?ex=6a7c7c8a&is=6a7b2b0a&hm=311884760a97a9eb09d732a08b4afbe537233b9fb6989289c1255cf0975750a7&
+    image: https://media.discordapp.net/attachments/1458822729414217954/1458822729716469913/image.png?ex=6a7d254a&is=6a7bd3ca&hm=1a1e48c73264e4c69d613adadf9edd2d75c7f82d091851270260ff82f73ba824&
     author:
       name: Cat Bot
     tags:
@@ -229,7 +229,7 @@ listings:
     assets:
       - name: RiotPactBlocker.js
         size: 508
-        downloadUrl: https://cdn.discordapp.com/attachments/1458822729414217954/1458822730198810674/RiotPactBlocker.js?ex=6a7c7c8a&is=6a7b2b0a&hm=ca4f67d92bbfda34852480cd122b9f9354839ab90cf6092f95c7a546364f45a4&
+        downloadUrl: https://cdn.discordapp.com/attachments/1458822729414217954/1458822730198810674/RiotPactBlocker.js?ex=6a7d254a&is=6a7bd3ca&hm=a6213db2e6ee06ee1d3232ef10aa9704aa1d6a86318dc32de696d4795e73931a&
         contentType: text/javascript; charset=utf-8
     enriched: true
   - id: "1370379492354162729"
@@ -796,7 +796,7 @@ listings:
     kind: themes
     name: Minimalist Debloat Theme
     description: No description provided.
-    image: https://media.discordapp.net/attachments/1491806616415244459/1491806616750915705/wasupdud.png?ex=6a7c82ad&is=6a7b312d&hm=1a4713897ccf06167430a31ba44262a31b40b8dc99b2256bc9b49083fe8feeab&
+    image: https://media.discordapp.net/attachments/1491806616415244459/1491806616750915705/wasupdud.png?ex=6a7d2b6d&is=6a7bd9ed&hm=1b21a7a8ee0b40c0cf9167c1da56fb2e8592f8d701b3d26d055befd9c597b8c2&
     author:
       name: 莫嘎 | Moga
     tags:
@@ -911,7 +911,7 @@ listings:
     releaseUrl: https://github.com/Yimikami/pengu-plugins/releases/tag/PenguFamily_v0.1.0
     releaseTag: PenguFamily_v0.1.0
     releaseName: Pengu Family v0.1.0
-    image: https://media.discordapp.net/attachments/1411366905247170621/1411743618388983931/image.png?ex=6a7c99b3&is=6a7b4833&hm=bd66206f40ecbd1e0feb66476789d1e171b84bb8d02cebc1d7805539efe716f9&
+    image: https://media.discordapp.net/attachments/1411366905247170621/1411743618388983931/image.png?ex=6a7d4273&is=6a7bf0f3&hm=eea015bd703b5af294c3cc276419c76ea19801876d28ff75a651586390c5d22b&
     author:
       name: Yimikami
       avatar: https://avatars.githubusercontent.com/u/39545057?v=4
@@ -983,7 +983,7 @@ listings:
       i think was looking the best in the whole rank history! It was made by
       <@1246591176791035946 he helped me doing it for myself so i wanted to give
       him the credits for it + share it with you guys cuz u might wanna use it!
-    image: https://media.discordapp.net/attachments/1414636794124832851/1414636794858700900/oldborders.png?ex=6a7c942e&is=6a7b42ae&hm=f69bfffce5b70a28ca8552583689628824348b0d7cb8ee1faf05e61c3deb0621&
+    image: https://media.discordapp.net/attachments/1414636794124832851/1414636794858700900/oldborders.png?ex=6a7d3cee&is=6a7beb6e&hm=c955ce5264fd3b711f16292f2da4aa3e8581a5592b35818e64293ac05cc8ff92&
     author:
       name: Samuraj
     tags:
@@ -995,7 +995,7 @@ listings:
     assets:
       - name: s9-ranked-borders.zip
         size: 945105
-        downloadUrl: https://cdn.discordapp.com/attachments/1414636794124832851/1414636795714338886/s9-ranked-borders.zip?ex=6a7c942e&is=6a7b42ae&hm=bdf02feb2cd29a11627eb5af6fb59083a77e138c388c56c932ff1ac4cb31b4f4&
+        downloadUrl: https://cdn.discordapp.com/attachments/1414636794124832851/1414636795714338886/s9-ranked-borders.zip?ex=6a7d3cee&is=6a7beb6e&hm=5e135253092420eec2c5fcb805ecd062502e3ba67eebf8e996aefebfe80f5146&
         contentType: application/zip
     enriched: true
   - id: "1499358177052069899"
@@ -1098,7 +1098,7 @@ listings:
     releaseUrl: https://github.com/ErisuGreyrat/Pengu-Background-Customizer/releases/tag/2.0
     releaseTag: "2.0"
     releaseName: V2
-    image: https://media.discordapp.net/attachments/1373487727861039115/1373487728985116703/image.png?ex=6a7c8360&is=6a7b31e0&hm=eba79f626f296719c443f87111907042d088fbdb5c8ebb47a80337aa999661d1&
+    image: https://media.discordapp.net/attachments/1373487727861039115/1373487728985116703/image.png?ex=6a7d2c20&is=6a7bdaa0&hm=3c2bee38025eceee377191d5abc3e6253686d74d56d7047e87b6069a5449a5b0&
     author:
       name: ErisuGreyrat
       avatar: https://avatars.githubusercontent.com/u/179902803?v=4
@@ -1493,7 +1493,7 @@ listings:
     releaseUrl: https://github.com/ErisuGreyrat/acrylic-league-theme/releases/tag/1.9.3
     releaseTag: 1.9.3
     releaseName: v1.9.3
-    image: https://media.discordapp.net/attachments/1373486870054441210/1373486870553694360/image.png?ex=6a7c8294&is=6a7b3114&hm=0d5881d5d8fd536970d40455eaae6b214457eb9e7ca9c4145535d056b4885ee8&
+    image: https://media.discordapp.net/attachments/1373486870054441210/1373486870553694360/image.png?ex=6a7d2b54&is=6a7bd9d4&hm=52184e9bf90e339faf85c0d76eb98820e186aede49c4da708b6c9ad0b3a3c273&
     author:
       name: ErisuGreyrat
       avatar: https://avatars.githubusercontent.com/u/179902803?v=4
@@ -1819,7 +1819,7 @@ listings:
       ings.displaylegacypatchnumbers, (xhr, original) = {
       Object.defineProperty(xhr, 'responseText', { writable: true, value: true
       }); original(); }); } Download ⬇⬇⬇⬇⬇⬇"
-    image: https://media.discordapp.net/attachments/1332168478148399285/1332168478710562837/image.png?ex=6a7c7cd3&is=6a7b2b53&hm=502b25f3dfa93844e20775cbe6e01e5140f2f9b84d75ef2836f5f312b71b416e&
+    image: https://media.discordapp.net/attachments/1332168478148399285/1332168478710562837/image.png?ex=6a7d2593&is=6a7bd413&hm=41879a191dd5063c51e50222e6a06904a20a176b7a184dbb4186351c962f83f6&
     author:
       name: kebs
     tags:
@@ -1832,7 +1832,7 @@ listings:
     assets:
       - name: OldPatchNumber.js
         size: 4610
-        downloadUrl: https://cdn.discordapp.com/attachments/1332168478148399285/1332168478936797226/OldPatchNumber.js?ex=6a7c7cd3&is=6a7b2b53&hm=45ab12c0d3272973b82506ba77afe6b384e395291d8f62c9e94d4722a86eef78&
+        downloadUrl: https://cdn.discordapp.com/attachments/1332168478148399285/1332168478936797226/OldPatchNumber.js?ex=6a7d2593&is=6a7bd413&hm=25e3c35e92d5925c41e85dcad6f2773533d16ccf0b595e0f33f45109a2b32cfa&
         contentType: application/javascript; charset=utf-8
     enriched: true
   - id: "1327785286327074929"
@@ -1892,7 +1892,7 @@ listings:
     name: ScarletRed
     description: ScarletRed theme ( Original from ElainaV3) for Pengu loader
     repo: https://github.com/R3mia/ScarletRed
-    image: https://media.discordapp.net/attachments/1183799859342483476/1183799859707379803/image.png?ex=6a7c9808&is=6a7b4688&hm=9d121dde5d84ae69928c939b272a25002705d687ea68e419fb07c4b207555c94&
+    image: https://media.discordapp.net/attachments/1183799859342483476/1183799859707379803/image.png?ex=6a7d40c8&is=6a7bef48&hm=2402e891204e731969bd4e38198a6fc20d4a16c0faf52f709d6fd761d51e2880&
     author:
       name: R3mia
       avatar: https://avatars.githubusercontent.com/u/72246166?v=4
@@ -2023,7 +2023,7 @@ listings:
     releaseUrl: https://github.com/nomi-san/ahri-theme/releases/tag/240221
     releaseTag: "240221"
     releaseName: ahri-theme-240221
-    image: https://media.discordapp.net/attachments/1095736862187991232/1095736862741635283/68747470733a2f2f692e696d6775722e636f6d2f74617a504e484e2e706e67.png?ex=6a7c9579&is=6a7b43f9&hm=76fecd19bf60616a2073582c33a29da4c8a94acc1be0388e43791510cad8d978&
+    image: https://media.discordapp.net/attachments/1095736862187991232/1095736862741635283/68747470733a2f2f692e696d6775722e636f6d2f74617a504e484e2e706e67.png?ex=6a7d3e39&is=6a7becb9&hm=7b6c109479daa8152d19e271bfbead87d60e0e7e691b1b0ce7e8694ff472676c&
     author:
       name: nomi-san
       avatar: https://avatars.githubusercontent.com/u/38210249?v=4
@@ -2091,7 +2091,7 @@ listings:
     releaseUrl: https://github.com/egirlcatnip/league-theme-mica/releases/tag/Releases
     releaseTag: Releases
     releaseName: Release v1.6
-    image: https://media.discordapp.net/attachments/1165305978187681803/1165305978674216970/shot.png?ex=6a7c8cc3&is=6a7b3b43&hm=bc10f322203c8e84b7a5825ff57b420abdf7d7a00d52dd82d3044e29e568246d&
+    image: https://media.discordapp.net/attachments/1165305978187681803/1165305978674216970/shot.png?ex=6a7d3583&is=6a7be403&hm=88d1adc5f842b5cd21ef77598d8748754b586c843e7b844125c41fca6a5c71d5&
     author:
       name: egirlcatnip
       avatar: https://avatars.githubusercontent.com/u/26607304?v=4
@@ -2198,7 +2198,7 @@ listings:
     name: GrayscaleV2
     description: Grayscale theme for Pengu-loader.
     repo: https://github.com/rviid/league-grayscale-theme
-    image: https://media.discordapp.net/attachments/1166033741186076793/1166033741597130852/grayscalev2.png?ex=6a7c8f8b&is=6a7b3e0b&hm=4f87d842aef2917bc399c46326c6911a5e0c5edeccb5922c458867f4a09efbee&
+    image: https://media.discordapp.net/attachments/1166033741186076793/1166033741597130852/grayscalev2.png?ex=6a7d384b&is=6a7be6cb&hm=c0010bc269d38bf6e30a00146e83b6a82eae7a96d65d9b03bf261b7ad75002ab&
     author:
       name: rviid
       avatar: https://avatars.githubusercontent.com/u/147655674?v=4
@@ -2285,7 +2285,7 @@ listings:
     releaseUrl: https://github.com/HerXayah/league-launcher-theme/releases/tag/treetard
     releaseTag: treetard
     releaseName: JS File
-    image: https://media.discordapp.net/attachments/1077961395393536092/1077970085148381214/chrome_zATRdGurSO.png?ex=6a7c8c60&is=6a7b3ae0&hm=473442b629e1b8efbc16c7aed00a7f2edad0af37dcf41371d65ff003ed0fb2c9&
+    image: https://media.discordapp.net/attachments/1077961395393536092/1077970085148381214/chrome_zATRdGurSO.png?ex=6a7d3520&is=6a7be3a0&hm=542da3addb92675358199eb922b095aee0b0ff26109c7872efcc663884b4c914&
     author:
       name: HerXayah
       avatar: https://avatars.githubusercontent.com/u/45071533?v=4
@@ -2328,7 +2328,7 @@ listings:
     releaseUrl: https://github.com/HerXayah/league-launcher-theme/releases/tag/treetard
     releaseTag: treetard
     releaseName: JS File
-    image: https://media.discordapp.net/attachments/1077970301192769636/1077970301666734080/PDHdfhl.png?ex=6a7c8c93&is=6a7b3b13&hm=869e78ab149393daa19bbc12c7c12bce343c369664f2c18434420772ece10672&
+    image: https://media.discordapp.net/attachments/1077970301192769636/1077970301666734080/PDHdfhl.png?ex=6a7d3553&is=6a7be3d3&hm=db9261cb1f9ce1dea1db780220d65a17420cdac1e6dd190a6dd585f9495292f8&
     author:
       name: HerXayah
       avatar: https://avatars.githubusercontent.com/u/45071533?v=4
