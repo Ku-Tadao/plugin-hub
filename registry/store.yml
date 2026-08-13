@@ -1,6 +1,6 @@
 name: Pengu Community Store registry
 version: 1
-generatedAt: 2026-08-13T22:39:48.115Z
+generatedAt: 2026-08-13T23:39:16.389Z
 source:
   guildId: "1069483280438673418"
   forums:
@@ -365,7 +365,7 @@ listings:
     assets:
       - name: index.js
         size: 4929
-        downloadUrl: https://cdn.discordapp.com/attachments/1462451902028578940/1465476858241093662/index.js?ex=6a7ef0ee&is=6a7d9f6e&hm=087c8035a199eec04bc9f479cb9fafaa761f3b2c9ae3019b76c49bfc5b7e236d&
+        downloadUrl: https://cdn.discordapp.com/attachments/1462451902028578940/1465476858241093662/index.js?ex=6a7f99ae&is=6a7e482e&hm=4644d33db2cc894cebcc657de71f365b774f1f6e2beada0f34ae438c54e04740&
         contentType: text/javascript; charset=utf-8
     enriched: true
   - id: "1520847793256927293"
@@ -1048,7 +1048,7 @@ listings:
     name: OP.GG & U.GG Button Plugin
     description: An custom JavaScript page for Pengu Loader
     repo: https://github.com/GogoChad/opgg-button
-    image: https://media.discordapp.net/attachments/1495203342400360459/1495203439347499059/image.png?ex=6a7efaf7&is=6a7da977&hm=6283fab50f6892f83e86e73917d411267c499bd41517313e803b05d5f7d3953b&
+    image: https://media.discordapp.net/attachments/1495203342400360459/1495203439347499059/image.png?ex=6a7fa3b7&is=6a7e5237&hm=361eca29fd1cb9f9f59e0c7bc2bd3b058ed0bab2a70dbb0cef3a67772d1a0554&
     author:
       name: GogoChad
       avatar: https://avatars.githubusercontent.com/u/133820564?v=4
@@ -1157,7 +1157,7 @@ listings:
     releaseUrl: https://github.com/Ventoba/3DSkinViewer/releases/tag/v1.0
     releaseTag: v1.0
     releaseName: v1.0
-    image: https://media.discordapp.net/attachments/1490663854059950280/1490663854391427183/example2.PNG?ex=6a7ef1e6&is=6a7da066&hm=3e6bf30acb66e5a96437736b414f6e74b763d7cf4a66a80d6e3756a74acdd024&
+    image: https://media.discordapp.net/attachments/1490663854059950280/1490663854391427183/example2.PNG?ex=6a7f9aa6&is=6a7e4926&hm=8d5c73f6e1d99ad2f4d45cd66109d0a2f0ab588bf4091701557c46e2b88218c7&
     author:
       name: Ventoba
       avatar: https://avatars.githubusercontent.com/u/96593577?v=4
@@ -1512,7 +1512,7 @@ listings:
     kind: plugins
     name: Hide Nonsense
     description: No description provided.
-    image: https://media.discordapp.net/attachments/1395902555095171225/1395906635968286882/image.png?ex=6a7ef89c&is=6a7da71c&hm=146259aa0051db2e3e03270d08d24542716080be2c8af5c55bac5601c69e219a&
+    image: https://media.discordapp.net/attachments/1395902555095171225/1395906635968286882/image.png?ex=6a7fa15c&is=6a7e4fdc&hm=83c72ee0695bdeb97e630c4a9856a7d1fef7d84edb6e2d121337cfd87fbb1a64&
     author:
       name: 莫嘎 | Moga
     tags:
@@ -1612,7 +1612,7 @@ listings:
     releaseUrl: https://github.com/nomi-san/balance-buff-viewer/releases/tag/main
     releaseTag: main
     releaseName: S16 | v26 | 2026
-    image: https://media.discordapp.net/attachments/1127199847901052979/1127199848303693844/image.png?ex=6a7efc2a&is=6a7daaaa&hm=fa0ad3f3b940191201825e309905ed56ba6c06aae9c5542b0f18aca8e54f6fa3&
+    image: https://media.discordapp.net/attachments/1127199847901052979/1127199848303693844/image.png?ex=6a7fa4ea&is=6a7e536a&hm=515cefc783ed74a74719ec0d4cb7298f7dbb60ae9fe269a8baf4ae296b620f06&
     author:
       name: nomi-san
       avatar: https://avatars.githubusercontent.com/u/38210249?v=4
@@ -1652,7 +1652,7 @@ listings:
     name: Blue Essence Icon Swapper
     description: "Blue Essence Icon Swapper How to use: Click the BE icon to change
       icon. Click the BE icon to select new image/reset to standard."
-    image: https://media.discordapp.net/attachments/1468009747780210791/1468019006991634432/Screenshot_2026-02-02_232517.png?ex=6a7ef5fd&is=6a7da47d&hm=2af72a98dcb467b17fc9595d31218449f38353986f30926eed05988a2933a377&
+    image: https://media.discordapp.net/attachments/1468009747780210791/1468019006991634432/Screenshot_2026-02-02_232517.png?ex=6a7f9ebd&is=6a7e4d3d&hm=8cf8bc7adebf9fc235ba2c1d87c0a49cc8280f9cb2267cdba829e51a483efcb1&
     author:
       name: Ilkay
     tags:
@@ -1663,7 +1663,7 @@ listings:
     assets:
       - name: BE-Icon-Swapper.js
         size: 6253
-        downloadUrl: https://cdn.discordapp.com/attachments/1468009747780210791/1468019008229081235/BE-Icon-Swapper.js?ex=6a7ef5fe&is=6a7da47e&hm=b2490265b341eba561ef276e6191e558c9592b9a6fcfc54c176b7b9d70674713&
+        downloadUrl: https://cdn.discordapp.com/attachments/1468009747780210791/1468019008229081235/BE-Icon-Swapper.js?ex=6a7f9ebe&is=6a7e4d3e&hm=72094d96f9705f31454a393a35f09c134a154c899037dfa20ecef8b2d355de80&
         contentType: text/javascript; charset=utf-8
     enriched: true
   - id: "1462077280728780861"
@@ -1712,7 +1712,7 @@ listings:
       from \"plugin request\" section long ago, now i can't find who developed
       it. They will be credited as soon as they reach out"
     repo: https://github.com/asherathegod/penguplugins
-    image: https://media.discordapp.net/attachments/1371799042832597054/1371799043575123978/EbMqICb.png?ex=6a7ef06a&is=6a7d9eea&hm=9f8493c9486d1952a64206f6f9f1779917fab70ed43e42bc379485a8534217c3&
+    image: https://media.discordapp.net/attachments/1371799042832597054/1371799043575123978/EbMqICb.png?ex=6a7f992a&is=6a7e47aa&hm=42fd933fee6e3b6037f406c4554150433d76791aefcb100165e7c0000c7d99a0&
     author:
       name: asherathegod
       avatar: https://avatars.githubusercontent.com/u/68480231?v=4
@@ -1754,7 +1754,7 @@ listings:
     releaseUrl: https://github.com/DmitryFisk/pengu-force-custom-lobby/releases/tag/2.2.0
     releaseTag: 2.2.0
     releaseName: 2.2.0
-    image: https://media.discordapp.net/attachments/1322710156173250601/1322710156626104320/image.png?ex=6a7efe14&is=6a7dac94&hm=08424810d62c55e1c595ad0090cc5fac87b70d1cb3400db8c6f7b86c521eb06d&
+    image: https://media.discordapp.net/attachments/1322710156173250601/1322710156626104320/image.png?ex=6a7fa6d4&is=6a7e5554&hm=81494c6b2f34e6f4c325fdb023df48e6eae500c41b63b0f30691bb8efc6314d4&
     author:
       name: DmitryFisk
       avatar: https://avatars.githubusercontent.com/u/62219971?v=4
