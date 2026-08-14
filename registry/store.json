@@ -1,7 +1,7 @@
 {
   "name": "Pengu Community Store registry",
   "version": 1,
-  "generatedAt": "2026-08-14T23:20:28.392Z",
+  "generatedAt": "2026-08-14T23:47:23.529Z",
   "source": {
     "guildId": "1069483280438673418",
     "forums": [
@@ -817,7 +817,7 @@
       "name": "OP.GG & U.GG Button Plugin",
       "description": "An custom JavaScript page for Pengu Loader",
       "repo": "https://github.com/GogoChad/opgg-button",
-      "image": "https://media.discordapp.net/attachments/1495203342400360459/1495203439347499059/image.png?ex=6a804c77&is=6a7efaf7&hm=278c7a75e0d06fdcceeab88a3fe45b3483dbe0d1cca407e4a2789f7e11f20a14&",
+      "image": "https://media.discordapp.net/attachments/1495203342400360459/1495203439347499059/image.png?ex=6a80f537&is=6a7fa3b7&hm=e256a72be8394c3d60464e60845b0250d0a6ad4daa05522440f54caafd43841a&",
       "author": {
         "name": "GogoChad",
         "avatar": "https://avatars.githubusercontent.com/u/133820564?v=4",
@@ -1289,7 +1289,7 @@
       "releaseUrl": "https://github.com/nomi-san/balance-buff-viewer/releases/tag/main",
       "releaseTag": "main",
       "releaseName": "S16 | v26 | 2026",
-      "image": "https://media.discordapp.net/attachments/1127199847901052979/1127199848303693844/image.png?ex=6a804daa&is=6a7efc2a&hm=28b5f3b48ff832c4fbc26470398382ca68ecfb34b6ef9f18c129e87b78aaa116&",
+      "image": "https://media.discordapp.net/attachments/1127199847901052979/1127199848303693844/image.png?ex=6a80f66a&is=6a7fa4ea&hm=04a079f2bb3e4be4f463962e3d5545aeebf01872290cec3d1aea6d50544fd282&",
       "author": {
         "name": "nomi-san",
         "avatar": "https://avatars.githubusercontent.com/u/38210249?v=4",
@@ -1447,7 +1447,7 @@
       "releaseUrl": "https://github.com/DmitryFisk/pengu-force-custom-lobby/releases/tag/2.2.0",
       "releaseTag": "2.2.0",
       "releaseName": "2.2.0",
-      "image": "https://media.discordapp.net/attachments/1322710156173250601/1322710156626104320/image.png?ex=6a804f94&is=6a7efe14&hm=5e38455af32dd208363d27958d6f551b40c56bb3df98fc99bbdb9bd6fce1c03b&",
+      "image": "https://media.discordapp.net/attachments/1322710156173250601/1322710156626104320/image.png?ex=6a80f854&is=6a7fa6d4&hm=68ec4db58ddcdf9a5206aa2b92e3ba31ba2a223c51b80c73cddcd9388ffaf36a&",
       "author": {
         "name": "DmitryFisk",
         "avatar": "https://avatars.githubusercontent.com/u/62219971?v=4",
@@ -1547,7 +1547,7 @@
       "kind": "plugins",
       "name": "Invisible profile border",
       "description": "Just copy and paste it into the DevTools console (Ctrl+Shift+I). Needs level 525 or higher js await fetch(\"/lol-regalia/v2/current-summoner/regalia\", { method: \"PUT\", body: JSON.stringify({ preferredCrestType: \"prestige\", preferredBannerType: \"blank\", selectedPrestigeCrest: 22}), headers: { \"Content-Type\": \"application/json\" }, });",
-      "image": "https://media.discordapp.net/attachments/1327785286327074929/1327785286561960026/image.png?ex=6a805129&is=6a7effa9&hm=d74b5fb6f722164bbf7c85629b7776354622e3cd197dca2d30aa67faa21b1ebd&",
+      "image": "https://media.discordapp.net/attachments/1327785286327074929/1327785286561960026/image.png?ex=6a80f9e9&is=6a7fa869&hm=1e0d3fd94c70840326ea8fc9d17fd6b759df48303c72ee65449bc5c793660d59&",
       "author": {
         "name": "kebs"
       },
