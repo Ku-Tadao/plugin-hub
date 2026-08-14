@@ -1,6 +1,6 @@
 name: Pengu Community Store registry
 version: 1
-generatedAt: 2026-08-14T07:22:33.442Z
+generatedAt: 2026-08-14T08:44:35.966Z
 source:
   guildId: "1069483280438673418"
   forums:
@@ -138,7 +138,7 @@ listings:
     releaseTag: v1.1.0
     releaseName: "v1.1.0 - Snooze-Manager v1.1.0: 7 languages, new module,
       Auto-Select overhaul & various bug fixes and improvements"
-    image: https://media.discordapp.net/attachments/1512550218044805150/1512550376509931742/6kkx030.png?ex=6a7f774f&is=6a7e25cf&hm=37fa44866006dac2773ada85a4ae4b81883126c7ebff9f45148cb63f25ef7261&
+    image: https://media.discordapp.net/attachments/1512550218044805150/1512550376509931742/6kkx030.png?ex=6a80200f&is=6a7ece8f&hm=2609d5e5154fcad16becbca1d78c662cffbdf80577783454a60c62a51612d31a&
     author:
       name: ReformedDoge
       avatar: https://avatars.githubusercontent.com/u/39759213?v=4
@@ -484,7 +484,7 @@ listings:
     releaseUrl: https://github.com/kyso1/KysoTheme/releases/tag/v3.5.1
     releaseTag: v3.5.1
     releaseName: v3.5.1
-    image: https://media.discordapp.net/attachments/1507291423840407613/1507291424301776957/Screenshot_1.png?ex=6a7f7347&is=6a7e21c7&hm=d168abfbdfd78f58f3216359cb15f796498d9db987548c6a9e1d6d114ab496ca&
+    image: https://media.discordapp.net/attachments/1507291423840407613/1507291424301776957/Screenshot_1.png?ex=6a801c07&is=6a7eca87&hm=2d354f9ca67b69b9f75910a9818267080d16758c41b71d8c4f57f98a24e3dade&
     author:
       name: kyso1
       avatar: https://avatars.githubusercontent.com/u/128049220?v=4
@@ -528,7 +528,7 @@ listings:
     description: "Unlock all backgrounds easily. Just press the background picker
       button, and you'll be able to choose any skin you like, as if you owned
       them all Source: < Download is below, not the source ⬇️ ⬇️ ⬇️"
-    image: https://media.discordapp.net/attachments/1311415707371700345/1311415707568836809/image.png?ex=6a7f6e8d&is=6a7e1d0d&hm=30cab68628b693bb701bc7a6a50a0e5f9b994a80395fbe32bc16c462312b2e54&
+    image: https://media.discordapp.net/attachments/1311415707371700345/1311415707568836809/image.png?ex=6a80174d&is=6a7ec5cd&hm=dd5be50a7140aa98001a4d0fa82b2d4796b472783ecb614924278b3051a9a937&
     author:
       name: kebs
     tags:
@@ -541,7 +541,7 @@ listings:
     assets:
       - name: LoLBackgroundUnlocker.js
         size: 6216
-        downloadUrl: https://cdn.discordapp.com/attachments/1311415707371700345/1311415708143583355/LoLBackgroundUnlocker.js?ex=6a7f6e8d&is=6a7e1d0d&hm=317364553da4725c4d9769e55eee0d65ee22ed5a0c27bff4c2594272068bf961&
+        downloadUrl: https://cdn.discordapp.com/attachments/1311415707371700345/1311415708143583355/LoLBackgroundUnlocker.js?ex=6a80174d&is=6a7ec5cd&hm=98a5d56dd0b34a02e01cd0db1fc30a05d01a1df3ac1755ea465d4a98a6029222&
         contentType: application/javascript; charset=utf-8
     enriched: true
   - id: "1469142886330273884"
@@ -859,7 +859,7 @@ listings:
     releaseUrl: https://github.com/Yimikami/pengu-plugins/releases/tag/PenguFamily_v0.1.0
     releaseTag: PenguFamily_v0.1.0
     releaseName: Pengu Family v0.1.0
-    image: https://media.discordapp.net/attachments/1497146237273641040/1497146238745972816/image.png?ex=6a7f74d6&is=6a7e2356&hm=3b8364a771714bd9ae42915d154b0ce0acead97ed39b42654e82d39971677d39&
+    image: https://media.discordapp.net/attachments/1497146237273641040/1497146238745972816/image.png?ex=6a801d96&is=6a7ecc16&hm=00aed8eff2b0754a6fc0d6f51e19751d048143d86442a126bf4301b39a7ef1d6&
     author:
       name: Yimikami
       avatar: https://avatars.githubusercontent.com/u/39545057?v=4
@@ -938,7 +938,7 @@ listings:
     releaseUrl: https://github.com/Yimikami/pengu-plugins/releases/tag/PenguFamily_v0.1.0
     releaseTag: PenguFamily_v0.1.0
     releaseName: Pengu Family v0.1.0
-    image: https://media.discordapp.net/attachments/1472183865379389444/1496249294418612344/0330C317-A78E-416F-AC36-FE6739688A1F.png?ex=6a7f7d3e&is=6a7e2bbe&hm=20042cbe757df42e85d724333758630e46af96bb7f6ceeee0d77ca05642b7834&
+    image: https://media.discordapp.net/attachments/1472183865379389444/1496249294418612344/0330C317-A78E-416F-AC36-FE6739688A1F.png?ex=6a8025fe&is=6a7ed47e&hm=d07c8b9e85376271d2c064ac306ee356e7aa62683411a6c6589aa0b82f4dc922&
     author:
       name: Yimikami
       avatar: https://avatars.githubusercontent.com/u/39545057?v=4
@@ -1288,7 +1288,7 @@ listings:
     assets:
       - name: removecrystal.js
         size: 1126
-        downloadUrl: https://cdn.discordapp.com/attachments/1487535639128965121/1487535639883944108/removecrystal.js?ex=6a7f6e05&is=6a7e1c85&hm=3e517981865f85c10514c1838da33241fbd264b5613c6f64e9e04e98e2996e8c&
+        downloadUrl: https://cdn.discordapp.com/attachments/1487535639128965121/1487535639883944108/removecrystal.js?ex=6a8016c5&is=6a7ec545&hm=c8d7f87cc1973a6585d931be25e85adf6368b602ee7f4a06e371e965961b2cde&
         contentType: text/javascript; charset=utf-8
     enriched: true
   - id: "1476062717579231385"
@@ -1386,7 +1386,7 @@ listings:
     releaseUrl: https://github.com/cuongnguyen207/wuwa-theme-lol/releases/tag/custome-themes-lol
     releaseTag: custome-themes-lol
     releaseName: Wuthering Waves Themes
-    image: https://media.discordapp.net/attachments/1524137061119037490/1524137061735596094/Screenshot_18.png?ex=6a7f6e40&is=6a7e1cc0&hm=25814b03ea17cce4543c59400355b947855ed8f368baaeb009bc02c4864c8187&
+    image: https://media.discordapp.net/attachments/1524137061119037490/1524137061735596094/Screenshot_18.png?ex=6a801700&is=6a7ec580&hm=09e61b4c63ba4c642c5b6cc402ac1a8dce9eee0ddf7446b5dfb90723cb93b445&
     author:
       name: cuongnguyen207
       avatar: https://avatars.githubusercontent.com/u/213099361?v=4
@@ -1439,7 +1439,7 @@ listings:
     description: Animated particle cursor effects for the League of Legends client —
       Penguloader plugin
     repo: https://github.com/nt3y/cursor-pack-penguloader
-    image: https://media.discordapp.net/attachments/1484279090830905394/1484279092202307736/image.png?ex=6a7f72a0&is=6a7e2120&hm=9869650cf6e7adfbb3842881cd1b41a5569a7c8c413a720d0b1a8ffccc907c7a&
+    image: https://media.discordapp.net/attachments/1484279090830905394/1484279092202307736/image.png?ex=6a801b60&is=6a7ec9e0&hm=06745262ed39a65d11b8fbbd2c6fb05c976d3bea12ce54eec15c3de877550241&
     author:
       name: nt3y
       avatar: https://avatars.githubusercontent.com/u/269317310?v=4
@@ -1555,7 +1555,7 @@ listings:
     releaseUrl: https://github.com/hadixcanimm/taric48/releases/tag/gamelauncher
     releaseTag: gamelauncher
     releaseName: "Taric 48 Game Launcher "
-    image: https://media.discordapp.net/attachments/1469972117306212639/1469972117549486178/image.png?ex=6a7f7977&is=6a7e27f7&hm=a716c3d38fb4f44332624148d3d561b403d687bd0f24e59776bb1001f6c3442d&
+    image: https://media.discordapp.net/attachments/1469972117306212639/1469972117549486178/image.png?ex=6a802237&is=6a7ed0b7&hm=5f12745c7e80da504477600eaddb717d359cabf9766ed8014636b11953c2d8f4&
     author:
       name: hadixcanimm
       avatar: https://avatars.githubusercontent.com/u/114208757?v=4
