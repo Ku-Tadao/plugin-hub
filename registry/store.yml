@@ -1,6 +1,6 @@
 name: Pengu Community Store registry
 version: 1
-generatedAt: 2026-08-14T22:49:42.334Z
+generatedAt: 2026-08-14T23:20:28.392Z
 source:
   guildId: "1069483280438673418"
   forums:
@@ -1512,7 +1512,7 @@ listings:
     kind: plugins
     name: Hide Nonsense
     description: No description provided.
-    image: https://media.discordapp.net/attachments/1395902555095171225/1395906635968286882/image.png?ex=6a804a1c&is=6a7ef89c&hm=e7432651b851d367eea565e39670ed2b5449426a320a52e89ffb79c95edf606f&
+    image: https://media.discordapp.net/attachments/1395902555095171225/1395906635968286882/image.png?ex=6a80f2dc&is=6a7fa15c&hm=3792d3bf04808dfe920b572fde760d85dcca0c84122cd00a104c607349f2af59&
     author:
       name: 莫嘎 | Moga
     tags:
@@ -1652,7 +1652,7 @@ listings:
     name: Blue Essence Icon Swapper
     description: "Blue Essence Icon Swapper How to use: Click the BE icon to change
       icon. Click the BE icon to select new image/reset to standard."
-    image: https://media.discordapp.net/attachments/1468009747780210791/1468019006991634432/Screenshot_2026-02-02_232517.png?ex=6a80477d&is=6a7ef5fd&hm=e3e2b85fe689394bf5f2c9e330fc229da74ce57a9f8e547fd40cf59e605628d9&
+    image: https://media.discordapp.net/attachments/1468009747780210791/1468019006991634432/Screenshot_2026-02-02_232517.png?ex=6a80f03d&is=6a7f9ebd&hm=f6e3315fadb147ae63a15c07f4362d1be0456e7edf36b2ef8d6771889104710b&
     author:
       name: Ilkay
     tags:
@@ -1663,7 +1663,7 @@ listings:
     assets:
       - name: BE-Icon-Swapper.js
         size: 6253
-        downloadUrl: https://cdn.discordapp.com/attachments/1468009747780210791/1468019008229081235/BE-Icon-Swapper.js?ex=6a80477e&is=6a7ef5fe&hm=0241d08730c71d3383ec1a8926f282d8e93133df43e26f8a533455a87aee989c&
+        downloadUrl: https://cdn.discordapp.com/attachments/1468009747780210791/1468019008229081235/BE-Icon-Swapper.js?ex=6a80f03e&is=6a7f9ebe&hm=18ce87131a47ce7c62d611a01c03bfe80bf5b2b1ddb383afe9de2cc88727f97c&
         contentType: text/javascript; charset=utf-8
     enriched: true
   - id: "1462077280728780861"
