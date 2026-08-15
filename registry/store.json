@@ -1,7 +1,7 @@
 {
   "name": "Pengu Community Store registry",
   "version": 1,
-  "generatedAt": "2026-08-15T11:44:25.071Z",
+  "generatedAt": "2026-08-15T12:33:47.565Z",
   "source": {
     "guildId": "1069483280438673418",
     "forums": [
@@ -278,7 +278,7 @@
         {
           "name": "activity_center_toggle.js",
           "size": 10156,
-          "downloadUrl": "https://cdn.discordapp.com/attachments/1396060178545119263/1401719798949216316/activity_center_toggle.js?ex=6a8100ca&is=6a7faf4a&hm=dbb73976835279f47519e4259322ab9d6655e9dbfc0ac9f6f09a19369577048e&",
+          "downloadUrl": "https://cdn.discordapp.com/attachments/1396060178545119263/1401719798949216316/activity_center_toggle.js?ex=6a81a98a&is=6a80580a&hm=5639e9cb9c147c85e67265e11d2797c2805a8d562f3dd199e413a0d67b8e0ed7&",
           "contentType": "application/javascript; charset=utf-8"
         }
       ],
@@ -482,7 +482,7 @@
       "releaseUrl": "https://github.com/Elaina69/Elaina-theme/releases/tag/v4.5.1",
       "releaseTag": "v4.5.1",
       "releaseName": "",
-      "image": "https://media.discordapp.net/attachments/1078464593791307777/1078464594055544942/image.png?ex=6a80fbec&is=6a7faa6c&hm=aaf57f682a314220137013ed849ed5c5b718b0d7f73fa7aa1330104c92f3916d&",
+      "image": "https://media.discordapp.net/attachments/1078464593791307777/1078464594055544942/image.png?ex=6a81a4ac&is=6a80532c&hm=3745723d87208c1cd6ffdcdaa408364a2aa096b17f9f059bae1db63d1c0eb1fb&",
       "author": {
         "name": "Elaina69",
         "avatar": "https://avatars.githubusercontent.com/u/94338907?v=4",
@@ -720,7 +720,7 @@
       "name": "league-lean — meta tier list + auto rune/build apply + post-game op.gg, all in one sidebar",
       "description": "Pengu Loader plugin: lean Riot client tweaks, auto rune/build apply, meta tier list, post-game op.gg. Personal use; not endorsed by Riot Games.",
       "repo": "https://github.com/Nicetyone/league-lean",
-      "image": "https://media.discordapp.net/attachments/1500282612084768848/1500282612516917258/01.png?ex=6a80fa90&is=6a7fa910&hm=492fa8b60ec82c18a83a0d05482ee0704e4240558b6670e8091181b9fcd747f3&",
+      "image": "https://media.discordapp.net/attachments/1500282612084768848/1500282612516917258/01.png?ex=6a81a350&is=6a8051d0&hm=6758dff506dc892611ee9a695d92298dd56c51e9f4553aa050df0700d54a06fe&",
       "author": {
         "name": "Nicetyone",
         "avatar": "https://avatars.githubusercontent.com/u/78967461?v=4",
@@ -877,7 +877,7 @@
       "releaseUrl": "https://github.com/xRize/MusicPlugin/releases/tag/Release2",
       "releaseTag": "Release2",
       "releaseName": "v1.0.1",
-      "image": "https://media.discordapp.net/attachments/1487606021449973850/1487606021831528640/569826409-7f1dae67-6e42-4fb5-ac20-32cbc0166a21.png?ex=6a810111&is=6a7faf91&hm=e99d2f9f95cf8549adcac49cd0911355f528aac488cfee4f93544203b882a2f3&",
+      "image": "https://media.discordapp.net/attachments/1487606021449973850/1487606021831528640/569826409-7f1dae67-6e42-4fb5-ac20-32cbc0166a21.png?ex=6a81a9d1&is=6a805851&hm=076ada8afa09412d24b1d0fcd690a2f6fad62a9a9c31ad79a6639dec618934d9&",
       "author": {
         "name": "xRize",
         "avatar": "https://avatars.githubusercontent.com/u/83946532?v=4",
@@ -1547,7 +1547,7 @@
       "kind": "plugins",
       "name": "Invisible profile border",
       "description": "Just copy and paste it into the DevTools console (Ctrl+Shift+I). Needs level 525 or higher js await fetch(\"/lol-regalia/v2/current-summoner/regalia\", { method: \"PUT\", body: JSON.stringify({ preferredCrestType: \"prestige\", preferredBannerType: \"blank\", selectedPrestigeCrest: 22}), headers: { \"Content-Type\": \"application/json\" }, });",
-      "image": "https://media.discordapp.net/attachments/1327785286327074929/1327785286561960026/image.png?ex=6a80f9e9&is=6a7fa869&hm=1e0d3fd94c70840326ea8fc9d17fd6b759df48303c72ee65449bc5c793660d59&",
+      "image": "https://media.discordapp.net/attachments/1327785286327074929/1327785286561960026/image.png?ex=6a81a2a9&is=6a805129&hm=f218cd85d14fe16d3df523f2e11a04980b5cf3a8b830c287bba6ca3995a17248&",
       "author": {
         "name": "kebs"
       },
@@ -1929,7 +1929,7 @@
       "name": "Lx Plugins",
       "description": "Main Repo: Plugin List • Name Spoofer • Listening Status (Working on) • Hide Chat Ban Logs if you want to suggest a plugin. use the channel <1128961916497317938 and tag me",
       "repo": "https://github.com/iIlusion/league-loader-plugins",
-      "image": "https://media.discordapp.net/attachments/1077921251445706852/1077921251621879881/8ef86509de0a0f4666ae0369efb72e08e88909104498d597.png?ex=6a80fc25&is=6a7faaa5&hm=6524d2d1582711da2c6aa5bd7c5540207dd875a0b7605d086b53082a9c82d8ed&",
+      "image": "https://media.discordapp.net/attachments/1077921251445706852/1077921251621879881/8ef86509de0a0f4666ae0369efb72e08e88909104498d597.png?ex=6a81a4e5&is=6a805365&hm=f7ee4611e91b2c7464281ea2bba2e5471d2dd71e005861cedc4a298a967b024a&",
       "author": {
         "name": "iIlusion",
         "avatar": "https://avatars.githubusercontent.com/u/49544373?v=4",
