@@ -1,6 +1,6 @@
 name: Pengu Community Store registry
 version: 1
-generatedAt: 2026-08-16T22:19:08.055Z
+generatedAt: 2026-08-16T22:46:43.252Z
 source:
   guildId: "1069483280438673418"
   forums:
@@ -365,7 +365,7 @@ listings:
     assets:
       - name: index.js
         size: 4929
-        downloadUrl: https://cdn.discordapp.com/attachments/1462451902028578940/1465476858241093662/index.js?ex=6a82e56e&is=6a8193ee&hm=bdd041e524bc5ea780b3cc74c5b6f9f6135c62b6905ed8460214bfa88f834abc&
+        downloadUrl: https://cdn.discordapp.com/attachments/1462451902028578940/1465476858241093662/index.js?ex=6a838e2e&is=6a823cae&hm=713655420a3d4b453a98afe217fd5b4b6891f8b4859f6aa6c1a6fed048759795&
         contentType: text/javascript; charset=utf-8
     enriched: true
   - id: "1520847793256927293"
@@ -1007,7 +1007,7 @@ listings:
       hover tooltip, and your profile page. BNC Button in Lobby as always with
       my plugins. ⚠️ Client-side only — only you can see the change. Other
       players still see your actual equipped banner.
-    image: https://media.discordapp.net/attachments/1499358177052069899/1499358177840467968/4hbdb93.png?ex=6a82e39e&is=6a81921e&hm=019c030a75dd5fe1cf1f48b1871225fb60ea77be3346c4631d426198f563eeac&
+    image: https://media.discordapp.net/attachments/1499358177052069899/1499358177840467968/4hbdb93.png?ex=6a838c5e&is=6a823ade&hm=f18a97a0daf6d06e8a2eb8c7b8559153a4a2b5dcd4bf8ab969b5588c0f745b03&
     author:
       name: Eris Greyrat
     tags:
@@ -1020,7 +1020,7 @@ listings:
     assets:
       - name: Banner-Customizer.js
         size: 56598
-        downloadUrl: https://cdn.discordapp.com/attachments/1499358177052069899/1499358178658222220/Banner-Customizer.js?ex=6a82e39e&is=6a81921e&hm=41762dd8f4875c2f301ea2e67bdc1a123822644c298f868d1c652ccf3dea1db2&
+        downloadUrl: https://cdn.discordapp.com/attachments/1499358177052069899/1499358178658222220/Banner-Customizer.js?ex=6a838c5e&is=6a823ade&hm=b4dfad2235a0f65136e0bb0964adaa2654f7078c2620f9693a7bd17406f6ea83&
         contentType: text/javascript; charset=utf-8
     enriched: true
   - id: "1499090537427243129"
@@ -1157,7 +1157,7 @@ listings:
     releaseUrl: https://github.com/Ventoba/3DSkinViewer/releases/tag/v1.0
     releaseTag: v1.0
     releaseName: v1.0
-    image: https://media.discordapp.net/attachments/1490663854059950280/1490663854391427183/example2.PNG?ex=6a82e666&is=6a8194e6&hm=ad33a08f754ce6da6175d90a885018143879cfdaa36c81033411ffbeddd2e763&
+    image: https://media.discordapp.net/attachments/1490663854059950280/1490663854391427183/example2.PNG?ex=6a838f26&is=6a823da6&hm=14ed24c387a68294224e5df84562afaca0422d5469486d3771e7b3d8209da084&
     author:
       name: Ventoba
       avatar: https://avatars.githubusercontent.com/u/96593577?v=4
@@ -1532,7 +1532,7 @@ listings:
     name: HideChampName
     description: Hides enemy champion names in Champion Select for League of Legends
     repo: https://github.com/Mixiruri/AnonymousEnemies
-    image: https://media.discordapp.net/attachments/1476888210436001904/1476888211044171848/preview.webp?ex=6a82e1d4&is=6a819054&hm=0ed3b56e9c6ceab89a31d6fff2eaca06a16f83760e9d0ddaced989b913aee95b&
+    image: https://media.discordapp.net/attachments/1476888210436001904/1476888211044171848/preview.webp?ex=6a838a94&is=6a823914&hm=ceeabf6355ceae51d31bad63c42dd7a767c3912830ee772a2f56ac01d1c38f22&
     author:
       name: Mixiruri
       avatar: https://avatars.githubusercontent.com/u/255986660?v=4
@@ -1712,7 +1712,7 @@ listings:
       from \"plugin request\" section long ago, now i can't find who developed
       it. They will be credited as soon as they reach out"
     repo: https://github.com/asherathegod/penguplugins
-    image: https://media.discordapp.net/attachments/1371799042832597054/1371799043575123978/EbMqICb.png?ex=6a82e4ea&is=6a81936a&hm=4448b38c26433f77dae2818e7b58b48af7d377c77d1ad8177a4fd9db0bd5ff61&
+    image: https://media.discordapp.net/attachments/1371799042832597054/1371799043575123978/EbMqICb.png?ex=6a838daa&is=6a823c2a&hm=dbf78c3ac89ba7b6dae3a46bdce808d59ae31c068e57d5d8ae310ddbfc64938a&
     author:
       name: asherathegod
       avatar: https://avatars.githubusercontent.com/u/68480231?v=4
