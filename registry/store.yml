@@ -1,6 +1,6 @@
 name: Pengu Community Store registry
 version: 1
-generatedAt: 2026-08-16T21:18:20.443Z
+generatedAt: 2026-08-16T21:44:31.627Z
 source:
   guildId: "1069483280438673418"
   forums:
@@ -507,7 +507,7 @@ listings:
       Activity Center to the Play screen - Removes Navbar button since it
       redirects anyways - Toggle on and off via Client General Interface
       Settings, if you at some point need to use it"
-    image: https://media.discordapp.net/attachments/1396060178545119263/1396060179815989399/image.png?ex=6a82d35c&is=6a8181dc&hm=dacc79a1834ac990672a3aef1850521c35c2b473953e23f6bb198835a5fe6cf4&
+    image: https://media.discordapp.net/attachments/1396060178545119263/1396060179815989399/image.png?ex=6a837c1c&is=6a822a9c&hm=398db142695add9b8c407e6279aa17506188adbb290e35881fb5664693fe5a98&
     author:
       name: Eris Greyrat
     tags:
@@ -1314,7 +1314,7 @@ listings:
     name: Banner Remover (not unranked needed last season)
     description: I made this plugin so the banner is transparent for seeing the
       background :3
-    image: https://media.discordapp.net/attachments/1485931384504848394/1485931923275776201/C457E65E-4309-49F8-87B7-D302F19ADCDF.png?ex=6a82d2f1&is=6a818171&hm=6a16e0e573eead05f71a47e748caed41153669c6dd4ffdf92a8739189314f186&
+    image: https://media.discordapp.net/attachments/1485931384504848394/1485931923275776201/C457E65E-4309-49F8-87B7-D302F19ADCDF.png?ex=6a837bb1&is=6a822a31&hm=f81409dcc37b3fe94725c44251d395aa47e139dbbe86c40de74d56c2f3002177&
     author:
       name: LittleRadio
     tags:
@@ -1325,7 +1325,7 @@ listings:
     assets:
       - name: BannerRemover-LittleRadioo.zip
         size: 1447
-        downloadUrl: https://cdn.discordapp.com/attachments/1485931384504848394/1485931384869621820/BannerRemover-LittleRadioo.zip?ex=6a82d271&is=6a8180f1&hm=e35501ec4850e1ce2c36387f268165ac13987e424840c07778391fde8d9cf18b&
+        downloadUrl: https://cdn.discordapp.com/attachments/1485931384504848394/1485931384869621820/BannerRemover-LittleRadioo.zip?ex=6a837b31&is=6a8229b1&hm=0aa1947cd1e5d3c5c881c0ef8a895fb0fc0a1d4718e4874bed2e94497f81bb48&
         contentType: application/zip
     enriched: true
   - id: "1524137061119037490"
@@ -1420,7 +1420,7 @@ listings:
     description: 🔒 Lock the League of Legends client with a 4-digit PIN — hotkey
       support, iOS-style UI, blur overlay. Penguloader plugin.
     repo: https://github.com/nt3y/LeagueClient-Locker-
-    image: https://media.discordapp.net/attachments/1485026009018273872/1485026009500877094/image.png?ex=6a82d2ff&is=6a81817f&hm=19dc69eee44883a33ea9ac2d1ed5806efacb8732c2889e9fb298fdc15ded59bf&
+    image: https://media.discordapp.net/attachments/1485026009018273872/1485026009500877094/image.png?ex=6a837bbf&is=6a822a3f&hm=f82bb4294c093eaf689dabf26c3f64878625929530e1e8164ecabe65f4ff7747&
     author:
       name: nt3y
       avatar: https://avatars.githubusercontent.com/u/269317310?v=4
@@ -1934,7 +1934,7 @@ listings:
     releaseUrl: https://github.com/PenguLoader/PenguLoader/releases/tag/v1.1.6
     releaseTag: v1.1.6
     releaseName: v1.1.6
-    image: https://media.discordapp.net/attachments/1413095170475560960/1413095170940997642/Untitled.png?ex=6a82d5ee&is=6a81846e&hm=db5ccafdeed69d73ae875d0bf67a58b583c8455cbcfee87f825d7bba017b982f&
+    image: https://media.discordapp.net/attachments/1413095170475560960/1413095170940997642/Untitled.png?ex=6a837eae&is=6a822d2e&hm=6c16429f321dff003ed4e2f910ff7e34bc47b44167866a4bbd9f1b87c6e553a9&
     author:
       name: PenguLoader
       avatar: https://avatars.githubusercontent.com/u/126898920?v=4
