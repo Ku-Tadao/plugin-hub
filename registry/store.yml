@@ -1,6 +1,6 @@
 name: Pengu Community Store registry
 version: 1
-generatedAt: 2026-08-16T06:37:02.881Z
+generatedAt: 2026-08-16T07:29:39.620Z
 source:
   guildId: "1069483280438673418"
   forums:
@@ -389,7 +389,7 @@ listings:
         contentType: text/javascript; charset=utf-8
       - name: NoCloseMessage.js
         size: 4163
-        downloadUrl: https://cdn.discordapp.com/attachments/1520847793256927293/1520869718758654002/NoCloseMessage.js?ex=6a820bcd&is=6a80ba4d&hm=650a68f34438033408f97dbf03b48b1c693b819077e0e6604d9ca8cf941fad40&
+        downloadUrl: https://cdn.discordapp.com/attachments/1520847793256927293/1520869718758654002/NoCloseMessage.js?ex=6a82b48d&is=6a81630d&hm=ca2cc3f9f31944abe5fbf3bc877c5f4b8f792c6e8cf15c0a93ad2b3e0aa270fa&
         contentType: text/javascript; charset=utf-8
     enriched: true
   - id: "1240541534663868426"
@@ -1634,7 +1634,7 @@ listings:
     name: Balaclava Plugins! [13/05/2026]
     description: My plugins for Pengu Loader! :)
     repo: https://github.com/controlado/pengu-plugins
-    image: https://media.discordapp.net/attachments/1109009446023217193/1110094360390946908/ezgif-2-9ed966a32e.png?ex=6a8203b0&is=6a80b230&hm=9a713d8730301740e4de0b02aefdea409d0f7b76fa39f5a19b42cd3c2beaf1f4&
+    image: https://media.discordapp.net/attachments/1109009446023217193/1110094360390946908/ezgif-2-9ed966a32e.png?ex=6a82ac70&is=6a815af0&hm=018f767bdf4f0bb5e1b5cb6a07805e22cb3d6d39d1c926f43e17efaf57ff1c16&
     author:
       name: controlado
       avatar: https://avatars.githubusercontent.com/u/71716568?v=4
@@ -2120,7 +2120,7 @@ listings:
     releaseUrl: https://github.com/oMaikeru/PureBlack-Theme/releases/tag/v0.4
     releaseTag: v0.4
     releaseName: v0.4
-    image: https://media.discordapp.net/attachments/1107021081207914566/1107021081442783242/black-theme.PNG?ex=6a820a39&is=6a80b8b9&hm=8ea7f0207cd237aa1a4f29dd8e98432443a2bc239477ecaefb31a4d8c7b56730&
+    image: https://media.discordapp.net/attachments/1107021081207914566/1107021081442783242/black-theme.PNG?ex=6a82b2f9&is=6a816179&hm=476339febe98e4bade9d0de0ec8984b838ebc1b0c33979e56119a93e09845961&
     author:
       name: oMaikeru
       avatar: https://avatars.githubusercontent.com/u/76801149?v=4
