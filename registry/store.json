@@ -1,7 +1,7 @@
 {
   "name": "Pengu Community Store registry",
   "version": 1,
-  "generatedAt": "2026-08-17T15:10:28.576Z",
+  "generatedAt": "2026-08-17T15:43:34.387Z",
   "source": {
     "guildId": "1069483280438673418",
     "forums": [
@@ -55,7 +55,7 @@
       "id": "1475139802482479317",
       "kind": "plugins",
       "name": "🩺 Mayhem Doctor",
-      "description": "ARAM Mayhem analyst, built right into the client. Digs through your match history (10-400 games or more) and breaks down exactly how you're performing: win rates by champion, augment combos, item build paths, full match scoreboards, and more. Everything runs locally inside your client: which means Mayhem Doctor can actually show you your full Mayhem history, something sites like OP.GG and U.GG can't do properly because Riot doesn't give them access to Mayhem game data through their public API. What's inside - General Stats champions, augments, items overview with sortable tables - Match History every game, click any row for the full 10-player scoreboard - Specific Champions per-champ deep dive: best augment builds, item paths, win rates - Patch Filter filter all stats by patch, preference saved between sessions - Investigator Mode enter any Riot ID and pull the same breakdown for them Hotkeys & UI placements Alt + X open from anywhere in the client Ctrl + K → search Mayhem Doctor or ARAM via Command Bar Match History page Mayhem! button Profile pages Mayhem Investigator sub-tab Install [Tested on Pengu Loader V1.1.6] 1. Open Plugins Folder → drop in the mayhem-doctor folder 2. Relaunch your client ➡️ V1.1.0 [Release]() — [GitHub]()",
+      "description": "Your personal ARAM Mayhem analyst, built right into the League client.",
       "details": "## New mode support, Improve algorithm for aug & items rankings, minor UI improvements\r\n<img width=\"1511\" height=\"1007\" alt=\"image\" src=\"https://github.com/user-attachments/assets/1bd88b3d-b02b-4be8-91be-a55bd3dc9e8d\" />\r\n\r\nthere's been a feature hidden behind a secret flag in the plugin since `1.1` release that enables this (hint: the plugin name)\r\n| | |\r\n|---|---|\r\n| <img width=\"640\" alt=\"image\" src=\"https://github.com/user-attachments/assets/57995203-1b3f-4f5b-9ea8-df29f1db7678\" /> | <img width=\"512\" alt=\"image\" src=\"https://github.com/user-attachments/assets/ffe8ff82-75a1-4997-9257-272c54316341\" /> |\r\n\r\nIf you use it, make sure to enable save the data \r\nto disk via settings rather than the datastore for better performance with other plugins",
       "repo": "https://github.com/ReformedDoge/Mayhem-Doctor",
       "releaseUrl": "https://github.com/ReformedDoge/Mayhem-Doctor/releases/tag/v1.2.5",
@@ -63,7 +63,9 @@
       "releaseName": "v1.2.5 - New mode support, Improve algorithm for aug & items rankings, minor UI improvements",
       "image": "https://media.discordapp.net/attachments/1475139802482479317/1475139803027607734/ilfu6zl.gif?ex=6a846e7f&is=6a831cff&hm=9678f077d94dd7856290ee735b91e572e9d2739f437e160f7e89726735fa4451&",
       "author": {
-        "name": "SnoozeFest＜(´⌯ ̫⌯`)＞"
+        "name": "ReformedDoge",
+        "avatar": "https://avatars.githubusercontent.com/u/39759213?v=4",
+        "github": "ReformedDoge"
       },
       "tags": [
         "Utility",
@@ -120,7 +122,9 @@
       "releaseName": "v1.2.3",
       "image": "https://media.discordapp.net/attachments/1370379492354162729/1370379493017128970/1.png?ex=6a84525b&is=6a8300db&hm=d01e4e7c7b34a985ca07dd9bf7d6484585ace0c20c626e688080888581e1e82d&",
       "author": {
-        "name": "yanghao"
+        "name": "yanghao0205",
+        "avatar": "https://avatars.githubusercontent.com/u/52226844?v=4",
+        "github": "yanghao0205"
       },
       "tags": [
         "Enhancement"
@@ -1777,7 +1781,7 @@
       "releaseUrl": "https://github.com/egirlcatnip/league-theme-mica/releases/tag/Releases",
       "releaseTag": "Releases",
       "releaseName": "Release v1.6",
-      "image": "https://media.discordapp.net/attachments/1165305978187681803/1165305978674216970/shot.png?ex=6a83cd03&is=6a827b83&hm=f9a2f6fb28811b6c82ca328b03e9558d8d18fd970b9da9d5cb9c16fec18225da&",
+      "image": "https://media.discordapp.net/attachments/1165305978187681803/1165305978674216970/shot.png?ex=6a8475c3&is=6a832443&hm=157f047d54cb16d3f88b5ff02ef71c46eec50c856c20c2e42270b43136899369&",
       "author": {
         "name": "egirlcatnip",
         "avatar": "https://avatars.githubusercontent.com/u/26607304?v=4",
@@ -1863,26 +1867,6 @@
       "enriched": true
     },
     {
-      "id": "1078398664801779853",
-      "kind": "themes",
-      "name": "Purple Theme",
-      "description": "No description provided.",
-      "repo": "https://github.com/floyare/league-purple-theme",
-      "image": "https://i.ibb.co/Dkn3n56/7-Oat-Osgou-EK2-I.jpg",
-      "author": {
-        "name": "floyare"
-      },
-      "tags": [
-        "Dark",
-        "Purple"
-      ],
-      "discordUrl": "https://discord.com/channels/1069483280438673418/1078398664801779853/1078398664801779853",
-      "upvotes": 14,
-      "updatedAt": "2023-10-24T19:35:59.455Z",
-      "assets": [],
-      "enriched": true
-    },
-    {
       "id": "1161804401598529627",
       "kind": "themes",
       "name": "Grayscale",
@@ -1907,7 +1891,7 @@
       "name": "GrayscaleV2",
       "description": "Grayscale theme for Pengu-loader.",
       "repo": "https://github.com/rviid/league-grayscale-theme",
-      "image": "https://media.discordapp.net/attachments/1166033741186076793/1166033741597130852/grayscalev2.png?ex=6a83cfcb&is=6a827e4b&hm=979a6db9f5253fce3fc74e60f7d5e26fbd46fb72d819a65a37a8f940279e3420&",
+      "image": "https://media.discordapp.net/attachments/1166033741186076793/1166033741597130852/grayscalev2.png?ex=6a84788b&is=6a83270b&hm=b9db998ffad6f487a27e2a3ffc8ae359da538739156e6d5d42d8dd26473a025d&",
       "author": {
         "name": "rviid",
         "avatar": "https://avatars.githubusercontent.com/u/147655674?v=4",
@@ -1959,6 +1943,28 @@
       "enriched": true
     },
     {
+      "id": "1078398664801779853",
+      "kind": "themes",
+      "name": "Purple Theme",
+      "description": "Purple theme for league-loader.",
+      "repo": "https://github.com/floyare/league-purple-theme",
+      "image": "https://i.ibb.co/Dkn3n56/7-Oat-Osgou-EK2-I.jpg",
+      "author": {
+        "name": "floyare",
+        "avatar": "https://avatars.githubusercontent.com/u/40760726?v=4",
+        "github": "floyare"
+      },
+      "tags": [
+        "Dark",
+        "Purple"
+      ],
+      "discordUrl": "https://discord.com/channels/1069483280438673418/1078398664801779853/1078398664801779853",
+      "upvotes": 14,
+      "updatedAt": "2023-06-22T15:24:48Z",
+      "assets": [],
+      "enriched": true
+    },
+    {
       "id": "1077961395393536092",
       "kind": "themes",
       "name": "Acrylical Theme",
@@ -1968,7 +1974,7 @@
       "releaseUrl": "https://github.com/HerXayah/league-launcher-theme/releases/tag/treetard",
       "releaseTag": "treetard",
       "releaseName": "JS File",
-      "image": "https://media.discordapp.net/attachments/1077961395393536092/1077970085148381214/chrome_zATRdGurSO.png?ex=6a83cca0&is=6a827b20&hm=ae75b6ac1dd2eb046a2ab6d56b66bdf212396a356d78d2607c722fbaf17197a4&",
+      "image": "https://media.discordapp.net/attachments/1077961395393536092/1077970085148381214/chrome_zATRdGurSO.png?ex=6a847560&is=6a8323e0&hm=3e7c2746fe63f96441646ec1dc51997a482d41809b60160a41f4c07c70976994&",
       "author": {
         "name": "HerXayah",
         "avatar": "https://avatars.githubusercontent.com/u/45071533?v=4",
@@ -2003,7 +2009,7 @@
       "releaseUrl": "https://github.com/HerXayah/league-launcher-theme/releases/tag/treetard",
       "releaseTag": "treetard",
       "releaseName": "JS File",
-      "image": "https://media.discordapp.net/attachments/1077970301192769636/1077970301666734080/PDHdfhl.png?ex=6a83ccd3&is=6a827b53&hm=f94fbc7448eb7f8e297e61dc5e5c545fe363894fa98c577bd3f5934328ee0b93&",
+      "image": "https://media.discordapp.net/attachments/1077970301192769636/1077970301666734080/PDHdfhl.png?ex=6a847593&is=6a832413&hm=b55d0585d66559182ec541a8ff526bc4322ebfbde29955eeec060229ebd41cf7&",
       "author": {
         "name": "HerXayah",
         "avatar": "https://avatars.githubusercontent.com/u/45071533?v=4",
