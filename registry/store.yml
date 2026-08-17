@@ -1,6 +1,6 @@
 name: Pengu Community Store registry
 version: 1
-generatedAt: 2026-08-17T14:27:28.909Z
+generatedAt: 2026-08-17T15:10:28.576Z
 source:
   guildId: "1069483280438673418"
   forums:
@@ -160,7 +160,24 @@ listings:
   - id: "1475139802482479317"
     kind: plugins
     name: 🩺 Mayhem Doctor
-    description: Your personal ARAM Mayhem analyst, built right into the League client.
+    description: "ARAM Mayhem analyst, built right into the client. Digs through
+      your match history (10-400 games or more) and breaks down exactly how
+      you're performing: win rates by champion, augment combos, item build
+      paths, full match scoreboards, and more. Everything runs locally inside
+      your client: which means Mayhem Doctor can actually show you your full
+      Mayhem history, something sites like OP.GG and U.GG can't do properly
+      because Riot doesn't give them access to Mayhem game data through their
+      public API. What's inside - General Stats champions, augments, items
+      overview with sortable tables - Match History every game, click any row
+      for the full 10-player scoreboard - Specific Champions per-champ deep
+      dive: best augment builds, item paths, win rates - Patch Filter filter all
+      stats by patch, preference saved between sessions - Investigator Mode
+      enter any Riot ID and pull the same breakdown for them Hotkeys & UI
+      placements Alt + X open from anywhere in the client Ctrl + K → search
+      Mayhem Doctor or ARAM via Command Bar Match History page Mayhem! button
+      Profile pages Mayhem Investigator sub-tab Install [Tested on Pengu Loader
+      V1.1.6] 1. Open Plugins Folder → drop in the mayhem-doctor folder 2.
+      Relaunch your client ➡️ V1.1.0 [Release]() — [GitHub]()"
     details: "## New mode support, Improve algorithm for aug & items rankings, minor
       UI improvements\r
 
@@ -194,11 +211,9 @@ listings:
     releaseTag: v1.2.5
     releaseName: v1.2.5 - New mode support, Improve algorithm for aug & items
       rankings, minor UI improvements
-    image: https://media.discordapp.net/attachments/1475139802482479317/1475139803027607734/ilfu6zl.gif?ex=6a83c5bf&is=6a82743f&hm=7ae515ee8a965ac24f2bd7527a5e45634cb079479d23442e870857173b974a1b&
+    image: https://media.discordapp.net/attachments/1475139802482479317/1475139803027607734/ilfu6zl.gif?ex=6a846e7f&is=6a831cff&hm=9678f077d94dd7856290ee735b91e572e9d2739f437e160f7e89726735fa4451&
     author:
-      name: ReformedDoge
-      avatar: https://avatars.githubusercontent.com/u/39759213?v=4
-      github: ReformedDoge
+      name: SnoozeFest＜(´⌯ ̫⌯`)＞
     tags:
       - Utility
       - Misc
@@ -334,9 +349,7 @@ listings:
     releaseName: v1.2.3
     image: https://media.discordapp.net/attachments/1370379492354162729/1370379493017128970/1.png?ex=6a84525b&is=6a8300db&hm=d01e4e7c7b34a985ca07dd9bf7d6484585ace0c20c626e688080888581e1e82d&
     author:
-      name: yanghao0205
-      avatar: https://avatars.githubusercontent.com/u/52226844?v=4
-      github: yanghao0205
+      name: yanghao
     tags:
       - Enhancement
     discordUrl: https://discord.com/channels/1069483280438673418/1370379492354162729/1370379492354162729
@@ -796,7 +809,7 @@ listings:
     kind: themes
     name: Minimalist Debloat Theme
     description: No description provided.
-    image: https://media.discordapp.net/attachments/1491806616415244459/1491806616750915705/wasupdud.png?ex=6a83c2ed&is=6a82716d&hm=316c8ce150ef09d7dcfa40106e5d2b4747b5f85cb0ae8ca89a7ef638615f7ddf&
+    image: https://media.discordapp.net/attachments/1491806616415244459/1491806616750915705/wasupdud.png?ex=6a846bad&is=6a831a2d&hm=80d8df24be2e32cfe44103f6484044141ce461dad5bff662c6e62777ded34ad9&
     author:
       name: 莫嘎 | Moga
     tags:
@@ -1098,7 +1111,7 @@ listings:
     releaseUrl: https://github.com/ErisuGreyrat/Pengu-Background-Customizer/releases/tag/2.0
     releaseTag: "2.0"
     releaseName: V2
-    image: https://media.discordapp.net/attachments/1373487727861039115/1373487728985116703/image.png?ex=6a83c3a0&is=6a827220&hm=95aacde53cb6253f3110e0eba1083000e858f4d6202fca60bdc8df926be16f2a&
+    image: https://media.discordapp.net/attachments/1373487727861039115/1373487728985116703/image.png?ex=6a846c60&is=6a831ae0&hm=4e73cba39ebb7b2b68684b461bdace70337688f2ad967ee4d09b9d335ecfc135&
     author:
       name: ErisuGreyrat
       avatar: https://avatars.githubusercontent.com/u/179902803?v=4
@@ -2177,6 +2190,22 @@ listings:
         downloadUrl: https://github.com/nomi-san/indie-theme/releases/download/release/lts/indie-theme.js
         contentType: text/javascript
     enriched: true
+  - id: "1078398664801779853"
+    kind: themes
+    name: Purple Theme
+    description: No description provided.
+    repo: https://github.com/floyare/league-purple-theme
+    image: https://i.ibb.co/Dkn3n56/7-Oat-Osgou-EK2-I.jpg
+    author:
+      name: floyare
+    tags:
+      - Dark
+      - Purple
+    discordUrl: https://discord.com/channels/1069483280438673418/1078398664801779853/1078398664801779853
+    upvotes: 14
+    updatedAt: 2023-10-24T19:35:59.455Z
+    assets: []
+    enriched: true
   - id: "1161804401598529627"
     kind: themes
     name: Grayscale
@@ -2241,24 +2270,6 @@ listings:
     discordUrl: https://discord.com/channels/1069483280438673418/1077921251445706852/1077921251445706852
     upvotes: 5
     updatedAt: 2023-07-06T07:48:14Z
-    assets: []
-    enriched: true
-  - id: "1078398664801779853"
-    kind: themes
-    name: Purple Theme
-    description: Purple theme for league-loader.
-    repo: https://github.com/floyare/league-purple-theme
-    image: https://i.ibb.co/Dkn3n56/7-Oat-Osgou-EK2-I.jpg
-    author:
-      name: floyare
-      avatar: https://avatars.githubusercontent.com/u/40760726?v=4
-      github: floyare
-    tags:
-      - Dark
-      - Purple
-    discordUrl: https://discord.com/channels/1069483280438673418/1078398664801779853/1078398664801779853
-    upvotes: 14
-    updatedAt: 2023-06-22T15:24:48Z
     assets: []
     enriched: true
   - id: "1077961395393536092"
