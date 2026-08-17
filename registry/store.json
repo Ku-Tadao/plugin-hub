@@ -1,7 +1,7 @@
 {
   "name": "Pengu Community Store registry",
   "version": 1,
-  "generatedAt": "2026-08-17T16:25:24.941Z",
+  "generatedAt": "2026-08-17T16:55:46.890Z",
   "source": {
     "guildId": "1069483280438673418",
     "forums": [
@@ -795,7 +795,7 @@
       "name": "Spotify Controller - In-game playback controls",
       "description": "A lightweight Spotify controller integrated directly into the League of Legends client using Pengu Loader. This project consists of two parts: a local Node.js authentication server and a client-side plugin.",
       "repo": "https://github.com/GogoChad/spotify-media-player",
-      "image": "https://media.discordapp.net/attachments/1499090537427243129/1499090537792143492/image.png?ex=6a83e49b&is=6a82931b&hm=4af76867fd70dd9d7cb21be3f1c2ae8e06f0333574d1aaa550e9828769b68286&",
+      "image": "https://media.discordapp.net/attachments/1499090537427243129/1499090537792143492/image.png?ex=6a848d5b&is=6a833bdb&hm=b192fb39b4e9b893b7ca371cc21ba423619021ef4b730465341575ed27c6b264&",
       "author": {
         "name": "GogoChad",
         "avatar": "https://avatars.githubusercontent.com/u/133820564?v=4",
