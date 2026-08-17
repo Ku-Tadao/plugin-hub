@@ -1,7 +1,7 @@
 {
   "name": "Pengu Community Store registry",
   "version": 1,
-  "generatedAt": "2026-08-17T21:24:33.793Z",
+  "generatedAt": "2026-08-17T21:50:03.674Z",
   "source": {
     "guildId": "1069483280438673418",
     "forums": [
@@ -44,7 +44,7 @@
       "assets": [
         {
           "name": "Snooze-Manager.zip",
-          "size": 283511,
+          "size": 283509,
           "downloadUrl": "https://github.com/ReformedDoge/Snooze-Manager/releases/download/v1.1.0/Snooze-Manager.zip",
           "contentType": "application/x-zip-compressed"
         }
@@ -263,7 +263,7 @@
       "kind": "plugins",
       "name": "Activity Center Toggle [redirect to play screen]",
       "description": "- Fully removes the League (Activity Center) - Redirects from the Activity Center to the Play screen - Removes Navbar button since it redirects anyways - Toggle on and off via Client General Interface Settings, if you at some point need to use it",
-      "image": "https://media.discordapp.net/attachments/1396060178545119263/1396060179815989399/image.png?ex=6a8424dc&is=6a82d35c&hm=dc126d07bc992bbce846dd6165869557efffee13bf80b2c84f6a65a746b37770&",
+      "image": "https://media.discordapp.net/attachments/1396060178545119263/1396060179815989399/image.png?ex=6a84cd9c&is=6a837c1c&hm=28f10dabc776fc251fc13595e2a90ac173ab9625348d8b93c9c581ff501fde7d&",
       "author": {
         "name": "Eris Greyrat"
       },
@@ -1573,7 +1573,7 @@
       "releaseUrl": "https://github.com/Elaina69/fake-reward-badge/releases/tag/v1.0.0",
       "releaseTag": "v1.0.0",
       "releaseName": "",
-      "image": "https://media.discordapp.net/attachments/1316703290775441408/1316703290960121867/image.png?ex=6a842a7f&is=6a82d8ff&hm=f37f516ad63362e69cc2229fd8c1cb8ff4ae0e0c4535e4dfdcfbcb7a1f72a3af&",
+      "image": "https://media.discordapp.net/attachments/1316703290775441408/1316703290960121867/image.png?ex=6a84d33f&is=6a8381bf&hm=7caa5fb1731e6fbb1bc54f37c0345043b48a713cbe8e0c4fe5a67e7758d48e37&",
       "author": {
         "name": "Elaina69",
         "avatar": "https://avatars.githubusercontent.com/u/94338907?v=4",
@@ -1633,7 +1633,7 @@
       "releaseUrl": "https://github.com/PenguLoader/PenguLoader/releases/tag/v1.1.6",
       "releaseTag": "v1.1.6",
       "releaseName": "v1.1.6",
-      "image": "https://media.discordapp.net/attachments/1413095170475560960/1413095170940997642/Untitled.png?ex=6a84276e&is=6a82d5ee&hm=c3f2031b846db42766eee4efc4ead5cda593e29abf4970da198eea0d8dd80e7f&",
+      "image": "https://media.discordapp.net/attachments/1413095170475560960/1413095170940997642/Untitled.png?ex=6a84d02e&is=6a837eae&hm=047cf2867225e84b96f0bb5f1ac542aee1eff3be20f4d630c8957c6a10ffe964&",
       "author": {
         "name": "PenguLoader",
         "avatar": "https://avatars.githubusercontent.com/u/126898920?v=4",
