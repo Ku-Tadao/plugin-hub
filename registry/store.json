@@ -1,7 +1,7 @@
 {
   "name": "Pengu Community Store registry",
   "version": 1,
-  "generatedAt": "2026-08-17T17:26:18.605Z",
+  "generatedAt": "2026-08-17T17:55:30.614Z",
   "source": {
     "guildId": "1069483280438673418",
     "forums": [
@@ -174,7 +174,7 @@
       "kind": "plugins",
       "name": "No close client message",
       "description": "This plugin automatically confirms the League Client exit dialog. - Source code: Cooming soon, i'm lazy - Download: Github url cooming soon, i'm lazy",
-      "image": "https://media.discordapp.net/attachments/1520847793256927293/1520847793411981413/57nwhtn.png?ex=6a83f1a1&is=6a82a021&hm=30861fe9a5b44db3743a3ed5535399b550e4dafef859835784dc6949a13c4072&",
+      "image": "https://media.discordapp.net/attachments/1520847793256927293/1520847793411981413/57nwhtn.png?ex=6a849a61&is=6a8348e1&hm=9ef9b395cb86fbb7e7a269c6ce9bea35474891c091f0ec9a392c49f83a846b12&",
       "author": {
         "name": "Elaina"
       },
@@ -188,7 +188,7 @@
         {
           "name": "NoCloseMessage.js",
           "size": 3475,
-          "downloadUrl": "https://cdn.discordapp.com/attachments/1520847793256927293/1520847873980371034/NoCloseMessage.js?ex=6a83f1b5&is=6a82a035&hm=f68d5f94fd16cfb78a271d61949bd90953e062205fa703d89cd292ecb10d3761&",
+          "downloadUrl": "https://cdn.discordapp.com/attachments/1520847793256927293/1520847873980371034/NoCloseMessage.js?ex=6a849a75&is=6a8348f5&hm=5e1eddf2c6d1c8ec0b42af93dd89585782bfd80ba236e3220e49361eeca0a5d0&",
           "contentType": "text/javascript; charset=utf-8"
         },
         {
@@ -210,7 +210,7 @@
       "releaseUrl": "https://github.com/kyso1/KysoTheme/releases/tag/v3.5.1",
       "releaseTag": "v3.5.1",
       "releaseName": "v3.5.1",
-      "image": "https://media.discordapp.net/attachments/1240541534663868426/1240541534869262376/image.png?ex=6a83f256&is=6a82a0d6&hm=3f1dd3781d6d10c130803b39fda4b27ea0379c99d6150316a2b77c1da3a1d1f2&",
+      "image": "https://media.discordapp.net/attachments/1240541534663868426/1240541534869262376/image.png?ex=6a849b16&is=6a834996&hm=5a39633f9b1ddccfca0b4c55316a1e1c939624cfc598c372308807e3e3858296&",
       "author": {
         "name": "kyso1",
         "avatar": "https://avatars.githubusercontent.com/u/128049220?v=4",
@@ -715,27 +715,6 @@
       "enriched": true
     },
     {
-      "id": "1165305978187681803",
-      "kind": "themes",
-      "name": "Acrylic theme (egirl's tweaks) :3",
-      "description": "Theme adjusted by egirl from Sarah's acrylic theme :3",
-      "repo": "https://github.com/egirlcatnip/league-theme-mica",
-      "image": "https://media.discordapp.net/attachments/1165305978187681803/1165305978674216970/shot.png?ex=6a8475c3&is=6a832443&hm=157f047d54cb16d3f88b5ff02ef71c46eec50c856c20c2e42270b43136899369&",
-      "author": {
-        "name": "egirlcatnip",
-        "avatar": "https://avatars.githubusercontent.com/u/26607304?v=4",
-        "github": "egirlcatnip"
-      },
-      "tags": [
-        "Transparent"
-      ],
-      "discordUrl": "https://discord.com/channels/1069483280438673418/1165305978187681803/1165305978187681803",
-      "upvotes": 10,
-      "updatedAt": "2026-05-07T21:06:17Z",
-      "assets": [],
-      "enriched": true
-    },
-    {
       "id": "1500282612084768848",
       "kind": "plugins",
       "name": "league-lean — meta tier list + auto rune/build apply + post-game op.gg, all in one sidebar",
@@ -1193,7 +1172,11 @@
       "kind": "themes",
       "name": "Acrylical theme Egirl's fork",
       "description": "Theme adjusted by Erisu from egirl's edit from Sarah's acrylic theme (❁´◡`❁)",
+      "details": "- Minor Fixes",
       "repo": "https://github.com/ErisuGreyrat/acrylic-league-theme",
+      "releaseUrl": "https://github.com/ErisuGreyrat/acrylic-league-theme/releases/tag/1.9.3",
+      "releaseTag": "1.9.3",
+      "releaseName": "v1.9.3",
       "image": "https://media.discordapp.net/attachments/1373486870054441210/1373486870553694360/image.png?ex=6a846b94&is=6a831a14&hm=5f053c4d94d6c070cd53a39a153604102a040d48909985ca90fbe1f781838ceb&",
       "author": {
         "name": "ErisuGreyrat",
@@ -1204,7 +1187,14 @@
       "discordUrl": "https://discord.com/channels/1069483280438673418/1373486870054441210/1373486870054441210",
       "upvotes": 4,
       "updatedAt": "2026-03-13T15:53:52Z",
-      "assets": [],
+      "assets": [
+        {
+          "name": "acrylic-league-theme.1.9.3.zip",
+          "size": 9081,
+          "downloadUrl": "https://github.com/ErisuGreyrat/acrylic-league-theme/releases/download/1.9.3/acrylic-league-theme.1.9.3.zip",
+          "contentType": "application/x-zip-compressed"
+        }
+      ],
       "enriched": true
     },
     {
@@ -1777,6 +1767,38 @@
           "size": 1934,
           "downloadUrl": "https://github.com/Humildeficador/DisableQueues/releases/download/1.0/DisableQueues.zip",
           "contentType": "application/x-zip-compressed"
+        }
+      ],
+      "enriched": true
+    },
+    {
+      "id": "1165305978187681803",
+      "kind": "themes",
+      "name": "Acrylic theme (egirl's tweaks) :3",
+      "description": "Theme adjusted by egirl from Sarah's acrylic theme :3",
+      "details": "Now, for the first time ever, a github release!! :3",
+      "repo": "https://github.com/egirlcatnip/league-theme-mica",
+      "releaseUrl": "https://github.com/egirlcatnip/league-theme-mica/releases/tag/Releases",
+      "releaseTag": "Releases",
+      "releaseName": "Release v1.6",
+      "image": "https://media.discordapp.net/attachments/1165305978187681803/1165305978674216970/shot.png?ex=6a8475c3&is=6a832443&hm=157f047d54cb16d3f88b5ff02ef71c46eec50c856c20c2e42270b43136899369&",
+      "author": {
+        "name": "egirlcatnip",
+        "avatar": "https://avatars.githubusercontent.com/u/26607304?v=4",
+        "github": "egirlcatnip"
+      },
+      "tags": [
+        "Transparent"
+      ],
+      "discordUrl": "https://discord.com/channels/1069483280438673418/1165305978187681803/1165305978187681803",
+      "upvotes": 10,
+      "updatedAt": "2024-01-25T08:25:48Z",
+      "assets": [
+        {
+          "name": "acrylic-league-theme-1.6.zip",
+          "size": 8659,
+          "downloadUrl": "https://github.com/egirlcatnip/league-theme-mica/releases/download/Releases/acrylic-league-theme-1.6.zip",
+          "contentType": "application/zip"
         }
       ],
       "enriched": true
