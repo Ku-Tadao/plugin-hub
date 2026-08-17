@@ -1,6 +1,6 @@
 name: Pengu Community Store registry
 version: 1
-generatedAt: 2026-08-17T16:55:46.890Z
+generatedAt: 2026-08-17T17:26:18.605Z
 source:
   guildId: "1069483280438673418"
   forums:
@@ -955,6 +955,23 @@ listings:
         downloadUrl: https://github.com/Yimikami/pengu-plugins/releases/download/PenguFamily_v0.1.0/PenguFamily.zip
         contentType: application/x-zip-compressed
     enriched: true
+  - id: "1165305978187681803"
+    kind: themes
+    name: Acrylic theme (egirl's tweaks) :3
+    description: Theme adjusted by egirl from Sarah's acrylic theme :3
+    repo: https://github.com/egirlcatnip/league-theme-mica
+    image: https://media.discordapp.net/attachments/1165305978187681803/1165305978674216970/shot.png?ex=6a8475c3&is=6a832443&hm=157f047d54cb16d3f88b5ff02ef71c46eec50c856c20c2e42270b43136899369&
+    author:
+      name: egirlcatnip
+      avatar: https://avatars.githubusercontent.com/u/26607304?v=4
+      github: egirlcatnip
+    tags:
+      - Transparent
+    discordUrl: https://discord.com/channels/1069483280438673418/1165305978187681803/1165305978187681803
+    upvotes: 10
+    updatedAt: 2026-05-07T21:06:17Z
+    assets: []
+    enriched: true
   - id: "1500282612084768848"
     kind: plugins
     name: league-lean — meta tier list + auto rune/build apply + post-game op.gg,
@@ -1488,11 +1505,7 @@ listings:
     name: Acrylical theme Egirl's fork
     description: Theme adjusted by Erisu from egirl's edit from Sarah's acrylic
       theme (❁´◡`❁)
-    details: "- Minor Fixes"
     repo: https://github.com/ErisuGreyrat/acrylic-league-theme
-    releaseUrl: https://github.com/ErisuGreyrat/acrylic-league-theme/releases/tag/1.9.3
-    releaseTag: 1.9.3
-    releaseName: v1.9.3
     image: https://media.discordapp.net/attachments/1373486870054441210/1373486870553694360/image.png?ex=6a846b94&is=6a831a14&hm=5f053c4d94d6c070cd53a39a153604102a040d48909985ca90fbe1f781838ceb&
     author:
       name: ErisuGreyrat
@@ -1502,11 +1515,7 @@ listings:
     discordUrl: https://discord.com/channels/1069483280438673418/1373486870054441210/1373486870054441210
     upvotes: 4
     updatedAt: 2026-03-13T15:53:52Z
-    assets:
-      - name: acrylic-league-theme.1.9.3.zip
-        size: 9081
-        downloadUrl: https://github.com/ErisuGreyrat/acrylic-league-theme/releases/download/1.9.3/acrylic-league-theme.1.9.3.zip
-        contentType: application/x-zip-compressed
+    assets: []
     enriched: true
   - id: "1395902555095171225"
     kind: plugins
@@ -2081,31 +2090,6 @@ listings:
         size: 1934
         downloadUrl: https://github.com/Humildeficador/DisableQueues/releases/download/1.0/DisableQueues.zip
         contentType: application/x-zip-compressed
-    enriched: true
-  - id: "1165305978187681803"
-    kind: themes
-    name: Acrylic theme (egirl's tweaks) :3
-    description: Theme adjusted by egirl from Sarah's acrylic theme :3
-    details: Now, for the first time ever, a github release!! :3
-    repo: https://github.com/egirlcatnip/league-theme-mica
-    releaseUrl: https://github.com/egirlcatnip/league-theme-mica/releases/tag/Releases
-    releaseTag: Releases
-    releaseName: Release v1.6
-    image: https://media.discordapp.net/attachments/1165305978187681803/1165305978674216970/shot.png?ex=6a8475c3&is=6a832443&hm=157f047d54cb16d3f88b5ff02ef71c46eec50c856c20c2e42270b43136899369&
-    author:
-      name: egirlcatnip
-      avatar: https://avatars.githubusercontent.com/u/26607304?v=4
-      github: egirlcatnip
-    tags:
-      - Transparent
-    discordUrl: https://discord.com/channels/1069483280438673418/1165305978187681803/1165305978187681803
-    upvotes: 10
-    updatedAt: 2024-01-25T08:25:48Z
-    assets:
-      - name: acrylic-league-theme-1.6.zip
-        size: 8659
-        downloadUrl: https://github.com/egirlcatnip/league-theme-mica/releases/download/Releases/acrylic-league-theme-1.6.zip
-        contentType: application/zip
     enriched: true
   - id: "1107021081207914566"
     kind: themes
