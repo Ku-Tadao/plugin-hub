@@ -1,7 +1,7 @@
 {
   "name": "Pengu Community Store registry",
   "version": 1,
-  "generatedAt": "2026-08-17T10:30:51.552Z",
+  "generatedAt": "2026-08-17T11:23:44.863Z",
   "source": {
     "guildId": "1069483280438673418",
     "forums": [
@@ -163,7 +163,7 @@
         {
           "name": "index.js",
           "size": 4929,
-          "downloadUrl": "https://cdn.discordapp.com/attachments/1462451902028578940/1465476858241093662/index.js?ex=6a838e2e&is=6a823cae&hm=713655420a3d4b453a98afe217fd5b4b6891f8b4859f6aa6c1a6fed048759795&",
+          "downloadUrl": "https://cdn.discordapp.com/attachments/1462451902028578940/1465476858241093662/index.js?ex=6a8436ee&is=6a82e56e&hm=84cd435f47ec5a9e6ecea952bc5a63a9772ecb8bdeb5637d947ece9e46ff4ac2&",
           "contentType": "text/javascript; charset=utf-8"
         }
       ],
@@ -767,7 +767,7 @@
       "kind": "plugins",
       "name": "Banner Customizer",
       "description": "Plugin that lets you display any banner in your lobby, including ones you don't own. Upload your own custom images or animated WebM files, or pick from any banner in the game. Works in the standard lobby, Arena hover tooltip, and your profile page. BNC Button in Lobby as always with my plugins. ⚠️ Client-side only — only you can see the change. Other players still see your actual equipped banner.",
-      "image": "https://media.discordapp.net/attachments/1499358177052069899/1499358177840467968/4hbdb93.png?ex=6a838c5e&is=6a823ade&hm=f18a97a0daf6d06e8a2eb8c7b8559153a4a2b5dcd4bf8ab969b5588c0f745b03&",
+      "image": "https://media.discordapp.net/attachments/1499358177052069899/1499358177840467968/4hbdb93.png?ex=6a84351e&is=6a82e39e&hm=ae2450d8d1d198bb37e57d6399357d72c0a53160a4aeb42915f20c08234157f3&",
       "author": {
         "name": "Eris Greyrat"
       },
@@ -783,7 +783,7 @@
         {
           "name": "Banner-Customizer.js",
           "size": 56598,
-          "downloadUrl": "https://cdn.discordapp.com/attachments/1499358177052069899/1499358178658222220/Banner-Customizer.js?ex=6a838c5e&is=6a823ade&hm=b4dfad2235a0f65136e0bb0964adaa2654f7078c2620f9693a7bd17406f6ea83&",
+          "downloadUrl": "https://cdn.discordapp.com/attachments/1499358177052069899/1499358178658222220/Banner-Customizer.js?ex=6a84351e&is=6a82e39e&hm=9bc183ee3936e04468841133654c3cffa4a3d6360b08716152003163d5ab4767&",
           "contentType": "text/javascript; charset=utf-8"
         }
       ],
@@ -916,7 +916,7 @@
       "releaseUrl": "https://github.com/Ventoba/3DSkinViewer/releases/tag/v1.0",
       "releaseTag": "v1.0",
       "releaseName": "v1.0",
-      "image": "https://media.discordapp.net/attachments/1490663854059950280/1490663854391427183/example2.PNG?ex=6a838f26&is=6a823da6&hm=14ed24c387a68294224e5df84562afaca0422d5469486d3771e7b3d8209da084&",
+      "image": "https://media.discordapp.net/attachments/1490663854059950280/1490663854391427183/example2.PNG?ex=6a8437e6&is=6a82e666&hm=d7c12eadeb70c7f01a83c28fd39f4d4c1b52ad8063272e81e8d9ec7c4a7af170&",
       "author": {
         "name": "Ventoba",
         "avatar": "https://avatars.githubusercontent.com/u/96593577?v=4",
@@ -1202,7 +1202,7 @@
       "kind": "plugins",
       "name": "Hide Nonsense",
       "description": "No description provided.",
-      "image": "https://media.discordapp.net/attachments/1395902555095171225/1395906635968286882/image.png?ex=6a8395dc&is=6a82445c&hm=d19d02e0f6dae5fd1e8760b09233297ebc95394f2c2705ccfe38c70e665b4b80&",
+      "image": "https://media.discordapp.net/attachments/1395902555095171225/1395906635968286882/image.png?ex=6a843e9c&is=6a82ed1c&hm=e6b4af260029f5b74933d6bc422f5d10cf12c088cbc439ab4a8f1d4a7f20dca5&",
       "author": {
         "name": "莫嘎 | Moga"
       },
@@ -1339,7 +1339,7 @@
       "kind": "plugins",
       "name": "Blue Essence Icon Swapper",
       "description": "Blue Essence Icon Swapper How to use: Click the BE icon to change icon. Click the BE icon to select new image/reset to standard.",
-      "image": "https://media.discordapp.net/attachments/1468009747780210791/1468019006991634432/Screenshot_2026-02-02_232517.png?ex=6a83933d&is=6a8241bd&hm=0742ffb0c4bb518b776334c7d9ee558c718271b786a3eeec87f83293a48d20ae&",
+      "image": "https://media.discordapp.net/attachments/1468009747780210791/1468019006991634432/Screenshot_2026-02-02_232517.png?ex=6a843bfd&is=6a82ea7d&hm=ba2e2741cca49608302d2e87fed322ea7be0940ae20a3623a20a37e932268aca&",
       "author": {
         "name": "Ilkay"
       },
@@ -1353,7 +1353,7 @@
         {
           "name": "BE-Icon-Swapper.js",
           "size": 6253,
-          "downloadUrl": "https://cdn.discordapp.com/attachments/1468009747780210791/1468019008229081235/BE-Icon-Swapper.js?ex=6a83933e&is=6a8241be&hm=f286a594a7719d42a019664aec9b75b5b6c5bcac85a9b620b90a479b03e2d046&",
+          "downloadUrl": "https://cdn.discordapp.com/attachments/1468009747780210791/1468019008229081235/BE-Icon-Swapper.js?ex=6a843bfe&is=6a82ea7e&hm=424843a7c51ca84f601377003187b4b4ffcea8c1bd73ca9a92bf7f3111c012de&",
           "contentType": "text/javascript; charset=utf-8"
         }
       ],
@@ -1400,7 +1400,7 @@
       "name": "AutoAcceptEnhanced - auto Q acccepter with enhancements",
       "description": "AutoAcceptEnhanced 🚀 An enhanced auto queue accepter with hide \"match found\" dialog function Features: ✅ Auto Accept - Automatically accepts match queues after 9.5 seconds ✅ Hide Dialog - Hides the match found dialog, allowing you to continue using the client (open chests, shop, etc.) while in queue ✅ Clean UI - Minimalist toggle buttons in the lobby ✅ Settings Persistence - Your preferences are saved between sessions Installation: 1. Download autoaccept.js from GitHub 2. Place the file in your Pengu Loader plugins directory 3. Enjoy! You'll see toggle buttons in your lobby Download: 🔗 GitHub: This plugin is based on another developer's auto accept plugin, which wasn't released. I downloaded it from \"plugin request\" section long ago, now i can't find who developed it. They will be credited as soon as they reach out",
       "repo": "https://github.com/asherathegod/penguplugins",
-      "image": "https://media.discordapp.net/attachments/1371799042832597054/1371799043575123978/EbMqICb.png?ex=6a838daa&is=6a823c2a&hm=dbf78c3ac89ba7b6dae3a46bdce808d59ae31c068e57d5d8ae310ddbfc64938a&",
+      "image": "https://media.discordapp.net/attachments/1371799042832597054/1371799043575123978/EbMqICb.png?ex=6a84366a&is=6a82e4ea&hm=2854a052a8a2f06b9582a6b01c3b09b09f87077a7456e6a00006f512e9b6ca3c&",
       "author": {
         "name": "asherathegod",
         "avatar": "https://avatars.githubusercontent.com/u/68480231?v=4",
