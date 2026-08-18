@@ -1,7 +1,7 @@
 {
   "name": "Pengu Community Store registry",
   "version": 1,
-  "generatedAt": "2026-08-18T21:22:13.994Z",
+  "generatedAt": "2026-08-18T21:48:02.650Z",
   "source": {
     "guildId": "1069483280438673418",
     "forums": [
@@ -263,7 +263,7 @@
       "kind": "plugins",
       "name": "Activity Center Toggle [redirect to play screen]",
       "description": "- Fully removes the League (Activity Center) - Redirects from the Activity Center to the Play screen - Removes Navbar button since it redirects anyways - Toggle on and off via Client General Interface Settings, if you at some point need to use it",
-      "image": "https://media.discordapp.net/attachments/1396060178545119263/1396060179815989399/image.png?ex=6a85765c&is=6a8424dc&hm=56b5fa40c105cecbffe4d97c466e2216f175c383ff91a4cc585b8fad299eb856&",
+      "image": "https://media.discordapp.net/attachments/1396060178545119263/1396060179815989399/image.png?ex=6a861f1c&is=6a84cd9c&hm=c22de57c69c6597eb33b89f25707a7be2ba18566034da81bab6400aedf8d2505&",
       "author": {
         "name": "Eris Greyrat"
       },
@@ -1024,7 +1024,7 @@
       "kind": "plugins",
       "name": "Banner Remover (not unranked needed last season)",
       "description": "I made this plugin so the banner is transparent for seeing the background :3",
-      "image": "https://media.discordapp.net/attachments/1485931384504848394/1485931923275776201/C457E65E-4309-49F8-87B7-D302F19ADCDF.png?ex=6a8575f1&is=6a842471&hm=fe050b9eb7b302886f08b8f366d529bf729a3009d61361d1e97d23142a2857ea&",
+      "image": "https://media.discordapp.net/attachments/1485931384504848394/1485931923275776201/C457E65E-4309-49F8-87B7-D302F19ADCDF.png?ex=6a861eb1&is=6a84cd31&hm=0f295b0b6b9033e8f395d47abb127f0096a8d594cd0b2ea9ac0c973050a0e2f1&",
       "author": {
         "name": "LittleRadio"
       },
@@ -1098,7 +1098,7 @@
       "name": "Lock your League of Legends client with a 4-digit PIN code",
       "description": "🔒 Lock the League of Legends client with a 4-digit PIN — hotkey support, iOS-style UI, blur overlay. Penguloader plugin.",
       "repo": "https://github.com/nt3y/LeagueClient-Locker-",
-      "image": "https://media.discordapp.net/attachments/1485026009018273872/1485026009500877094/image.png?ex=6a8575ff&is=6a84247f&hm=45af372fbe306611b9dd50c83598ecdea65073b8679d4091a7ed801914a80a37&",
+      "image": "https://media.discordapp.net/attachments/1485026009018273872/1485026009500877094/image.png?ex=6a861ebf&is=6a84cd3f&hm=89db3b7815a00d5af5973462c1b643a8819c7eb3169ee5e55e3b77bca5d4a896&",
       "author": {
         "name": "nt3y",
         "avatar": "https://avatars.githubusercontent.com/u/269317310?v=4",
@@ -1633,7 +1633,7 @@
       "releaseUrl": "https://github.com/PenguLoader/PenguLoader/releases/tag/v1.1.6",
       "releaseTag": "v1.1.6",
       "releaseName": "v1.1.6",
-      "image": "https://media.discordapp.net/attachments/1413095170475560960/1413095170940997642/Untitled.png?ex=6a8578ee&is=6a84276e&hm=3fe76d1f21751fd4e1ffa8ff47b777a86fae7343730c59788eb2145663ae2a26&",
+      "image": "https://media.discordapp.net/attachments/1413095170475560960/1413095170940997642/Untitled.png?ex=6a8621ae&is=6a84d02e&hm=55858f32a791f5ea49eaff0e95e16bdb722adff4a0b50da03d3b3a98eea12514&",
       "author": {
         "name": "PenguLoader",
         "avatar": "https://avatars.githubusercontent.com/u/126898920?v=4",
