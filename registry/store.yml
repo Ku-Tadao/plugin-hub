@@ -1,6 +1,6 @@
 name: Pengu Community Store registry
 version: 1
-generatedAt: 2026-08-20T10:28:24.419Z
+generatedAt: 2026-08-20T10:59:18.581Z
 source:
   guildId: "1069483280438673418"
   forums:
@@ -365,7 +365,7 @@ listings:
     assets:
       - name: index.js
         size: 4929
-        downloadUrl: https://cdn.discordapp.com/attachments/1462451902028578940/1465476858241093662/index.js?ex=6a8782ae&is=6a86312e&hm=3ec790ccd6f21b996724a1fd94db9b2cc78cf81162555ddea229b7ef2e3c6e14&
+        downloadUrl: https://cdn.discordapp.com/attachments/1462451902028578940/1465476858241093662/index.js?ex=6a882b6e&is=6a86d9ee&hm=4653ed6d81af11eee8fc6af5690fce6470cb98f0e7ef688327d8850206bcede7&
         contentType: text/javascript; charset=utf-8
     enriched: true
   - id: "1520847793256927293"
@@ -1007,7 +1007,7 @@ listings:
       hover tooltip, and your profile page. BNC Button in Lobby as always with
       my plugins. ⚠️ Client-side only — only you can see the change. Other
       players still see your actual equipped banner.
-    image: https://media.discordapp.net/attachments/1499358177052069899/1499358177840467968/4hbdb93.png?ex=6a8780de&is=6a862f5e&hm=212394dae7bfbd2c00694e4e2ec754c1e06a2c294d23305d071487c6b7bd6f8e&
+    image: https://media.discordapp.net/attachments/1499358177052069899/1499358177840467968/4hbdb93.png?ex=6a88299e&is=6a86d81e&hm=29bcb8bfcefd7c5eb8e5a8c70cad0507d50b303d7d9152ce00c462afeb826666&
     author:
       name: Eris Greyrat
     tags:
@@ -1020,7 +1020,7 @@ listings:
     assets:
       - name: Banner-Customizer.js
         size: 56598
-        downloadUrl: https://cdn.discordapp.com/attachments/1499358177052069899/1499358178658222220/Banner-Customizer.js?ex=6a8780de&is=6a862f5e&hm=0bd85c71d15bde644d5e714193c507749bce211e2341d3260968da59d8b07b95&
+        downloadUrl: https://cdn.discordapp.com/attachments/1499358177052069899/1499358178658222220/Banner-Customizer.js?ex=6a88299e&is=6a86d81e&hm=c25ae58765f0dc31da2297fff205ccdcc53c3d454a6d9676810ce8e33c0632fc&
         contentType: text/javascript; charset=utf-8
     enriched: true
   - id: "1499090537427243129"
@@ -1157,7 +1157,7 @@ listings:
     releaseUrl: https://github.com/Ventoba/3DSkinViewer/releases/tag/v1.0
     releaseTag: v1.0
     releaseName: v1.0
-    image: https://media.discordapp.net/attachments/1490663854059950280/1490663854391427183/example2.PNG?ex=6a8783a6&is=6a863226&hm=0c9cff9a860efc061ff4ab25d6b92717c4205a5cf76bd5bc7ef0ae3493b80f83&
+    image: https://media.discordapp.net/attachments/1490663854059950280/1490663854391427183/example2.PNG?ex=6a882c66&is=6a86dae6&hm=4d14c97297a22651e714ada78c3a3817422511288fecacb3108042790abe3121&
     author:
       name: Ventoba
       avatar: https://avatars.githubusercontent.com/u/96593577?v=4
@@ -1712,7 +1712,7 @@ listings:
       from \"plugin request\" section long ago, now i can't find who developed
       it. They will be credited as soon as they reach out"
     repo: https://github.com/asherathegod/penguplugins
-    image: https://media.discordapp.net/attachments/1371799042832597054/1371799043575123978/EbMqICb.png?ex=6a87822a&is=6a8630aa&hm=4d0f3083331b5cca627279232f957b859296f59709bb9b15dbacddd13b32a522&
+    image: https://media.discordapp.net/attachments/1371799042832597054/1371799043575123978/EbMqICb.png?ex=6a882aea&is=6a86d96a&hm=a67bcc047d0f5873f56abfd4c23a2f585e81e37d52b712b67983f7d2a10fe593&
     author:
       name: asherathegod
       avatar: https://avatars.githubusercontent.com/u/68480231?v=4
