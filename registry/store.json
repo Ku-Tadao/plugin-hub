@@ -1,7 +1,7 @@
 {
   "name": "Pengu Community Store registry",
   "version": 1,
-  "generatedAt": "2026-08-20T23:23:47.854Z",
+  "generatedAt": "2026-08-20T23:50:04.891Z",
   "source": {
     "guildId": "1069483280438673418",
     "forums": [
@@ -720,7 +720,7 @@
       "name": "league-lean — meta tier list + auto rune/build apply + post-game op.gg, all in one sidebar",
       "description": "Pengu Loader plugin: lean Riot client tweaks, auto rune/build apply, meta tier list, post-game op.gg. Personal use; not endorsed by Riot Games.",
       "repo": "https://github.com/Nicetyone/league-lean",
-      "image": "https://media.discordapp.net/attachments/1500282612084768848/1500282612516917258/01.png?ex=6a883ad0&is=6a86e950&hm=ff1ba4a6a126d3d6a6bd7be57eb7a32c1841c3c7c47615403ab7a29d922e45dc&",
+      "image": "https://media.discordapp.net/attachments/1500282612084768848/1500282612516917258/01.png?ex=6a88e390&is=6a879210&hm=90df6e97f23a9af329067abfbdb77c3a55d4b83d5ac408dbc6dc51e2bc0c1520&",
       "author": {
         "name": "Nicetyone",
         "avatar": "https://avatars.githubusercontent.com/u/78967461?v=4",
@@ -817,7 +817,7 @@
       "name": "OP.GG & U.GG Button Plugin",
       "description": "An custom JavaScript page for Pengu Loader",
       "repo": "https://github.com/GogoChad/opgg-button",
-      "image": "https://media.discordapp.net/attachments/1495203342400360459/1495203439347499059/image.png?ex=6a883577&is=6a86e3f7&hm=9c94862ca56194f113fd494669d06a7d7c77a6eaa73132f4557bc30d0f3af663&",
+      "image": "https://media.discordapp.net/attachments/1495203342400360459/1495203439347499059/image.png?ex=6a88de37&is=6a878cb7&hm=2170440914eb6fb1371cc53c193b91e14a69594d3afe75699ff32678f1a030a7&",
       "author": {
         "name": "GogoChad",
         "avatar": "https://avatars.githubusercontent.com/u/133820564?v=4",
@@ -1289,7 +1289,7 @@
       "releaseUrl": "https://github.com/nomi-san/balance-buff-viewer/releases/tag/main",
       "releaseTag": "main",
       "releaseName": "S16 | v26 | 2026",
-      "image": "https://media.discordapp.net/attachments/1127199847901052979/1127199848303693844/image.png?ex=6a8836aa&is=6a86e52a&hm=dcf6454e15c50421326bc7b4256a62ede231d303f86ac0ed7d6152d95b0fbb32&",
+      "image": "https://media.discordapp.net/attachments/1127199847901052979/1127199848303693844/image.png?ex=6a88df6a&is=6a878dea&hm=630f246373793ec6408623adef207787c7b1a7f2fa4dcc3b6fd52ae0df3fcec6&",
       "author": {
         "name": "nomi-san",
         "avatar": "https://avatars.githubusercontent.com/u/38210249?v=4",
@@ -1447,7 +1447,7 @@
       "releaseUrl": "https://github.com/DmitryFisk/pengu-force-custom-lobby/releases/tag/2.2.0",
       "releaseTag": "2.2.0",
       "releaseName": "2.2.0",
-      "image": "https://media.discordapp.net/attachments/1322710156173250601/1322710156626104320/image.png?ex=6a883894&is=6a86e714&hm=74a7563d97901f0f6dfd87bcc8a210fad97a38164d95bcc728ceae7c2092dd26&",
+      "image": "https://media.discordapp.net/attachments/1322710156173250601/1322710156626104320/image.png?ex=6a88e154&is=6a878fd4&hm=b4e90ebc838595d3ee499db54b4bc826c5d39803702d828b99d7c794f89d3956&",
       "author": {
         "name": "DmitryFisk",
         "avatar": "https://avatars.githubusercontent.com/u/62219971?v=4",
@@ -1547,7 +1547,7 @@
       "kind": "plugins",
       "name": "Invisible profile border",
       "description": "Just copy and paste it into the DevTools console (Ctrl+Shift+I). Needs level 525 or higher js await fetch(\"/lol-regalia/v2/current-summoner/regalia\", { method: \"PUT\", body: JSON.stringify({ preferredCrestType: \"prestige\", preferredBannerType: \"blank\", selectedPrestigeCrest: 22}), headers: { \"Content-Type\": \"application/json\" }, });",
-      "image": "https://media.discordapp.net/attachments/1327785286327074929/1327785286561960026/image.png?ex=6a883a29&is=6a86e8a9&hm=7fe315061239dd16230a82dbaeae2c83365ee3e7f44c3cf39abd95f254aa7de5&",
+      "image": "https://media.discordapp.net/attachments/1327785286327074929/1327785286561960026/image.png?ex=6a88e2e9&is=6a879169&hm=426dc0b47b72fc3eddbfada86c4148eb4f958e09cdf012e7779c4cee057b0f65&",
       "author": {
         "name": "kebs"
       },
