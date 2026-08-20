@@ -1,7 +1,7 @@
 {
   "name": "Pengu Community Store registry",
   "version": 1,
-  "generatedAt": "2026-08-20T13:44:25.212Z",
+  "generatedAt": "2026-08-20T14:34:30.351Z",
   "source": {
     "guildId": "1069483280438673418",
     "forums": [
@@ -90,7 +90,7 @@
       "kind": "plugins",
       "name": "community pact popup blocker",
       "description": "this plugin blocks the new community pact popup when you first login, now technically you can say \"ive never agreed to it\" so you can therefore be as toxic as you want.",
-      "image": "https://media.discordapp.net/attachments/1458822729414217954/1458822729716469913/image.png?ex=6a87b14a&is=6a865fca&hm=618abcaeb4b5476854507ddd73794cc0b0b54062e6342a61b09e5c850410893d&",
+      "image": "https://media.discordapp.net/attachments/1458822729414217954/1458822729716469913/image.png?ex=6a885a0a&is=6a87088a&hm=1f1cd6a724f866ef5a6937c5f5275c050b98cbaefbd8160b3790df2559f7f123&",
       "author": {
         "name": "Cat Bot"
       },
@@ -104,7 +104,7 @@
         {
           "name": "RiotPactBlocker.js",
           "size": 508,
-          "downloadUrl": "https://cdn.discordapp.com/attachments/1458822729414217954/1458822730198810674/RiotPactBlocker.js?ex=6a87b14a&is=6a865fca&hm=0aac99ee4666526b2f4cb2f45505484b0c17e1751154fb37a7a6bfd229f5c65f&",
+          "downloadUrl": "https://cdn.discordapp.com/attachments/1458822729414217954/1458822730198810674/RiotPactBlocker.js?ex=6a885a0a&is=6a87088a&hm=00fdbc36d621d789605dec28594cc496ab18d7d7a356051d7e4a556aa27afef7&",
           "contentType": "text/javascript; charset=utf-8"
         }
       ],
@@ -519,7 +519,7 @@
       "kind": "themes",
       "name": "Minimalist Debloat Theme",
       "description": "No description provided.",
-      "image": "https://media.discordapp.net/attachments/1491806616415244459/1491806616750915705/wasupdud.png?ex=6a87b76d&is=6a8665ed&hm=378de592cce4789cc7e09a48391f7384a3d9b7b8b152d6d6795929c8381fd3a9&",
+      "image": "https://media.discordapp.net/attachments/1491806616415244459/1491806616750915705/wasupdud.png?ex=6a88602d&is=6a870ead&hm=5e81f7f0067b5c2cf64afe3907db15e92ea824e4199f7770dff26a79a6088b65&",
       "author": {
         "name": "莫嘎 | Moga"
       },
@@ -843,7 +843,7 @@
       "releaseUrl": "https://github.com/ErisuGreyrat/Pengu-Background-Customizer/releases/tag/2.0",
       "releaseTag": "2.0",
       "releaseName": "V2",
-      "image": "https://media.discordapp.net/attachments/1373487727861039115/1373487728985116703/image.png?ex=6a87b820&is=6a8666a0&hm=4770b3ca9bf42e88cad553f0281672d754846f61025f337765e7b3b58a6afe8f&",
+      "image": "https://media.discordapp.net/attachments/1373487727861039115/1373487728985116703/image.png?ex=6a8860e0&is=6a870f60&hm=562d9e635532324047a3713622ab1bf941d099e12368e606184abb5531b44599&",
       "author": {
         "name": "ErisuGreyrat",
         "avatar": "https://avatars.githubusercontent.com/u/179902803?v=4",
@@ -1177,7 +1177,7 @@
       "releaseUrl": "https://github.com/ErisuGreyrat/acrylic-league-theme/releases/tag/1.9.3",
       "releaseTag": "1.9.3",
       "releaseName": "v1.9.3",
-      "image": "https://media.discordapp.net/attachments/1373486870054441210/1373486870553694360/image.png?ex=6a87b754&is=6a8665d4&hm=5cba813ad58ef9089201f44a4e04ca46b55740327908a2d7d4066616b051e883&",
+      "image": "https://media.discordapp.net/attachments/1373486870054441210/1373486870553694360/image.png?ex=6a886014&is=6a870e94&hm=e2e3ee432c0b392f28dbff3c3c642cca00b2fe20a1aabfc5c40513e678f43a78&",
       "author": {
         "name": "ErisuGreyrat",
         "avatar": "https://avatars.githubusercontent.com/u/179902803?v=4",
@@ -1520,7 +1520,7 @@
       "kind": "plugins",
       "name": "Old patch version number",
       "description": "Displays 15.2 instead of 25.S1.2 Source: js import as upl from 'pengu-upl'; export function init(context: any) { upl.init(context); upl.hooks.xhr.hookPost(/lol-client-config/v3/client-config/lol.clientsettings.displaylegacypatchnumbers, (xhr, original) = { Object.defineProperty(xhr, 'responseText', { writable: true, value: true }); original(); }); } Download ⬇⬇⬇⬇⬇⬇",
-      "image": "https://media.discordapp.net/attachments/1332168478148399285/1332168478710562837/image.png?ex=6a87b193&is=6a866013&hm=c1af4623409220f0acb476b6d673c3356a251593bcb84a2f1507ca6c5b9e8930&",
+      "image": "https://media.discordapp.net/attachments/1332168478148399285/1332168478710562837/image.png?ex=6a885a53&is=6a8708d3&hm=d24d7bb20f65f096936cd5c3e88ea8033794a7e0c6da747cd5b45485d7cd6955&",
       "author": {
         "name": "kebs"
       },
@@ -1536,7 +1536,7 @@
         {
           "name": "OldPatchNumber.js",
           "size": 4610,
-          "downloadUrl": "https://cdn.discordapp.com/attachments/1332168478148399285/1332168478936797226/OldPatchNumber.js?ex=6a87b193&is=6a866013&hm=f450ca3a0d882aa316e8676dac379c69a2f4af0c30d874906cdcac118d8f5521&",
+          "downloadUrl": "https://cdn.discordapp.com/attachments/1332168478148399285/1332168478936797226/OldPatchNumber.js?ex=6a885a53&is=6a8708d3&hm=001fdb3fdc38a34d07bcc01de7c6d5a798ddad900f01db0436c08ba2b6692c2a&",
           "contentType": "application/javascript; charset=utf-8"
         }
       ],
