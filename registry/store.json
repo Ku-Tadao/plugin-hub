@@ -1,7 +1,7 @@
 {
   "name": "Pengu Community Store registry",
   "version": 1,
-  "generatedAt": "2026-08-21T10:00:28.903Z",
+  "generatedAt": "2026-08-21T10:39:08.871Z",
   "source": {
     "guildId": "1069483280438673418",
     "forums": [
@@ -767,7 +767,7 @@
       "kind": "plugins",
       "name": "Banner Customizer",
       "description": "Plugin that lets you display any banner in your lobby, including ones you don't own. Upload your own custom images or animated WebM files, or pick from any banner in the game. Works in the standard lobby, Arena hover tooltip, and your profile page. BNC Button in Lobby as always with my plugins. ⚠️ Client-side only — only you can see the change. Other players still see your actual equipped banner.",
-      "image": "https://media.discordapp.net/attachments/1499358177052069899/1499358177840467968/4hbdb93.png?ex=6a88d25e&is=6a8780de&hm=84e3052fec839b13ce4ed204cf057c584b25fdd1e3bf2bed3ca1d473b76bcde1&",
+      "image": "https://media.discordapp.net/attachments/1499358177052069899/1499358177840467968/4hbdb93.png?ex=6a897b1e&is=6a88299e&hm=0ae6834cf9b61d77bb584368b5db0ef580304e58f58427f9b1e6268d219b96e2&",
       "author": {
         "name": "Eris Greyrat"
       },
@@ -783,7 +783,7 @@
         {
           "name": "Banner-Customizer.js",
           "size": 56598,
-          "downloadUrl": "https://cdn.discordapp.com/attachments/1499358177052069899/1499358178658222220/Banner-Customizer.js?ex=6a88d25e&is=6a8780de&hm=0d552aef89b61ca8bbc666b2528d4457b6d1aae9a7ed72bf0e74ea413a78b2b1&",
+          "downloadUrl": "https://cdn.discordapp.com/attachments/1499358177052069899/1499358178658222220/Banner-Customizer.js?ex=6a897b1e&is=6a88299e&hm=4595c35b74b2b5e8be850691bc2a309c004a52574e3761833ee8b40e3d67df3a&",
           "contentType": "text/javascript; charset=utf-8"
         }
       ],
@@ -1229,7 +1229,7 @@
       "name": "HideChampName",
       "description": "Hides enemy champion names in Champion Select for League of Legends",
       "repo": "https://github.com/Mixiruri/AnonymousEnemies",
-      "image": "https://media.discordapp.net/attachments/1476888210436001904/1476888211044171848/preview.webp?ex=6a88d094&is=6a877f14&hm=8a00904ffa1700553fd5fdde9651ae0b05d872cf4202558616f65c3f7bf6eba9&",
+      "image": "https://media.discordapp.net/attachments/1476888210436001904/1476888211044171848/preview.webp?ex=6a897954&is=6a8827d4&hm=303dc6066540077664c0e2a8bc46d9f9159c3afa7e94bad4e1f56874ead799b8&",
       "author": {
         "name": "Mixiruri",
         "avatar": "https://avatars.githubusercontent.com/u/255986660?v=4",
