@@ -1,7 +1,7 @@
 {
   "name": "Pengu Community Store registry",
   "version": 1,
-  "generatedAt": "2026-08-21T22:22:52.622Z",
+  "generatedAt": "2026-08-21T22:51:19.490Z",
   "source": {
     "guildId": "1069483280438673418",
     "forums": [
@@ -163,7 +163,7 @@
         {
           "name": "index.js",
           "size": 4929,
-          "downloadUrl": "https://cdn.discordapp.com/attachments/1462451902028578940/1465476858241093662/index.js?ex=6a897cee&is=6a882b6e&hm=42bcf3f5dc8d05472effb4492147c54939f6e78e8b84016ad98cf0aa15d6b968&",
+          "downloadUrl": "https://cdn.discordapp.com/attachments/1462451902028578940/1465476858241093662/index.js?ex=6a8a25ae&is=6a88d42e&hm=78d7e6227d1d5c069f98cda937fc6cd5141bd40421227ff2ae3b6b00e89ea4ec&",
           "contentType": "text/javascript; charset=utf-8"
         }
       ],
@@ -767,7 +767,7 @@
       "kind": "plugins",
       "name": "Banner Customizer",
       "description": "Plugin that lets you display any banner in your lobby, including ones you don't own. Upload your own custom images or animated WebM files, or pick from any banner in the game. Works in the standard lobby, Arena hover tooltip, and your profile page. BNC Button in Lobby as always with my plugins. ⚠️ Client-side only — only you can see the change. Other players still see your actual equipped banner.",
-      "image": "https://media.discordapp.net/attachments/1499358177052069899/1499358177840467968/4hbdb93.png?ex=6a897b1e&is=6a88299e&hm=0ae6834cf9b61d77bb584368b5db0ef580304e58f58427f9b1e6268d219b96e2&",
+      "image": "https://media.discordapp.net/attachments/1499358177052069899/1499358177840467968/4hbdb93.png?ex=6a8a23de&is=6a88d25e&hm=19fecdc24513b7b4ac7b5ee2aa13a88d9a41de27598e62e448b763bd23bf0e03&",
       "author": {
         "name": "Eris Greyrat"
       },
@@ -783,7 +783,7 @@
         {
           "name": "Banner-Customizer.js",
           "size": 56598,
-          "downloadUrl": "https://cdn.discordapp.com/attachments/1499358177052069899/1499358178658222220/Banner-Customizer.js?ex=6a897b1e&is=6a88299e&hm=4595c35b74b2b5e8be850691bc2a309c004a52574e3761833ee8b40e3d67df3a&",
+          "downloadUrl": "https://cdn.discordapp.com/attachments/1499358177052069899/1499358178658222220/Banner-Customizer.js?ex=6a8a23de&is=6a88d25e&hm=ebfa4cec157f2dfc4a998fee1885c162877727965ab333315b63311c6b64b4ac&",
           "contentType": "text/javascript; charset=utf-8"
         }
       ],
@@ -916,7 +916,7 @@
       "releaseUrl": "https://github.com/Ventoba/3DSkinViewer/releases/tag/v1.0",
       "releaseTag": "v1.0",
       "releaseName": "v1.0",
-      "image": "https://media.discordapp.net/attachments/1490663854059950280/1490663854391427183/example2.PNG?ex=6a897de6&is=6a882c66&hm=97b533d25e18dd38c90eeea69fed9aff1a1e32c6482b2286263752347ffb2f07&",
+      "image": "https://media.discordapp.net/attachments/1490663854059950280/1490663854391427183/example2.PNG?ex=6a8a26a6&is=6a88d526&hm=6ca242bddbe9452a230e14e5c4d912b37077b7005421167f56194edcac16f674&",
       "author": {
         "name": "Ventoba",
         "avatar": "https://avatars.githubusercontent.com/u/96593577?v=4",
@@ -1229,7 +1229,7 @@
       "name": "HideChampName",
       "description": "Hides enemy champion names in Champion Select for League of Legends",
       "repo": "https://github.com/Mixiruri/AnonymousEnemies",
-      "image": "https://media.discordapp.net/attachments/1476888210436001904/1476888211044171848/preview.webp?ex=6a897954&is=6a8827d4&hm=303dc6066540077664c0e2a8bc46d9f9159c3afa7e94bad4e1f56874ead799b8&",
+      "image": "https://media.discordapp.net/attachments/1476888210436001904/1476888211044171848/preview.webp?ex=6a8a2214&is=6a88d094&hm=e6bc06a1daa7c623517fbd89a1225074644cf14f577822d24f330cce838496ce&",
       "author": {
         "name": "Mixiruri",
         "avatar": "https://avatars.githubusercontent.com/u/255986660?v=4",
@@ -1400,7 +1400,7 @@
       "name": "AutoAcceptEnhanced - auto Q acccepter with enhancements",
       "description": "AutoAcceptEnhanced 🚀 An enhanced auto queue accepter with hide \"match found\" dialog function Features: ✅ Auto Accept - Automatically accepts match queues after 9.5 seconds ✅ Hide Dialog - Hides the match found dialog, allowing you to continue using the client (open chests, shop, etc.) while in queue ✅ Clean UI - Minimalist toggle buttons in the lobby ✅ Settings Persistence - Your preferences are saved between sessions Installation: 1. Download autoaccept.js from GitHub 2. Place the file in your Pengu Loader plugins directory 3. Enjoy! You'll see toggle buttons in your lobby Download: 🔗 GitHub: This plugin is based on another developer's auto accept plugin, which wasn't released. I downloaded it from \"plugin request\" section long ago, now i can't find who developed it. They will be credited as soon as they reach out",
       "repo": "https://github.com/asherathegod/penguplugins",
-      "image": "https://media.discordapp.net/attachments/1371799042832597054/1371799043575123978/EbMqICb.png?ex=6a897c6a&is=6a882aea&hm=3509035c9b14ff50dec45e8490970006087a79f825648210fdba69108283eaa6&",
+      "image": "https://media.discordapp.net/attachments/1371799042832597054/1371799043575123978/EbMqICb.png?ex=6a8a252a&is=6a88d3aa&hm=0605b4aeaff02f4e1d7a417b3d4801e3ef3d7a1ad2866dbe01e2bbbcd1d22791&",
       "author": {
         "name": "asherathegod",
         "avatar": "https://avatars.githubusercontent.com/u/68480231?v=4",
