@@ -1,6 +1,6 @@
 name: Pengu Community Store registry
 version: 1
-generatedAt: 2026-08-21T17:27:12.779Z
+generatedAt: 2026-08-21T17:57:30.974Z
 source:
   guildId: "1069483280438673418"
   forums:
@@ -374,7 +374,7 @@ listings:
     description: "This plugin automatically confirms the League Client exit dialog.
       - Source code: Cooming soon, i'm lazy - Download: Github url cooming soon,
       i'm lazy"
-    image: https://media.discordapp.net/attachments/1520847793256927293/1520847793411981413/57nwhtn.png?ex=6a8937a1&is=6a87e621&hm=37e05ffc2bac30605141fd1d3c5d7803930bc2543d4d82278c3764e5ff696c54&
+    image: https://media.discordapp.net/attachments/1520847793256927293/1520847793411981413/57nwhtn.png?ex=6a89e061&is=6a888ee1&hm=bd66eb71ec920263a343856bae76d24316c03c5b72e4128ac13c2b7d0eb4c120&
     author:
       name: Elaina
     tags:
@@ -385,7 +385,7 @@ listings:
     assets:
       - name: NoCloseMessage.js
         size: 3475
-        downloadUrl: https://cdn.discordapp.com/attachments/1520847793256927293/1520847873980371034/NoCloseMessage.js?ex=6a8937b5&is=6a87e635&hm=9d7aea9146cd960960622c3e11e911bd6ea6c5a371141c91d6cade9a48dbaeb4&
+        downloadUrl: https://cdn.discordapp.com/attachments/1520847793256927293/1520847873980371034/NoCloseMessage.js?ex=6a89e075&is=6a888ef5&hm=16026aea4cd8af1ab730fbe0a482bce1ed30ad2799a7c49c1af46e12c743ef2e&
         contentType: text/javascript; charset=utf-8
       - name: NoCloseMessage.js
         size: 4163
@@ -430,7 +430,7 @@ listings:
     releaseUrl: https://github.com/kyso1/KysoTheme/releases/tag/v3.5.1
     releaseTag: v3.5.1
     releaseName: v3.5.1
-    image: https://media.discordapp.net/attachments/1240541534663868426/1240541534869262376/image.png?ex=6a893856&is=6a87e6d6&hm=c8b7799cc67ec9e7621e5af3e1ba5dc60902b7a8f76477fa434ca0f375f530c2&
+    image: https://media.discordapp.net/attachments/1240541534663868426/1240541534869262376/image.png?ex=6a89e116&is=6a888f96&hm=a66cbe338889ba707537bef77560de918560878dfe31757b387069b9e24a7bae&
     author:
       name: kyso1
       avatar: https://avatars.githubusercontent.com/u/128049220?v=4
