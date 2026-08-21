@@ -1,6 +1,6 @@
 name: Pengu Community Store registry
 version: 1
-generatedAt: 2026-08-21T10:39:08.871Z
+generatedAt: 2026-08-21T11:24:20.235Z
 source:
   guildId: "1069483280438673418"
   forums:
@@ -365,7 +365,7 @@ listings:
     assets:
       - name: index.js
         size: 4929
-        downloadUrl: https://cdn.discordapp.com/attachments/1462451902028578940/1465476858241093662/index.js?ex=6a88d42e&is=6a8782ae&hm=f6afe57b568f88a6b3b8a4d379d3eada9a7eebe5acb7d27e855ff9b9c2f05d3c&
+        downloadUrl: https://cdn.discordapp.com/attachments/1462451902028578940/1465476858241093662/index.js?ex=6a897cee&is=6a882b6e&hm=42bcf3f5dc8d05472effb4492147c54939f6e78e8b84016ad98cf0aa15d6b968&
         contentType: text/javascript; charset=utf-8
     enriched: true
   - id: "1520847793256927293"
@@ -1157,7 +1157,7 @@ listings:
     releaseUrl: https://github.com/Ventoba/3DSkinViewer/releases/tag/v1.0
     releaseTag: v1.0
     releaseName: v1.0
-    image: https://media.discordapp.net/attachments/1490663854059950280/1490663854391427183/example2.PNG?ex=6a88d526&is=6a8783a6&hm=914c12feea0a8c1a70febd9db12c9237939236101d44304b5209ab5f144058d1&
+    image: https://media.discordapp.net/attachments/1490663854059950280/1490663854391427183/example2.PNG?ex=6a897de6&is=6a882c66&hm=97b533d25e18dd38c90eeea69fed9aff1a1e32c6482b2286263752347ffb2f07&
     author:
       name: Ventoba
       avatar: https://avatars.githubusercontent.com/u/96593577?v=4
@@ -1512,7 +1512,7 @@ listings:
     kind: plugins
     name: Hide Nonsense
     description: No description provided.
-    image: https://media.discordapp.net/attachments/1395902555095171225/1395906635968286882/image.png?ex=6a88dbdc&is=6a878a5c&hm=2b8c0edb32efc0d9bc44cf970fec3a13283daba0c2fc79c7a44d7d47b1f91c23&
+    image: https://media.discordapp.net/attachments/1395902555095171225/1395906635968286882/image.png?ex=6a89849c&is=6a88331c&hm=71ae763954a51ab3c901881f1fb3916fd5ae62ba4c8c60652032a0bbb8b4c53b&
     author:
       name: 莫嘎 | Moga
     tags:
@@ -1652,7 +1652,7 @@ listings:
     name: Blue Essence Icon Swapper
     description: "Blue Essence Icon Swapper How to use: Click the BE icon to change
       icon. Click the BE icon to select new image/reset to standard."
-    image: https://media.discordapp.net/attachments/1468009747780210791/1468019006991634432/Screenshot_2026-02-02_232517.png?ex=6a88d93d&is=6a8787bd&hm=72161ec0df1a1fda69079ec2c406e2306487ce1b33af84e151b4ef954e7310fb&
+    image: https://media.discordapp.net/attachments/1468009747780210791/1468019006991634432/Screenshot_2026-02-02_232517.png?ex=6a8981fd&is=6a88307d&hm=cc8924e1dea36a49c877fea5a143b22ca9648f73e937f316c41b5527f934f809&
     author:
       name: Ilkay
     tags:
@@ -1663,7 +1663,7 @@ listings:
     assets:
       - name: BE-Icon-Swapper.js
         size: 6253
-        downloadUrl: https://cdn.discordapp.com/attachments/1468009747780210791/1468019008229081235/BE-Icon-Swapper.js?ex=6a88d93e&is=6a8787be&hm=104f1f85fe9804424646244c835e550bf633f0d78a397ff51a24fb3fcac3c1c7&
+        downloadUrl: https://cdn.discordapp.com/attachments/1468009747780210791/1468019008229081235/BE-Icon-Swapper.js?ex=6a8981fe&is=6a88307e&hm=96c1ed18072361992c1ace169162c753fa800bb353846e1e04daf685dd1e03ac&
         contentType: text/javascript; charset=utf-8
     enriched: true
   - id: "1462077280728780861"
@@ -1712,7 +1712,7 @@ listings:
       from \"plugin request\" section long ago, now i can't find who developed
       it. They will be credited as soon as they reach out"
     repo: https://github.com/asherathegod/penguplugins
-    image: https://media.discordapp.net/attachments/1371799042832597054/1371799043575123978/EbMqICb.png?ex=6a88d3aa&is=6a87822a&hm=22dce6c2f4b3fe7a7bf1d87a8affb91f8758da1806e112f7f3105ab3544a9520&
+    image: https://media.discordapp.net/attachments/1371799042832597054/1371799043575123978/EbMqICb.png?ex=6a897c6a&is=6a882aea&hm=3509035c9b14ff50dec45e8490970006087a79f825648210fdba69108283eaa6&
     author:
       name: asherathegod
       avatar: https://avatars.githubusercontent.com/u/68480231?v=4
