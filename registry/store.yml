@@ -1,6 +1,6 @@
 name: Pengu Community Store registry
 version: 1
-generatedAt: 2026-08-21T07:23:43.503Z
+generatedAt: 2026-08-21T08:05:35.440Z
 source:
   guildId: "1069483280438673418"
   forums:
@@ -484,7 +484,7 @@ listings:
     releaseUrl: https://github.com/kyso1/KysoTheme/releases/tag/v3.5.1
     releaseTag: v3.5.1
     releaseName: v3.5.1
-    image: https://media.discordapp.net/attachments/1507291423840407613/1507291424301776957/Screenshot_1.png?ex=6a88adc7&is=6a875c47&hm=739cb4b6b2241e65e16cce758b4cccfd10a56e3aa70d8b76b3fad9586281ea09&
+    image: https://media.discordapp.net/attachments/1507291423840407613/1507291424301776957/Screenshot_1.png?ex=6a895687&is=6a880507&hm=2859a67c2a995ab7d46aa68b04455946d11b11a595b972f38685ba8dad4df051&
     author:
       name: kyso1
       avatar: https://avatars.githubusercontent.com/u/128049220?v=4
@@ -528,7 +528,7 @@ listings:
     description: "Unlock all backgrounds easily. Just press the background picker
       button, and you'll be able to choose any skin you like, as if you owned
       them all Source: < Download is below, not the source ⬇️ ⬇️ ⬇️"
-    image: https://media.discordapp.net/attachments/1311415707371700345/1311415707568836809/image.png?ex=6a88a90d&is=6a87578d&hm=23b99093bdd65388d703886245aba66d146346ea1f1e8807c2557f057cf600e9&
+    image: https://media.discordapp.net/attachments/1311415707371700345/1311415707568836809/image.png?ex=6a8951cd&is=6a88004d&hm=b17a980804fd86ee20eb7573eaad583ba2e5f95cd7e0e8024d65006573a76e92&
     author:
       name: kebs
     tags:
@@ -541,7 +541,7 @@ listings:
     assets:
       - name: LoLBackgroundUnlocker.js
         size: 6216
-        downloadUrl: https://cdn.discordapp.com/attachments/1311415707371700345/1311415708143583355/LoLBackgroundUnlocker.js?ex=6a88a90d&is=6a87578d&hm=ff4730a65c2683ac1dbc105ea3be92ac6968b17bb2166f7d03ec0c90fd5e3922&
+        downloadUrl: https://cdn.discordapp.com/attachments/1311415707371700345/1311415708143583355/LoLBackgroundUnlocker.js?ex=6a8951cd&is=6a88004d&hm=fc830993a756a01a5f57f185ed008e04378382ade510cbd94598aff76a2e54b2&
         contentType: application/javascript; charset=utf-8
     enriched: true
   - id: "1469142886330273884"
@@ -859,7 +859,7 @@ listings:
     releaseUrl: https://github.com/Yimikami/pengu-plugins/releases/tag/PenguFamily_v0.1.0
     releaseTag: PenguFamily_v0.1.0
     releaseName: Pengu Family v0.1.0
-    image: https://media.discordapp.net/attachments/1497146237273641040/1497146238745972816/image.png?ex=6a88af56&is=6a875dd6&hm=0aa0a8165af4dad95144637252d37c846bf4087e120b82901365c3625cb11ddc&
+    image: https://media.discordapp.net/attachments/1497146237273641040/1497146238745972816/image.png?ex=6a895816&is=6a880696&hm=7b5d0425a12bc912166253d45f625199ae61bfadcf28fb687226745373911397&
     author:
       name: Yimikami
       avatar: https://avatars.githubusercontent.com/u/39545057?v=4
@@ -1288,7 +1288,7 @@ listings:
     assets:
       - name: removecrystal.js
         size: 1126
-        downloadUrl: https://cdn.discordapp.com/attachments/1487535639128965121/1487535639883944108/removecrystal.js?ex=6a88a885&is=6a875705&hm=116b22c4ae4f8de59f40167331e8e9df11ae55df3ac598d75880412947ee5b27&
+        downloadUrl: https://cdn.discordapp.com/attachments/1487535639128965121/1487535639883944108/removecrystal.js?ex=6a895145&is=6a87ffc5&hm=b942a13496166a69cc81c2b3cde03ab2bc93c3818e6d157b419a2c2b06697a5e&
         contentType: text/javascript; charset=utf-8
     enriched: true
   - id: "1476062717579231385"
@@ -1386,7 +1386,7 @@ listings:
     releaseUrl: https://github.com/cuongnguyen207/wuwa-theme-lol/releases/tag/custome-themes-lol
     releaseTag: custome-themes-lol
     releaseName: Wuthering Waves Themes
-    image: https://media.discordapp.net/attachments/1524137061119037490/1524137061735596094/Screenshot_18.png?ex=6a88a8c0&is=6a875740&hm=28292902310bf4299d7b3c609d164d7b3b5247ed40308caefd262584a768070a&
+    image: https://media.discordapp.net/attachments/1524137061119037490/1524137061735596094/Screenshot_18.png?ex=6a895180&is=6a880000&hm=8f043ef7c348fc543dfd33b1fc55f4d10611fd6c5450fca2ada72264fb7ad9f5&
     author:
       name: cuongnguyen207
       avatar: https://avatars.githubusercontent.com/u/213099361?v=4
@@ -1439,7 +1439,7 @@ listings:
     description: Animated particle cursor effects for the League of Legends client —
       Penguloader plugin
     repo: https://github.com/nt3y/cursor-pack-penguloader
-    image: https://media.discordapp.net/attachments/1484279090830905394/1484279092202307736/image.png?ex=6a88ad20&is=6a875ba0&hm=506f2ffa12e0001362d5cd250d3583b2fcd50e04af9bf63f5da72cfd7ef58606&
+    image: https://media.discordapp.net/attachments/1484279090830905394/1484279092202307736/image.png?ex=6a8955e0&is=6a880460&hm=d6f727ff135ed605b83c915165ddf0bf67198d9d89a5980191445aceb6678ab0&
     author:
       name: nt3y
       avatar: https://avatars.githubusercontent.com/u/269317310?v=4
