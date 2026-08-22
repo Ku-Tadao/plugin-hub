@@ -1,6 +1,6 @@
 name: Pengu Community Store registry
 version: 1
-generatedAt: 2026-08-22T15:46:16.174Z
+generatedAt: 2026-08-22T16:21:33.805Z
 source:
   guildId: "1069483280438673418"
   forums:
@@ -33,10 +33,6 @@ listings:
       - name: BackgroundMusicMenu.js
         size: 10265
         downloadUrl: https://cdn.discordapp.com/attachments/1540748164628480040/1540748165819670669/BackgroundMusicMenu.js?ex=6a8b150c&is=6a89c38c&hm=dc289913a30e8e91d3854db1ba9d891abbcfa88f36f1165c29fb3af447f1306d&
-        contentType: text/javascript; charset=utf-8
-      - name: BackgroundMusicMenu-English.js
-        size: 10395
-        downloadUrl: https://cdn.discordapp.com/attachments/1540748164628480040/1540748166364921896/BackgroundMusicMenu-English.js?ex=6a8b150c&is=6a89c38c&hm=00f68dc8a3f9b8007048949da4b1fea38197fa9c569619cd783856e53a01ad2e&
         contentType: text/javascript; charset=utf-8
     enriched: true
   - id: "1512550218044805150"
@@ -724,7 +720,7 @@ listings:
     releaseUrl: https://github.com/Elaina69/Elaina-theme/releases/tag/v4.5.1
     releaseTag: v4.5.1
     releaseName: ""
-    image: https://media.discordapp.net/attachments/1373696348284653628/1373696348653617315/fh98jYI.png?ex=6a8a74ab&is=6a89232b&hm=34bf624f30dda1c50267258eb8b7464b390023c4a624f805f77b6f3ce2738a35&
+    image: https://media.discordapp.net/attachments/1373696348284653628/1373696348653617315/fh98jYI.png?ex=6a8b1d6b&is=6a89cbeb&hm=a8380a28d379db3b538a5662721d9eed5e15946442e755dd796d8a8dccfd82bd&
     author:
       name: Elaina69
       avatar: https://avatars.githubusercontent.com/u/94338907?v=4
@@ -941,7 +937,7 @@ listings:
     releaseUrl: https://github.com/Yimikami/pengu-plugins/releases/tag/PenguFamily_v0.1.0
     releaseTag: PenguFamily_v0.1.0
     releaseName: Pengu Family v0.1.0
-    image: https://media.discordapp.net/attachments/1411366905247170621/1411743618388983931/image.png?ex=6a8a7173&is=6a891ff3&hm=d3d41b67a2cf5b61a0f84a479be2ed3bc03041a932c79014600dc06fc61f2b04&
+    image: https://media.discordapp.net/attachments/1411366905247170621/1411743618388983931/image.png?ex=6a8b1a33&is=6a89c8b3&hm=e0907d4378a67090ead2f390a4f4f89f100508f0a509cd27b8cc9a4ec08b4ed6&
     author:
       name: Yimikami
       avatar: https://avatars.githubusercontent.com/u/39545057?v=4
@@ -1905,7 +1901,7 @@ listings:
     name: ScarletRed
     description: ScarletRed theme ( Original from ElainaV3) for Pengu loader
     repo: https://github.com/R3mia/ScarletRed
-    image: https://media.discordapp.net/attachments/1183799859342483476/1183799859707379803/image.png?ex=6a8a6fc8&is=6a891e48&hm=5b34633d86a57e3db265b58fca7d9e061162dc6b407fdee3e4d6ac7107010c2c&
+    image: https://media.discordapp.net/attachments/1183799859342483476/1183799859707379803/image.png?ex=6a8b1888&is=6a89c708&hm=28e1e9f9f5c9d881c237141b2f5311608440379a7695125f7c250b77b05cea06&
     author:
       name: R3mia
       avatar: https://avatars.githubusercontent.com/u/72246166?v=4
@@ -2036,7 +2032,7 @@ listings:
     releaseUrl: https://github.com/nomi-san/ahri-theme/releases/tag/240221
     releaseTag: "240221"
     releaseName: ahri-theme-240221
-    image: https://media.discordapp.net/attachments/1095736862187991232/1095736862741635283/68747470733a2f2f692e696d6775722e636f6d2f74617a504e484e2e706e67.png?ex=6a8a6d39&is=6a891bb9&hm=bf6504cd91deefc3acb6943a32d8b2db379c337c7b6a6cbdb073f1f95b27c436&
+    image: https://media.discordapp.net/attachments/1095736862187991232/1095736862741635283/68747470733a2f2f692e696d6775722e636f6d2f74617a504e484e2e706e67.png?ex=6a8b15f9&is=6a89c479&hm=7ed9273df768f7eaf8fa12ab76e461c3caeaf167852cfee753ed757db8be55f2&
     author:
       name: nomi-san
       avatar: https://avatars.githubusercontent.com/u/38210249?v=4
