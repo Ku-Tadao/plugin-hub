@@ -1,7 +1,7 @@
 {
   "name": "Pengu Community Store registry",
   "version": 1,
-  "generatedAt": "2026-08-22T21:20:10.105Z",
+  "generatedAt": "2026-08-22T21:45:59.839Z",
   "source": {
     "guildId": "1069483280438673418",
     "forums": [
@@ -291,7 +291,7 @@
       "kind": "plugins",
       "name": "Activity Center Toggle [redirect to play screen]",
       "description": "- Fully removes the League (Activity Center) - Redirects from the Activity Center to the Play screen - Removes Navbar button since it redirects anyways - Toggle on and off via Client General Interface Settings, if you at some point need to use it",
-      "image": "https://media.discordapp.net/attachments/1396060178545119263/1396060179815989399/image.png?ex=6a8abc5c&is=6a896adc&hm=fd040a2616b4693f2752921248c34bd22ad365e3bab70402e684dfe4ecb0c9c3&",
+      "image": "https://media.discordapp.net/attachments/1396060178545119263/1396060179815989399/image.png?ex=6a8b651c&is=6a8a139c&hm=acb084636600db489b11e303fc3a26c51184529f3d195914f0d458e67425773b&",
       "author": {
         "name": "Eris Greyrat"
       },
@@ -1052,7 +1052,7 @@
       "kind": "plugins",
       "name": "Banner Remover (not unranked needed last season)",
       "description": "I made this plugin so the banner is transparent for seeing the background :3",
-      "image": "https://media.discordapp.net/attachments/1485931384504848394/1485931923275776201/C457E65E-4309-49F8-87B7-D302F19ADCDF.png?ex=6a8abbf1&is=6a896a71&hm=0010ca1397d8354356f49f81de4d9d2f74f93537990b9c9998f99bdd0e34b510&",
+      "image": "https://media.discordapp.net/attachments/1485931384504848394/1485931923275776201/C457E65E-4309-49F8-87B7-D302F19ADCDF.png?ex=6a8b64b1&is=6a8a1331&hm=e99a111f48ac725fc441e429b4fa98f878d8289a71c414f59113885f6e57e08b&",
       "author": {
         "name": "LittleRadio"
       },
@@ -1066,7 +1066,7 @@
         {
           "name": "BannerRemover-LittleRadioo.zip",
           "size": 1447,
-          "downloadUrl": "https://cdn.discordapp.com/attachments/1485931384504848394/1485931384869621820/BannerRemover-LittleRadioo.zip?ex=6a8abb71&is=6a8969f1&hm=7a9ee76e4e462b78c0915e10151ca2296c18444302cf443b55883ba08a271d64&",
+          "downloadUrl": "https://cdn.discordapp.com/attachments/1485931384504848394/1485931384869621820/BannerRemover-LittleRadioo.zip?ex=6a8b6431&is=6a8a12b1&hm=a60e60bb0a540cd68aa87e57075fe9963509b147d2cfb0c40053063fa560f776&",
           "contentType": "application/zip"
         }
       ],
@@ -1126,7 +1126,7 @@
       "name": "Lock your League of Legends client with a 4-digit PIN code",
       "description": "🔒 Lock the League of Legends client with a 4-digit PIN — hotkey support, iOS-style UI, blur overlay. Penguloader plugin.",
       "repo": "https://github.com/nt3y/LeagueClient-Locker-",
-      "image": "https://media.discordapp.net/attachments/1485026009018273872/1485026009500877094/image.png?ex=6a8abbff&is=6a896a7f&hm=4dcaf624243c094dd81f2a3ad50d9e1e0f4cabefd2afd8397ab8829b2da9e17c&",
+      "image": "https://media.discordapp.net/attachments/1485026009018273872/1485026009500877094/image.png?ex=6a8b64bf&is=6a8a133f&hm=7ccc9c9b2a1b414206f960b52a4a87f09e2f83ec4738056548bade515ab0a737&",
       "author": {
         "name": "nt3y",
         "avatar": "https://avatars.githubusercontent.com/u/269317310?v=4",
@@ -1640,7 +1640,7 @@
       "releaseUrl": "https://github.com/PenguLoader/PenguLoader/releases/tag/v1.1.6",
       "releaseTag": "v1.1.6",
       "releaseName": "v1.1.6",
-      "image": "https://media.discordapp.net/attachments/1413095170475560960/1413095170940997642/Untitled.png?ex=6a8abeee&is=6a896d6e&hm=de0ea514c311c30e1f5a7198101b6bf759099b5ebd3a100e25c9a60fe5e379e4&",
+      "image": "https://media.discordapp.net/attachments/1413095170475560960/1413095170940997642/Untitled.png?ex=6a8b67ae&is=6a8a162e&hm=30c030391aeef1e39d74f86d1330cc7364a412f6ac108c13e75ad4b6cf8314e2&",
       "author": {
         "name": "PenguLoader",
         "avatar": "https://avatars.githubusercontent.com/u/126898920?v=4",
