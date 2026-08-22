@@ -1,6 +1,6 @@
 name: Pengu Community Store registry
 version: 1
-generatedAt: 2026-08-22T13:55:03.194Z
+generatedAt: 2026-08-22T14:19:49.001Z
 source:
   guildId: "1069483280438673418"
   forums:
@@ -218,7 +218,7 @@ listings:
     description: this plugin blocks the new community pact popup when you first
       login, now technically you can say "ive never agreed to it" so you can
       therefore be as toxic as you want.
-    image: https://media.discordapp.net/attachments/1458822729414217954/1458822729716469913/image.png?ex=6a8a544a&is=6a8902ca&hm=627654bfce13b11a0f60c8bebd11b19530476a957a2e921e1b2c7e7758e1374a&
+    image: https://media.discordapp.net/attachments/1458822729414217954/1458822729716469913/image.png?ex=6a8afd0a&is=6a89ab8a&hm=f6e87eeba53dd671332d5a9720f3f77662451e0c169c778da17f6594adc3fd20&
     author:
       name: Cat Bot
     tags:
@@ -229,7 +229,7 @@ listings:
     assets:
       - name: RiotPactBlocker.js
         size: 508
-        downloadUrl: https://cdn.discordapp.com/attachments/1458822729414217954/1458822730198810674/RiotPactBlocker.js?ex=6a8a544a&is=6a8902ca&hm=3b90de48cc3b6fe5cdb40e9fdcdb0d92b6bd3966f2242b0015763ee1edecf18e&
+        downloadUrl: https://cdn.discordapp.com/attachments/1458822729414217954/1458822730198810674/RiotPactBlocker.js?ex=6a8afd0a&is=6a89ab8a&hm=6346612091d4c14d7e20a754f6da1318d37647765f0bd4e1d6df0f9e6d7711a5&
         contentType: text/javascript; charset=utf-8
     enriched: true
   - id: "1370379492354162729"
@@ -1819,7 +1819,7 @@ listings:
       ings.displaylegacypatchnumbers, (xhr, original) = {
       Object.defineProperty(xhr, 'responseText', { writable: true, value: true
       }); original(); }); } Download ⬇⬇⬇⬇⬇⬇"
-    image: https://media.discordapp.net/attachments/1332168478148399285/1332168478710562837/image.png?ex=6a8a5493&is=6a890313&hm=2643c42dbeef31fdba44d17a74809d6b09a38ad827b186fa3aff7505ae736166&
+    image: https://media.discordapp.net/attachments/1332168478148399285/1332168478710562837/image.png?ex=6a8afd53&is=6a89abd3&hm=bb25187b6df1f9a9385f92d6cb5e9daf3b76b7ca051f621e9826eee645201965&
     author:
       name: kebs
     tags:
@@ -1832,7 +1832,7 @@ listings:
     assets:
       - name: OldPatchNumber.js
         size: 4610
-        downloadUrl: https://cdn.discordapp.com/attachments/1332168478148399285/1332168478936797226/OldPatchNumber.js?ex=6a8a5493&is=6a890313&hm=b191f6826bbf984bf74147acc32a6460be75b6569ba9aee16eadd36880a60eb1&
+        downloadUrl: https://cdn.discordapp.com/attachments/1332168478148399285/1332168478936797226/OldPatchNumber.js?ex=6a8afd53&is=6a89abd3&hm=0327561d0a76770c2359f417c7af86d82bf09e1368f11b5976cb9ae5a00651bd&
         contentType: application/javascript; charset=utf-8
     enriched: true
   - id: "1327785286327074929"
