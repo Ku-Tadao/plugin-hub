@@ -1,7 +1,7 @@
 {
   "name": "Pengu Community Store registry",
   "version": 1,
-  "generatedAt": "2026-08-23T17:45:42.304Z",
+  "generatedAt": "2026-08-23T18:26:55.937Z",
   "source": {
     "guildId": "1069483280438673418",
     "forums": [
@@ -16,6 +16,27 @@
     ]
   },
   "listings": [
+    {
+      "id": "1541145552769646772",
+      "kind": "plugins",
+      "name": "[v1.1.0] DailyChallenge - random champion, role, full rune page and completed items",
+      "description": "test yourself with the champion challenge, items, runes, fragments, all random, can you still win?",
+      "repo": "https://github.com/knmollpy/DailyChallenge",
+      "image": "https://media.discordapp.net/attachments/1541145552769646772/1541145553566699650/image.png?ex=6a8c8725&is=6a8b35a5&hm=0371f933bf6dbb5385d8e3c29c64980d7637a094ff804555ce6b64160c8c14cd&",
+      "author": {
+        "name": "knmollpy",
+        "avatar": "https://avatars.githubusercontent.com/u/318836104?v=4",
+        "github": "knmollpy"
+      },
+      "tags": [
+        "Fun"
+      ],
+      "discordUrl": "https://discord.com/channels/1069483280438673418/1541145552769646772/1541145552769646772",
+      "upvotes": 0,
+      "updatedAt": "2026-08-23T17:56:02Z",
+      "assets": [],
+      "enriched": true
+    },
     {
       "id": "1540748164628480040",
       "kind": "plugins",
@@ -202,7 +223,7 @@
       "kind": "plugins",
       "name": "No close client message",
       "description": "This plugin automatically confirms the League Client exit dialog. - Source code: Cooming soon, i'm lazy - Download: Github url cooming soon, i'm lazy",
-      "image": "https://media.discordapp.net/attachments/1520847793256927293/1520847793411981413/57nwhtn.png?ex=6a8bdaa1&is=6a8a8921&hm=3c63f27bbb7b6cc36c81a87121777fa6582af77974edc15f01a9747cf03e9e50&",
+      "image": "https://media.discordapp.net/attachments/1520847793256927293/1520847793411981413/57nwhtn.png?ex=6a8c8361&is=6a8b31e1&hm=cf564d1af12050b9089feffb88d837b349757c49a3c5e162cf375bc533fe4d56&",
       "author": {
         "name": "Elaina"
       },
@@ -216,7 +237,7 @@
         {
           "name": "NoCloseMessage.js",
           "size": 3475,
-          "downloadUrl": "https://cdn.discordapp.com/attachments/1520847793256927293/1520847873980371034/NoCloseMessage.js?ex=6a8bdab5&is=6a8a8935&hm=5cf0eabfaadf4cafc1d29b41301902be71ca2b9b3875b54cb1e57e704cb16e8b&",
+          "downloadUrl": "https://cdn.discordapp.com/attachments/1520847793256927293/1520847873980371034/NoCloseMessage.js?ex=6a8c8375&is=6a8b31f5&hm=1df1a5d1529ed3d26a1020ffc58957b77d70461e71d67325f959c38659ce5714&",
           "contentType": "text/javascript; charset=utf-8"
         },
         {
@@ -238,7 +259,7 @@
       "releaseUrl": "https://github.com/kyso1/KysoTheme/releases/tag/v3.5.1",
       "releaseTag": "v3.5.1",
       "releaseName": "v3.5.1",
-      "image": "https://media.discordapp.net/attachments/1240541534663868426/1240541534869262376/image.png?ex=6a8bdb56&is=6a8a89d6&hm=dce2d7bb3bc79063a878cd1518d950ce4e58dc553852073d4044a48dca90a20a&",
+      "image": "https://media.discordapp.net/attachments/1240541534663868426/1240541534869262376/image.png?ex=6a8c8416&is=6a8b3296&hm=8ba37e036d249290464497ef2c328acf2f7e09f2c613d3f318c87ef26c396cae&",
       "author": {
         "name": "kyso1",
         "avatar": "https://avatars.githubusercontent.com/u/128049220?v=4",
@@ -1245,7 +1266,7 @@
         {
           "name": "Hide_Nonsense2.js",
           "size": 8079,
-          "downloadUrl": "https://cdn.discordapp.com/attachments/1395902555095171225/1440040589490917507/Hide_Nonsense2.js?ex=6a8bdf8f&is=6a8a8e0f&hm=e935d81b44ed22d47ee5ba63178c89bc1f81cff11b11f316e15e785a5cf55b98&",
+          "downloadUrl": "https://cdn.discordapp.com/attachments/1395902555095171225/1440040589490917507/Hide_Nonsense2.js?ex=6a8c884f&is=6a8b36cf&hm=09b3db25e8511ad139ba84abd630e4657812ad3fa3ca75d52be5a92acc5b5b0f&",
           "contentType": "text/javascript; charset=utf-8"
         }
       ],
@@ -1420,28 +1441,6 @@
           "contentType": "application/x-compressed"
         }
       ],
-      "enriched": true
-    },
-    {
-      "id": "1371799042832597054",
-      "kind": "plugins",
-      "name": "AutoAcceptEnhanced - auto Q acccepter with enhancements",
-      "description": "AutoAcceptEnhanced 🚀 An enhanced auto queue accepter with hide \"match found\" dialog function Features: ✅ Auto Accept - Automatically accepts match queues after 9.5 seconds ✅ Hide Dialog - Hides the match found dialog, allowing you to continue using the client (open chests, shop, etc.) while in queue ✅ Clean UI - Minimalist toggle buttons in the lobby ✅ Settings Persistence - Your preferences are saved between sessions Installation: 1. Download autoaccept.js from GitHub 2. Place the file in your Pengu Loader plugins directory 3. Enjoy! You'll see toggle buttons in your lobby Download: 🔗 GitHub: This plugin is based on another developer's auto accept plugin, which wasn't released. I downloaded it from \"plugin request\" section long ago, now i can't find who developed it. They will be credited as soon as they reach out",
-      "repo": "https://github.com/asherathegod/penguplugins",
-      "image": "https://media.discordapp.net/attachments/1371799042832597054/1371799043575123978/EbMqICb.png?ex=6a8c1f6a&is=6a8acdea&hm=b8cb869d6638d92b7d887dbb414cfd2ac26dcf32e88ed7a6c9a1579621ef0d70&",
-      "author": {
-        "name": "asherathegod",
-        "avatar": "https://avatars.githubusercontent.com/u/68480231?v=4",
-        "github": "asherathegod"
-      },
-      "tags": [
-        "Utility",
-        "Enhancement"
-      ],
-      "discordUrl": "https://discord.com/channels/1069483280438673418/1371799042832597054/1371799042832597054",
-      "upvotes": 9,
-      "updatedAt": "2025-11-08T20:00:48Z",
-      "assets": [],
       "enriched": true
     },
     {
