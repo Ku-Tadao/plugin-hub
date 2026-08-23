@@ -1,7 +1,7 @@
 {
   "name": "Pengu Community Store registry",
   "version": 1,
-  "generatedAt": "2026-08-23T05:27:19.695Z",
+  "generatedAt": "2026-08-23T05:55:40.793Z",
   "source": {
     "guildId": "1069483280438673418",
     "forums": [
@@ -202,7 +202,7 @@
       "kind": "plugins",
       "name": "No close client message",
       "description": "This plugin automatically confirms the League Client exit dialog. - Source code: Cooming soon, i'm lazy - Download: Github url cooming soon, i'm lazy",
-      "image": "https://media.discordapp.net/attachments/1520847793256927293/1520847793411981413/57nwhtn.png?ex=6a8b31e1&is=6a89e061&hm=de11cb5aa6cd038cfd48af287bea3b71913a0c33f277abf8854604103b3ce26e&",
+      "image": "https://media.discordapp.net/attachments/1520847793256927293/1520847793411981413/57nwhtn.png?ex=6a8bdaa1&is=6a8a8921&hm=3c63f27bbb7b6cc36c81a87121777fa6582af77974edc15f01a9747cf03e9e50&",
       "author": {
         "name": "Elaina"
       },
@@ -216,7 +216,7 @@
         {
           "name": "NoCloseMessage.js",
           "size": 3475,
-          "downloadUrl": "https://cdn.discordapp.com/attachments/1520847793256927293/1520847873980371034/NoCloseMessage.js?ex=6a8b31f5&is=6a89e075&hm=047631805a7eca3ca0054284f433b720d518b59295281a6b9df04e301404fda6&",
+          "downloadUrl": "https://cdn.discordapp.com/attachments/1520847793256927293/1520847873980371034/NoCloseMessage.js?ex=6a8bdab5&is=6a8a8935&hm=5cf0eabfaadf4cafc1d29b41301902be71ca2b9b3875b54cb1e57e704cb16e8b&",
           "contentType": "text/javascript; charset=utf-8"
         },
         {
@@ -238,7 +238,7 @@
       "releaseUrl": "https://github.com/kyso1/KysoTheme/releases/tag/v3.5.1",
       "releaseTag": "v3.5.1",
       "releaseName": "v3.5.1",
-      "image": "https://media.discordapp.net/attachments/1240541534663868426/1240541534869262376/image.png?ex=6a8b3296&is=6a89e116&hm=e7cdddac60bf6f7f47ac99e5005f8b32ed2a3006372dca231916f760bee9b1b7&",
+      "image": "https://media.discordapp.net/attachments/1240541534663868426/1240541534869262376/image.png?ex=6a8bdb56&is=6a8a89d6&hm=dce2d7bb3bc79063a878cd1518d950ce4e58dc553852073d4044a48dca90a20a&",
       "author": {
         "name": "kyso1",
         "avatar": "https://avatars.githubusercontent.com/u/128049220?v=4",
