@@ -1,7 +1,7 @@
 {
   "name": "Pengu Community Store registry",
   "version": 1,
-  "generatedAt": "2026-08-23T15:20:48.084Z",
+  "generatedAt": "2026-08-23T15:47:01.850Z",
   "source": {
     "guildId": "1069483280438673418",
     "forums": [
@@ -22,7 +22,7 @@
       "name": "[v1.5.0] Music on the Client - Volume Amplifier + Song Repetition + Choose your own MP3s folder",
       "description": "music menu in the ctrl + k menu with your own mp3 music files, it comes with a volume amplifier and a button to delete the previous list since you left the client (since the lol api does not remember folders well) too You can select a file alone and not the folder, and there is loop button, it rings everywhere in the client",
       "repo": "https://github.com/knmollpy/BackgroundMusicMenu",
-      "image": "https://media.discordapp.net/attachments/1540748164628480040/1540748164863238264/image.png?ex=6a8bbdcc&is=6a8a6c4c&hm=fe745869662d2e614c0a20653bb5629c678b85ac051e104f87fd64b89a180475&",
+      "image": "https://media.discordapp.net/attachments/1540748164628480040/1540748164863238264/image.png?ex=6a8c668c&is=6a8b150c&hm=001b30fdcf7c2e051d49d29461734a5c834edd125534a520b23a0434114727a6&",
       "author": {
         "name": "knmollpy",
         "avatar": "https://avatars.githubusercontent.com/u/318836104?v=4",
@@ -38,7 +38,7 @@
         {
           "name": "BackgroundMusicMenu.js",
           "size": 10265,
-          "downloadUrl": "https://cdn.discordapp.com/attachments/1540748164628480040/1540748165819670669/BackgroundMusicMenu.js?ex=6a8bbdcc&is=6a8a6c4c&hm=ec20777647460d083bbf39d5ca9edb28ad2dbc76d76af17921a6e68fc48c210b&",
+          "downloadUrl": "https://cdn.discordapp.com/attachments/1540748164628480040/1540748165819670669/BackgroundMusicMenu.js?ex=6a8c668c&is=6a8b150c&hm=7ab263b0335d2460cba9f1c0303b98d7b5554f6d0a8c22038c8bfc78206f78e2&",
           "contentType": "text/javascript; charset=utf-8"
         }
       ],
@@ -769,7 +769,7 @@
       "kind": "plugins",
       "name": "S9 League of legends ranked borders",
       "description": "This plugin will change your profile ranked image to old ones that i think was looking the best in the whole rank history! It was made by <@1246591176791035946 he helped me doing it for myself so i wanted to give him the credits for it + share it with you guys cuz u might wanna use it!",
-      "image": "https://media.discordapp.net/attachments/1414636794124832851/1414636794858700900/oldborders.png?ex=6a8bbd6e&is=6a8a6bee&hm=34bf7667a3809e439ad78b312ac8949631a8860b3d6a57cec0d701f02ce5073a&",
+      "image": "https://media.discordapp.net/attachments/1414636794124832851/1414636794858700900/oldborders.png?ex=6a8c662e&is=6a8b14ae&hm=c2f89f955646f55a0f97aa584b17cb4ec3496fb9b043c46f67ec463e82565907&",
       "author": {
         "name": "Samuraj"
       },
@@ -784,7 +784,7 @@
         {
           "name": "s9-ranked-borders.zip",
           "size": 945105,
-          "downloadUrl": "https://cdn.discordapp.com/attachments/1414636794124832851/1414636795714338886/s9-ranked-borders.zip?ex=6a8bbd6e&is=6a8a6bee&hm=111d918d6c27084dd821341d02d95f62b824f72dd92ef4eae75df9f6c4573cf4&",
+          "downloadUrl": "https://cdn.discordapp.com/attachments/1414636794124832851/1414636795714338886/s9-ranked-borders.zip?ex=6a8c662e&is=6a8b14ae&hm=48396b83e4d080da0f7bdb0ad400a61f7c652d35f61fb84415040bb1df1a0d8e&",
           "contentType": "application/zip"
         }
       ],
@@ -1898,7 +1898,7 @@
       "name": "GrayscaleV2",
       "description": "Grayscale theme for Pengu-loader.",
       "repo": "https://github.com/rviid/league-grayscale-theme",
-      "image": "https://media.discordapp.net/attachments/1166033741186076793/1166033741597130852/grayscalev2.png?ex=6a8bb8cb&is=6a8a674b&hm=ba4862e5650d59a5737db21dddcf4c7827a181e69edfd4b7a52252e2a6656160&",
+      "image": "https://media.discordapp.net/attachments/1166033741186076793/1166033741597130852/grayscalev2.png?ex=6a8c618b&is=6a8b100b&hm=bff50588098ef6dd8761a7f7dd3b72b0a230ca26175408428e0244e2628ed8d0&",
       "author": {
         "name": "rviid",
         "avatar": "https://avatars.githubusercontent.com/u/147655674?v=4",
