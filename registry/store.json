@@ -1,7 +1,7 @@
 {
   "name": "Pengu Community Store registry",
   "version": 1,
-  "generatedAt": "2026-08-23T21:19:52.404Z",
+  "generatedAt": "2026-08-23T21:45:15.862Z",
   "source": {
     "guildId": "1069483280438673418",
     "forums": [
@@ -206,7 +206,7 @@
         "Enhancement"
       ],
       "discordUrl": "https://discord.com/channels/1069483280438673418/1462451902028578940/1462451902028578940",
-      "upvotes": 5,
+      "upvotes": 6,
       "updatedAt": "2026-07-28T07:08:20.570Z",
       "assets": [
         {
@@ -312,7 +312,7 @@
       "kind": "plugins",
       "name": "Activity Center Toggle [redirect to play screen]",
       "description": "- Fully removes the League (Activity Center) - Redirects from the Activity Center to the Play screen - Removes Navbar button since it redirects anyways - Toggle on and off via Client General Interface Settings, if you at some point need to use it",
-      "image": "https://media.discordapp.net/attachments/1396060178545119263/1396060179815989399/image.png?ex=6a8c0ddc&is=6a8abc5c&hm=31a45159348e664913997b3c33c55de6e24a88aa1a53e8feb11a64fc39d7dc1f&",
+      "image": "https://media.discordapp.net/attachments/1396060178545119263/1396060179815989399/image.png?ex=6a8cb69c&is=6a8b651c&hm=43bbd1e888649e1c6f5f7f32a9eda40afbd35fb24653387cf4fa63198e5cf795&",
       "author": {
         "name": "Eris Greyrat"
       },
@@ -1073,7 +1073,7 @@
       "kind": "plugins",
       "name": "Banner Remover (not unranked needed last season)",
       "description": "I made this plugin so the banner is transparent for seeing the background :3",
-      "image": "https://media.discordapp.net/attachments/1485931384504848394/1485931923275776201/C457E65E-4309-49F8-87B7-D302F19ADCDF.png?ex=6a8c0d71&is=6a8abbf1&hm=6716586fe86066085e1624ad8771b8fb1279a56ff8a6fc055eb5ec285a9cbb60&",
+      "image": "https://media.discordapp.net/attachments/1485931384504848394/1485931923275776201/C457E65E-4309-49F8-87B7-D302F19ADCDF.png?ex=6a8cb631&is=6a8b64b1&hm=bcb1913dbcc0cc845ba7c950d2257d4eaf5394dd32d4e5473eccfed67c557f6c&",
       "author": {
         "name": "LittleRadio"
       },
@@ -1087,7 +1087,7 @@
         {
           "name": "BannerRemover-LittleRadioo.zip",
           "size": 1447,
-          "downloadUrl": "https://cdn.discordapp.com/attachments/1485931384504848394/1485931384869621820/BannerRemover-LittleRadioo.zip?ex=6a8c0cf1&is=6a8abb71&hm=ce41fbfcbdff557dc3205958d13574670a49bbb68d4938cc3b460f4b947eae14&",
+          "downloadUrl": "https://cdn.discordapp.com/attachments/1485931384504848394/1485931384869621820/BannerRemover-LittleRadioo.zip?ex=6a8cb5b1&is=6a8b6431&hm=8b5e4110ad2363ca54dd198ee205bb8f5181ca09bf42c060ffa67fa7e9221d1d&",
           "contentType": "application/zip"
         }
       ],
@@ -1147,7 +1147,7 @@
       "name": "Lock your League of Legends client with a 4-digit PIN code",
       "description": "🔒 Lock the League of Legends client with a 4-digit PIN — hotkey support, iOS-style UI, blur overlay. Penguloader plugin.",
       "repo": "https://github.com/nt3y/LeagueClient-Locker-",
-      "image": "https://media.discordapp.net/attachments/1485026009018273872/1485026009500877094/image.png?ex=6a8c0d7f&is=6a8abbff&hm=7042dc050f4d53157c6d6af7d4ec47d209b862c8f033afd218ccb5012181af7c&",
+      "image": "https://media.discordapp.net/attachments/1485026009018273872/1485026009500877094/image.png?ex=6a8cb63f&is=6a8b64bf&hm=01acfbea1ccb360a8f52d7bd264201876764453ea37cf05b018b8a024065c70a&",
       "author": {
         "name": "nt3y",
         "avatar": "https://avatars.githubusercontent.com/u/269317310?v=4",
@@ -1639,7 +1639,7 @@
       "releaseUrl": "https://github.com/PenguLoader/PenguLoader/releases/tag/v1.1.6",
       "releaseTag": "v1.1.6",
       "releaseName": "v1.1.6",
-      "image": "https://media.discordapp.net/attachments/1413095170475560960/1413095170940997642/Untitled.png?ex=6a8c106e&is=6a8abeee&hm=c9bb92b013c82f3aa4401c0de4b673b9e5faf0a715f4359dd1caf31ce9d37142&",
+      "image": "https://media.discordapp.net/attachments/1413095170475560960/1413095170940997642/Untitled.png?ex=6a8cb92e&is=6a8b67ae&hm=f916cbd95ef889004307a48759cbc8c42057266dd83abdac8bcc7c08ae477a0d&",
       "author": {
         "name": "PenguLoader",
         "avatar": "https://avatars.githubusercontent.com/u/126898920?v=4",
