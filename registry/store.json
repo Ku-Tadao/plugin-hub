@@ -1,7 +1,7 @@
 {
   "name": "Pengu Community Store registry",
   "version": 1,
-  "generatedAt": "2026-08-23T22:19:50.262Z",
+  "generatedAt": "2026-08-23T22:47:42.938Z",
   "source": {
     "guildId": "1069483280438673418",
     "forums": [
@@ -212,7 +212,7 @@
         {
           "name": "index.js",
           "size": 4929,
-          "downloadUrl": "https://cdn.discordapp.com/attachments/1462451902028578940/1465476858241093662/index.js?ex=6a8c1fee&is=6a8ace6e&hm=00f174c042d99f60594569f31734ae6f29ab67be9f80902e3012ae5e6adb2c66&",
+          "downloadUrl": "https://cdn.discordapp.com/attachments/1462451902028578940/1465476858241093662/index.js?ex=6a8cc8ae&is=6a8b772e&hm=a5973939bbe36bb4963e25bdc7b4ae9b7ee9ac075449cac2eb9d28ac731ef756&",
           "contentType": "text/javascript; charset=utf-8"
         }
       ],
@@ -816,7 +816,7 @@
       "kind": "plugins",
       "name": "Banner Customizer",
       "description": "Plugin that lets you display any banner in your lobby, including ones you don't own. Upload your own custom images or animated WebM files, or pick from any banner in the game. Works in the standard lobby, Arena hover tooltip, and your profile page. BNC Button in Lobby as always with my plugins. ⚠️ Client-side only — only you can see the change. Other players still see your actual equipped banner.",
-      "image": "https://media.discordapp.net/attachments/1499358177052069899/1499358177840467968/4hbdb93.png?ex=6a8c1e1e&is=6a8acc9e&hm=439dc9bae54ce45356448ef2eecf69f15e968b8dc1ad0bf05958e746a2c94da0&",
+      "image": "https://media.discordapp.net/attachments/1499358177052069899/1499358177840467968/4hbdb93.png?ex=6a8cc6de&is=6a8b755e&hm=96ecaf5ec60e53c104e12858ebf912e1670e621988bae35d59b23f032ab93193&",
       "author": {
         "name": "Eris Greyrat"
       },
@@ -832,7 +832,7 @@
         {
           "name": "Banner-Customizer.js",
           "size": 56598,
-          "downloadUrl": "https://cdn.discordapp.com/attachments/1499358177052069899/1499358178658222220/Banner-Customizer.js?ex=6a8c1e1e&is=6a8acc9e&hm=c88c4a3b6802d0a845f2555389815adddd5293640b2235b781f73a214a5e597d&",
+          "downloadUrl": "https://cdn.discordapp.com/attachments/1499358177052069899/1499358178658222220/Banner-Customizer.js?ex=6a8cc6de&is=6a8b755e&hm=c8f4fa096e9ed861c8cef740e1126b89b7cde912ce3a30273060a33fb11844a4&",
           "contentType": "text/javascript; charset=utf-8"
         }
       ],
@@ -965,7 +965,7 @@
       "releaseUrl": "https://github.com/Ventoba/3DSkinViewer/releases/tag/v1.0",
       "releaseTag": "v1.0",
       "releaseName": "v1.0",
-      "image": "https://media.discordapp.net/attachments/1490663854059950280/1490663854391427183/example2.PNG?ex=6a8c20e6&is=6a8acf66&hm=f38efc112e6246b2f9a411f674207a2a7663391ac6b58a9d0eb7a9eb343a10d7&",
+      "image": "https://media.discordapp.net/attachments/1490663854059950280/1490663854391427183/example2.PNG?ex=6a8cc9a6&is=6a8b7826&hm=6c9e811e330f205298084d55f0c1b9ba2b69d533e26cf84dc5e4e2fc89208fc7&",
       "author": {
         "name": "Ventoba",
         "avatar": "https://avatars.githubusercontent.com/u/96593577?v=4",
@@ -1278,7 +1278,7 @@
       "name": "HideChampName",
       "description": "Hides enemy champion names in Champion Select for League of Legends",
       "repo": "https://github.com/Mixiruri/AnonymousEnemies",
-      "image": "https://media.discordapp.net/attachments/1476888210436001904/1476888211044171848/preview.webp?ex=6a8c1c54&is=6a8acad4&hm=83d65078e91ba20b1a1c80fcd868ee2eb64e5a093867ae419e32fbf5bf5d19ed&",
+      "image": "https://media.discordapp.net/attachments/1476888210436001904/1476888211044171848/preview.webp?ex=6a8cc514&is=6a8b7394&hm=0eaf9d7d07c94aee08ac7e01a8f64bbbc42746733626010abeb50c43327e931d&",
       "author": {
         "name": "Mixiruri",
         "avatar": "https://avatars.githubusercontent.com/u/255986660?v=4",
