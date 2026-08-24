@@ -1,7 +1,7 @@
 {
   "name": "Pengu Community Store registry",
   "version": 1,
-  "generatedAt": "2026-08-24T15:37:36.250Z",
+  "generatedAt": "2026-08-24T16:35:43.767Z",
   "source": {
     "guildId": "1069483280438673418",
     "forums": [
@@ -43,7 +43,7 @@
       "name": "[v1.5.0] Music on the Client - Volume Amplifier + Song Repetition + Choose your own MP3s folder",
       "description": "music menu in the ctrl + k menu with your own mp3 music files, it comes with a volume amplifier and a button to delete the previous list since you left the client (since the lol api does not remember folders well) too You can select a file alone and not the folder, and there is loop button, it rings everywhere in the client",
       "repo": "https://github.com/knmollpy/BackgroundMusicMenu",
-      "image": "https://media.discordapp.net/attachments/1540748164628480040/1540748164863238264/image.png?ex=6a8d0f4c&is=6a8bbdcc&hm=7c5d87302319e7c0fb424393b5f09c088684be17b154506c34a77f5e19d6bd65&",
+      "image": "https://media.discordapp.net/attachments/1540748164628480040/1540748164863238264/image.png?ex=6a8db80c&is=6a8c668c&hm=b203a31a17b84e86a3f2c74b442ca8267ebb3b496428abe5b41896dc9fd57e04&",
       "author": {
         "name": "knmollpy",
         "avatar": "https://avatars.githubusercontent.com/u/318836104?v=4",
@@ -59,7 +59,7 @@
         {
           "name": "BackgroundMusicMenu.js",
           "size": 10265,
-          "downloadUrl": "https://cdn.discordapp.com/attachments/1540748164628480040/1540748165819670669/BackgroundMusicMenu.js?ex=6a8d0f4c&is=6a8bbdcc&hm=9775562081dbc75ebab21693c71e00a5e5f84f1179f40fb9f50f7af6736ee60e&",
+          "downloadUrl": "https://cdn.discordapp.com/attachments/1540748164628480040/1540748165819670669/BackgroundMusicMenu.js?ex=6a8db80c&is=6a8c668c&hm=4c97267fbb6741fb07a5a080d9ea5a3811d1c61116ddc43e87cd84c34cf209d2&",
           "contentType": "text/javascript; charset=utf-8"
         }
       ],
@@ -489,7 +489,7 @@
       "releaseUrl": "https://github.com/Elaina69/Elaina-theme/releases/tag/v4.5.1",
       "releaseTag": "v4.5.1",
       "releaseName": "",
-      "image": "https://media.discordapp.net/attachments/1373696348284653628/1373696348653617315/fh98jYI.png?ex=6a8d17ab&is=6a8bc62b&hm=72c16fd37508eb6fd36e787eab71fe04c2640eff077b9c80c021afeb0c794eac&",
+      "image": "https://media.discordapp.net/attachments/1373696348284653628/1373696348653617315/fh98jYI.png?ex=6a8dc06b&is=6a8c6eeb&hm=eaa35cdced1ff37243c8c95bb36e8408fda3c6d962ad07edf469acf5ccfe4712&",
       "author": {
         "name": "Elaina69",
         "avatar": "https://avatars.githubusercontent.com/u/94338907?v=4",
@@ -707,7 +707,7 @@
       "releaseUrl": "https://github.com/Yimikami/pengu-plugins/releases/tag/PenguFamily_v0.1.0",
       "releaseTag": "PenguFamily_v0.1.0",
       "releaseName": "Pengu Family v0.1.0",
-      "image": "https://media.discordapp.net/attachments/1411366905247170621/1411743618388983931/image.png?ex=6a8d1473&is=6a8bc2f3&hm=e405f7ae69f13273251b430d17ce4ac31d85d57f254ad0355020a6b015f8f2b2&",
+      "image": "https://media.discordapp.net/attachments/1411366905247170621/1411743618388983931/image.png?ex=6a8dbd33&is=6a8c6bb3&hm=b3bb81b615eb57c4c9664d14396d1588c33c31453e0e840e5024e1c56f382412&",
       "author": {
         "name": "Yimikami",
         "avatar": "https://avatars.githubusercontent.com/u/39545057?v=4",
@@ -790,7 +790,7 @@
       "kind": "plugins",
       "name": "S9 League of legends ranked borders",
       "description": "This plugin will change your profile ranked image to old ones that i think was looking the best in the whole rank history! It was made by <@1246591176791035946 he helped me doing it for myself so i wanted to give him the credits for it + share it with you guys cuz u might wanna use it!",
-      "image": "https://media.discordapp.net/attachments/1414636794124832851/1414636794858700900/oldborders.png?ex=6a8d0eee&is=6a8bbd6e&hm=7f37952932caf817b1d6a690b3f75bb9323d45bbc5b6d0a55e1aecfbff44c775&",
+      "image": "https://media.discordapp.net/attachments/1414636794124832851/1414636794858700900/oldborders.png?ex=6a8db7ae&is=6a8c662e&hm=4de55b59ef6aced9cddbce812e3e4db095c5e7df6d04255c06599c72dae1f334&",
       "author": {
         "name": "Samuraj"
       },
@@ -805,7 +805,7 @@
         {
           "name": "s9-ranked-borders.zip",
           "size": 945105,
-          "downloadUrl": "https://cdn.discordapp.com/attachments/1414636794124832851/1414636795714338886/s9-ranked-borders.zip?ex=6a8d0eee&is=6a8bbd6e&hm=90d3858ad10a0cf8bfc2c33cd2e4b010e5e5accbb205520e9ea5e4b717b508ae&",
+          "downloadUrl": "https://cdn.discordapp.com/attachments/1414636794124832851/1414636795714338886/s9-ranked-borders.zip?ex=6a8db7ae&is=6a8c662e&hm=212627fbea18d52cb0986a15026e761940f4f08e44c2aa6c819a00214c2f02be&",
           "contentType": "application/zip"
         }
       ],
@@ -1614,7 +1614,7 @@
       "name": "ScarletRed",
       "description": "ScarletRed theme ( Original from ElainaV3) for Pengu loader",
       "repo": "https://github.com/R3mia/ScarletRed",
-      "image": "https://media.discordapp.net/attachments/1183799859342483476/1183799859707379803/image.png?ex=6a8d12c8&is=6a8bc148&hm=567d3c9bf7f8e3a078f503e729dcc0325189d758d2d5fd5166369ffc21985fee&",
+      "image": "https://media.discordapp.net/attachments/1183799859342483476/1183799859707379803/image.png?ex=6a8dbb88&is=6a8c6a08&hm=9830dc53c830c26d699981fe565f027abb9df8921a9409c8d2a1828adb3b7876&",
       "author": {
         "name": "R3mia",
         "avatar": "https://avatars.githubusercontent.com/u/72246166?v=4",
@@ -1725,7 +1725,7 @@
       "releaseUrl": "https://github.com/nomi-san/ahri-theme/releases/tag/240221",
       "releaseTag": "240221",
       "releaseName": "ahri-theme-240221",
-      "image": "https://media.discordapp.net/attachments/1095736862187991232/1095736862741635283/68747470733a2f2f692e696d6775722e636f6d2f74617a504e484e2e706e67.png?ex=6a8d1039&is=6a8bbeb9&hm=93679ecbb601ec63fcc23c85b21a88141a3aba9fb067c57d0e627c6f2129271e&",
+      "image": "https://media.discordapp.net/attachments/1095736862187991232/1095736862741635283/68747470733a2f2f692e696d6775722e636f6d2f74617a504e484e2e706e67.png?ex=6a8db8f9&is=6a8c6779&hm=09cfe389744fefdc44816f831310c6849b81979e06c708509622364eca9c6ace&",
       "author": {
         "name": "nomi-san",
         "avatar": "https://avatars.githubusercontent.com/u/38210249?v=4",
