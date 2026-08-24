@@ -1,6 +1,6 @@
 name: Pengu Community Store registry
 version: 1
-generatedAt: 2026-08-24T23:20:47.216Z
+generatedAt: 2026-08-24T23:46:40.254Z
 source:
   guildId: "1069483280438673418"
   forums:
@@ -1093,7 +1093,7 @@ listings:
     name: OP.GG & U.GG Button Plugin
     description: An custom JavaScript page for Pengu Loader
     repo: https://github.com/GogoChad/opgg-button
-    image: https://media.discordapp.net/attachments/1495203342400360459/1495203439347499059/image.png?ex=6a8d7b77&is=6a8c29f7&hm=4b3bc1f50940734cd86c4ebcc887ad6523dcd4bf625fde06dd1f3eca494e9a7e&
+    image: https://media.discordapp.net/attachments/1495203342400360459/1495203439347499059/image.png?ex=6a8e2437&is=6a8cd2b7&hm=caee3423f9f01880dc2352da0640c13ab89b53f7548acd7fd5477a109d6ee93d&
     author:
       name: GogoChad
       avatar: https://avatars.githubusercontent.com/u/133820564?v=4
@@ -1657,7 +1657,7 @@ listings:
     releaseUrl: https://github.com/nomi-san/balance-buff-viewer/releases/tag/main
     releaseTag: main
     releaseName: S16 | v26 | 2026
-    image: https://media.discordapp.net/attachments/1127199847901052979/1127199848303693844/image.png?ex=6a8d7caa&is=6a8c2b2a&hm=22a6e85b01cb641bf61f616e58ed930b5be853099e785e28bb901100ec052cb3&
+    image: https://media.discordapp.net/attachments/1127199847901052979/1127199848303693844/image.png?ex=6a8e256a&is=6a8cd3ea&hm=a05eee801da6cf1cb5b966b8f7b5f55cd22eaed42cb46f5c14c11aa8ff059021&
     author:
       name: nomi-san
       avatar: https://avatars.githubusercontent.com/u/38210249?v=4
@@ -1753,7 +1753,7 @@ listings:
     releaseUrl: https://github.com/DmitryFisk/pengu-force-custom-lobby/releases/tag/2.2.0
     releaseTag: 2.2.0
     releaseName: 2.2.0
-    image: https://media.discordapp.net/attachments/1322710156173250601/1322710156626104320/image.png?ex=6a8d7e94&is=6a8c2d14&hm=a75da3b5bc18ae673b00cf9768ba782d92f81b593781b065586f75d80e3dcd7b&
+    image: https://media.discordapp.net/attachments/1322710156173250601/1322710156626104320/image.png?ex=6a8e2754&is=6a8cd5d4&hm=6cae354580f00daaaf83edf32a096eb6a333e54d50c5b5374098977906cf2f64&
     author:
       name: DmitryFisk
       avatar: https://avatars.githubusercontent.com/u/62219971?v=4
@@ -1843,7 +1843,7 @@ listings:
       JSON.stringify({ preferredCrestType: "prestige", preferredBannerType:
       "blank", selectedPrestigeCrest: 22}), headers: { "Content-Type":
       "application/json" }, });'
-    image: https://media.discordapp.net/attachments/1327785286327074929/1327785286561960026/image.png?ex=6a8d8029&is=6a8c2ea9&hm=09099246478561adfe3b664a0f3da676bbc0f6f61d743bad02391da63bf7616a&
+    image: https://media.discordapp.net/attachments/1327785286327074929/1327785286561960026/image.png?ex=6a8e28e9&is=6a8cd769&hm=6d7e739aee860a968d84a4294042c68bae86e150d8ce60aa32dc37fa9461a584&
     author:
       name: kebs
     tags:
