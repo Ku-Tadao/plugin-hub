@@ -1,6 +1,6 @@
 name: Pengu Community Store registry
 version: 1
-generatedAt: 2026-08-25T10:00:04.999Z
+generatedAt: 2026-08-25T10:41:33.287Z
 source:
   guildId: "1069483280438673418"
   forums:
@@ -1052,7 +1052,7 @@ listings:
       hover tooltip, and your profile page. BNC Button in Lobby as always with
       my plugins. ⚠️ Client-side only — only you can see the change. Other
       players still see your actual equipped banner.
-    image: https://media.discordapp.net/attachments/1499358177052069899/1499358177840467968/4hbdb93.png?ex=6a8e185e&is=6a8cc6de&hm=c1706f0357fb02f5a06cad7b569d99f5c325794c4176da38941638ad507b343c&
+    image: https://media.discordapp.net/attachments/1499358177052069899/1499358177840467968/4hbdb93.png?ex=6a8ec11e&is=6a8d6f9e&hm=f994edd1b9313389a72357db7b9c8423dd3c5a445f5ceada77059a30df57393e&
     author:
       name: Eris Greyrat
     tags:
@@ -1065,7 +1065,7 @@ listings:
     assets:
       - name: Banner-Customizer.js
         size: 56598
-        downloadUrl: https://cdn.discordapp.com/attachments/1499358177052069899/1499358178658222220/Banner-Customizer.js?ex=6a8e185e&is=6a8cc6de&hm=64bd97535009a9726e7c3efe800ca51f365849b3f0d6bd35f5be56e7c0df713a&
+        downloadUrl: https://cdn.discordapp.com/attachments/1499358177052069899/1499358178658222220/Banner-Customizer.js?ex=6a8ec11e&is=6a8d6f9e&hm=2c0fa10d1d138ec246decd0f9a60a89912b16bd12e37515fa215b96c1648f210&
         contentType: text/javascript; charset=utf-8
     enriched: true
   - id: "1499090537427243129"
@@ -1577,7 +1577,7 @@ listings:
     name: HideChampName
     description: Hides enemy champion names in Champion Select for League of Legends
     repo: https://github.com/Mixiruri/AnonymousEnemies
-    image: https://media.discordapp.net/attachments/1476888210436001904/1476888211044171848/preview.webp?ex=6a8e1694&is=6a8cc514&hm=fbc4d1659f68235099df94cd074d540d8310eff834cbade2faa8f83338080eba&
+    image: https://media.discordapp.net/attachments/1476888210436001904/1476888211044171848/preview.webp?ex=6a8ebf54&is=6a8d6dd4&hm=c379532c97c790c9972644bb62a10ed240acd63473e087a183a8d7a417127d1a&
     author:
       name: Mixiruri
       avatar: https://avatars.githubusercontent.com/u/255986660?v=4
