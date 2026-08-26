@@ -1,7 +1,7 @@
 {
   "name": "Pengu Community Store registry",
   "version": 1,
-  "generatedAt": "2026-08-26T14:52:45.365Z",
+  "generatedAt": "2026-08-26T16:16:27.325Z",
   "source": {
     "guildId": "1069483280438673418",
     "forums": [
@@ -43,7 +43,7 @@
       "name": "[v1.5.0] Music on the Client - Volume Amplifier + Song Repetition + Choose your own MP3s folder",
       "description": "music menu in the ctrl + k menu with your own mp3 music files, it comes with a volume amplifier and a button to delete the previous list since you left the client (since the lol api does not remember folders well) too You can select a file alone and not the folder, and there is loop button, it rings everywhere in the client",
       "repo": "https://github.com/knmollpy/BackgroundMusicMenu",
-      "image": "https://media.discordapp.net/attachments/1540748164628480040/1540748164863238264/image.png?ex=6a8fb24c&is=6a8e60cc&hm=9665234c9c0c1e98c4691d952a23c73f636f3fe886dd6f0e5031faa9f2c73340&",
+      "image": "https://media.discordapp.net/attachments/1540748164628480040/1540748164863238264/image.png?ex=6a905b0c&is=6a8f098c&hm=67790f633c6ee6b6d4abdd54be0bb956f55c870e215943ddf561774719b11fd8&",
       "author": {
         "name": "knmollpy",
         "avatar": "https://avatars.githubusercontent.com/u/318836104?v=4",
@@ -59,7 +59,7 @@
         {
           "name": "BackgroundMusicMenu.js",
           "size": 10265,
-          "downloadUrl": "https://cdn.discordapp.com/attachments/1540748164628480040/1540748165819670669/BackgroundMusicMenu.js?ex=6a8fb24c&is=6a8e60cc&hm=6788d0766c4f1cb1a8a4200a52356e25296974bc8004f1d17ce48ab01882e2a3&",
+          "downloadUrl": "https://cdn.discordapp.com/attachments/1540748164628480040/1540748165819670669/BackgroundMusicMenu.js?ex=6a905b0c&is=6a8f098c&hm=d51dae53dea12f561bbc349b401ca522bf22d0f538b1bbcd6f6a235c919fc34b&",
           "contentType": "text/javascript; charset=utf-8"
         }
       ],
@@ -707,7 +707,7 @@
       "releaseUrl": "https://github.com/Yimikami/pengu-plugins/releases/tag/PenguFamily_v0.1.0",
       "releaseTag": "PenguFamily_v0.1.0",
       "releaseName": "Pengu Family v0.1.0",
-      "image": "https://media.discordapp.net/attachments/1411366905247170621/1411743618388983931/image.png?ex=6a8fb773&is=6a8e65f3&hm=d80dc15fa03eae441f1fea613879f34600886b06696ee6ddc6e8c510aa3374a6&",
+      "image": "https://media.discordapp.net/attachments/1411366905247170621/1411743618388983931/image.png?ex=6a906033&is=6a8f0eb3&hm=01627a275e3bbf556c2ca86f27fe58c6f93abe2925c09e695e928785ec7bde02&",
       "author": {
         "name": "Yimikami",
         "avatar": "https://avatars.githubusercontent.com/u/39545057?v=4",
@@ -790,7 +790,7 @@
       "kind": "plugins",
       "name": "S9 League of legends ranked borders",
       "description": "This plugin will change your profile ranked image to old ones that i think was looking the best in the whole rank history! It was made by <@1246591176791035946 he helped me doing it for myself so i wanted to give him the credits for it + share it with you guys cuz u might wanna use it!",
-      "image": "https://media.discordapp.net/attachments/1414636794124832851/1414636794858700900/oldborders.png?ex=6a8fb1ee&is=6a8e606e&hm=0cd1375ac57798e84bc6a5c830fb6be1db2c97ce283a1ef01511aaf69e6c4470&",
+      "image": "https://media.discordapp.net/attachments/1414636794124832851/1414636794858700900/oldborders.png?ex=6a905aae&is=6a8f092e&hm=c144e71e16901668be6d2c4e8fc75a4194717dfddc6d300b689befafa78bd43a&",
       "author": {
         "name": "Samuraj"
       },
@@ -805,7 +805,7 @@
         {
           "name": "s9-ranked-borders.zip",
           "size": 945105,
-          "downloadUrl": "https://cdn.discordapp.com/attachments/1414636794124832851/1414636795714338886/s9-ranked-borders.zip?ex=6a8fb1ee&is=6a8e606e&hm=465d5f95c37e1ed334b0bde81a0feaea96206f2bc07a44c9bbe869662ab34e38&",
+          "downloadUrl": "https://cdn.discordapp.com/attachments/1414636794124832851/1414636795714338886/s9-ranked-borders.zip?ex=6a905aae&is=6a8f092e&hm=9b8fde8d16125f5779f867f899568bcc68117df95c1875c6782f423ec5d50e38&",
           "contentType": "application/zip"
         }
       ],
@@ -1614,7 +1614,7 @@
       "name": "ScarletRed",
       "description": "ScarletRed theme ( Original from ElainaV3) for Pengu loader",
       "repo": "https://github.com/R3mia/ScarletRed",
-      "image": "https://media.discordapp.net/attachments/1183799859342483476/1183799859707379803/image.png?ex=6a8fb5c8&is=6a8e6448&hm=7a3b7da8b6b1d2ecedafa7aa54046b8219a5218e4a6ee3b99c005b8015472e9b&",
+      "image": "https://media.discordapp.net/attachments/1183799859342483476/1183799859707379803/image.png?ex=6a905e88&is=6a8f0d08&hm=9b55752224a3d3d11bed52f9048ca822cdea46339a1697de454f2e5fd79b97ea&",
       "author": {
         "name": "R3mia",
         "avatar": "https://avatars.githubusercontent.com/u/72246166?v=4",
@@ -1725,7 +1725,7 @@
       "releaseUrl": "https://github.com/nomi-san/ahri-theme/releases/tag/240221",
       "releaseTag": "240221",
       "releaseName": "ahri-theme-240221",
-      "image": "https://media.discordapp.net/attachments/1095736862187991232/1095736862741635283/68747470733a2f2f692e696d6775722e636f6d2f74617a504e484e2e706e67.png?ex=6a8fb339&is=6a8e61b9&hm=fd3f1725c71e83fe6927f67b602f328272426c8263d4ae639a258ff9c829c015&",
+      "image": "https://media.discordapp.net/attachments/1095736862187991232/1095736862741635283/68747470733a2f2f692e696d6775722e636f6d2f74617a504e484e2e706e67.png?ex=6a905bf9&is=6a8f0a79&hm=6b05011ca0dd0a74374e6aa83786a93da9f0afcafd77ad9dae9f1295434d1f0d&",
       "author": {
         "name": "nomi-san",
         "avatar": "https://avatars.githubusercontent.com/u/38210249?v=4",
@@ -1787,7 +1787,7 @@
       "releaseUrl": "https://github.com/egirlcatnip/league-theme-mica/releases/tag/Releases",
       "releaseTag": "Releases",
       "releaseName": "Release v1.6",
-      "image": "https://media.discordapp.net/attachments/1165305978187681803/1165305978674216970/shot.png?ex=6a8faa83&is=6a8e5903&hm=84101a2c3021bbe94edcc34db0b46bf9f571228bbad90508c080aa1bed379756&",
+      "image": "https://media.discordapp.net/attachments/1165305978187681803/1165305978674216970/shot.png?ex=6a905343&is=6a8f01c3&hm=58f30fbb9440e8892ec527d823af85148a67446e58f37e09f32db571edcba1ef&",
       "author": {
         "name": "egirlcatnip",
         "avatar": "https://avatars.githubusercontent.com/u/26607304?v=4",
@@ -1897,7 +1897,7 @@
       "name": "GrayscaleV2",
       "description": "Grayscale theme for Pengu-loader.",
       "repo": "https://github.com/rviid/league-grayscale-theme",
-      "image": "https://media.discordapp.net/attachments/1166033741186076793/1166033741597130852/grayscalev2.png?ex=6a8fad4b&is=6a8e5bcb&hm=e467aece04f1edb031fce6460fff587b254fadffb6631f1f9fba8405a46294d0&",
+      "image": "https://media.discordapp.net/attachments/1166033741186076793/1166033741597130852/grayscalev2.png?ex=6a90560b&is=6a8f048b&hm=b8df5a91fb8a4bcdb35aaecaae1d128b1a03bf1aef861ce508301b7675a4ae28&",
       "author": {
         "name": "rviid",
         "avatar": "https://avatars.githubusercontent.com/u/147655674?v=4",
@@ -1980,7 +1980,7 @@
       "releaseUrl": "https://github.com/HerXayah/league-launcher-theme/releases/tag/treetard",
       "releaseTag": "treetard",
       "releaseName": "JS File",
-      "image": "https://media.discordapp.net/attachments/1077961395393536092/1077970085148381214/chrome_zATRdGurSO.png?ex=6a8faa20&is=6a8e58a0&hm=ff7934cee3d78ca54c1e6acdde0d29ca85aaeaf319f8c489d11500aad5e1fd54&",
+      "image": "https://media.discordapp.net/attachments/1077961395393536092/1077970085148381214/chrome_zATRdGurSO.png?ex=6a9052e0&is=6a8f0160&hm=bfbe5276e134053a3012a5cd60f4dd6bd220badafd5fafaf1ab44069198c2ba5&",
       "author": {
         "name": "HerXayah",
         "avatar": "https://avatars.githubusercontent.com/u/45071533?v=4",
@@ -2015,7 +2015,7 @@
       "releaseUrl": "https://github.com/HerXayah/league-launcher-theme/releases/tag/treetard",
       "releaseTag": "treetard",
       "releaseName": "JS File",
-      "image": "https://media.discordapp.net/attachments/1077970301192769636/1077970301666734080/PDHdfhl.png?ex=6a8faa53&is=6a8e58d3&hm=1775fa9ebd4bf35686ff4e63ce07f591017e54b234c32db89844e1b5b52db6c6&",
+      "image": "https://media.discordapp.net/attachments/1077970301192769636/1077970301666734080/PDHdfhl.png?ex=6a905313&is=6a8f0193&hm=cfa4b255de40d7db9a2417a51eb1007aa62073e58fe054e04fade2a0ef01149a&",
       "author": {
         "name": "HerXayah",
         "avatar": "https://avatars.githubusercontent.com/u/45071533?v=4",
