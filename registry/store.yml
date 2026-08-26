@@ -1,6 +1,6 @@
 name: Pengu Community Store registry
 version: 1
-generatedAt: 2026-08-26T10:33:27.047Z
+generatedAt: 2026-08-26T11:28:11.455Z
 source:
   guildId: "1069483280438673418"
   forums:
@@ -410,7 +410,7 @@ listings:
     assets:
       - name: index.js
         size: 4929
-        downloadUrl: https://cdn.discordapp.com/attachments/1462451902028578940/1465476858241093662/index.js?ex=6a8f6bae&is=6a8e1a2e&hm=2d5a2a5af35588e813b4d905dede89b49ca54040d4f0ed5a81f7ebcf965c901c&
+        downloadUrl: https://cdn.discordapp.com/attachments/1462451902028578940/1465476858241093662/index.js?ex=6a90146e&is=6a8ec2ee&hm=76ce300f6d3b7688adee43c8a339519ef1ec7662ce701b9834a22a22b3295371&
         contentType: text/javascript; charset=utf-8
     enriched: true
   - id: "1520847793256927293"
@@ -1052,7 +1052,7 @@ listings:
       hover tooltip, and your profile page. BNC Button in Lobby as always with
       my plugins. ⚠️ Client-side only — only you can see the change. Other
       players still see your actual equipped banner.
-    image: https://media.discordapp.net/attachments/1499358177052069899/1499358177840467968/4hbdb93.png?ex=6a8f69de&is=6a8e185e&hm=e6aac5e5a4f5c5c68832e6b2f32149efa2ed343e5166e05812bcfe2ccec94c26&
+    image: https://media.discordapp.net/attachments/1499358177052069899/1499358177840467968/4hbdb93.png?ex=6a90129e&is=6a8ec11e&hm=693db46a626c597f045146f66d692c0a8670b8f8c6ebd1d79874da8e0f8a8420&
     author:
       name: Eris Greyrat
     tags:
@@ -1065,7 +1065,7 @@ listings:
     assets:
       - name: Banner-Customizer.js
         size: 56598
-        downloadUrl: https://cdn.discordapp.com/attachments/1499358177052069899/1499358178658222220/Banner-Customizer.js?ex=6a8f69de&is=6a8e185e&hm=55e72c2ee7687e3b6c99459b7b2c36e3e576e947892e86b65f88305cdea646c7&
+        downloadUrl: https://cdn.discordapp.com/attachments/1499358177052069899/1499358178658222220/Banner-Customizer.js?ex=6a90129e&is=6a8ec11e&hm=975c2d6f96b8c2e67cbb4274d1140388f5accce21882aac4a771a8f21a21b818&
         contentType: text/javascript; charset=utf-8
     enriched: true
   - id: "1499090537427243129"
@@ -1093,7 +1093,7 @@ listings:
     name: OP.GG & U.GG Button Plugin
     description: An custom JavaScript page for Pengu Loader
     repo: https://github.com/GogoChad/opgg-button
-    image: https://media.discordapp.net/attachments/1495203342400360459/1495203439347499059/image.png?ex=6a8f75b7&is=6a8e2437&hm=bffcf2035b9d123cc09565eb0bb29d550e4df2c88255c1de3940df98612f5142&
+    image: https://media.discordapp.net/attachments/1495203342400360459/1495203439347499059/image.png?ex=6a901e77&is=6a8eccf7&hm=27b90dad8f9319469515fd26e58e85c678feb69e1250cb13bd1bfd12c54d4567&
     author:
       name: GogoChad
       avatar: https://avatars.githubusercontent.com/u/133820564?v=4
@@ -1202,7 +1202,7 @@ listings:
     releaseUrl: https://github.com/Ventoba/3DSkinViewer/releases/tag/v1.0
     releaseTag: v1.0
     releaseName: v1.0
-    image: https://media.discordapp.net/attachments/1490663854059950280/1490663854391427183/example2.PNG?ex=6a8f6ca6&is=6a8e1b26&hm=9840c2d88db0cefca2074e5edf48fdc941fa4b67047c17e72b77542cc2c2ad1a&
+    image: https://media.discordapp.net/attachments/1490663854059950280/1490663854391427183/example2.PNG?ex=6a901566&is=6a8ec3e6&hm=d67bc245f66e4cc00becf29dad347d02811265ccd4b67269ed64be261731741d&
     author:
       name: Ventoba
       avatar: https://avatars.githubusercontent.com/u/96593577?v=4
@@ -1557,7 +1557,7 @@ listings:
     kind: plugins
     name: Hide Nonsense
     description: No description provided.
-    image: https://media.discordapp.net/attachments/1395902555095171225/1395906635968286882/image.png?ex=6a8f735c&is=6a8e21dc&hm=3272b80f188afdd0099e8c325c5b07298aade32ca6c847807b62bf85cd24985c&
+    image: https://media.discordapp.net/attachments/1395902555095171225/1395906635968286882/image.png?ex=6a901c1c&is=6a8eca9c&hm=a478931c51b70c909e9dd77abcbdc2c103b07fc751619c6399c87ac76b016586&
     author:
       name: 莫嘎 | Moga
     tags:
@@ -1697,7 +1697,7 @@ listings:
     name: Blue Essence Icon Swapper
     description: "Blue Essence Icon Swapper How to use: Click the BE icon to change
       icon. Click the BE icon to select new image/reset to standard."
-    image: https://media.discordapp.net/attachments/1468009747780210791/1468019006991634432/Screenshot_2026-02-02_232517.png?ex=6a8f70bd&is=6a8e1f3d&hm=47dc82f4413233ea8b2cfd58c2ba786e5b67a7570b31595c368e74cb812bfc21&
+    image: https://media.discordapp.net/attachments/1468009747780210791/1468019006991634432/Screenshot_2026-02-02_232517.png?ex=6a90197d&is=6a8ec7fd&hm=eaa45e1f47cbe28232445f57010ea6b3a7f5f66a3868fc88ef308589afcf181d&
     author:
       name: Ilkay
     tags:
@@ -1708,7 +1708,7 @@ listings:
     assets:
       - name: BE-Icon-Swapper.js
         size: 6253
-        downloadUrl: https://cdn.discordapp.com/attachments/1468009747780210791/1468019008229081235/BE-Icon-Swapper.js?ex=6a8f70be&is=6a8e1f3e&hm=27bb509881ebc7e898ec4f0ec8c83aa3c77b4cfc3b34f9d3fd42dd13cdd2d99c&
+        downloadUrl: https://cdn.discordapp.com/attachments/1468009747780210791/1468019008229081235/BE-Icon-Swapper.js?ex=6a90197e&is=6a8ec7fe&hm=c2394b68e80824e3e9f5b5c783c0588b8bcc34efa9856f346ad6dea99618f1b2&
         contentType: text/javascript; charset=utf-8
     enriched: true
   - id: "1462077280728780861"
