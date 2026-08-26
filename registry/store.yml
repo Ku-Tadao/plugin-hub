@@ -1,6 +1,6 @@
 name: Pengu Community Store registry
 version: 1
-generatedAt: 2026-08-26T02:46:34.831Z
+generatedAt: 2026-08-26T03:52:52.279Z
 source:
   guildId: "1069483280438673418"
   forums:
@@ -38,7 +38,7 @@ listings:
       well) too You can select a file alone and not the folder, and there is
       loop button, it rings everywhere in the client
     repo: https://github.com/knmollpy/BackgroundMusicMenu
-    image: https://media.discordapp.net/attachments/1540748164628480040/1540748164863238264/image.png?ex=6a8f098c&is=6a8db80c&hm=09d9593361858a81a6fa79ebd564d104aab720bbae4780227b2a2f05d3c3f4b3&
+    image: https://media.discordapp.net/attachments/1540748164628480040/1540748164863238264/image.png?ex=6a8fb24c&is=6a8e60cc&hm=9665234c9c0c1e98c4691d952a23c73f636f3fe886dd6f0e5031faa9f2c73340&
     author:
       name: knmollpy
       avatar: https://avatars.githubusercontent.com/u/318836104?v=4
@@ -51,7 +51,7 @@ listings:
     assets:
       - name: BackgroundMusicMenu.js
         size: 10265
-        downloadUrl: https://cdn.discordapp.com/attachments/1540748164628480040/1540748165819670669/BackgroundMusicMenu.js?ex=6a8f098c&is=6a8db80c&hm=18023dcdbf47f16c8a172adc5d5ffc93c9a69fe0f90919571d60f4f361598e2e&
+        downloadUrl: https://cdn.discordapp.com/attachments/1540748164628480040/1540748165819670669/BackgroundMusicMenu.js?ex=6a8fb24c&is=6a8e60cc&hm=6788d0766c4f1cb1a8a4200a52356e25296974bc8004f1d17ce48ab01882e2a3&
         contentType: text/javascript; charset=utf-8
     enriched: true
   - id: "1512550218044805150"
@@ -1028,7 +1028,7 @@ listings:
       i think was looking the best in the whole rank history! It was made by
       <@1246591176791035946 he helped me doing it for myself so i wanted to give
       him the credits for it + share it with you guys cuz u might wanna use it!
-    image: https://media.discordapp.net/attachments/1414636794124832851/1414636794858700900/oldborders.png?ex=6a8f092e&is=6a8db7ae&hm=b27ecac545477aca5acbec32064770125e671a8111d76d801102a7fb6ae5089a&
+    image: https://media.discordapp.net/attachments/1414636794124832851/1414636794858700900/oldborders.png?ex=6a8fb1ee&is=6a8e606e&hm=0cd1375ac57798e84bc6a5c830fb6be1db2c97ce283a1ef01511aaf69e6c4470&
     author:
       name: Samuraj
     tags:
@@ -1040,7 +1040,7 @@ listings:
     assets:
       - name: s9-ranked-borders.zip
         size: 945105
-        downloadUrl: https://cdn.discordapp.com/attachments/1414636794124832851/1414636795714338886/s9-ranked-borders.zip?ex=6a8f092e&is=6a8db7ae&hm=742e2d76a0a2bd8ba61a6f8347b9e0a7e0dfa92dbc802a49e55bdc08fd908eba&
+        downloadUrl: https://cdn.discordapp.com/attachments/1414636794124832851/1414636795714338886/s9-ranked-borders.zip?ex=6a8fb1ee&is=6a8e606e&hm=465d5f95c37e1ed334b0bde81a0feaea96206f2bc07a44c9bbe869662ab34e38&
         contentType: application/zip
     enriched: true
   - id: "1499358177052069899"
@@ -2022,7 +2022,7 @@ listings:
     releaseUrl: https://github.com/nomi-san/ahri-theme/releases/tag/240221
     releaseTag: "240221"
     releaseName: ahri-theme-240221
-    image: https://media.discordapp.net/attachments/1095736862187991232/1095736862741635283/68747470733a2f2f692e696d6775722e636f6d2f74617a504e484e2e706e67.png?ex=6a8f0a79&is=6a8db8f9&hm=030885013fa59ae39fbf1e5b34717fd19bbfda7923b3ae45e5f14d3701780217&
+    image: https://media.discordapp.net/attachments/1095736862187991232/1095736862741635283/68747470733a2f2f692e696d6775722e636f6d2f74617a504e484e2e706e67.png?ex=6a8fb339&is=6a8e61b9&hm=fd3f1725c71e83fe6927f67b602f328272426c8263d4ae639a258ff9c829c015&
     author:
       name: nomi-san
       avatar: https://avatars.githubusercontent.com/u/38210249?v=4
@@ -2090,7 +2090,7 @@ listings:
     releaseUrl: https://github.com/egirlcatnip/league-theme-mica/releases/tag/Releases
     releaseTag: Releases
     releaseName: Release v1.6
-    image: https://media.discordapp.net/attachments/1165305978187681803/1165305978674216970/shot.png?ex=6a8f01c3&is=6a8db043&hm=e162b4fd08a4ed8a210844c984283458ea5653ddab2701dda5f5489e65bbd8c2&
+    image: https://media.discordapp.net/attachments/1165305978187681803/1165305978674216970/shot.png?ex=6a8faa83&is=6a8e5903&hm=84101a2c3021bbe94edcc34db0b46bf9f571228bbad90508c080aa1bed379756&
     author:
       name: egirlcatnip
       avatar: https://avatars.githubusercontent.com/u/26607304?v=4
@@ -2197,7 +2197,7 @@ listings:
     name: GrayscaleV2
     description: Grayscale theme for Pengu-loader.
     repo: https://github.com/rviid/league-grayscale-theme
-    image: https://media.discordapp.net/attachments/1166033741186076793/1166033741597130852/grayscalev2.png?ex=6a8f048b&is=6a8db30b&hm=92ab9e20385afecb9105965826d69fe98305705594d9848e796e394a81705580&
+    image: https://media.discordapp.net/attachments/1166033741186076793/1166033741597130852/grayscalev2.png?ex=6a8fad4b&is=6a8e5bcb&hm=e467aece04f1edb031fce6460fff587b254fadffb6631f1f9fba8405a46294d0&
     author:
       name: rviid
       avatar: https://avatars.githubusercontent.com/u/147655674?v=4
@@ -2284,7 +2284,7 @@ listings:
     releaseUrl: https://github.com/HerXayah/league-launcher-theme/releases/tag/treetard
     releaseTag: treetard
     releaseName: JS File
-    image: https://media.discordapp.net/attachments/1077961395393536092/1077970085148381214/chrome_zATRdGurSO.png?ex=6a8f0160&is=6a8dafe0&hm=e86c6fc8fd437c211df6e32eeebb9b48f86bffc04c6f8439f7827a8a9feff966&
+    image: https://media.discordapp.net/attachments/1077961395393536092/1077970085148381214/chrome_zATRdGurSO.png?ex=6a8faa20&is=6a8e58a0&hm=ff7934cee3d78ca54c1e6acdde0d29ca85aaeaf319f8c489d11500aad5e1fd54&
     author:
       name: HerXayah
       avatar: https://avatars.githubusercontent.com/u/45071533?v=4
@@ -2327,7 +2327,7 @@ listings:
     releaseUrl: https://github.com/HerXayah/league-launcher-theme/releases/tag/treetard
     releaseTag: treetard
     releaseName: JS File
-    image: https://media.discordapp.net/attachments/1077970301192769636/1077970301666734080/PDHdfhl.png?ex=6a8f0193&is=6a8db013&hm=5a149e24acccf925a9bf630af8d5e7ed85bf13c4fabbcadcbc68cdc37dcd28b2&
+    image: https://media.discordapp.net/attachments/1077970301192769636/1077970301666734080/PDHdfhl.png?ex=6a8faa53&is=6a8e58d3&hm=1775fa9ebd4bf35686ff4e63ce07f591017e54b234c32db89844e1b5b52db6c6&
     author:
       name: HerXayah
       avatar: https://avatars.githubusercontent.com/u/45071533?v=4
