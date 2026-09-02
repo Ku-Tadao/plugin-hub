@@ -1,6 +1,6 @@
 name: Pengu Community Store registry
 version: 1
-generatedAt: 2026-09-02T17:00:38.996Z
+generatedAt: 2026-09-02T19:43:12.267Z
 source:
   guildId: "1069483280438673418"
   forums:
@@ -9,27 +9,6 @@ source:
     - kind: themes
       channelId: "1077886317364523072"
 listings:
-  - id: "1544113457430012025"
-    kind: plugins
-    name: AI assistant (13.2.0) - Advanced AI Chat, AI Provider Selection, Some
-      models support images
-    description: "A client-side AI implementation: it integrates free APIs from
-      Gemini, OpenRouter, and Groq, and the AI ​​can process text and files such
-      as PNG, JPG/JPEG, WEBP, GIF, and HEIC/HEIF."
-    repo: https://github.com/knmollpy/IA-lol-knmollpy
-    image: https://media.discordapp.net/attachments/1544113457430012025/1544113457769746542/image.png?ex=6a994d78&is=6a97fbf8&hm=a946e347ac6e4c9bcf172cb94c8636a60c1a52a84f70c29673a26b01e046d707&
-    author:
-      name: knmollpy
-      avatar: https://avatars.githubusercontent.com/u/318836104?v=4
-      github: knmollpy
-    tags:
-      - Utility
-      - Misc
-    discordUrl: https://discord.com/channels/1069483280438673418/1544113457430012025/1544113457430012025
-    upvotes: 1
-    updatedAt: 2026-08-31T22:29:02Z
-    assets: []
-    enriched: true
   - id: "1370379492354162729"
     kind: plugins
     name: newDodgeTracker 新的躲避列表
@@ -51,60 +30,74 @@ listings:
       English for others) Acknowledgements Modified from iIlusion/DodgeTracker（
       with added tag/note support and multilingual optimization. Thanks to the
       original author!"
-    details: |-
-      ## v1.2.5
+    details: >-
+      ## v1.2.6
 
-      > ⚠️ **Major change** — dodge list now matches by **puuid first**, falling back to `name#tag`. This is a meaningful behavior change. **If you encounter any issues, roll back to [v1.2.4](https://github.com/yanghao0205/newDodgeTracker/releases/tag/v1.2.4)** (pure name#tag matching). Your dodge list data is not affected.
+
+      > ⚠️ **CRITICAL FIX — please update to this version.**
+
+      > All previous versions (≤ v1.2.5) are **broken in ranked solo/duo
+      champion select**: the plugin could only recognize **yourself** —
+      teammates were lost and dodge alerts could never fire. v1.2.6 completely
+      fixes recognition. **Updating is strongly required.**
+
+
+      ### Critical Fix
+
+
+      - **Ranked champ-select recognition (only self detected) — FIXED** — due
+      to Riot's champ-select anonymity, older versions silently lost all
+      teammates during ranked champ select. v1.2.6 identifies players through a
+      different route that returns every teammate's real Riot ID and puuid,
+      unaffected by anonymity. Verified in live ranked champ select: all 5
+      players recognized, dodge alerts and Summoner Reveal both working.
+
 
       ### New
-      - **puuid-first matching** — dodge list entries are now matched by puuid (the player's permanent UUID) before falling back to `name#tag`. A player who renames is still detected.
-      - **Auto-backfill puuid** — when a legacy name-only entry matches a player in champion select, the puuid is resolved and persisted on the entry, so it becomes rename-proof from the next match onward.
-      - **Manual add resolves puuid** — when you add a player by `name#tag`, the plugin calls `POST /lol-summoner/v2/summoners/names` and locks the puuid only when **both** `gameName` and `tagLine` match the input. The name you typed is never overwritten.
-      - **Tracking status dots** — each dodge list entry shows a green dot (locked by puuid, rename-proof) or grey dot (name only, missed on rename). Hover for tooltip. A legend above the list shows counts.
-      - **Add-player toast reports lock status** — aligned across all three add paths (manual input, end-of-game scoreboard, match history):
-        - `Added {name} — permanently tracked` (puuid locked)
-        - `Added {name} — name only, missed if they rename` (no puuid resolved)
-      - **Match-kind logging** — console now prints which path matched each entry (`-> puuid (rename-proof)` / `-> name#tag`) and the dodge list health summary `Dodge list: N entries (X locked by puuid, Y name-only)`.
 
-      ### Bug Fixes
-      - **`/lol-summoner/v2/summoners?ids=` returned 400** — LCU `ids` is a `vector<uint64_t>` and requires JSON array form (`?ids=[1,2,3]`). The plugin was sending a comma-separated scalar and silently falling back to v1 per-id lookups. Fixed; v2 batch now succeeds.
-      - **Champ-select chat "no conversation yet" downgraded from `error` to `warn`** — this is a normal intermediate state during the 1s poll; the red console error was noise.
 
-      ### Improvements
-      - Centralized LCU endpoints (`utils/endpoints.js`) — single source of truth for paths.
-      - `lcu.js` wrappers throw on HTTP failure with status + Riot response body; `subscribe()` wraps callbacks in try/catch.
-      - `unload()` properly removes observers and sidebar.
-      - LCU parameter lesson: `vector` query params must use `[a,b,c]` form, not a comma-separated scalar.
+      - **"Print player names to chat" toggle** — a new switch right below the
+      Summoner Reveal toggle (Settings → DodgeTracker). When enabled, the plugin
+      prints every recognized player's real `name#tag` to champ-select chat
+      (names only, no stats — same delivery as Summoner Name Reveal), so you can
+      confirm at a glance that everyone was recognized. The dodge alert is sent
+      after the names, staying at the bottom of the chat.
 
-      ---
+      - The two toggles are independent: names only, stats only, or both.
 
-      ## v1.2.5（中文说明）
 
-      > ⚠️ **重大变更** —— 躲避列表改为**优先按 puuid 匹配**，回退到 `name#tag`。这是一次行为变化。**如有任何问题，请回退到 [v1.2.4](https://github.com/yanghao0205/newDodgeTracker/releases/tag/v1.2.4)**（纯 name#tag 匹配版本），你的躲避列表数据不会受影响。
+      * * *
+
+
+      ## v1.2.6（中文说明）
+
+
+      > ⚠️ **严重修复 —— 请务必更新到此版本。**
+
+      > 之前所有版本（≤ v1.2.5）在**单双排位选人阶段识别全部失效**：受 Riot
+      选人匿名机制影响，插件只能识别到你自己，队友全部丢失、躲避警报永远不会触发。v1.2.6 已彻底修复识别问题。**强烈建议所有用户立即更新。**
+
+
+      ### 严重修复
+
+
+      - **排位选人只能识别到自己 —— 已修复** —— 受 Riot 选人匿名机制影响，旧版本在排位选人阶段会丢失全部队友。v1.2.6
+      改用新的识别方式，可获取每个队友的真实 Riot ID 和 puuid，不受匿名机制影响。已在实战排位选人中验证：5
+      名玩家全部识别，躲避警报与召唤师信息均正常工作。
+
 
       ### 新增
-      - **puuid 优先匹配** —— 躲避列表条目先按 puuid（玩家永久 UUID）匹配，再回退到 `name#tag`。对方改名后仍能识别。
-      - **自动回填 puuid** —— 老的纯名字条目在 champ select 命中玩家时，会解析并写入该玩家的 puuid，下一局起即变为永久跟踪。
-      - **手动添加解析 puuid** —— 在躲避列表输入 `name#tag` 添加玩家时，调用 `POST /lol-summoner/v2/summoners/names`，**只有 gameName 和 tagLine 都匹配**才锁定 puuid。你输入的名字永远不会被覆盖。
-      - **追踪状态圆点** —— 躲避列表每个条目左侧显示绿点（已锁定 puuid，改名也能识别）或灰点（仅按名字匹配，改名后漏）。鼠标悬停有提示。列表上方有图例显示计数。
-      - **添加玩家 Toast 提示锁定状态** —— 三种添加路径（手动输入、赛后战绩页添加、对局记录里添加）现已统一文案：
-        - `已添加 {name} —— 永久跟踪`（已锁 puuid）
-        - `已添加 {name} —— 仅名字匹配，改名后会漏`（未解析到 puuid）
-      - **匹配方式日志** —— 控制台会打印每个条目本次走的是哪条路（`-> puuid (rename-proof)` / `-> name#tag`）以及列表健康度 `Dodge list: N entries (X locked by puuid, Y name-only)`。
 
-      ### Bug 修复
-      - **`/lol-summoner/v2/summoners?ids=` 返回 400** —— LCU 侧 `ids` 是 `vector<uint64_t>`，必须传 JSON 数组形式（`?ids=[1,2,3]`）。原代码发的是逗号分隔标量，静默回退到 v1 逐条查询。已修复，v2 批量查询现在直接成功。
-      - **Champ-select 聊天"会话尚未建立"从 error 降级为 warn** —— 这是 1s 轮询的正常中间态，原来的红色报错是噪音。
 
-      ### 改进
-      - LCU 端点集中管理（`utils/endpoints.js`）—— 路径单一来源。
-      - `lcu.js` 包装层 HTTP 失败时抛出带状态码 + Riot 返回体；`subscribe()` 回调 try/catch 包裹。
-      - `unload()` 正确注销观察器与侧边栏。
-      - LCU 参数教训：`vector` 类型 query 参数一律用 `[a,b,c]` 形式，不要逗号分隔字符串。
+      - **「聊天框打印玩家名字」开关** —— 设置 → DodgeTracker
+      中"召唤师信息"开关正下方新增同款开关。开启后，插件会把识别到的所有玩家的真实 `名字#标签` 打印到选人聊天框（仅名字、无战绩，发送方式与
+      Summoner Name Reveal 相同），方便一眼确认插件是否识别到了所有人。躲避警报在名字之后发送，始终留在聊天框最底部。
+
+      - 两个开关互相独立：只打名字、只出战绩、或两者都要，均可自由组合。
     repo: https://github.com/yanghao0205/newDodgeTracker
-    releaseUrl: https://github.com/yanghao0205/newDodgeTracker/releases/tag/v1.2.5
-    releaseTag: v1.2.5
-    releaseName: v1.2.5
+    releaseUrl: https://github.com/yanghao0205/newDodgeTracker/releases/tag/v1.2.6
+    releaseTag: v1.2.6
+    releaseName: v1.2.6
     image: https://media.discordapp.net/attachments/1370379492354162729/1370379493017128970/1.png?ex=6a996a5b&is=6a9818db&hm=5ca1fb1037826ea6b589a3c460882151a4407f82f499134c3c04909febfdb33c&
     author:
       name: yanghao0205
@@ -114,12 +107,33 @@ listings:
       - Enhancement
     discordUrl: https://discord.com/channels/1069483280438673418/1370379492354162729/1370379492354162729
     upvotes: 12
-    updatedAt: 2026-08-31T17:09:46Z
+    updatedAt: 2026-09-02T19:01:16Z
     assets:
       - name: DodgeTracker.7z
-        size: 61104
-        downloadUrl: https://github.com/yanghao0205/newDodgeTracker/releases/download/v1.2.5/DodgeTracker.7z
+        size: 63230
+        downloadUrl: https://github.com/yanghao0205/newDodgeTracker/releases/download/v1.2.6/DodgeTracker.7z
         contentType: application/x-7z-compressed
+    enriched: true
+  - id: "1544113457430012025"
+    kind: plugins
+    name: AI assistant (13.2.0) - Advanced AI Chat, AI Provider Selection, Some
+      models support images
+    description: "A client-side AI implementation: it integrates free APIs from
+      Gemini, OpenRouter, and Groq, and the AI ​​can process text and files such
+      as PNG, JPG/JPEG, WEBP, GIF, and HEIC/HEIF."
+    repo: https://github.com/knmollpy/IA-lol-knmollpy
+    image: https://media.discordapp.net/attachments/1544113457430012025/1544113457769746542/image.png?ex=6a994d78&is=6a97fbf8&hm=a946e347ac6e4c9bcf172cb94c8636a60c1a52a84f70c29673a26b01e046d707&
+    author:
+      name: knmollpy
+      avatar: https://avatars.githubusercontent.com/u/318836104?v=4
+      github: knmollpy
+    tags:
+      - Utility
+      - Misc
+    discordUrl: https://discord.com/channels/1069483280438673418/1544113457430012025/1544113457430012025
+    upvotes: 1
+    updatedAt: 2026-08-31T22:29:02Z
+    assets: []
     enriched: true
   - id: "1541145552769646772"
     kind: plugins
@@ -128,7 +142,7 @@ listings:
     description: test yourself with the champion challenge, items, runes, fragments,
       all random, can you still win?
     repo: https://github.com/knmollpy/DailyChallenge
-    image: https://media.discordapp.net/attachments/1541145552769646772/1541145553566699650/image.png?ex=6a990d65&is=6a97bbe5&hm=93955648677ea1c76f34da4894673cc3c7d684101c940e9a182664c60de937bb&
+    image: https://media.discordapp.net/attachments/1541145552769646772/1541145553566699650/image.png?ex=6a99b625&is=6a9864a5&hm=25b32c9e9cdcce68fa48ef0958a3d10a07ebb5e883dd2b5e52d0b68cb3afcc85&
     author:
       name: knmollpy
       avatar: https://avatars.githubusercontent.com/u/318836104?v=4
@@ -415,7 +429,7 @@ listings:
     description: "This plugin automatically confirms the League Client exit dialog.
       - Source code: Cooming soon, i'm lazy - Download: Github url cooming soon,
       i'm lazy"
-    image: https://media.discordapp.net/attachments/1520847793256927293/1520847793411981413/57nwhtn.png?ex=6a9909a1&is=6a97b821&hm=73df4554634b6fe5d288e9968851ce00f7cb3ed0d42d8c614a7e7666c17990bf&
+    image: https://media.discordapp.net/attachments/1520847793256927293/1520847793411981413/57nwhtn.png?ex=6a99b261&is=6a9860e1&hm=01f2f6914b10faebd5d1d6a9bbb68fbef364e64b41e7733589b004a1bb39c776&
     author:
       name: Elaina
     tags:
@@ -426,11 +440,11 @@ listings:
     assets:
       - name: NoCloseMessage.js
         size: 3475
-        downloadUrl: https://cdn.discordapp.com/attachments/1520847793256927293/1520847873980371034/NoCloseMessage.js?ex=6a9909b5&is=6a97b835&hm=610fd5fc4de35564ed3d3ee64288e843391af5d2ac32dc85653f28c059ba67a2&
+        downloadUrl: https://cdn.discordapp.com/attachments/1520847793256927293/1520847873980371034/NoCloseMessage.js?ex=6a99b275&is=6a9860f5&hm=f9e31676918504cda4a679dea58dc9caecb0cb9700d676f4666b9fcc58c57061&
         contentType: text/javascript; charset=utf-8
       - name: NoCloseMessage.js
         size: 4163
-        downloadUrl: https://cdn.discordapp.com/attachments/1520847793256927293/1520869718758654002/NoCloseMessage.js?ex=6a991e0d&is=6a97cc8d&hm=04ff82fa3cc35647b5b91c5dcdba95fad40371b0e5a823ec46d2281c1f2c67fd&
+        downloadUrl: https://cdn.discordapp.com/attachments/1520847793256927293/1520869718758654002/NoCloseMessage.js?ex=6a99c6cd&is=6a98754d&hm=3cfc3b5f8a32a8ab7326b95fa0888dc1492e08d4ddf3cd0a93ca527d923cf63a&
         contentType: text/javascript; charset=utf-8
     enriched: true
   - id: "1240541534663868426"
@@ -471,7 +485,7 @@ listings:
     releaseUrl: https://github.com/kyso1/KysoTheme/releases/tag/v3.5.1
     releaseTag: v3.5.1
     releaseName: v3.5.1
-    image: https://media.discordapp.net/attachments/1240541534663868426/1240541534869262376/image.png?ex=6a990a56&is=6a97b8d6&hm=af4f7a9f7152a4b15eec8fa20938efdcf3957eeb2009a866daee3c14836841d9&
+    image: https://media.discordapp.net/attachments/1240541534663868426/1240541534869262376/image.png?ex=6a99b316&is=6a986196&hm=2e3fd16621972828b96d55e4f7f739355ce9fed926930eb54709a5b91e67762f&
     author:
       name: kyso1
       avatar: https://avatars.githubusercontent.com/u/128049220?v=4
@@ -569,7 +583,7 @@ listings:
     description: "Unlock all backgrounds easily. Just press the background picker
       button, and you'll be able to choose any skin you like, as if you owned
       them all Source: < Download is below, not the source ⬇️ ⬇️ ⬇️"
-    image: https://media.discordapp.net/attachments/1311415707371700345/1311415707568836809/image.png?ex=6a9923cd&is=6a97d24d&hm=64ee6694c7a312dcb5e9840c2ccde12d4b0d15672d873aa4891836150b4f87d0&
+    image: https://media.discordapp.net/attachments/1311415707371700345/1311415707568836809/image.png?ex=6a99cc8d&is=6a987b0d&hm=def2e68a88722b86d31769e23aff6c5e7474c1d39c2d052aeb68e0a0c026797f&
     author:
       name: kebs
     tags:
@@ -582,7 +596,7 @@ listings:
     assets:
       - name: LoLBackgroundUnlocker.js
         size: 6216
-        downloadUrl: https://cdn.discordapp.com/attachments/1311415707371700345/1311415708143583355/LoLBackgroundUnlocker.js?ex=6a9923cd&is=6a97d24d&hm=09c0dd92e044d8ca86b3a2cd2c6c538b8e1aa6c9c445fa307d6bd0a4103c98a3&
+        downloadUrl: https://cdn.discordapp.com/attachments/1311415707371700345/1311415708143583355/LoLBackgroundUnlocker.js?ex=6a99cc8d&is=6a987b0d&hm=893d7f0e90ef6332f4b500d664a5105b3a5520f0448d1df9651117569c6975bf&
         contentType: application/javascript; charset=utf-8
     enriched: true
   - id: "1469142886330273884"
@@ -1303,7 +1317,7 @@ listings:
     assets:
       - name: removecrystal.js
         size: 1126
-        downloadUrl: https://cdn.discordapp.com/attachments/1487535639128965121/1487535639883944108/removecrystal.js?ex=6a992345&is=6a97d1c5&hm=5c1972f3e11af90c3ee1e7996769f72dc6ecb243ec419b9cf4aed0820f3cf786&
+        downloadUrl: https://cdn.discordapp.com/attachments/1487535639128965121/1487535639883944108/removecrystal.js?ex=6a99cc05&is=6a987a85&hm=24f2d6649cf9027ee1842dc4b56487ae2bb7c963213a2714be6ce96f14616aee&
         contentType: text/javascript; charset=utf-8
     enriched: true
   - id: "1476062717579231385"
@@ -1401,7 +1415,7 @@ listings:
     releaseUrl: https://github.com/cuongnguyen207/wuwa-theme-lol/releases/tag/custome-themes-lol
     releaseTag: custome-themes-lol
     releaseName: Wuthering Waves Themes
-    image: https://media.discordapp.net/attachments/1524137061119037490/1524137061735596094/Screenshot_18.png?ex=6a992380&is=6a97d200&hm=694cb2b99eddedd1d8008dc47a909fcfdb41c2b4fb8c71985c5bc0912f6f4bda&
+    image: https://media.discordapp.net/attachments/1524137061119037490/1524137061735596094/Screenshot_18.png?ex=6a99cc40&is=6a987ac0&hm=2e04a03c76858fbe093b2f1696ae4b3038bd25310c56b80b24d7924c4a39720c&
     author:
       name: cuongnguyen207
       avatar: https://avatars.githubusercontent.com/u/213099361?v=4
@@ -1539,7 +1553,7 @@ listings:
     assets:
       - name: Hide_Nonsense2.js
         size: 8079
-        downloadUrl: https://cdn.discordapp.com/attachments/1395902555095171225/1440040589490917507/Hide_Nonsense2.js?ex=6a990e8f&is=6a97bd0f&hm=a775f5881052755a7a6c10892bb9edfd5bb28385694ea3522772fb5e39006eb2&
+        downloadUrl: https://cdn.discordapp.com/attachments/1395902555095171225/1440040589490917507/Hide_Nonsense2.js?ex=6a99b74f&is=6a9865cf&hm=00db4b09656dcfaa107914f26338fd362495dd08d91197d7928df30748a06140&
         contentType: text/javascript; charset=utf-8
     enriched: true
   - id: "1476888210436001904"
@@ -1649,7 +1663,7 @@ listings:
     name: Balaclava Plugins! [13/05/2026]
     description: My plugins for Pengu Loader! :)
     repo: https://github.com/controlado/pengu-plugins
-    image: https://media.discordapp.net/attachments/1109009446023217193/1110094360390946908/ezgif-2-9ed966a32e.png?ex=6a9915f0&is=6a97c470&hm=b3c43fb9507df08be8dd66fc3d2361aa2daafe40ce0867ff57287cd0e9a1447b&
+    image: https://media.discordapp.net/attachments/1109009446023217193/1110094360390946908/ezgif-2-9ed966a32e.png?ex=6a99beb0&is=6a986d30&hm=6bfe483a8e0161822a8decdcba19ef48f30a454bb67819a4947022c0c7d37cc8&
     author:
       name: controlado
       avatar: https://avatars.githubusercontent.com/u/71716568?v=4
@@ -2089,7 +2103,7 @@ listings:
     releaseUrl: https://github.com/oMaikeru/PureBlack-Theme/releases/tag/v0.4
     releaseTag: v0.4
     releaseName: v0.4
-    image: https://media.discordapp.net/attachments/1107021081207914566/1107021081442783242/black-theme.PNG?ex=6a991c79&is=6a97caf9&hm=a630aab28ba8151e69ae11f32be6a64908869a2780fef164f48050d13a07c742&
+    image: https://media.discordapp.net/attachments/1107021081207914566/1107021081442783242/black-theme.PNG?ex=6a99c539&is=6a9873b9&hm=38f64ac9f4f14cc0546b3a1566c1901edd957ad1edb5d2b5e5dabcdcc871e216&
     author:
       name: oMaikeru
       avatar: https://avatars.githubusercontent.com/u/76801149?v=4
