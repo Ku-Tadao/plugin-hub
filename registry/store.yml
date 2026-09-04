@@ -1,6 +1,6 @@
 name: Pengu Community Store registry
 version: 1
-generatedAt: 2026-09-04T18:06:52.889Z
+generatedAt: 2026-09-04T20:55:43.281Z
 source:
   guildId: "1069483280438673418"
   forums:
@@ -309,7 +309,7 @@ listings:
     releaseTag: v1.1.0
     releaseName: "v1.1.0 - Snooze-Manager v1.1.0: 7 languages, new module,
       Auto-Select overhaul & various bug fixes and improvements"
-    image: https://media.discordapp.net/attachments/1512550218044805150/1512550376509931742/6kkx030.png?ex=6a9bcf8f&is=6a9a7e0f&hm=d8b96fbb7123b48b4c8e2276e87523eabcb28adb7b3d27e9d0233dfdd50851e1&
+    image: https://media.discordapp.net/attachments/1512550218044805150/1512550376509931742/6kkx030.png?ex=6a9c784f&is=6a9b26cf&hm=6496fd19c2df2b6679d9d73a861e106f8c6bc4de08c0b5037ad9e26b4fd988d8&
     author:
       name: ReformedDoge
       avatar: https://avatars.githubusercontent.com/u/39759213?v=4
@@ -444,7 +444,7 @@ listings:
         contentType: text/javascript; charset=utf-8
       - name: NoCloseMessage.js
         size: 4163
-        downloadUrl: https://cdn.discordapp.com/attachments/1520847793256927293/1520869718758654002/NoCloseMessage.js?ex=6a9bc10d&is=6a9a6f8d&hm=02c5410eda0464dcf3709989ed99e8760b3543afa956c3e7f55ee368088d0cd1&
+        downloadUrl: https://cdn.discordapp.com/attachments/1520847793256927293/1520869718758654002/NoCloseMessage.js?ex=6a9c69cd&is=6a9b184d&hm=fea8fb2dbf3111e630b02f36d460484323b4d64eada6e3cc63f88999b4d6e909&
         contentType: text/javascript; charset=utf-8
     enriched: true
   - id: "1240541534663868426"
@@ -539,7 +539,7 @@ listings:
     releaseUrl: https://github.com/kyso1/KysoTheme/releases/tag/v3.5.1
     releaseTag: v3.5.1
     releaseName: v3.5.1
-    image: https://media.discordapp.net/attachments/1507291423840407613/1507291424301776957/Screenshot_1.png?ex=6a9bcb87&is=6a9a7a07&hm=8320ecedac34d76363413c7fb0601dda4f5059c5cc48200581919566669e38c7&
+    image: https://media.discordapp.net/attachments/1507291423840407613/1507291424301776957/Screenshot_1.png?ex=6a9c7447&is=6a9b22c7&hm=718f8ce916af685120d9cb3ddd00358f044bd84721919807afef65afc07567b4&
     author:
       name: kyso1
       avatar: https://avatars.githubusercontent.com/u/128049220?v=4
@@ -583,7 +583,7 @@ listings:
     description: "Unlock all backgrounds easily. Just press the background picker
       button, and you'll be able to choose any skin you like, as if you owned
       them all Source: < Download is below, not the source ⬇️ ⬇️ ⬇️"
-    image: https://media.discordapp.net/attachments/1311415707371700345/1311415707568836809/image.png?ex=6a9bc6cd&is=6a9a754d&hm=c454d71f961f1997ae52e7f30d70ba02f9d866db0d594a45195ecdbbea5a1b80&
+    image: https://media.discordapp.net/attachments/1311415707371700345/1311415707568836809/image.png?ex=6a9c6f8d&is=6a9b1e0d&hm=df04daccee6243bd13ecd241a6ef55fd1aa441ed5285738ee4e9c5ba7a143204&
     author:
       name: kebs
     tags:
@@ -596,7 +596,7 @@ listings:
     assets:
       - name: LoLBackgroundUnlocker.js
         size: 6216
-        downloadUrl: https://cdn.discordapp.com/attachments/1311415707371700345/1311415708143583355/LoLBackgroundUnlocker.js?ex=6a9bc6cd&is=6a9a754d&hm=d796641dd0ab5b93b001d4e0066e9f30c7ca980674dcf3b71ce511305c1a2795&
+        downloadUrl: https://cdn.discordapp.com/attachments/1311415707371700345/1311415708143583355/LoLBackgroundUnlocker.js?ex=6a9c6f8d&is=6a9b1e0d&hm=d8c5f2aff2e9e75da5789a5455da67f1a660d5594f42ca0543867f5fc2f6e77e&
         contentType: application/javascript; charset=utf-8
     enriched: true
   - id: "1469142886330273884"
@@ -914,7 +914,7 @@ listings:
     releaseUrl: https://github.com/Yimikami/pengu-plugins/releases/tag/PenguFamily_v0.1.0
     releaseTag: PenguFamily_v0.1.0
     releaseName: Pengu Family v0.1.0
-    image: https://media.discordapp.net/attachments/1497146237273641040/1497146238745972816/image.png?ex=6a9bcd16&is=6a9a7b96&hm=1926d68fb72125d017f96239b15ead7cd441d6e13ebcd0dac7ab10304ece69ef&
+    image: https://media.discordapp.net/attachments/1497146237273641040/1497146238745972816/image.png?ex=6a9c75d6&is=6a9b2456&hm=a59288a6cb085243387b00ee64d93d9bc3297a1c1bcc16bffa9701185aac70ec&
     author:
       name: Yimikami
       avatar: https://avatars.githubusercontent.com/u/39545057?v=4
@@ -967,7 +967,7 @@ listings:
     releaseUrl: https://github.com/Yimikami/pengu-plugins/releases/tag/PenguFamily_v0.1.0
     releaseTag: PenguFamily_v0.1.0
     releaseName: Pengu Family v0.1.0
-    image: https://media.discordapp.net/attachments/1472183865379389444/1496249294418612344/0330C317-A78E-416F-AC36-FE6739688A1F.png?ex=6a9bd57e&is=6a9a83fe&hm=57e3b594d5ea38fee43dccf731034638ed49e56dd5251c068660db4cb7d4495e&
+    image: https://media.discordapp.net/attachments/1472183865379389444/1496249294418612344/0330C317-A78E-416F-AC36-FE6739688A1F.png?ex=6a9c7e3e&is=6a9b2cbe&hm=b882b540d40d8f4157292d8cd2bf40eab80eb86a8bdec44123c9e59c593a7497&
     author:
       name: Yimikami
       avatar: https://avatars.githubusercontent.com/u/39545057?v=4
@@ -1317,7 +1317,7 @@ listings:
     assets:
       - name: removecrystal.js
         size: 1126
-        downloadUrl: https://cdn.discordapp.com/attachments/1487535639128965121/1487535639883944108/removecrystal.js?ex=6a9bc645&is=6a9a74c5&hm=6588a99214a975c5ff51dadefd196ef43ff13283626b7f5452c844ee606a5778&
+        downloadUrl: https://cdn.discordapp.com/attachments/1487535639128965121/1487535639883944108/removecrystal.js?ex=6a9c6f05&is=6a9b1d85&hm=a9b84fd6f820512677250be9b376c299930ca7f76677d5e3e9d888ea9292dea2&
         contentType: text/javascript; charset=utf-8
     enriched: true
   - id: "1476062717579231385"
@@ -1415,7 +1415,7 @@ listings:
     releaseUrl: https://github.com/cuongnguyen207/wuwa-theme-lol/releases/tag/custome-themes-lol
     releaseTag: custome-themes-lol
     releaseName: Wuthering Waves Themes
-    image: https://media.discordapp.net/attachments/1524137061119037490/1524137061735596094/Screenshot_18.png?ex=6a9bc680&is=6a9a7500&hm=087fa67b1d5ee4d65953fcce67c38854bb111e95d20102158e07e516c9f5234d&
+    image: https://media.discordapp.net/attachments/1524137061119037490/1524137061735596094/Screenshot_18.png?ex=6a9c6f40&is=6a9b1dc0&hm=fc878edfbe91aa743b81e340611aebdf6cc41decf1cd10a4444f084d85721482&
     author:
       name: cuongnguyen207
       avatar: https://avatars.githubusercontent.com/u/213099361?v=4
@@ -1468,7 +1468,7 @@ listings:
     description: Animated particle cursor effects for the League of Legends client —
       Penguloader plugin
     repo: https://github.com/nt3y/cursor-pack-penguloader
-    image: https://media.discordapp.net/attachments/1484279090830905394/1484279092202307736/image.png?ex=6a9bcae0&is=6a9a7960&hm=33d70da4283bd6269ad755e6318b26e7b7af9e2eeb373c93071f453883913e4c&
+    image: https://media.discordapp.net/attachments/1484279090830905394/1484279092202307736/image.png?ex=6a9c73a0&is=6a9b2220&hm=4d5bc8a00e68cd7862ddb0d602b326f1d8814363139f9a494f7fef6235bb2296&
     author:
       name: nt3y
       avatar: https://avatars.githubusercontent.com/u/269317310?v=4
@@ -1553,7 +1553,7 @@ listings:
     assets:
       - name: Hide_Nonsense2.js
         size: 8079
-        downloadUrl: https://cdn.discordapp.com/attachments/1395902555095171225/1440040589490917507/Hide_Nonsense2.js?ex=6a9bb18f&is=6a9a600f&hm=238d292a28cfefb015093a26d2dec4bdc86aa6dd37542b712b28c1112f5274e2&
+        downloadUrl: https://cdn.discordapp.com/attachments/1395902555095171225/1440040589490917507/Hide_Nonsense2.js?ex=6a9c5a4f&is=6a9b08cf&hm=230c3f4c22218f0a52cb4c94e66cbf9c619e86ad43a6f65c5d6bbcb787b822bd&
         contentType: text/javascript; charset=utf-8
     enriched: true
   - id: "1476888210436001904"
@@ -1584,7 +1584,7 @@ listings:
     releaseUrl: https://github.com/hadixcanimm/taric48/releases/tag/gamelauncher
     releaseTag: gamelauncher
     releaseName: "Taric 48 Game Launcher "
-    image: https://media.discordapp.net/attachments/1469972117306212639/1469972117549486178/image.png?ex=6a9bd1b7&is=6a9a8037&hm=12dda7530df9be7f3ee4cff1348efd6e44c82e7382bbdaba619736e6e5a84fbe&
+    image: https://media.discordapp.net/attachments/1469972117306212639/1469972117549486178/image.png?ex=6a9c7a77&is=6a9b28f7&hm=f62f5f1d27271288e60392991f0e6c8687b8686c854438a3e21b7c980ee817de&
     author:
       name: hadixcanimm
       avatar: https://avatars.githubusercontent.com/u/114208757?v=4
@@ -1663,7 +1663,7 @@ listings:
     name: Balaclava Plugins! [13/05/2026]
     description: My plugins for Pengu Loader! :)
     repo: https://github.com/controlado/pengu-plugins
-    image: https://media.discordapp.net/attachments/1109009446023217193/1110094360390946908/ezgif-2-9ed966a32e.png?ex=6a9bb8f0&is=6a9a6770&hm=37d777b730da5593606d270e59255d3f2d1d538d883d86eddef9d223611a2077&
+    image: https://media.discordapp.net/attachments/1109009446023217193/1110094360390946908/ezgif-2-9ed966a32e.png?ex=6a9c61b0&is=6a9b1030&hm=6fd676857c26da75fba273cfbd5699e02984e38d1b73fe3e76c072f9828934ca&
     author:
       name: controlado
       avatar: https://avatars.githubusercontent.com/u/71716568?v=4
@@ -2049,7 +2049,7 @@ listings:
     releaseUrl: https://github.com/Humildeficador/DisableQueues/releases/tag/1.0
     releaseTag: "1.0"
     releaseName: v1.0
-    image: https://media.discordapp.net/attachments/1200544287817994240/1200544288119996557/Screenshot_1.png?ex=6a9bd8bf&is=6a9a873f&hm=8f509e75639d645616281c41b65edf82c02747d488c2d3fe69174a9c724fe830&
+    image: https://media.discordapp.net/attachments/1200544287817994240/1200544288119996557/Screenshot_1.png?ex=6a9c817f&is=6a9b2fff&hm=0631a80fe4ed776d7ec1f1047019e771f771e3f2743f2278c3dd3164569774a6&
     author:
       name: Humildeficador
       avatar: https://avatars.githubusercontent.com/u/130767630?v=4
@@ -2103,7 +2103,7 @@ listings:
     releaseUrl: https://github.com/oMaikeru/PureBlack-Theme/releases/tag/v0.4
     releaseTag: v0.4
     releaseName: v0.4
-    image: https://media.discordapp.net/attachments/1107021081207914566/1107021081442783242/black-theme.PNG?ex=6a9bbf79&is=6a9a6df9&hm=f2d559adbc769804b64568ec88b095350cd3bff7b862f9c110f7e2dba1419d68&
+    image: https://media.discordapp.net/attachments/1107021081207914566/1107021081442783242/black-theme.PNG?ex=6a9c6839&is=6a9b16b9&hm=de8cc4d53034536d0cf0115aaf3da12685e04fdae96d363bc16e03e191422d70&
     author:
       name: oMaikeru
       avatar: https://avatars.githubusercontent.com/u/76801149?v=4
