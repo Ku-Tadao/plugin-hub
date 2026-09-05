@@ -1,7 +1,7 @@
 {
   "name": "Pengu Community Store registry",
   "version": 1,
-  "generatedAt": "2026-09-05T15:47:05.443Z",
+  "generatedAt": "2026-09-05T17:55:56.805Z",
   "source": {
     "guildId": "1069483280438673418",
     "forums": [
@@ -245,7 +245,7 @@
       "kind": "plugins",
       "name": "No close client message",
       "description": "This plugin automatically confirms the League Client exit dialog. - Source code: Cooming soon, i'm lazy - Download: Github url cooming soon, i'm lazy",
-      "image": "https://media.discordapp.net/attachments/1520847793256927293/1520847793411981413/57nwhtn.png?ex=6a9cfe21&is=6a9baca1&hm=007ccf41c191c71a08eb2e5a283a6b11e93d225aba1035c06f74cabae4804987&",
+      "image": "https://media.discordapp.net/attachments/1520847793256927293/1520847793411981413/57nwhtn.png?ex=6a9da6e1&is=6a9c5561&hm=b6f30e00799c82fa70de9be7f3488644a1d08b5ac3abeed22737388e5252b2e0&",
       "author": {
         "name": "Elaina"
       },
@@ -259,7 +259,7 @@
         {
           "name": "NoCloseMessage.js",
           "size": 3475,
-          "downloadUrl": "https://cdn.discordapp.com/attachments/1520847793256927293/1520847873980371034/NoCloseMessage.js?ex=6a9cfe35&is=6a9bacb5&hm=3f8bdb4fad5de4718f60af598553f49912a9cf0304ac1f8ed4e31dfe5c93dd75&",
+          "downloadUrl": "https://cdn.discordapp.com/attachments/1520847793256927293/1520847873980371034/NoCloseMessage.js?ex=6a9da6f5&is=6a9c5575&hm=30e0dc5bca035a437eb303b86ea1ed6347134e392f9529b07cd22f0c760a4628&",
           "contentType": "text/javascript; charset=utf-8"
         },
         {
@@ -281,7 +281,7 @@
       "releaseUrl": "https://github.com/kyso1/KysoTheme/releases/tag/v3.5.1",
       "releaseTag": "v3.5.1",
       "releaseName": "v3.5.1",
-      "image": "https://media.discordapp.net/attachments/1240541534663868426/1240541534869262376/image.png?ex=6a9cfed6&is=6a9bad56&hm=5589c6598c711e03bdfac3459b79d811c94e430e07c028f2ae01f6505eafadce&",
+      "image": "https://media.discordapp.net/attachments/1240541534663868426/1240541534869262376/image.png?ex=6a9da796&is=6a9c5616&hm=7a82645f117c3ef7f4b4cb0db4592374e337155a007b5a07f717709b6dbd3172&",
       "author": {
         "name": "kyso1",
         "avatar": "https://avatars.githubusercontent.com/u/128049220?v=4",
@@ -511,7 +511,7 @@
       "releaseUrl": "https://github.com/Elaina69/Elaina-theme/releases/tag/v4.5.1",
       "releaseTag": "v4.5.1",
       "releaseName": "",
-      "image": "https://media.discordapp.net/attachments/1373696348284653628/1373696348653617315/fh98jYI.png?ex=6a9ce9ab&is=6a9b982b&hm=314a14e7e467219ed1fb852e24878b4f544e96b3950a0dea8b6742c77fda12d0&",
+      "image": "https://media.discordapp.net/attachments/1373696348284653628/1373696348653617315/fh98jYI.png?ex=6a9d926b&is=6a9c40eb&hm=cb3b13c1a7a5755322c4f8d6f7176967973a18d828e57f93899f112979fb9006&",
       "author": {
         "name": "Elaina69",
         "avatar": "https://avatars.githubusercontent.com/u/94338907?v=4",
@@ -697,7 +697,7 @@
       "releaseUrl": "https://github.com/Yimikami/pengu-plugins/releases/tag/PenguFamily_v0.1.0",
       "releaseTag": "PenguFamily_v0.1.0",
       "releaseName": "Pengu Family v0.1.0",
-      "image": "https://media.discordapp.net/attachments/1411366905247170621/1411743618388983931/image.png?ex=6a9ce673&is=6a9b94f3&hm=f2274e3e0ee356eb2c25517a5737d8d026f36cabae6e636c758a326297c5229e&",
+      "image": "https://media.discordapp.net/attachments/1411366905247170621/1411743618388983931/image.png?ex=6a9d8f33&is=6a9c3db3&hm=9f23f12b0030c0114572b35c5767c3c494cf1f05e83d4fc129805e4810d9cf24&",
       "author": {
         "name": "Yimikami",
         "avatar": "https://avatars.githubusercontent.com/u/39545057?v=4",
@@ -834,7 +834,7 @@
       "name": "Spotify Controller - In-game playback controls",
       "description": "A lightweight Spotify controller integrated directly into the League of Legends client using Pengu Loader. This project consists of two parts: a local Node.js authentication server and a client-side plugin.",
       "repo": "https://github.com/GogoChad/spotify-media-player",
-      "image": "https://media.discordapp.net/attachments/1499090537427243129/1499090537792143492/image.png?ex=6a9cf11b&is=6a9b9f9b&hm=b928c3a45a36802329c39341fff85d9be32aa755728f5bcdce95d68e01a69526&",
+      "image": "https://media.discordapp.net/attachments/1499090537427243129/1499090537792143492/image.png?ex=6a9d99db&is=6a9c485b&hm=c5123aca5f4ff4b3c192287df557e76efbc04ec38d4d82012ba3427d265f6c04&",
       "author": {
         "name": "GogoChad",
         "avatar": "https://avatars.githubusercontent.com/u/133820564?v=4",
@@ -1604,7 +1604,7 @@
       "name": "ScarletRed",
       "description": "ScarletRed theme ( Original from ElainaV3) for Pengu loader",
       "repo": "https://github.com/R3mia/ScarletRed",
-      "image": "https://media.discordapp.net/attachments/1183799859342483476/1183799859707379803/image.png?ex=6a9ce4c8&is=6a9b9348&hm=76dcf9b3ea799d2c06feaaf7668e1ecdba73e2e984b1be11face4a089fe10438&",
+      "image": "https://media.discordapp.net/attachments/1183799859342483476/1183799859707379803/image.png?ex=6a9d8d88&is=6a9c3c08&hm=91729399090d5465aaec14a4a0615932b3df0aaf4582efc5dcf369fd03f9ce42&",
       "author": {
         "name": "R3mia",
         "avatar": "https://avatars.githubusercontent.com/u/72246166?v=4",
@@ -1715,7 +1715,7 @@
       "releaseUrl": "https://github.com/nomi-san/ahri-theme/releases/tag/240221",
       "releaseTag": "240221",
       "releaseName": "ahri-theme-240221",
-      "image": "https://media.discordapp.net/attachments/1095736862187991232/1095736862741635283/68747470733a2f2f692e696d6775722e636f6d2f74617a504e484e2e706e67.png?ex=6a9ce239&is=6a9b90b9&hm=7fd3f01bded0aa1bc035d37e1524ffcdfdffbd43aba9da5d536784b80f0daafa&",
+      "image": "https://media.discordapp.net/attachments/1095736862187991232/1095736862741635283/68747470733a2f2f692e696d6775722e636f6d2f74617a504e484e2e706e67.png?ex=6a9d8af9&is=6a9c3979&hm=bdc74f4752939a5b951a7bd18296531da7292d683ebd0fac9b5fb0f44b6eb9fd&",
       "author": {
         "name": "nomi-san",
         "avatar": "https://avatars.githubusercontent.com/u/38210249?v=4",
