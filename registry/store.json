@@ -1,7 +1,7 @@
 {
   "name": "Pengu Community Store registry",
   "version": 1,
-  "generatedAt": "2026-09-12T15:43:49.498Z",
+  "generatedAt": "2026-09-12T18:06:51.007Z",
   "source": {
     "guildId": "1069483280438673418",
     "forums": [
@@ -43,7 +43,7 @@
       "kind": "plugins",
       "name": "Automessage lol - lobby - champ select - message priv (Beta)",
       "description": "interface at ctrl + k, beta plugin",
-      "image": "https://media.discordapp.net/attachments/1546008176598585414/1546008176812625970/image.png?ex=6aa620d0&is=6aa4cf50&hm=cee4a977f96d3017c39029e546c70fc0854db264921c466989e04058ff5192f2&",
+      "image": "https://media.discordapp.net/attachments/1546008176598585414/1546008176812625970/image.png?ex=6aa6c990&is=6aa57810&hm=6dbd4fb6855c9e4a0f281bfecac1c7c454fbb0c447b47f60aa918f5ffebe9134&",
       "author": {
         "name": "knmollpy"
       },
@@ -57,7 +57,7 @@
         {
           "name": "automessage_knmollpy.js",
           "size": 58958,
-          "downloadUrl": "https://cdn.discordapp.com/attachments/1546008176598585414/1546008177814929418/automessage_knmollpy.js?ex=6aa620d1&is=6aa4cf51&hm=4c58edf1898a82347997d19c9286b5b9e7a48190840dd077fabf27d030eae95e&",
+          "downloadUrl": "https://cdn.discordapp.com/attachments/1546008176598585414/1546008177814929418/automessage_knmollpy.js?ex=6aa6c991&is=6aa57811&hm=00ce8eb649c446cfc8ece5fc0d9bb391088319bcffaa0c78aa407200ad8d6dfa&",
           "contentType": "text/javascript; charset=utf-8"
         }
       ],
@@ -101,7 +101,7 @@
       "name": "[v1.1.0] DailyChallenge - random champion, role, full rune page and completed items",
       "description": "test yourself with the champion challenge, items, runes, fragments, all random, can you still win?",
       "repo": "https://github.com/knmollpy/DailyChallenge",
-      "image": "https://media.discordapp.net/attachments/1541145552769646772/1541145553566699650/image.png?ex=6aa63c65&is=6aa4eae5&hm=b2e5c638df57c88a6c70e5d9bbc47f7a04466c241b2d6acbaaa410e4de8772d3&",
+      "image": "https://media.discordapp.net/attachments/1541145552769646772/1541145553566699650/image.png?ex=6aa6e525&is=6aa593a5&hm=58db65266871515e3239727dc408c87b1ebccac0156aa9ef01e4961b13cc0207&",
       "author": {
         "name": "knmollpy",
         "avatar": "https://avatars.githubusercontent.com/u/318836104?v=4",
@@ -270,7 +270,7 @@
       "kind": "plugins",
       "name": "No close client message",
       "description": "This plugin automatically confirms the League Client exit dialog. - Source code: Cooming soon, i'm lazy - Download: Github url cooming soon, i'm lazy",
-      "image": "https://media.discordapp.net/attachments/1520847793256927293/1520847793411981413/57nwhtn.png?ex=6aa638a1&is=6aa4e721&hm=9e6cef9d842cc1d8a3cd08e1bc5c01f0fb64e81a3e973eda0a597d39a621b58a&",
+      "image": "https://media.discordapp.net/attachments/1520847793256927293/1520847793411981413/57nwhtn.png?ex=6aa6e161&is=6aa58fe1&hm=1c673422fcdb37464aee1e5606c654b365f4d7dc2039ae3caa4afd4261e6d638&",
       "author": {
         "name": "Elaina"
       },
@@ -284,7 +284,7 @@
         {
           "name": "NoCloseMessage.js",
           "size": 3475,
-          "downloadUrl": "https://cdn.discordapp.com/attachments/1520847793256927293/1520847873980371034/NoCloseMessage.js?ex=6aa638b5&is=6aa4e735&hm=5f79c87fff26586f17d8dfdb71cec3c04cb22bbea62087f0ff564d6c7bb1ebb4&",
+          "downloadUrl": "https://cdn.discordapp.com/attachments/1520847793256927293/1520847873980371034/NoCloseMessage.js?ex=6aa6e175&is=6aa58ff5&hm=df3d2fc14b9b4671401af7d9bf5d6194956ce28cd18facfc44cc3a79e66406a4&",
           "contentType": "text/javascript; charset=utf-8"
         },
         {
@@ -306,7 +306,7 @@
       "releaseUrl": "https://github.com/kyso1/KysoTheme/releases/tag/v3.5.1",
       "releaseTag": "v3.5.1",
       "releaseName": "v3.5.1",
-      "image": "https://media.discordapp.net/attachments/1240541534663868426/1240541534869262376/image.png?ex=6aa63956&is=6aa4e7d6&hm=84089c7954ceddd1b5fe4766773d799c13b783bf0fef835ff6292a523cf7821e&",
+      "image": "https://media.discordapp.net/attachments/1240541534663868426/1240541534869262376/image.png?ex=6aa6e216&is=6aa59096&hm=e39f4f551b6f2436046f56df8cd0c6432d0cffa75f8e7bef48a0805b970a6b56&",
       "author": {
         "name": "kyso1",
         "avatar": "https://avatars.githubusercontent.com/u/128049220?v=4",
@@ -536,7 +536,7 @@
       "releaseUrl": "https://github.com/Elaina69/Elaina-theme/releases/tag/v4.5.1",
       "releaseTag": "v4.5.1",
       "releaseName": "",
-      "image": "https://media.discordapp.net/attachments/1373696348284653628/1373696348653617315/fh98jYI.png?ex=6aa6242b&is=6aa4d2ab&hm=bd46b7c70c308cdef71841682b09b851c72a13dc5200ec28e3340d11b237b8a3&",
+      "image": "https://media.discordapp.net/attachments/1373696348284653628/1373696348653617315/fh98jYI.png?ex=6aa6cceb&is=6aa57b6b&hm=22901bf24d5f0bb258b8d2951b77b7f34c553c068a8bb3270e100917d665e667&",
       "author": {
         "name": "Elaina69",
         "avatar": "https://avatars.githubusercontent.com/u/94338907?v=4",
@@ -722,7 +722,7 @@
       "releaseUrl": "https://github.com/Yimikami/pengu-plugins/releases/tag/PenguFamily_v0.1.0",
       "releaseTag": "PenguFamily_v0.1.0",
       "releaseName": "Pengu Family v0.1.0",
-      "image": "https://media.discordapp.net/attachments/1411366905247170621/1411743618388983931/image.png?ex=6aa620f3&is=6aa4cf73&hm=642c576de986403b95f6a788eb55f915b8e8edbab277ba5967d815af4a5b8244&",
+      "image": "https://media.discordapp.net/attachments/1411366905247170621/1411743618388983931/image.png?ex=6aa6c9b3&is=6aa57833&hm=5846086a44b68467e3d44e3cb59c83eaa01a0590bb13ac1388fb527ba80ee1bb&",
       "author": {
         "name": "Yimikami",
         "avatar": "https://avatars.githubusercontent.com/u/39545057?v=4",
@@ -859,7 +859,7 @@
       "name": "Spotify Controller - In-game playback controls",
       "description": "A lightweight Spotify controller integrated directly into the League of Legends client using Pengu Loader. This project consists of two parts: a local Node.js authentication server and a client-side plugin.",
       "repo": "https://github.com/GogoChad/spotify-media-player",
-      "image": "https://media.discordapp.net/attachments/1499090537427243129/1499090537792143492/image.png?ex=6aa62b9b&is=6aa4da1b&hm=3b61b5a68649c6d40a8294bcbb7570b3189a604ccd21bd45381b1448b6c930ad&",
+      "image": "https://media.discordapp.net/attachments/1499090537427243129/1499090537792143492/image.png?ex=6aa6d45b&is=6aa582db&hm=956a71d7797a825b9a6ddcbe2f2b2496aff5290dc3a45bbeafbf88d803aff725&",
       "author": {
         "name": "GogoChad",
         "avatar": "https://avatars.githubusercontent.com/u/133820564?v=4",
@@ -1590,7 +1590,7 @@
       "name": "ScarletRed",
       "description": "ScarletRed theme ( Original from ElainaV3) for Pengu loader",
       "repo": "https://github.com/R3mia/ScarletRed",
-      "image": "https://media.discordapp.net/attachments/1183799859342483476/1183799859707379803/image.png?ex=6aa61f48&is=6aa4cdc8&hm=e3efdaab03a744b2298da5fb2bbccf2b01f50f6ac77eecb87195c8379b3d0b10&",
+      "image": "https://media.discordapp.net/attachments/1183799859342483476/1183799859707379803/image.png?ex=6aa6c808&is=6aa57688&hm=acf0a1031d186419566180b8cecd6fc6740dde486c86a1228259d49af36f0c73&",
       "author": {
         "name": "R3mia",
         "avatar": "https://avatars.githubusercontent.com/u/72246166?v=4",
@@ -1701,7 +1701,7 @@
       "releaseUrl": "https://github.com/nomi-san/ahri-theme/releases/tag/240221",
       "releaseTag": "240221",
       "releaseName": "ahri-theme-240221",
-      "image": "https://media.discordapp.net/attachments/1095736862187991232/1095736862741635283/68747470733a2f2f692e696d6775722e636f6d2f74617a504e484e2e706e67.png?ex=6aa61cb9&is=6aa4cb39&hm=7b82225f1f51b6bc5c4a9d27a6cc3e2761b7159c7d9127e78ec5108e50a9d90a&",
+      "image": "https://media.discordapp.net/attachments/1095736862187991232/1095736862741635283/68747470733a2f2f692e696d6775722e636f6d2f74617a504e484e2e706e67.png?ex=6aa6c579&is=6aa573f9&hm=d71d4111d6af52e1b8343b782c6f9f75599e4c98918a5822da21cfbcefbf98b8&",
       "author": {
         "name": "nomi-san",
         "avatar": "https://avatars.githubusercontent.com/u/38210249?v=4",
