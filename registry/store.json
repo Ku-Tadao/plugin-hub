@@ -1,7 +1,7 @@
 {
   "name": "Pengu Community Store registry",
   "version": 1,
-  "generatedAt": "2026-09-18T21:25:17.830Z",
+  "generatedAt": "2026-09-18T23:28:30.978Z",
   "source": {
     "guildId": "1069483280438673418",
     "forums": [
@@ -891,6 +891,24 @@
       "enriched": true
     },
     {
+      "id": "1460597213301313733",
+      "kind": "plugins",
+      "name": "Champion Blacklist",
+      "description": "No description provided.",
+      "author": {
+        "name": "yimikami"
+      },
+      "tags": [
+        "Utility",
+        "Enhancement"
+      ],
+      "discordUrl": "https://discord.com/channels/1069483280438673418/1460597213301313733/1460597213301313733",
+      "upvotes": 6,
+      "updatedAt": "2026-01-13T11:31:52.235Z",
+      "assets": [],
+      "enriched": true
+    },
+    {
       "id": "1413095170475560960",
       "kind": "plugins",
       "name": "Hide Missions Button/Badge notification",
@@ -1234,38 +1252,6 @@
       "upvotes": 0,
       "updatedAt": "2023-10-23T15:25:01.377Z",
       "assets": [],
-      "enriched": true
-    },
-    {
-      "id": "1550565424796663829",
-      "kind": "plugins",
-      "name": "iilusion/pengumusic",
-      "description": "Plugin by <@261137941177303042",
-      "details": "",
-      "repo": "https://github.com/iIlusion/PenguMusic",
-      "releaseUrl": "https://github.com/iIlusion/PenguMusic/releases/tag/Release",
-      "releaseTag": "Release",
-      "releaseName": "PenguMusic (22/10/23)",
-      "image": "https://i.imgur.com/pV2Pvzr.png",
-      "author": {
-        "name": "iIlusion",
-        "avatar": "https://avatars.githubusercontent.com/u/49544373?v=4",
-        "github": "iIlusion"
-      },
-      "tags": [
-        "Misc"
-      ],
-      "discordUrl": "https://discord.com/channels/1069483280438673418/1550565424796663829/1550565424796663829",
-      "upvotes": 1,
-      "updatedAt": "2023-10-22T10:22:18Z",
-      "assets": [
-        {
-          "name": "PenguMusic.zip",
-          "size": 3687,
-          "downloadUrl": "https://github.com/iIlusion/PenguMusic/releases/download/Release/PenguMusic.zip",
-          "contentType": "application/x-zip-compressed"
-        }
-      ],
       "enriched": true
     },
     {
