@@ -1,7 +1,7 @@
 {
   "name": "Pengu Community Store registry",
   "version": 1,
-  "generatedAt": "2026-09-18T06:19:26.867Z",
+  "generatedAt": "2026-09-18T11:37:24.278Z",
   "source": {
     "guildId": "1069483280438673418",
     "forums": [
@@ -22,7 +22,7 @@
       "name": "AI assistant (13.2.0) - Advanced AI Chat, AI Provider Selection, Some models support images",
       "description": "A client-side AI implementation: it integrates free APIs from Gemini, OpenRouter, and Groq, and the AI ​​can process text and files such as PNG, JPG/JPEG, WEBP, GIF, and HEIC/HEIF.",
       "repo": "https://github.com/knmollpy/IA-lol-knmollpy",
-      "image": "https://media.discordapp.net/attachments/1544113457430012025/1544113457769746542/image.png?ex=6aadbcb8&is=6aac6b38&hm=a4869267281a9bd93ba777bd31484c8ffc7540484ebf257294ec1eb63a54c0cb&",
+      "image": "https://media.discordapp.net/attachments/1544113457430012025/1544113457769746542/image.png?ex=6aae6578&is=6aad13f8&hm=bcb34bf600fc954c886168b7b585a540781f14b8ef05bad5f051f5cc69c354a6&",
       "author": {
         "name": "knmollpy",
         "avatar": "https://avatars.githubusercontent.com/u/318836104?v=4",
@@ -154,7 +154,7 @@
       "releaseUrl": "https://github.com/ReformedDoge/Snooze-Manager/releases/tag/v1.1.0",
       "releaseTag": "v1.1.0",
       "releaseName": "v1.1.0 - Snooze-Manager v1.1.0: 7 languages, new module, Auto-Select overhaul & various bug fixes and improvements",
-      "image": "https://media.discordapp.net/attachments/1512550218044805150/1512550376509931742/6kkx030.png?ex=6aad9bcf&is=6aac4a4f&hm=0547fb48acb5364ea00217f84ec21c6873a2e553aad85aa6707c5b74dafcdcff&",
+      "image": "https://media.discordapp.net/attachments/1512550218044805150/1512550376509931742/6kkx030.png?ex=6aae448f&is=6aacf30f&hm=331a7acde143c13dcb24feb701340e6dc98a19a0a11deadc64ad2eb66a91269c&",
       "author": {
         "name": "ReformedDoge",
         "avatar": "https://avatars.githubusercontent.com/u/39759213?v=4",
@@ -259,7 +259,7 @@
         {
           "name": "index.js",
           "size": 4929,
-          "downloadUrl": "https://cdn.discordapp.com/attachments/1462451902028578940/1465476858241093662/index.js?ex=6aadbe2e&is=6aac6cae&hm=a803224149786254cd328ee4bf00ecb4ab53f99e74bf8545051fe9ec8e735757&",
+          "downloadUrl": "https://cdn.discordapp.com/attachments/1462451902028578940/1465476858241093662/index.js?ex=6aae66ee&is=6aad156e&hm=0c947f563a9d5965e1fccadf620140bc3ee90715e5c5dc1e170b4c9d3b0011e5&",
           "contentType": "text/javascript; charset=utf-8"
         }
       ],
@@ -290,7 +290,7 @@
         {
           "name": "NoCloseMessage.js",
           "size": 4163,
-          "downloadUrl": "https://cdn.discordapp.com/attachments/1520847793256927293/1520869718758654002/NoCloseMessage.js?ex=6aad8d4d&is=6aac3bcd&hm=5b4e5bd5ddab7f177b553d80f0b88ec96fde09f2f21dbd38c55150c51f33b91b&",
+          "downloadUrl": "https://cdn.discordapp.com/attachments/1520847793256927293/1520869718758654002/NoCloseMessage.js?ex=6aae360d&is=6aace48d&hm=372038fc225b2674742f895c7d48cc28b77ed1db530793beec40a481a32dda8b&",
           "contentType": "text/javascript; charset=utf-8"
         }
       ],
@@ -335,7 +335,7 @@
       "releaseUrl": "https://github.com/kyso1/KysoTheme/releases/tag/v3.5.1",
       "releaseTag": "v3.5.1",
       "releaseName": "v3.5.1",
-      "image": "https://media.discordapp.net/attachments/1507291423840407613/1507291424301776957/Screenshot_1.png?ex=6aad97c7&is=6aac4647&hm=5f57ccb95030c9b45f42695c647c88f6f07ba4aa6ef4227749bdd01d13c91084&",
+      "image": "https://media.discordapp.net/attachments/1507291423840407613/1507291424301776957/Screenshot_1.png?ex=6aae4087&is=6aacef07&hm=b3d671870e70753c64ae413366be52692e6375f9128c4e9ead1ecbed06acdd7f&",
       "author": {
         "name": "kyso1",
         "avatar": "https://avatars.githubusercontent.com/u/128049220?v=4",
@@ -359,7 +359,7 @@
       "kind": "plugins",
       "name": "Activity Center Toggle [redirect to play screen]",
       "description": "- Fully removes the League (Activity Center) - Redirects from the Activity Center to the Play screen - Removes Navbar button since it redirects anyways - Toggle on and off via Client General Interface Settings, if you at some point need to use it",
-      "image": "https://media.discordapp.net/attachments/1396060178545119263/1396060179815989399/image.png?ex=6aadac1c&is=6aac5a9c&hm=8ebd85d1b09cee39ad7dac2e2fa8d65a168add359ec886402af062b43badb1aa&",
+      "image": "https://media.discordapp.net/attachments/1396060178545119263/1396060179815989399/image.png?ex=6aae54dc&is=6aad035c&hm=dafe0dfddf082b40d3f65958358c35ecf2f50bbdf0e56eadfde9f38fae6fa341&",
       "author": {
         "name": "Eris Greyrat"
       },
@@ -385,7 +385,7 @@
       "kind": "plugins",
       "name": "LoLBackgroundUnlocker",
       "description": "Unlock all backgrounds easily. Just press the background picker button, and you'll be able to choose any skin you like, as if you owned them all Source: < Download is below, not the source ⬇️ ⬇️ ⬇️",
-      "image": "https://media.discordapp.net/attachments/1311415707371700345/1311415707568836809/image.png?ex=6aad930d&is=6aac418d&hm=47ce5adb7caf68902f20eb5fe7b824e3e9b045cbf90031a474c41485c06fce1f&",
+      "image": "https://media.discordapp.net/attachments/1311415707371700345/1311415707568836809/image.png?ex=6aae3bcd&is=6aacea4d&hm=90a6cf5fc668f3f0a27756c6b45bfb8d2bf3de6df53fbc42665c93af9c68210b&",
       "author": {
         "name": "kebs"
       },
@@ -401,7 +401,7 @@
         {
           "name": "LoLBackgroundUnlocker.js",
           "size": 6216,
-          "downloadUrl": "https://cdn.discordapp.com/attachments/1311415707371700345/1311415708143583355/LoLBackgroundUnlocker.js?ex=6aad930d&is=6aac418d&hm=a0f051ad2a37d3eeb50ca206e5b4be06337d0d2083404b484d3c00d90fa9a1b1&",
+          "downloadUrl": "https://cdn.discordapp.com/attachments/1311415707371700345/1311415708143583355/LoLBackgroundUnlocker.js?ex=6aae3bcd&is=6aacea4d&hm=de0321942851766dd5b7bac9424eefe740481171177e209e10d6995e3ae9f0ee&",
           "contentType": "application/javascript; charset=utf-8"
         }
       ],
@@ -690,7 +690,7 @@
       "releaseUrl": "https://github.com/Yimikami/pengu-plugins/releases/tag/PenguFamily_v0.1.0",
       "releaseTag": "PenguFamily_v0.1.0",
       "releaseName": "Pengu Family v0.1.0",
-      "image": "https://media.discordapp.net/attachments/1497146237273641040/1497146238745972816/image.png?ex=6aad9956&is=6aac47d6&hm=544f46d27bceb8ad3289a0cf14e80115784b9e9e22320000893107001595e0f0&",
+      "image": "https://media.discordapp.net/attachments/1497146237273641040/1497146238745972816/image.png?ex=6aae4216&is=6aacf096&hm=8af80ff018f3e47011a0b30bcbe014f2f3c45ab03df43d9261d088e6d73524e3&",
       "author": {
         "name": "Yimikami",
         "avatar": "https://avatars.githubusercontent.com/u/39545057?v=4",
@@ -755,7 +755,7 @@
       "releaseUrl": "https://github.com/Yimikami/pengu-plugins/releases/tag/PenguFamily_v0.1.0",
       "releaseTag": "PenguFamily_v0.1.0",
       "releaseName": "Pengu Family v0.1.0",
-      "image": "https://media.discordapp.net/attachments/1472183865379389444/1496249294418612344/0330C317-A78E-416F-AC36-FE6739688A1F.png?ex=6aada1be&is=6aac503e&hm=7e8923a09eb108c11af03264c99ee4f00ac0478539f2c3ca5c31d49e74d068bb&",
+      "image": "https://media.discordapp.net/attachments/1472183865379389444/1496249294418612344/0330C317-A78E-416F-AC36-FE6739688A1F.png?ex=6aae4a7e&is=6aacf8fe&hm=2fd0c903e1e5277a381fa822929ddb4760b5467b82b65b98bd2f134864ef31ed&",
       "author": {
         "name": "Yimikami",
         "avatar": "https://avatars.githubusercontent.com/u/39545057?v=4",
@@ -831,7 +831,7 @@
       "kind": "plugins",
       "name": "Banner Customizer",
       "description": "Plugin that lets you display any banner in your lobby, including ones you don't own. Upload your own custom images or animated WebM files, or pick from any banner in the game. Works in the standard lobby, Arena hover tooltip, and your profile page. BNC Button in Lobby as always with my plugins. ⚠️ Client-side only — only you can see the change. Other players still see your actual equipped banner.",
-      "image": "https://media.discordapp.net/attachments/1499358177052069899/1499358177840467968/4hbdb93.png?ex=6aadbc5e&is=6aac6ade&hm=b72c79a049797a94d0677a94d520d21126a3ca73c014a2a9880817afd63f2ec4&",
+      "image": "https://media.discordapp.net/attachments/1499358177052069899/1499358177840467968/4hbdb93.png?ex=6aae651e&is=6aad139e&hm=e49cc7368b30658d970744a693af3f3b68672118d27a1f4d10a305e97efe3775&",
       "author": {
         "name": "Eris Greyrat"
       },
@@ -847,7 +847,7 @@
         {
           "name": "Banner-Customizer.js",
           "size": 56598,
-          "downloadUrl": "https://cdn.discordapp.com/attachments/1499358177052069899/1499358178658222220/Banner-Customizer.js?ex=6aadbc5e&is=6aac6ade&hm=48d147268e739eb340cb32f1636666ba35b131dc50d75dfc0529eff8fc62c7fd&",
+          "downloadUrl": "https://cdn.discordapp.com/attachments/1499358177052069899/1499358178658222220/Banner-Customizer.js?ex=6aae651e&is=6aad139e&hm=82fac89671048b23bf38f4954579f10f8c6f68356f62c5bafa7d6cbd13682d8e&",
           "contentType": "text/javascript; charset=utf-8"
         }
       ],
@@ -881,7 +881,7 @@
       "name": "OP.GG & U.GG Button Plugin",
       "description": "An custom JavaScript page for Pengu Loader",
       "repo": "https://github.com/GogoChad/opgg-button",
-      "image": "https://media.discordapp.net/attachments/1495203342400360459/1495203439347499059/image.png?ex=6aadc837&is=6aac76b7&hm=29d6e8ccba8ea5b450ed2bb55d82e4a9f29ecd9d94be30e842a5aad3213e34e8&",
+      "image": "https://media.discordapp.net/attachments/1495203342400360459/1495203439347499059/image.png?ex=6aae70f7&is=6aad1f77&hm=9e26f3ace7b4e9c7fd8b03c082bb273526c7224b7c75377b25466bc1fe4b4268&",
       "author": {
         "name": "GogoChad",
         "avatar": "https://avatars.githubusercontent.com/u/133820564?v=4",
@@ -980,7 +980,7 @@
       "releaseUrl": "https://github.com/Ventoba/3DSkinViewer/releases/tag/v1.0",
       "releaseTag": "v1.0",
       "releaseName": "v1.0",
-      "image": "https://media.discordapp.net/attachments/1490663854059950280/1490663854391427183/example2.PNG?ex=6aadbf26&is=6aac6da6&hm=4e623766b6ae41c84b804d45fa6fae4af4c353a974e3b68fb94aadada67915ba&",
+      "image": "https://media.discordapp.net/attachments/1490663854059950280/1490663854391427183/example2.PNG?ex=6aae67e6&is=6aad1666&hm=f75ba3adbcd73a5d24271859495abc7dfcc4a2d52f9ff761dd1cc39ebf9e50e8&",
       "author": {
         "name": "Ventoba",
         "avatar": "https://avatars.githubusercontent.com/u/96593577?v=4",
@@ -1055,7 +1055,7 @@
         {
           "name": "removecrystal.js",
           "size": 1126,
-          "downloadUrl": "https://cdn.discordapp.com/attachments/1487535639128965121/1487535639883944108/removecrystal.js?ex=6aad9285&is=6aac4105&hm=edc187234821900d83d57e34b3500030b1ec7f0d9afd94bb6207b36cbf0e24b7&",
+          "downloadUrl": "https://cdn.discordapp.com/attachments/1487535639128965121/1487535639883944108/removecrystal.js?ex=6aae3b45&is=6aace9c5&hm=166650893ffadd0fa5e8a654e3202ed9c3f9a76844bab5114408e3238be5517a&",
           "contentType": "text/javascript; charset=utf-8"
         }
       ],
@@ -1088,7 +1088,7 @@
       "kind": "plugins",
       "name": "Banner Remover (not unranked needed last season)",
       "description": "I made this plugin so the banner is transparent for seeing the background :3",
-      "image": "https://media.discordapp.net/attachments/1485931384504848394/1485931923275776201/C457E65E-4309-49F8-87B7-D302F19ADCDF.png?ex=6aadabb1&is=6aac5a31&hm=7ba4a49a27f93083f3d8fb791d48ee77ee639c636e0ae2d129e13d240ef6d0c9&",
+      "image": "https://media.discordapp.net/attachments/1485931384504848394/1485931923275776201/C457E65E-4309-49F8-87B7-D302F19ADCDF.png?ex=6aae5471&is=6aad02f1&hm=7c1f1a3938dead3c9e2de0faddb8f706d35f11f86aa74a9901e40dfc8f44aa7e&",
       "author": {
         "name": "LittleRadio"
       },
@@ -1102,7 +1102,7 @@
         {
           "name": "BannerRemover-LittleRadioo.zip",
           "size": 1447,
-          "downloadUrl": "https://cdn.discordapp.com/attachments/1485931384504848394/1485931384869621820/BannerRemover-LittleRadioo.zip?ex=6aadab31&is=6aac59b1&hm=1f2b1cad37e8366494628b315e38c9c0657158ac5c152a774d33faae8ea9b1b8&",
+          "downloadUrl": "https://cdn.discordapp.com/attachments/1485931384504848394/1485931384869621820/BannerRemover-LittleRadioo.zip?ex=6aae53f1&is=6aad0271&hm=23687d08a4a8d213f3bfdb4a60daafd23b669760349c0372bbbd3218ec387b18&",
           "contentType": "application/zip"
         }
       ],
@@ -1118,7 +1118,7 @@
       "releaseUrl": "https://github.com/cuongnguyen207/wuwa-theme-lol/releases/tag/custome-themes-lol",
       "releaseTag": "custome-themes-lol",
       "releaseName": "Wuthering Waves Themes",
-      "image": "https://media.discordapp.net/attachments/1524137061119037490/1524137061735596094/Screenshot_18.png?ex=6aad92c0&is=6aac4140&hm=145d042f4e1c84f17d36208b5c32211ea48886c3224e775bd851d6ebf0bd2e76&",
+      "image": "https://media.discordapp.net/attachments/1524137061119037490/1524137061735596094/Screenshot_18.png?ex=6aae3b80&is=6aacea00&hm=2227defff79de10d343b4aaf975b4080e9005e8538998da8358ebbeaf5e8c529&",
       "author": {
         "name": "cuongnguyen207",
         "avatar": "https://avatars.githubusercontent.com/u/213099361?v=4",
@@ -1162,7 +1162,7 @@
       "name": "Lock your League of Legends client with a 4-digit PIN code",
       "description": "🔒 Lock the League of Legends client with a 4-digit PIN — hotkey support, iOS-style UI, blur overlay. Penguloader plugin.",
       "repo": "https://github.com/nt3y/LeagueClient-Locker-",
-      "image": "https://media.discordapp.net/attachments/1485026009018273872/1485026009500877094/image.png?ex=6aadabbf&is=6aac5a3f&hm=b27009bf042a19e1d3218e68f215c859e3261fcb4afe328514609f08a526e51a&",
+      "image": "https://media.discordapp.net/attachments/1485026009018273872/1485026009500877094/image.png?ex=6aae547f&is=6aad02ff&hm=e5207565c04e30b1c4e63c21ce2aa1841193bae867c9a07c28427873b299e3b3&",
       "author": {
         "name": "nt3y",
         "avatar": "https://avatars.githubusercontent.com/u/269317310?v=4",
@@ -1184,7 +1184,7 @@
       "name": "CursorPack PenguLoader",
       "description": "Animated particle cursor effects for the League of Legends client — Penguloader plugin",
       "repo": "https://github.com/nt3y/cursor-pack-penguloader",
-      "image": "https://media.discordapp.net/attachments/1484279090830905394/1484279092202307736/image.png?ex=6aad9720&is=6aac45a0&hm=a893cb2b1024f4d03d58955f29f6f0e7c24005ca9cfb75cdaadf89c590dc8972&",
+      "image": "https://media.discordapp.net/attachments/1484279090830905394/1484279092202307736/image.png?ex=6aae3fe0&is=6aacee60&hm=748864c29e7507712cd7175869ee8510f5233569ae2ce50e0fd4bcf5941b4605&",
       "author": {
         "name": "nt3y",
         "avatar": "https://avatars.githubusercontent.com/u/269317310?v=4",
@@ -1266,7 +1266,7 @@
       "kind": "plugins",
       "name": "Hide Nonsense",
       "description": "No description provided.",
-      "image": "https://media.discordapp.net/attachments/1395902555095171225/1395906635968286882/image.png?ex=6aadc5dc&is=6aac745c&hm=1acdd4a725422d2cce55b678bc81a9c7962de98a9cd24f61afc399a73853c8bb&",
+      "image": "https://media.discordapp.net/attachments/1395902555095171225/1395906635968286882/image.png?ex=6aae6e9c&is=6aad1d1c&hm=6a70e0388ed7b5e56e6b90d73b131ff4a7ccbb2a14f55c9a44cbeb589932a90c&",
       "author": {
         "name": "莫嘎 | Moga"
       },
@@ -1293,7 +1293,7 @@
       "name": "HideChampName",
       "description": "Hides enemy champion names in Champion Select for League of Legends",
       "repo": "https://github.com/Mixiruri/AnonymousEnemies",
-      "image": "https://media.discordapp.net/attachments/1476888210436001904/1476888211044171848/preview.webp?ex=6aadba94&is=6aac6914&hm=5fa12dac9968852f449f934d6426d0049dd7ec320c21761f3e322fbaefbb087b&",
+      "image": "https://media.discordapp.net/attachments/1476888210436001904/1476888211044171848/preview.webp?ex=6aae6354&is=6aad11d4&hm=58be780469ed659c0f02ba6c76e8350290cfa31519d48f8e0828ffa54ccde3cc&",
       "author": {
         "name": "Mixiruri",
         "avatar": "https://avatars.githubusercontent.com/u/255986660?v=4",
@@ -1318,7 +1318,7 @@
       "releaseUrl": "https://github.com/hadixcanimm/taric48/releases/tag/gamelauncher",
       "releaseTag": "gamelauncher",
       "releaseName": "Taric 48 Game Launcher ",
-      "image": "https://media.discordapp.net/attachments/1469972117306212639/1469972117549486178/image.png?ex=6aad9df7&is=6aac4c77&hm=bd0b9816cf9cf881c22001dbfa8a582c4635028fe44a26e90b73cdaa4245f6ca&",
+      "image": "https://media.discordapp.net/attachments/1469972117306212639/1469972117549486178/image.png?ex=6aae46b7&is=6aacf537&hm=a9a5485f2a7733cee30bc7fbe4025206211cc087eca23fc64e56874e70906573&",
       "author": {
         "name": "hadixcanimm",
         "avatar": "https://avatars.githubusercontent.com/u/114208757?v=4",
@@ -1353,7 +1353,7 @@
       "releaseUrl": "https://github.com/nomi-san/balance-buff-viewer/releases/tag/main",
       "releaseTag": "main",
       "releaseName": "S16 | v26 | 2026",
-      "image": "https://media.discordapp.net/attachments/1127199847901052979/1127199848303693844/image.png?ex=6aadc96a&is=6aac77ea&hm=01749699ce9b0c78e39f79979b343111573a63201e28c346a6272655319d0f71&",
+      "image": "https://media.discordapp.net/attachments/1127199847901052979/1127199848303693844/image.png?ex=6aae722a&is=6aad20aa&hm=143599b1fde8b013a048bd99178a6bf5e00c4798b1de167a4da58592dd8be82e&",
       "author": {
         "name": "nomi-san",
         "avatar": "https://avatars.githubusercontent.com/u/38210249?v=4",
@@ -1382,7 +1382,7 @@
       "name": "Balaclava Plugins! [13/05/2026]",
       "description": "My plugins for Pengu Loader! :)",
       "repo": "https://github.com/dumpsabfuck/pengu-plugins",
-      "image": "https://media.discordapp.net/attachments/1109009446023217193/1110094360390946908/ezgif-2-9ed966a32e.png?ex=6aad8530&is=6aac33b0&hm=95b6dd8f5041d0a7bfa5bc2322652ac9dd438e6a2ff5cc5f65b8d078992a7b0e&",
+      "image": "https://media.discordapp.net/attachments/1109009446023217193/1110094360390946908/ezgif-2-9ed966a32e.png?ex=6aae2df0&is=6aacdc70&hm=916e543684e5c9ce16836506ca78912a2141414e43b80fdaf35eb42104de3707&",
       "author": {
         "name": "dumpsabfuck",
         "avatar": "https://avatars.githubusercontent.com/u/71716568?v=4",
@@ -1403,7 +1403,7 @@
       "kind": "plugins",
       "name": "Blue Essence Icon Swapper",
       "description": "Blue Essence Icon Swapper How to use: Click the BE icon to change icon. Click the BE icon to select new image/reset to standard.",
-      "image": "https://media.discordapp.net/attachments/1468009747780210791/1468019006991634432/Screenshot_2026-02-02_232517.png?ex=6aadc33d&is=6aac71bd&hm=c65a6580431bfd27cc97cf1d2c8cc06b396616de21ee3990936b653964c447e7&",
+      "image": "https://media.discordapp.net/attachments/1468009747780210791/1468019006991634432/Screenshot_2026-02-02_232517.png?ex=6aae6bfd&is=6aad1a7d&hm=08a699bdb371892a085ab2500da2aa4c2f381c55f98c1ab186f8231eb84731ad&",
       "author": {
         "name": "Ilkay"
       },
@@ -1417,7 +1417,7 @@
         {
           "name": "BE-Icon-Swapper.js",
           "size": 6253,
-          "downloadUrl": "https://cdn.discordapp.com/attachments/1468009747780210791/1468019008229081235/BE-Icon-Swapper.js?ex=6aadc33e&is=6aac71be&hm=9e51f879a3b264891c04ce4c86d3c85d783f43d361b5be691ed9a2d4cb9c838c&",
+          "downloadUrl": "https://cdn.discordapp.com/attachments/1468009747780210791/1468019008229081235/BE-Icon-Swapper.js?ex=6aae6bfe&is=6aad1a7e&hm=8d4b0a3a084f401ccb5639ddbbe05e0e31d9fd9f6ff35403ab70609e05954d9d&",
           "contentType": "text/javascript; charset=utf-8"
         }
       ],
@@ -1615,7 +1615,7 @@
       "releaseUrl": "https://github.com/PenguLoader/PenguLoader/releases/tag/v1.1.6",
       "releaseTag": "v1.1.6",
       "releaseName": "v1.1.6",
-      "image": "https://media.discordapp.net/attachments/1413095170475560960/1413095170940997642/Untitled.png?ex=6aadaeae&is=6aac5d2e&hm=023f1964e7e5700d787ef2ad7013c4d7ea92aff3985bf6bb7a3da7beaf09268a&",
+      "image": "https://media.discordapp.net/attachments/1413095170475560960/1413095170940997642/Untitled.png?ex=6aae576e&is=6aad05ee&hm=03a7bc9244699b3db2f0ed93a0a4d77ca6bd19c96d2894981a61c2fedaf789b9&",
       "author": {
         "name": "PenguLoader",
         "avatar": "https://avatars.githubusercontent.com/u/126898920?v=4",
@@ -1731,7 +1731,7 @@
       "releaseUrl": "https://github.com/Humildeficador/DisableQueues/releases/tag/1.0",
       "releaseTag": "1.0",
       "releaseName": "v1.0",
-      "image": "https://media.discordapp.net/attachments/1200544287817994240/1200544288119996557/Screenshot_1.png?ex=6aada4ff&is=6aac537f&hm=64ae13fa7da54b9ae44f89162824a0fd1fe79d18db83cefca4edbf3e8c81f20e&",
+      "image": "https://media.discordapp.net/attachments/1200544287817994240/1200544288119996557/Screenshot_1.png?ex=6aae4dbf&is=6aacfc3f&hm=0b5cab9a2d6b6e4ccdcfdb55bca0398afcad8d8f3ee9507f13ac9d4669c1e0e6&",
       "author": {
         "name": "Humildeficador",
         "avatar": "https://avatars.githubusercontent.com/u/130767630?v=4",
@@ -1795,7 +1795,7 @@
       "releaseUrl": "https://github.com/oMaikeru/PureBlack-Theme/releases/tag/v0.4",
       "releaseTag": "v0.4",
       "releaseName": "v0.4",
-      "image": "https://media.discordapp.net/attachments/1107021081207914566/1107021081442783242/black-theme.PNG?ex=6aad8bb9&is=6aac3a39&hm=9bc738db433e769aead14bf785db7d29f4a3d416be70bc8e89c4ecdcef3260fb&",
+      "image": "https://media.discordapp.net/attachments/1107021081207914566/1107021081442783242/black-theme.PNG?ex=6aae3479&is=6aace2f9&hm=1ff46c86b17f101c64066096f21cf7045ab1f768ddb4b1c120b4f63c354e4ace&",
       "author": {
         "name": "oMaikeru",
         "avatar": "https://avatars.githubusercontent.com/u/76801149?v=4",
