@@ -1,7 +1,7 @@
 {
   "name": "Pengu Community Store registry",
   "version": 1,
-  "generatedAt": "2026-09-19T14:38:33.511Z",
+  "generatedAt": "2026-09-19T17:46:58.066Z",
   "source": {
     "guildId": "1069483280438673418",
     "forums": [
@@ -424,24 +424,6 @@
       "enriched": true
     },
     {
-      "id": "1503337548993265687",
-      "kind": "plugins",
-      "name": "PenguFamily - Virtual Pet in your Client",
-      "description": "No description provided.",
-      "author": {
-        "name": "¸"
-      },
-      "tags": [
-        "Misc",
-        "Fun"
-      ],
-      "discordUrl": "https://discord.com/channels/1069483280438673418/1503337548993265687/1503337548993265687",
-      "upvotes": 1,
-      "updatedAt": "2026-05-11T20:21:44.071Z",
-      "assets": [],
-      "enriched": true
-    },
-    {
       "id": "1500282612084768848",
       "kind": "plugins",
       "name": "league-lean — meta tier list + auto rune/build apply + post-game op.gg, all in one sidebar",
@@ -529,41 +511,6 @@
       "discordUrl": "https://discord.com/channels/1069483280438673418/1495203342400360459/1495203342400360459",
       "upvotes": 10,
       "updatedAt": "2026-04-29T15:49:35.919Z",
-      "assets": [],
-      "enriched": true
-    },
-    {
-      "id": "1497146237273641040",
-      "kind": "plugins",
-      "name": "Dodge Game",
-      "description": "No description provided.",
-      "author": {
-        "name": "yimikami"
-      },
-      "tags": [
-        "Fun"
-      ],
-      "discordUrl": "https://discord.com/channels/1069483280438673418/1497146237273641040/1497146237273641040",
-      "upvotes": 13,
-      "updatedAt": "2026-04-28T00:42:10.733Z",
-      "assets": [],
-      "enriched": true
-    },
-    {
-      "id": "1472183865379389444",
-      "kind": "plugins",
-      "name": "SoloQ Machine",
-      "description": "No description provided.",
-      "author": {
-        "name": "yimikami"
-      },
-      "tags": [
-        "Utility",
-        "Enhancement"
-      ],
-      "discordUrl": "https://discord.com/channels/1069483280438673418/1472183865379389444/1472183865379389444",
-      "upvotes": 10,
-      "updatedAt": "2026-04-21T20:40:30.842Z",
       "assets": [],
       "enriched": true
     },
@@ -891,20 +838,75 @@
       "enriched": true
     },
     {
-      "id": "1460597213301313733",
+      "id": "1371799042832597054",
       "kind": "plugins",
-      "name": "Champion Blacklist",
+      "name": "AutoAcceptEnhanced - auto Q acccepter with enhancements",
       "description": "No description provided.",
       "author": {
-        "name": "yimikami"
+        "name": "ashera"
       },
       "tags": [
         "Utility",
         "Enhancement"
       ],
-      "discordUrl": "https://discord.com/channels/1069483280438673418/1460597213301313733/1460597213301313733",
+      "discordUrl": "https://discord.com/channels/1069483280438673418/1371799042832597054/1371799042832597054",
+      "upvotes": 9,
+      "updatedAt": "2025-10-14T04:28:02.195Z",
+      "assets": [],
+      "enriched": true
+    },
+    {
+      "id": "1427116025001803957",
+      "kind": "plugins",
+      "name": "Disable Match Found Loop Sound",
+      "description": "No description provided.",
+      "author": {
+        "name": "menfie"
+      },
+      "tags": [
+        "Enhancement"
+      ],
+      "discordUrl": "https://discord.com/channels/1069483280438673418/1427116025001803957/1427116025001803957",
       "upvotes": 6,
-      "updatedAt": "2026-01-13T11:31:52.235Z",
+      "updatedAt": "2025-10-13T02:09:34.894Z",
+      "assets": [],
+      "enriched": true
+    },
+    {
+      "id": "1414553304259760148",
+      "kind": "plugins",
+      "name": "Old mastery icons",
+      "description": "No description provided.",
+      "author": {
+        "name": "Elaina"
+      },
+      "tags": [
+        "Misc",
+        "Enhancement"
+      ],
+      "discordUrl": "https://discord.com/channels/1069483280438673418/1414553304259760148/1414553304259760148",
+      "upvotes": 7,
+      "updatedAt": "2025-09-20T09:02:48.898Z",
+      "assets": [],
+      "enriched": true
+    },
+    {
+      "id": "1337094181356830802",
+      "kind": "plugins",
+      "name": "Auto Honor V2",
+      "description": "No description provided.",
+      "author": {
+        "name": "Elaina"
+      },
+      "tags": [
+        "Utility",
+        "Misc",
+        "Fun",
+        "Enhancement"
+      ],
+      "discordUrl": "https://discord.com/channels/1069483280438673418/1337094181356830802/1337094181356830802",
+      "upvotes": 9,
+      "updatedAt": "2025-09-08T18:13:37.972Z",
       "assets": [],
       "enriched": true
     },
@@ -922,24 +924,6 @@
       "discordUrl": "https://discord.com/channels/1069483280438673418/1413095170475560960/1413095170475560960",
       "upvotes": 6,
       "updatedAt": "2025-09-05T10:39:57.347Z",
-      "assets": [],
-      "enriched": true
-    },
-    {
-      "id": "1411366905247170621",
-      "kind": "plugins",
-      "name": "Icon Swapper",
-      "description": "No description provided.",
-      "author": {
-        "name": "yimikami"
-      },
-      "tags": [
-        "Utility",
-        "Misc"
-      ],
-      "discordUrl": "https://discord.com/channels/1069483280438673418/1411366905247170621/1411366905247170621",
-      "upvotes": 8,
-      "updatedAt": "2025-08-31T16:05:07.672Z",
       "assets": [],
       "enriched": true
     },
@@ -1070,6 +1054,24 @@
       "discordUrl": "https://discord.com/channels/1069483280438673418/1327785286327074929/1327785286327074929",
       "upvotes": 8,
       "updatedAt": "2025-01-11T23:44:41.318Z",
+      "assets": [],
+      "enriched": true
+    },
+    {
+      "id": "1316703290775441408",
+      "kind": "plugins",
+      "name": "Fake reward badge",
+      "description": "No description provided.",
+      "author": {
+        "name": "Elaina"
+      },
+      "tags": [
+        "Fun",
+        "Misc"
+      ],
+      "discordUrl": "https://discord.com/channels/1069483280438673418/1316703290775441408/1316703290775441408",
+      "upvotes": 4,
+      "updatedAt": "2024-12-12T09:48:47.685Z",
       "assets": [],
       "enriched": true
     },
