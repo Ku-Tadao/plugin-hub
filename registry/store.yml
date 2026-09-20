@@ -1,6 +1,6 @@
 name: Pengu Community Store registry
 version: 1
-generatedAt: 2026-09-20T17:33:57.909Z
+generatedAt: 2026-09-20T20:21:18.846Z
 source:
   guildId: "1069483280438673418"
   forums:
@@ -9,6 +9,22 @@ source:
     - kind: themes
       channelId: "1077886317364523072"
 listings:
+  - id: "1551295314785345686"
+    kind: plugins
+    name: Yimikami's Plugins
+    description: No description provided.
+    author:
+      name: yimikami
+    tags:
+      - Utility
+      - Misc
+      - Fun
+      - Enhancement
+    discordUrl: https://discord.com/channels/1069483280438673418/1551295314785345686/1551295314785345686
+    upvotes: 1
+    updatedAt: 2026-09-20T18:13:44.718Z
+    assets: []
+    enriched: true
   - id: "1544113457430012025"
     kind: plugins
     name: AI assistant (13.2.0) - Advanced AI Chat, AI Provider Selection, Some
@@ -694,22 +710,6 @@ listings:
     discordUrl: https://discord.com/channels/1069483280438673418/1414553304259760148/1414553304259760148
     upvotes: 7
     updatedAt: 2025-09-20T09:02:48.898Z
-    assets: []
-    enriched: true
-  - id: "1337094181356830802"
-    kind: plugins
-    name: Auto Honor V2
-    description: No description provided.
-    author:
-      name: Elaina
-    tags:
-      - Utility
-      - Misc
-      - Fun
-      - Enhancement
-    discordUrl: https://discord.com/channels/1069483280438673418/1337094181356830802/1337094181356830802
-    upvotes: 9
-    updatedAt: 2025-09-08T18:13:37.972Z
     assets: []
     enriched: true
   - id: "1413095170475560960"
