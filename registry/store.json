@@ -1,7 +1,7 @@
 {
   "name": "Pengu Community Store registry",
   "version": 1,
-  "generatedAt": "2026-10-01T14:11:03.904Z",
+  "generatedAt": "2026-10-01T23:41:00.209Z",
   "source": {
     "guildId": "1069483280438673418",
     "forums": [
@@ -16,6 +16,38 @@
     ]
   },
   "listings": [
+    {
+      "id": "1555256927850856583",
+      "kind": "plugins",
+      "name": "Plain League of Legends Chat",
+      "description": "Plugin by <@615604717820706826",
+      "details": "[Features](https://github.com/tuxedocatsgoated/plain-chat)",
+      "repo": "https://github.com/tuxedocatsgoated/plain-chat",
+      "releaseUrl": "https://github.com/tuxedocatsgoated/plain-chat/releases/tag/plainChat",
+      "releaseTag": "plainChat",
+      "releaseName": "1.0",
+      "image": "https://opengraph.githubassets.com/pengu/tuxedocatsgoated/plain-chat",
+      "author": {
+        "name": "tuxedocatsgoated",
+        "avatar": "https://avatars.githubusercontent.com/u/320782324?v=4",
+        "github": "tuxedocatsgoated"
+      },
+      "tags": [
+        "Enhancement"
+      ],
+      "discordUrl": "https://discord.com/channels/1069483280438673418/1555256927850856583/1555256927850856583",
+      "upvotes": 2,
+      "updatedAt": "2026-10-01T15:43:47Z",
+      "assets": [
+        {
+          "name": "plainChat.zip",
+          "size": 1974,
+          "downloadUrl": "https://github.com/tuxedocatsgoated/plain-chat/releases/download/plainChat/plainChat.zip",
+          "contentType": "application/x-zip-compressed"
+        }
+      ],
+      "enriched": true
+    },
     {
       "id": "1555167364079947807",
       "kind": "plugins",
@@ -36,7 +68,7 @@
         "Enhancement"
       ],
       "discordUrl": "https://discord.com/channels/1069483280438673418/1555167364079947807/1555167364079947807",
-      "upvotes": 2,
+      "upvotes": 4,
       "updatedAt": "2026-10-01T07:24:13Z",
       "assets": [
         {
@@ -909,24 +941,6 @@
       "discordUrl": "https://discord.com/channels/1069483280438673418/1462077280728780861/1462077280728780861",
       "upvotes": 8,
       "updatedAt": "2026-01-17T13:35:42.565Z",
-      "assets": [],
-      "enriched": true
-    },
-    {
-      "id": "1371799042832597054",
-      "kind": "plugins",
-      "name": "AutoAcceptEnhanced - auto Q acccepter with enhancements",
-      "description": "No description provided.",
-      "author": {
-        "name": "ashera"
-      },
-      "tags": [
-        "Utility",
-        "Enhancement"
-      ],
-      "discordUrl": "https://discord.com/channels/1069483280438673418/1371799042832597054/1371799042832597054",
-      "upvotes": 9,
-      "updatedAt": "2025-10-14T04:28:02.195Z",
       "assets": [],
       "enriched": true
     },
