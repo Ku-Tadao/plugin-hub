@@ -1,7 +1,7 @@
 {
   "name": "Pengu Community Store registry",
   "version": 1,
-  "generatedAt": "2026-10-01T06:50:30.878Z",
+  "generatedAt": "2026-10-01T14:11:03.904Z",
   "source": {
     "guildId": "1069483280438673418",
     "forums": [
@@ -16,6 +16,44 @@
     ]
   },
   "listings": [
+    {
+      "id": "1555167364079947807",
+      "kind": "plugins",
+      "name": "Better LOL Chat - Buff your post-game flame",
+      "description": "Plugin by <@222147992386404352",
+      "details": "**Full Changelog**: https://github.com/rdavis0/better-lol-chat/compare/v0.7...v0.8",
+      "repo": "https://github.com/rdavis0/better-lol-chat",
+      "releaseUrl": "https://github.com/rdavis0/better-lol-chat/releases/tag/v0.8",
+      "releaseTag": "v0.8",
+      "releaseName": "v0.8",
+      "image": "https://github.com/user-attachments/assets/3a2a10de-b995-4690-8a5e-53c0a0313ab3",
+      "author": {
+        "name": "rdavis0",
+        "avatar": "https://avatars.githubusercontent.com/u/46797526?v=4",
+        "github": "rdavis0"
+      },
+      "tags": [
+        "Enhancement"
+      ],
+      "discordUrl": "https://discord.com/channels/1069483280438673418/1555167364079947807/1555167364079947807",
+      "upvotes": 2,
+      "updatedAt": "2026-10-01T07:24:13Z",
+      "assets": [
+        {
+          "name": "better-lol-chat.zip",
+          "size": 32997,
+          "downloadUrl": "https://github.com/rdavis0/better-lol-chat/releases/download/v0.8/better-lol-chat.zip",
+          "contentType": "application/zip"
+        },
+        {
+          "name": "install.bat",
+          "size": 6405,
+          "downloadUrl": "https://github.com/rdavis0/better-lol-chat/releases/download/v0.8/install.bat",
+          "contentType": "application/x-bat"
+        }
+      ],
+      "enriched": true
+    },
     {
       "id": "1552133526441435186",
       "kind": "plugins",
@@ -889,23 +927,6 @@
       "discordUrl": "https://discord.com/channels/1069483280438673418/1371799042832597054/1371799042832597054",
       "upvotes": 9,
       "updatedAt": "2025-10-14T04:28:02.195Z",
-      "assets": [],
-      "enriched": true
-    },
-    {
-      "id": "1427116025001803957",
-      "kind": "plugins",
-      "name": "Disable Match Found Loop Sound",
-      "description": "No description provided.",
-      "author": {
-        "name": "menfie"
-      },
-      "tags": [
-        "Enhancement"
-      ],
-      "discordUrl": "https://discord.com/channels/1069483280438673418/1427116025001803957/1427116025001803957",
-      "upvotes": 6,
-      "updatedAt": "2025-10-13T02:09:34.894Z",
       "assets": [],
       "enriched": true
     },
