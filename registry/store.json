@@ -1,7 +1,7 @@
 {
   "name": "Pengu Community Store registry",
   "version": 1,
-  "generatedAt": "2026-10-02T10:38:40.151Z",
+  "generatedAt": "2026-10-02T16:29:17.861Z",
   "source": {
     "guildId": "1069483280438673418",
     "forums": [
@@ -21,7 +21,11 @@
       "kind": "plugins",
       "name": "Hide Classic skins",
       "description": "Hide classics skins in your collection **fk classic leageu** ᓚᘏᗢ",
+      "details": "",
       "repo": "https://github.com/DeliriumOverdose/PluginPengu-HideClassicSkins",
+      "releaseUrl": "https://github.com/DeliriumOverdose/PluginPengu-HideClassicSkins/releases/tag/realese",
+      "releaseTag": "realese",
+      "releaseName": "HideClassicSkin",
       "image": "https://opengraph.githubassets.com/pengu/DeliriumOverdose/PluginPengu-HideClassicSkins",
       "author": {
         "name": "DeliriumOverdose",
@@ -32,9 +36,16 @@
         "Misc"
       ],
       "discordUrl": "https://discord.com/channels/1069483280438673418/1555528516098068572/1555528516098068572",
-      "upvotes": 0,
-      "updatedAt": "2026-10-02T07:01:08Z",
-      "assets": [],
+      "upvotes": 1,
+      "updatedAt": "2026-10-02T10:43:42Z",
+      "assets": [
+        {
+          "name": "Hide-League-Classic-Skins.js",
+          "size": 9790,
+          "downloadUrl": "https://github.com/DeliriumOverdose/PluginPengu-HideClassicSkins/releases/download/realese/Hide-League-Classic-Skins.js",
+          "contentType": "application/x-javascript"
+        }
+      ],
       "enriched": true
     },
     {
