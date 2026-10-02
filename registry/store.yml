@@ -1,6 +1,6 @@
 name: Pengu Community Store registry
 version: 1
-generatedAt: 2026-10-02T04:10:27.966Z
+generatedAt: 2026-10-02T10:38:40.151Z
 source:
   guildId: "1069483280438673418"
   forums:
@@ -9,6 +9,23 @@ source:
     - kind: themes
       channelId: "1077886317364523072"
 listings:
+  - id: "1555528516098068572"
+    kind: plugins
+    name: Hide Classic skins
+    description: Hide classics skins in your collection **fk classic leageu** ᓚᘏᗢ
+    repo: https://github.com/DeliriumOverdose/PluginPengu-HideClassicSkins
+    image: https://opengraph.githubassets.com/pengu/DeliriumOverdose/PluginPengu-HideClassicSkins
+    author:
+      name: DeliriumOverdose
+      avatar: https://avatars.githubusercontent.com/u/336825401?v=4
+      github: DeliriumOverdose
+    tags:
+      - Misc
+    discordUrl: https://discord.com/channels/1069483280438673418/1555528516098068572/1555528516098068572
+    upvotes: 0
+    updatedAt: 2026-10-02T07:01:08Z
+    assets: []
+    enriched: true
   - id: "1555256927850856583"
     kind: plugins
     name: Plain League of Legends Chat
@@ -854,20 +871,6 @@ listings:
     discordUrl: https://discord.com/channels/1069483280438673418/1327785286327074929/1327785286327074929
     upvotes: 8
     updatedAt: 2025-01-11T23:44:41.318Z
-    assets: []
-    enriched: true
-  - id: "1316703290775441408"
-    kind: plugins
-    name: Fake reward badge
-    description: No description provided.
-    author:
-      name: Elaina
-    tags:
-      - Fun
-      - Misc
-    discordUrl: https://discord.com/channels/1069483280438673418/1316703290775441408/1316703290775441408
-    upvotes: 4
-    updatedAt: 2024-12-12T09:48:47.685Z
     assets: []
     enriched: true
   - id: "1305881618757582869"
