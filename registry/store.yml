@@ -1,6 +1,6 @@
 name: Pengu Community Store registry
 version: 1
-generatedAt: 2026-10-03T05:34:23.721Z
+generatedAt: 2026-10-03T11:08:20.149Z
 source:
   guildId: "1069483280438673418"
   forums:
@@ -62,7 +62,7 @@ listings:
   - id: "1555167364079947807"
     kind: plugins
     name: Better LOL Chat - Buff your post-game flame
-    description: Plugin by <@222147992386404352
+    description: Improved post-game chat for League of Legends
     details: "**Full Changelog**:
       https://github.com/rdavis0/better-lol-chat/compare/v0.7...v0.8"
     repo: https://github.com/rdavis0/better-lol-chat
