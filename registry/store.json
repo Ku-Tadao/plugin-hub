@@ -1,7 +1,7 @@
 {
   "name": "Pengu Community Store registry",
   "version": 1,
-  "generatedAt": "2026-10-22T18:42:06.960Z",
+  "generatedAt": "2026-10-22T22:06:14.194Z",
   "source": {
     "guildId": "1069483280438673418",
     "forums": [
@@ -118,15 +118,15 @@
       "name": "Better LOL Chat - Buff your post-game flame",
       "description": "Improved post-game chat for League of Legends",
       "details": "**Full Changelog**: https://github.com/rdavis0/better-lol-chat/compare/v0.7...v0.8",
-      "repo": "https://github.com/rdavis0/better-lol-chat",
-      "releaseUrl": "https://github.com/rdavis0/better-lol-chat/releases/tag/v0.8",
+      "repo": "https://github.com/12boost/better-lol-chat",
+      "releaseUrl": "https://github.com/12boost/better-lol-chat/releases/tag/v0.8",
       "releaseTag": "v0.8",
       "releaseName": "v0.8",
       "image": "https://github.com/user-attachments/assets/3a2a10de-b995-4690-8a5e-53c0a0313ab3",
       "author": {
-        "name": "rdavis0",
+        "name": "12boost",
         "avatar": "https://avatars.githubusercontent.com/u/46797526?v=4",
-        "github": "rdavis0"
+        "github": "12boost"
       },
       "tags": [
         "Enhancement"
@@ -138,13 +138,13 @@
         {
           "name": "better-lol-chat.zip",
           "size": 32997,
-          "downloadUrl": "https://github.com/rdavis0/better-lol-chat/releases/download/v0.8/better-lol-chat.zip",
+          "downloadUrl": "https://github.com/12boost/better-lol-chat/releases/download/v0.8/better-lol-chat.zip",
           "contentType": "application/zip"
         },
         {
           "name": "install.bat",
           "size": 6405,
-          "downloadUrl": "https://github.com/rdavis0/better-lol-chat/releases/download/v0.8/install.bat",
+          "downloadUrl": "https://github.com/12boost/better-lol-chat/releases/download/v0.8/install.bat",
           "contentType": "application/x-bat"
         }
       ],
