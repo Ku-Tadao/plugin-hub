@@ -1,6 +1,6 @@
 name: Pengu Community Store registry
 version: 1
-generatedAt: 2026-10-24T06:12:49.482Z
+generatedAt: 2026-10-24T11:24:21.703Z
 source:
   guildId: "1069483280438673418"
   forums:
@@ -9,6 +9,18 @@ source:
     - kind: themes
       channelId: "1077886317364523072"
 listings:
+  - id: "1563456744464584835"
+    kind: themes
+    name: League, reimagined.
+    description: No description provided.
+    author:
+      name: kyso
+    tags: []
+    discordUrl: https://discord.com/channels/1069483280438673418/1563456744464584835/1563456744464584835
+    upvotes: 0
+    updatedAt: 2026-10-24T07:38:55.502Z
+    assets: []
+    enriched: true
   - id: "1562045218554118145"
     kind: plugins
     name: Better Mode Select
@@ -1007,7 +1019,7 @@ listings:
     name: GrayscaleV2
     description: No description provided.
     author:
-      name: umukni
+      name: oh yeah?
     tags: []
     discordUrl: https://discord.com/channels/1069483280438673418/1166033741186076793/1166033741186076793
     upvotes: 1
@@ -1033,7 +1045,7 @@ listings:
     name: Grayscale
     description: No description provided.
     author:
-      name: umukni
+      name: oh yeah?
     tags: []
     discordUrl: https://discord.com/channels/1069483280438673418/1161804401598529627/1161804401598529627
     upvotes: 0
