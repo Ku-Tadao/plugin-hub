@@ -1,6 +1,6 @@
 name: Pengu Community Store registry
 version: 1
-generatedAt: 2026-10-26T13:54:00.296Z
+generatedAt: 2026-10-26T19:44:41.394Z
 source:
   guildId: "1069483280438673418"
   forums:
@@ -17,7 +17,7 @@ listings:
       name: kyso
     tags: []
     discordUrl: https://discord.com/channels/1069483280438673418/1563456744464584835/1563456744464584835
-    upvotes: 6
+    upvotes: 7
     updatedAt: 2026-10-24T07:38:55.502Z
     assets: []
     enriched: true
@@ -46,7 +46,7 @@ listings:
     tags:
       - Utility
     discordUrl: https://discord.com/channels/1069483280438673418/1562045218554118145/1562045218554118145
-    upvotes: 3
+    upvotes: 4
     updatedAt: 2026-10-20T08:47:57Z
     assets:
       - name: Better-Mode-Select.js
@@ -122,7 +122,7 @@ listings:
     tags:
       - Enhancement
     discordUrl: https://discord.com/channels/1069483280438673418/1555167364079947807/1555167364079947807
-    upvotes: 11
+    upvotes: 12
     updatedAt: 2026-10-01T07:24:13Z
     assets:
       - name: better-lol-chat.zip
