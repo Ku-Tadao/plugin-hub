@@ -1,6 +1,6 @@
 name: Pengu Community Store registry
 version: 1
-generatedAt: 2026-10-29T01:33:11.449Z
+generatedAt: 2026-10-29T08:02:46.222Z
 source:
   guildId: "1069483280438673418"
   forums:
@@ -9,6 +9,51 @@ source:
     - kind: themes
       channelId: "1077886317364523072"
 listings:
+  - id: "1555167364079947807"
+    kind: plugins
+    name: Better LOL Chat - Buff your post-game flame
+    description: Improved post-game chat for League of Legends
+    details: "- Add autoscroll pause\r
+
+      - Add champion names to honor tooltip\r
+
+      - Restyle compact champion and level display on scoreboard\r
+
+      - General UI enhancements\r
+
+      - Add multilanguage support for removing \"player joined chat\" messages\r
+
+      - Add update dialog\r
+
+      - Installer now includes app name and version in filename\r\n"
+    repo: https://github.com/12boost/better-lol-chat
+    releaseUrl: https://github.com/12boost/better-lol-chat/releases/tag/v1.0
+    releaseTag: v1.0
+    releaseName: "1.0"
+    image: https://github.com/user-attachments/assets/3a2a10de-b995-4690-8a5e-53c0a0313ab3
+    author:
+      name: 12boost
+      avatar: https://avatars.githubusercontent.com/u/46797526?v=4
+      github: 12boost
+    tags:
+      - Enhancement
+    discordUrl: https://discord.com/channels/1069483280438673418/1555167364079947807/1555167364079947807
+    upvotes: 12
+    updatedAt: 2026-10-29T05:23:02Z
+    assets:
+      - name: better-lol-chat.zip
+        size: 47879
+        downloadUrl: https://github.com/12boost/better-lol-chat/releases/download/v1.0/better-lol-chat.zip
+        contentType: application/zip
+      - name: blc-install-1.0.bat
+        size: 6401
+        downloadUrl: https://github.com/12boost/better-lol-chat/releases/download/v1.0/blc-install-1.0.bat
+        contentType: application/x-bat
+      - name: install.bat
+        size: 6401
+        downloadUrl: https://github.com/12boost/better-lol-chat/releases/download/v1.0/install.bat
+        contentType: application/x-bat
+    enriched: true
   - id: "1564738865095245884"
     kind: themes
     name: Cyberpunk Client Theme
@@ -120,36 +165,6 @@ listings:
         size: 1974
         downloadUrl: https://github.com/tuxedocatsgoated/plain-chat/releases/download/plainChat/plainChat.zip
         contentType: application/x-zip-compressed
-    enriched: true
-  - id: "1555167364079947807"
-    kind: plugins
-    name: Better LOL Chat - Buff your post-game flame
-    description: Improved post-game chat for League of Legends
-    details: "**Full Changelog**:
-      https://github.com/rdavis0/better-lol-chat/compare/v0.7...v0.8"
-    repo: https://github.com/12boost/better-lol-chat
-    releaseUrl: https://github.com/12boost/better-lol-chat/releases/tag/v0.8
-    releaseTag: v0.8
-    releaseName: v0.8
-    image: https://github.com/user-attachments/assets/3a2a10de-b995-4690-8a5e-53c0a0313ab3
-    author:
-      name: 12boost
-      avatar: https://avatars.githubusercontent.com/u/46797526?v=4
-      github: 12boost
-    tags:
-      - Enhancement
-    discordUrl: https://discord.com/channels/1069483280438673418/1555167364079947807/1555167364079947807
-    upvotes: 12
-    updatedAt: 2026-10-01T07:24:13Z
-    assets:
-      - name: better-lol-chat.zip
-        size: 32997
-        downloadUrl: https://github.com/12boost/better-lol-chat/releases/download/v0.8/better-lol-chat.zip
-        contentType: application/zip
-      - name: install.bat
-        size: 6405
-        downloadUrl: https://github.com/12boost/better-lol-chat/releases/download/v0.8/install.bat
-        contentType: application/x-bat
     enriched: true
   - id: "1552133526441435186"
     kind: plugins
