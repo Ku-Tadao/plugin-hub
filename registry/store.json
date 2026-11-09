@@ -1,7 +1,7 @@
 {
   "name": "Pengu Community Store registry",
   "version": 1,
-  "generatedAt": "2026-11-09T10:03:46.207Z",
+  "generatedAt": "2026-11-09T20:56:27.069Z",
   "source": {
     "guildId": "1069483280438673418",
     "forums": [
@@ -17,6 +17,104 @@
   },
   "listings": [
     {
+      "id": "1569393360014151754",
+      "kind": "themes",
+      "name": "Cyberpunk Theme",
+      "description": "Cyberpunk 2077-style theme for the League client, made for Pengu Loader by Korbax (othkourbi). Hosted for him after his GitHub went down.",
+      "details": "Cyberpunk theme by **Korbax** ([othkourbi](https://github.com/othkourbi)), hosted here because his GitHub account is no longer available. All credit goes to Korbax.\n\n**Install:** extract `CyberpunkTheme.zip`, double-click `Install.cmd`, then fully restart the League client. Options are in the client Settings, under the new CustomClient tab.",
+      "repo": "https://github.com/Ku-Tadao/cyberpunk-theme-pengu-loader",
+      "releaseUrl": "https://github.com/Ku-Tadao/cyberpunk-theme-pengu-loader/releases/tag/v1.0.0",
+      "releaseTag": "v1.0.0",
+      "releaseName": "v1.0.0",
+      "image": "https://raw.githubusercontent.com/Ku-Tadao/cyberpunk-theme-pengu-loader/main/screenshots/preview.png",
+      "author": {
+        "name": "Ku-Tadao",
+        "avatar": "https://avatars.githubusercontent.com/u/29869255?v=4",
+        "github": "Ku-Tadao"
+      },
+      "tags": [
+        "Fiction"
+      ],
+      "discordUrl": "https://discord.com/channels/1069483280438673418/1569393360014151754/1569393360014151754",
+      "upvotes": 3,
+      "updatedAt": "2026-11-09T16:43:57Z",
+      "assets": [
+        {
+          "name": "CyberpunkTheme.zip",
+          "size": 14754353,
+          "downloadUrl": "https://github.com/Ku-Tadao/cyberpunk-theme-pengu-loader/releases/download/v1.0.0/CyberpunkTheme.zip",
+          "contentType": "application/zip"
+        }
+      ],
+      "enriched": true
+    },
+    {
+      "id": "1569381219748028589",
+      "kind": "plugins",
+      "name": "Sound Volumes",
+      "description": "Pengu Loader plugin: set the volume of each League client sound on its own, grouped by category, with preview.",
+      "details": "First release.\n\n- Set the volume of each League client sound on its own\n- About 400 sounds grouped by category, with search\n- Preview any sound, click again to stop\n\nExtract the `sfx-volume` folder into your Pengu Loader `plugins` folder and restart the client.",
+      "repo": "https://github.com/Ku-Tadao/pengu-sound-volumes",
+      "releaseUrl": "https://github.com/Ku-Tadao/pengu-sound-volumes/releases/tag/v1.0.0",
+      "releaseTag": "v1.0.0",
+      "releaseName": "v1.0.0",
+      "image": "https://raw.githubusercontent.com/Ku-Tadao/pengu-sound-volumes/main/screenshots/preview.png",
+      "author": {
+        "name": "Ku-Tadao",
+        "avatar": "https://avatars.githubusercontent.com/u/29869255?v=4",
+        "github": "Ku-Tadao"
+      },
+      "tags": [
+        "Utility"
+      ],
+      "discordUrl": "https://discord.com/channels/1069483280438673418/1569381219748028589/1569381219748028589",
+      "upvotes": 4,
+      "updatedAt": "2026-11-09T15:58:22Z",
+      "assets": [
+        {
+          "name": "sound-volumes.zip",
+          "size": 6739,
+          "downloadUrl": "https://github.com/Ku-Tadao/pengu-sound-volumes/releases/download/v1.0.0/sound-volumes.zip",
+          "contentType": "application/zip"
+        }
+      ],
+      "enriched": true
+    },
+    {
+      "id": "1569379193530093793",
+      "kind": "themes",
+      "name": "📌 How to submit a theme",
+      "description": "No description provided.",
+      "repo": "https://github.com/you/your-plugin%60",
+      "image": "https://media.discordapp.net/attachments/1569379193530093793/1569379193899323524/cover.webp?ex=6af33dc5&is=6af1ec45&hm=8d267db00c4091ee425da082c230b1ef27932301a3cdb7b1ef8982345cbad002&",
+      "author": {
+        "name": "PenguBot"
+      },
+      "tags": [],
+      "discordUrl": "https://discord.com/channels/1069483280438673418/1569379193530093793/1569379193530093793",
+      "upvotes": 0,
+      "updatedAt": "2026-11-09T15:52:37.393Z",
+      "assets": [],
+      "enriched": true
+    },
+    {
+      "id": "1569379189608677623",
+      "kind": "plugins",
+      "name": "📌 How to submit a plugin",
+      "description": "No description provided.",
+      "repo": "https://github.com/you/your-plugin%60",
+      "image": "https://media.discordapp.net/attachments/1569379189608677623/1569379189805555732/cover.webp?ex=6af33dc4&is=6af1ec44&hm=4a5bf3976b590f9c34cd017940608ed784948f3cd36e75fc01df6b84531494f1&",
+      "author": {
+        "name": "PenguBot"
+      },
+      "tags": [],
+      "discordUrl": "https://discord.com/channels/1069483280438673418/1569379189608677623/1569379189608677623",
+      "upvotes": 0,
+      "updatedAt": "2026-11-09T15:52:36.458Z",
+      "assets": [],
+      "enriched": true
+    },
+    {
       "id": "1563456744464584835",
       "kind": "themes",
       "name": "League, reimagined.",
@@ -26,7 +124,7 @@
       },
       "tags": [],
       "discordUrl": "https://discord.com/channels/1069483280438673418/1563456744464584835/1563456744464584835",
-      "upvotes": 13,
+      "upvotes": 14,
       "updatedAt": "2026-10-29T08:19:58.912Z",
       "assets": [],
       "enriched": true
@@ -73,27 +171,6 @@
           "contentType": "application/x-bat"
         }
       ],
-      "enriched": true
-    },
-    {
-      "id": "1564738865095245884",
-      "kind": "themes",
-      "name": "Cyberpunk Client Theme",
-      "description": "No description provided.",
-      "author": {
-        "name": "Korbax"
-      },
-      "tags": [
-        "Customizable",
-        "Fiction",
-        "Animated",
-        "Game",
-        "Sound"
-      ],
-      "discordUrl": "https://discord.com/channels/1069483280438673418/1564738865095245884/1564738865095245884",
-      "upvotes": 3,
-      "updatedAt": "2026-10-27T20:33:36.881Z",
-      "assets": [],
       "enriched": true
     },
     {
@@ -606,7 +683,7 @@
       "name": "Minimalist Debloat Theme",
       "description": "No description provided.",
       "author": {
-        "name": "莫嘎 | Moga"
+        "name": "莫嘎 | Moga1"
       },
       "tags": [
         "Customizable",
@@ -786,7 +863,7 @@
       "name": "CursorPack PenguLoader",
       "description": "No description provided.",
       "author": {
-        "name": "Natty"
+        "name": "Fear"
       },
       "tags": [
         "Fun"
@@ -893,7 +970,7 @@
       "name": "Lock your League of Legends client with a 4-digit PIN code",
       "description": "No description provided.",
       "author": {
-        "name": "Natty"
+        "name": "Fear"
       },
       "tags": [
         "Utility",
@@ -928,7 +1005,7 @@
       "name": "Hide Nonsense",
       "description": "No description provided.",
       "author": {
-        "name": "莫嘎 | Moga"
+        "name": "莫嘎 | Moga1"
       },
       "tags": [
         "Misc",
@@ -1010,23 +1087,6 @@
       "discordUrl": "https://discord.com/channels/1069483280438673418/1127199847901052979/1127199847901052979",
       "upvotes": 18,
       "updatedAt": "2026-02-08T03:59:08.179Z",
-      "assets": [],
-      "enriched": true
-    },
-    {
-      "id": "1468009747780210791",
-      "kind": "plugins",
-      "name": "Blue Essence Icon Swapper",
-      "description": "No description provided.",
-      "author": {
-        "name": "Ilkay"
-      },
-      "tags": [
-        "Misc"
-      ],
-      "discordUrl": "https://discord.com/channels/1069483280438673418/1468009747780210791/1468009747780210791",
-      "upvotes": 3,
-      "updatedAt": "2026-02-02T22:26:38.173Z",
       "assets": [],
       "enriched": true
     },
@@ -1210,23 +1270,6 @@
       "discordUrl": "https://discord.com/channels/1069483280438673418/1165305978187681803/1165305978187681803",
       "upvotes": 10,
       "updatedAt": "2024-05-20T15:58:09.436Z",
-      "assets": [],
-      "enriched": true
-    },
-    {
-      "id": "1212783712681459763",
-      "kind": "plugins",
-      "name": "Most searched plugins list | Cant find a plugin? Try looking here!",
-      "description": "No description provided.",
-      "author": {
-        "name": "unproductive"
-      },
-      "tags": [
-        "Misc"
-      ],
-      "discordUrl": "https://discord.com/channels/1069483280438673418/1212783712681459763/1212783712681459763",
-      "upvotes": 25,
-      "updatedAt": "2024-02-29T15:29:29.535Z",
       "assets": [],
       "enriched": true
     },
