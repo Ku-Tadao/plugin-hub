@@ -1,7 +1,7 @@
 {
   "name": "Pengu Community Store registry",
   "version": 1,
-  "generatedAt": "2026-11-10T03:15:29.526Z",
+  "generatedAt": "2026-11-10T11:30:49.784Z",
   "source": {
     "guildId": "1069483280438673418",
     "forums": [
@@ -17,83 +17,17 @@
   },
   "listings": [
     {
-      "id": "1569393360014151754",
-      "kind": "themes",
-      "name": "Cyberpunk Theme",
-      "description": "Cyberpunk 2077-style theme for the League client, made for Pengu Loader by Korbax (othkourbi). Hosted for him after his GitHub went down.",
-      "details": "Cyberpunk theme by **Korbax** ([othkourbi](https://github.com/othkourbi)), hosted here because his GitHub account is no longer available. All credit goes to Korbax.\n\n**Install:** extract `CyberpunkTheme.zip`, double-click `Install.cmd`, then fully restart the League client. Options are in the client Settings, under the new CustomClient tab.",
-      "repo": "https://github.com/Ku-Tadao/cyberpunk-theme-pengu-loader",
-      "releaseUrl": "https://github.com/Ku-Tadao/cyberpunk-theme-pengu-loader/releases/tag/v1.0.0",
-      "releaseTag": "v1.0.0",
-      "releaseName": "v1.0.0",
-      "image": "https://raw.githubusercontent.com/Ku-Tadao/cyberpunk-theme-pengu-loader/main/screenshots/preview.png",
-      "author": {
-        "name": "Ku-Tadao",
-        "avatar": "https://avatars.githubusercontent.com/u/29869255?v=4",
-        "github": "Ku-Tadao"
-      },
-      "tags": [
-        "Fiction"
-      ],
-      "discordUrl": "https://discord.com/channels/1069483280438673418/1569393360014151754/1569393360014151754",
-      "upvotes": 4,
-      "updatedAt": "2026-11-09T16:43:57Z",
-      "assets": [
-        {
-          "name": "CyberpunkTheme.zip",
-          "size": 14754353,
-          "downloadUrl": "https://github.com/Ku-Tadao/cyberpunk-theme-pengu-loader/releases/download/v1.0.0/CyberpunkTheme.zip",
-          "contentType": "application/zip"
-        }
-      ],
-      "enriched": true
-    },
-    {
-      "id": "1569381219748028589",
-      "kind": "plugins",
-      "name": "Sound Volumes",
-      "description": "Pengu Loader plugin: set the volume of each League client sound on its own, grouped by category, with preview.",
-      "details": "First release.\n\n- Set the volume of each League client sound on its own\n- About 400 sounds grouped by category, with search\n- Preview any sound, click again to stop\n\nExtract the `sfx-volume` folder into your Pengu Loader `plugins` folder and restart the client.",
-      "repo": "https://github.com/Ku-Tadao/pengu-sound-volumes",
-      "releaseUrl": "https://github.com/Ku-Tadao/pengu-sound-volumes/releases/tag/v1.0.0",
-      "releaseTag": "v1.0.0",
-      "releaseName": "v1.0.0",
-      "image": "https://raw.githubusercontent.com/Ku-Tadao/pengu-sound-volumes/main/screenshots/preview.png",
-      "author": {
-        "name": "Ku-Tadao",
-        "avatar": "https://avatars.githubusercontent.com/u/29869255?v=4",
-        "github": "Ku-Tadao"
-      },
-      "tags": [
-        "Utility"
-      ],
-      "discordUrl": "https://discord.com/channels/1069483280438673418/1569381219748028589/1569381219748028589",
-      "upvotes": 4,
-      "updatedAt": "2026-11-09T15:58:22Z",
-      "assets": [
-        {
-          "name": "sound-volumes.zip",
-          "size": 6739,
-          "downloadUrl": "https://github.com/Ku-Tadao/pengu-sound-volumes/releases/download/v1.0.0/sound-volumes.zip",
-          "contentType": "application/zip"
-        }
-      ],
-      "enriched": true
-    },
-    {
       "id": "1569379193530093793",
       "kind": "themes",
       "name": "📌 How to submit a theme",
       "description": "No description provided.",
-      "repo": "https://github.com/you/your-plugin%60",
-      "image": "https://media.discordapp.net/attachments/1569379193530093793/1569379193899323524/cover.webp?ex=6af33dc5&is=6af1ec45&hm=8d267db00c4091ee425da082c230b1ef27932301a3cdb7b1ef8982345cbad002&",
       "author": {
         "name": "PenguBot"
       },
       "tags": [],
       "discordUrl": "https://discord.com/channels/1069483280438673418/1569379193530093793/1569379193530093793",
       "upvotes": 0,
-      "updatedAt": "2026-11-09T15:52:37.393Z",
+      "updatedAt": "2026-11-10T10:41:51.993Z",
       "assets": [],
       "enriched": true
     },
@@ -102,15 +36,47 @@
       "kind": "plugins",
       "name": "📌 How to submit a plugin",
       "description": "No description provided.",
-      "repo": "https://github.com/you/your-plugin%60",
-      "image": "https://media.discordapp.net/attachments/1569379189608677623/1569379189805555732/cover.webp?ex=6af33dc4&is=6af1ec44&hm=4a5bf3976b590f9c34cd017940608ed784948f3cd36e75fc01df6b84531494f1&",
       "author": {
         "name": "PenguBot"
       },
       "tags": [],
       "discordUrl": "https://discord.com/channels/1069483280438673418/1569379189608677623/1569379189608677623",
       "upvotes": 0,
-      "updatedAt": "2026-11-09T15:52:36.458Z",
+      "updatedAt": "2026-11-10T10:41:50.986Z",
+      "assets": [],
+      "enriched": true
+    },
+    {
+      "id": "1569393360014151754",
+      "kind": "themes",
+      "name": "Cyberpunk Theme",
+      "description": "No description provided.",
+      "author": {
+        "name": "PenguBot"
+      },
+      "tags": [
+        "Fiction"
+      ],
+      "discordUrl": "https://discord.com/channels/1069483280438673418/1569393360014151754/1569393360014151754",
+      "upvotes": 4,
+      "updatedAt": "2026-11-09T16:48:55.750Z",
+      "assets": [],
+      "enriched": true
+    },
+    {
+      "id": "1569381219748028589",
+      "kind": "plugins",
+      "name": "Sound Volumes",
+      "description": "No description provided.",
+      "author": {
+        "name": "PenguBot"
+      },
+      "tags": [
+        "Utility"
+      ],
+      "discordUrl": "https://discord.com/channels/1069483280438673418/1569381219748028589/1569381219748028589",
+      "upvotes": 4,
+      "updatedAt": "2026-11-09T16:00:40.794Z",
       "assets": [],
       "enriched": true
     },
@@ -130,143 +96,71 @@
       "enriched": true
     },
     {
-      "id": "1555167364079947807",
-      "kind": "plugins",
-      "name": "Better LOL Chat - Buff your post-game flame",
-      "description": "Improved post-game chat for League of Legends",
-      "details": "- Add autoscroll pause\r\n- Add champion names to honor tooltip\r\n- Restyle compact champion and level display on scoreboard\r\n- General UI enhancements\r\n- Add multilanguage support for removing \"player joined chat\" messages\r\n- Add update dialog\r\n- Installer now includes app name and version in filename\r\n",
-      "repo": "https://github.com/12boost/better-lol-chat",
-      "releaseUrl": "https://github.com/12boost/better-lol-chat/releases/tag/v1.0",
-      "releaseTag": "v1.0",
-      "releaseName": "1.0",
-      "image": "https://github.com/user-attachments/assets/09b0e05e-ba3a-4d89-b7c7-30ef91405036",
-      "author": {
-        "name": "12boost",
-        "avatar": "https://avatars.githubusercontent.com/u/46797526?v=4",
-        "github": "12boost"
-      },
-      "tags": [
-        "Enhancement"
-      ],
-      "discordUrl": "https://discord.com/channels/1069483280438673418/1555167364079947807/1555167364079947807",
-      "upvotes": 12,
-      "updatedAt": "2026-10-29T05:23:02Z",
-      "assets": [
-        {
-          "name": "better-lol-chat.zip",
-          "size": 47879,
-          "downloadUrl": "https://github.com/12boost/better-lol-chat/releases/download/v1.0/better-lol-chat.zip",
-          "contentType": "application/zip"
-        },
-        {
-          "name": "blc-install-1.0.bat",
-          "size": 6401,
-          "downloadUrl": "https://github.com/12boost/better-lol-chat/releases/download/v1.0/blc-install-1.0.bat",
-          "contentType": "application/x-bat"
-        },
-        {
-          "name": "install.bat",
-          "size": 6401,
-          "downloadUrl": "https://github.com/12boost/better-lol-chat/releases/download/v1.0/install.bat",
-          "contentType": "application/x-bat"
-        }
-      ],
-      "enriched": true
-    },
-    {
       "id": "1562045218554118145",
       "kind": "plugins",
       "name": "Better Mode Select",
-      "description": "Responsive League of Legends mode selector for Pengu Loader, with draggable game modes and queues.",
-      "details": "initial release\r\n\r\nhttps://github.com/user-attachments/assets/3538bedf-2e87-4ea2-9641-bae34b233d12\r\n\r\n",
-      "repo": "https://github.com/DeliriumOverdose/Better-Mode-Select",
-      "releaseUrl": "https://github.com/DeliriumOverdose/Better-Mode-Select/releases/tag/1.0.0",
-      "releaseTag": "1.0.0",
-      "releaseName": "1.0.0",
-      "image": "https://opengraph.githubassets.com/pengu/DeliriumOverdose/Better-Mode-Select",
+      "description": "No description provided.",
       "author": {
-        "name": "DeliriumOverdose",
-        "avatar": "https://avatars.githubusercontent.com/u/336825401?v=4",
-        "github": "DeliriumOverdose"
+        "name": "PenguBot"
       },
       "tags": [
         "Utility"
       ],
       "discordUrl": "https://discord.com/channels/1069483280438673418/1562045218554118145/1562045218554118145",
       "upvotes": 4,
-      "updatedAt": "2026-10-20T08:47:57Z",
-      "assets": [
-        {
-          "name": "Better-Mode-Select.js",
-          "size": 24044,
-          "downloadUrl": "https://github.com/DeliriumOverdose/Better-Mode-Select/releases/download/1.0.0/Better-Mode-Select.js",
-          "contentType": "text/javascript"
-        }
-      ],
+      "updatedAt": "2026-10-20T10:10:02.529Z",
+      "assets": [],
       "enriched": true
     },
     {
       "id": "1555528516098068572",
       "kind": "plugins",
       "name": "Hide Classic skins",
-      "description": "Hide classics skins in your collection **fk classic leageu** ᓚᘏᗢ",
-      "details": "",
-      "repo": "https://github.com/DeliriumOverdose/PluginPengu-HideClassicSkins",
-      "releaseUrl": "https://github.com/DeliriumOverdose/PluginPengu-HideClassicSkins/releases/tag/realese",
-      "releaseTag": "realese",
-      "releaseName": "HideClassicSkin",
-      "image": "https://opengraph.githubassets.com/pengu/DeliriumOverdose/PluginPengu-HideClassicSkins",
+      "description": "No description provided.",
       "author": {
-        "name": "DeliriumOverdose",
-        "avatar": "https://avatars.githubusercontent.com/u/336825401?v=4",
-        "github": "DeliriumOverdose"
+        "name": "PenguBot"
       },
       "tags": [
         "Misc"
       ],
       "discordUrl": "https://discord.com/channels/1069483280438673418/1555528516098068572/1555528516098068572",
       "upvotes": 9,
-      "updatedAt": "2026-10-02T10:43:42Z",
-      "assets": [
-        {
-          "name": "Hide-League-Classic-Skins.js",
-          "size": 9790,
-          "downloadUrl": "https://github.com/DeliriumOverdose/PluginPengu-HideClassicSkins/releases/download/realese/Hide-League-Classic-Skins.js",
-          "contentType": "application/x-javascript"
-        }
-      ],
+      "updatedAt": "2026-10-02T10:34:58.888Z",
+      "assets": [],
       "enriched": true
     },
     {
       "id": "1555256927850856583",
       "kind": "plugins",
       "name": "Plain League of Legends Chat",
-      "description": "Plugin by <@615604717820706826",
-      "details": "[Features](https://github.com/tuxedocatsgoated/plain-chat)",
-      "repo": "https://github.com/tuxedocatsgoated/plain-chat",
-      "releaseUrl": "https://github.com/tuxedocatsgoated/plain-chat/releases/tag/plainChat",
-      "releaseTag": "plainChat",
-      "releaseName": "1.0",
-      "image": "https://opengraph.githubassets.com/pengu/tuxedocatsgoated/plain-chat",
+      "description": "No description provided.",
       "author": {
-        "name": "tuxedocatsgoated",
-        "avatar": "https://avatars.githubusercontent.com/u/320782324?v=4",
-        "github": "tuxedocatsgoated"
+        "name": "PenguBot"
       },
       "tags": [
         "Enhancement"
       ],
       "discordUrl": "https://discord.com/channels/1069483280438673418/1555256927850856583/1555256927850856583",
       "upvotes": 5,
-      "updatedAt": "2026-10-01T15:43:47Z",
-      "assets": [
-        {
-          "name": "plainChat.zip",
-          "size": 1974,
-          "downloadUrl": "https://github.com/tuxedocatsgoated/plain-chat/releases/download/plainChat/plainChat.zip",
-          "contentType": "application/x-zip-compressed"
-        }
+      "updatedAt": "2026-10-01T16:35:47.513Z",
+      "assets": [],
+      "enriched": true
+    },
+    {
+      "id": "1555167364079947807",
+      "kind": "plugins",
+      "name": "Better LOL Chat - Buff your post-game flame",
+      "description": "No description provided.",
+      "author": {
+        "name": "PenguBot"
+      },
+      "tags": [
+        "Enhancement"
       ],
+      "discordUrl": "https://discord.com/channels/1069483280438673418/1555167364079947807/1555167364079947807",
+      "upvotes": 12,
+      "updatedAt": "2026-10-01T10:39:53.560Z",
+      "assets": [],
       "enriched": true
     },
     {
