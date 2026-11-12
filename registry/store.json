@@ -1,7 +1,7 @@
 {
   "name": "Pengu Community Store registry",
   "version": 1,
-  "generatedAt": "2026-11-12T10:39:37.411Z",
+  "generatedAt": "2026-11-12T18:41:20.647Z",
   "source": {
     "guildId": "1069483280438673418",
     "forums": [
@@ -16,6 +16,38 @@
     ]
   },
   "listings": [
+    {
+      "id": "1563456744464584835",
+      "kind": "themes",
+      "name": "League, reimagined.",
+      "description": "No description provided.",
+      "author": {
+        "name": "kyso"
+      },
+      "tags": [],
+      "discordUrl": "https://discord.com/channels/1069483280438673418/1563456744464584835/1563456744464584835",
+      "upvotes": 16,
+      "updatedAt": "2026-11-12T15:38:06.415Z",
+      "assets": [],
+      "enriched": true
+    },
+    {
+      "id": "1570433427189272708",
+      "kind": "plugins",
+      "name": "Local Name",
+      "description": "No description provided.",
+      "author": {
+        "name": "PenguBot"
+      },
+      "tags": [
+        "Utility"
+      ],
+      "discordUrl": "https://discord.com/channels/1069483280438673418/1570433427189272708/1570433427189272708",
+      "upvotes": 1,
+      "updatedAt": "2026-11-12T13:41:46.706Z",
+      "assets": [],
+      "enriched": true
+    },
     {
       "id": "1569379193530093793",
       "kind": "themes",
@@ -41,7 +73,7 @@
       },
       "tags": [],
       "discordUrl": "https://discord.com/channels/1069483280438673418/1569379189608677623/1569379189608677623",
-      "upvotes": 1,
+      "upvotes": 2,
       "updatedAt": "2026-11-10T10:41:50.986Z",
       "assets": [],
       "enriched": true
@@ -77,21 +109,6 @@
       "discordUrl": "https://discord.com/channels/1069483280438673418/1569381219748028589/1569381219748028589",
       "upvotes": 4,
       "updatedAt": "2026-11-09T16:00:40.794Z",
-      "assets": [],
-      "enriched": true
-    },
-    {
-      "id": "1563456744464584835",
-      "kind": "themes",
-      "name": "League, reimagined.",
-      "description": "No description provided.",
-      "author": {
-        "name": "kyso"
-      },
-      "tags": [],
-      "discordUrl": "https://discord.com/channels/1069483280438673418/1563456744464584835/1563456744464584835",
-      "upvotes": 16,
-      "updatedAt": "2026-10-29T08:19:58.912Z",
       "assets": [],
       "enriched": true
     },
@@ -963,24 +980,6 @@
       "discordUrl": "https://discord.com/channels/1069483280438673418/1469972117306212639/1469972117306212639",
       "upvotes": 12,
       "updatedAt": "2026-02-09T06:06:51.818Z",
-      "assets": [],
-      "enriched": true
-    },
-    {
-      "id": "1127199847901052979",
-      "kind": "plugins",
-      "name": "Balance buff viewer",
-      "description": "No description provided.",
-      "author": {
-        "name": "Nguyen Duy"
-      },
-      "tags": [
-        "Utility",
-        "Enhancement"
-      ],
-      "discordUrl": "https://discord.com/channels/1069483280438673418/1127199847901052979/1127199847901052979",
-      "upvotes": 18,
-      "updatedAt": "2026-02-08T03:59:08.179Z",
       "assets": [],
       "enriched": true
     },
