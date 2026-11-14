@@ -1,6 +1,6 @@
 name: Pengu Community Store registry
 version: 1
-generatedAt: 2026-11-14T08:37:31.772Z
+generatedAt: 2026-11-14T15:33:52.849Z
 source:
   guildId: "1069483280438673418"
   forums:
@@ -9,6 +9,19 @@ source:
     - kind: themes
       channelId: "1077886317364523072"
 listings:
+  - id: "1571127754898808963"
+    kind: plugins
+    name: Perfectionist Plugins
+    description: No description provided.
+    author:
+      name: PenguBot
+    tags:
+      - Enhancement
+    discordUrl: https://discord.com/channels/1069483280438673418/1571127754898808963/1571127754898808963
+    upvotes: 3
+    updatedAt: 2026-11-14T11:40:47.289Z
+    assets: []
+    enriched: true
   - id: "1563456744464584835"
     kind: themes
     name: League, reimagined.
@@ -17,7 +30,7 @@ listings:
       name: kyso
     tags: []
     discordUrl: https://discord.com/channels/1069483280438673418/1563456744464584835/1563456744464584835
-    upvotes: 17
+    upvotes: 18
     updatedAt: 2026-11-12T15:38:06.415Z
     assets: []
     enriched: true
@@ -67,7 +80,7 @@ listings:
     tags:
       - Fiction
     discordUrl: https://discord.com/channels/1069483280438673418/1569393360014151754/1569393360014151754
-    upvotes: 5
+    upvotes: 6
     updatedAt: 2026-11-09T16:48:55.750Z
     assets: []
     enriched: true
@@ -750,22 +763,6 @@ listings:
     discordUrl: https://discord.com/channels/1069483280438673418/1476062717579231385/1476062717579231385
     upvotes: 8
     updatedAt: 2026-02-25T03:46:15.790Z
-    assets: []
-    enriched: true
-  - id: "1469972117306212639"
-    kind: plugins
-    name: Taric48
-    description: No description provided.
-    author:
-      name: Muhteşemm
-    tags:
-      - Utility
-      - Misc
-      - Fun
-      - Enhancement
-    discordUrl: https://discord.com/channels/1069483280438673418/1469972117306212639/1469972117306212639
-    upvotes: 12
-    updatedAt: 2026-02-09T06:06:51.818Z
     assets: []
     enriched: true
   - id: "1413095170475560960"
