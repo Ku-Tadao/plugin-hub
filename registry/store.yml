@@ -1,6 +1,6 @@
 name: Pengu Community Store registry
 version: 1
-generatedAt: 2026-11-15T06:56:44.093Z
+generatedAt: 2026-11-15T14:34:32.643Z
 source:
   guildId: "1069483280438673418"
   forums:
@@ -9,6 +9,47 @@ source:
     - kind: themes
       channelId: "1077886317364523072"
 listings:
+  - id: "1571518643056021635"
+    kind: plugins
+    name: SkinVault
+    description: No description provided.
+    author:
+      name: PenguBot
+    tags:
+      - Misc
+    discordUrl: https://discord.com/channels/1069483280438673418/1571518643056021635/1571518643056021635
+    upvotes: 1
+    updatedAt: 2026-11-15T13:34:02.168Z
+    assets: []
+    enriched: true
+  - id: "1571518522990002339"
+    kind: plugins
+    name: Rank Spoofer
+    description: No description provided.
+    author:
+      name: PenguBot
+    tags:
+      - Fun
+    discordUrl: https://discord.com/channels/1069483280438673418/1571518522990002339/1571518522990002339
+    upvotes: 0
+    updatedAt: 2026-11-15T13:33:33.553Z
+    assets: []
+    enriched: true
+  - id: "1475139802482479317"
+    kind: plugins
+    name: 🩺 Mayhem Doctor
+    description: No description provided.
+    author:
+      name: SnoozeFest＜(´⌯ ̫⌯`)＞
+    tags:
+      - Utility
+      - Misc
+      - Enhancement
+    discordUrl: https://discord.com/channels/1069483280438673418/1475139802482479317/1475139802482479317
+    upvotes: 13
+    updatedAt: 2026-11-15T07:47:12.407Z
+    assets: []
+    enriched: true
   - id: "1563456744464584835"
     kind: themes
     name: League, reimagined.
@@ -17,7 +58,7 @@ listings:
       name: kyso
     tags: []
     discordUrl: https://discord.com/channels/1069483280438673418/1563456744464584835/1563456744464584835
-    upvotes: 18
+    upvotes: 19
     updatedAt: 2026-11-15T01:32:37.997Z
     assets: []
     enriched: true
@@ -30,7 +71,7 @@ listings:
     tags:
       - Enhancement
     discordUrl: https://discord.com/channels/1069483280438673418/1571127754898808963/1571127754898808963
-    upvotes: 3
+    upvotes: 4
     updatedAt: 2026-11-14T11:40:47.289Z
     assets: []
     enriched: true
@@ -248,21 +289,6 @@ listings:
     discordUrl: https://discord.com/channels/1069483280438673418/1540748164628480040/1540748164628480040
     upvotes: 1
     updatedAt: 2026-08-22T15:43:08.164Z
-    assets: []
-    enriched: true
-  - id: "1475139802482479317"
-    kind: plugins
-    name: 🩺 Mayhem Doctor
-    description: No description provided.
-    author:
-      name: SnoozeFest＜(´⌯ ̫⌯`)＞
-    tags:
-      - Utility
-      - Misc
-      - Enhancement
-    discordUrl: https://discord.com/channels/1069483280438673418/1475139802482479317/1475139802482479317
-    upvotes: 13
-    updatedAt: 2026-08-08T15:05:28.422Z
     assets: []
     enriched: true
   - id: "1458822729414217954"
@@ -736,33 +762,6 @@ listings:
     discordUrl: https://discord.com/channels/1069483280438673418/1395902555095171225/1395902555095171225
     upvotes: 5
     updatedAt: 2026-03-10T12:56:42.912Z
-    assets: []
-    enriched: true
-  - id: "1476888210436001904"
-    kind: plugins
-    name: HideChampName
-    description: No description provided.
-    author:
-      name: elisita
-    tags:
-      - Misc
-    discordUrl: https://discord.com/channels/1069483280438673418/1476888210436001904/1476888210436001904
-    upvotes: 4
-    updatedAt: 2026-02-27T10:29:15.628Z
-    assets: []
-    enriched: true
-  - id: "1476062717579231385"
-    kind: plugins
-    name: MCP Server
-    description: No description provided.
-    author:
-      name: ☔
-    tags:
-      - Utility
-      - Misc
-    discordUrl: https://discord.com/channels/1069483280438673418/1476062717579231385/1476062717579231385
-    upvotes: 8
-    updatedAt: 2026-02-25T03:46:15.790Z
     assets: []
     enriched: true
   - id: "1413095170475560960"
