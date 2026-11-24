@@ -1,7 +1,7 @@
 {
   "name": "Pengu Community Store registry",
   "version": 1,
-  "generatedAt": "2026-11-23T14:01:20.035Z",
+  "generatedAt": "2026-11-24T01:46:45.220Z",
   "source": {
     "guildId": "1069483280438673418",
     "forums": [
@@ -16,6 +16,23 @@
     ]
   },
   "listings": [
+    {
+      "id": "1574506726491816031",
+      "kind": "plugins",
+      "name": "Friend Cleaner",
+      "description": "No description provided.",
+      "author": {
+        "name": "PenguBot"
+      },
+      "tags": [
+        "Utility"
+      ],
+      "discordUrl": "https://discord.com/channels/1069483280438673418/1574506726491816031/1574506726491816031",
+      "upvotes": 3,
+      "updatedAt": "2026-11-23T19:27:37.115Z",
+      "assets": [],
+      "enriched": true
+    },
     {
       "id": "1571518643056021635",
       "kind": "plugins",
@@ -825,7 +842,7 @@
       "name": "CursorPack PenguLoader",
       "description": "No description provided.",
       "author": {
-        "name": "ACCOUNT INACTIVE"
+        "name": "Natty"
       },
       "tags": [
         "Fun"
@@ -932,7 +949,7 @@
       "name": "Lock your League of Legends client with a 4-digit PIN code",
       "description": "No description provided.",
       "author": {
-        "name": "ACCOUNT INACTIVE"
+        "name": "Natty"
       },
       "tags": [
         "Utility",
@@ -958,24 +975,6 @@
       "discordUrl": "https://discord.com/channels/1069483280438673418/1477651306167406592/1477651306167406592",
       "upvotes": 8,
       "updatedAt": "2026-03-15T22:32:58.929Z",
-      "assets": [],
-      "enriched": true
-    },
-    {
-      "id": "1395902555095171225",
-      "kind": "plugins",
-      "name": "Hide Nonsense",
-      "description": "No description provided.",
-      "author": {
-        "name": "莫嘎 | Mogai"
-      },
-      "tags": [
-        "Misc",
-        "Enhancement"
-      ],
-      "discordUrl": "https://discord.com/channels/1069483280438673418/1395902555095171225/1395902555095171225",
-      "upvotes": 5,
-      "updatedAt": "2026-03-10T12:56:42.912Z",
       "assets": [],
       "enriched": true
     },
@@ -1248,7 +1247,7 @@
       "name": "GrayscaleV2",
       "description": "No description provided.",
       "author": {
-        "name": "umukni"
+        "name": "NINJA TABI NIDALAY"
       },
       "tags": [],
       "discordUrl": "https://discord.com/channels/1069483280438673418/1166033741186076793/1166033741186076793",
@@ -1281,7 +1280,7 @@
       "name": "Grayscale",
       "description": "No description provided.",
       "author": {
-        "name": "umukni"
+        "name": "NINJA TABI NIDALAY"
       },
       "tags": [],
       "discordUrl": "https://discord.com/channels/1069483280438673418/1161804401598529627/1161804401598529627",
